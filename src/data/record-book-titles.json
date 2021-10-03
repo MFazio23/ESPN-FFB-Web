@@ -1,0 +1,22 @@
+{
+  "mostPointsGame": "Most Points in a Week",
+  "mostPointsSeason": "Most Points in a Season",
+  "mostPointsSeasonWithPlayoffs": "Most Points in a Season",
+  "mostPointsMatchup": "Most Combined Points in a Matchup",
+  "fewestPointsGame": "Fewest Points in a Week",
+  "fewestPointsSeason": "Fewest Points in a Season",
+  "fewestPointsSeasonWithPlayoffs": "Fewest Points in a Season",
+  "fewestPointsMatchup": "Fewest Combined Points in a Matchup",
+  "smallestMarginOfVictory": "Smallest Margin of Victory",
+  "largestMarginOfVictory": "Largest Margin of Victory",
+  "mostPointsAllowed": "Most Points Allowed in a Season",
+  "mostPointsAllowedWithPlayoffs": "Most Points Allowed in a Season",
+  "fewestPointsAllowed": "Fewest Points Allowed in a Season",
+  "fewestPointsAllowedWithPlayoffs": "Fewest Points Allowed in a Season",
+  "longestWinningStreak": "Longest Winning Streak",
+  "longestWinningStreakWithPlayoffs": "Longest Winning Streak",
+  "longestLosingStreak": "Longest Losing Streak",
+  "longestLosingStreakWithPlayoffs": "Longest Losing Streak",
+  "lowestWinningScore": "Lowest Winning Score",
+  "highestLosingScore": "Highest Losing Score"
+}
