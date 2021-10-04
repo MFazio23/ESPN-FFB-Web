@@ -29,7 +29,7 @@ export default function RecordBookItem(props) {
                         <Typography variant="caption">
                             {(category.withPlayoffs ? '+ playoffs' : '')}
                         </Typography>
-                        <RecordItemLarge recordItem={category.records[0]}/>
+                        {/*<RecordItemLarge recordItem={category.records[0]}/>*/}
                     </Stack>
                 </TableCell>
             </TableRow>

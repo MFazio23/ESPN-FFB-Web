@@ -21,12 +21,12 @@ export default function RecordBookMiniList(props) {
                             <TableCell>
                                 <Stack>
                                     <Typography variant="h6">
-                                        {record.recordHolders.map(recordHolder => recordHolder.team.fullName)}
+                                        {record.recordHolders.map(recordHolder => `${recordHolder.team?.fullName} ${(record.recordHolders.length > 1 ? `(${recordHolder.total})` : '')}`).join(" vs. ")}
                                     </Typography>
                                     <Typography variant="body2">
                                         {record.recordHolders.map(recordHolder =>
-                                            recordHolder.team.owners.map(owner => `${owner?.firstName} ${owner?.lastName}`).join(", ")
-                                        )}
+                                            recordHolder.team?.owners.map(owner => `${owner?.firstName} ${owner?.lastName}`).join(", ")
+                                        ).join(" vs. ")}
                                     </Typography>
                                 </Stack>
                             </TableCell>

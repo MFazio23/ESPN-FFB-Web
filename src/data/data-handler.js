@@ -1,17 +1,24 @@
-import matchups from './matchups.json';
 import memberList from './member-list.json';
 import recordBook from './record-book.json';
 import recordBookTitles from './record-book-titles.json';
-import teamList from './team-list.json';
+import teamYearMap from './team-year-map.json';
 
-const fullTeamList = teamList.map(team => ({
-        ...team,
-        owners: team.owners.map(ownerId => memberList.find(m => m.id === ownerId))
-    })
+const fullTeamMap = Object.entries(teamYearMap).reduce((acc, [year, teams]) => ({
+        ...acc,
+        [year]: teams.map(team => ({
+            ...team,
+            owners: team.owners.map(ownerId => memberList.find(m => m.id === ownerId))
+        }))
+    }), {}
 );
 
+const getTeamById = (teamId, record) => {
+    const yearMap = fullTeamMap[record.season?.toString()];
+    return yearMap?.find(team => team.id?.toString() === teamId);
+};
+
 export default {
-    fullTeamList,
+    fullTeamMap,
     recordBook: Object.entries(recordBook).map(([id, records]) => ({
             id,
             title: recordBookTitles[id],
@@ -24,9 +31,8 @@ export default {
                                 teamId,
                                 total,
                                 season: record.season,
-                                year: record.year,
                                 week: record.week,
-                                team: fullTeamList.find(team => team.id.toString() === teamId)
+                                team: getTeamById(teamId, record)
                             }
                         )
                     )
