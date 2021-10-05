@@ -32,8 +32,8 @@
     { "recordHolders": { "15": 53.48 }, "season": 2019, "value": 53.48, "week": 4 },
     { "recordHolders": { "17": 54.0 }, "season": 2010, "value": 54.0, "week": 15 },
     { "recordHolders": { "3": 55.0 }, "season": 2014, "value": 55.0, "week": 3 },
-    { "recordHolders": { "15": 57.0 }, "season": 2015, "value": 57.0, "week": 10 },
-    { "recordHolders": { "12": 57.78 }, "season": 2017, "value": 57.78, "week": 9 }
+    { "recordHolders": { "3": 56.0 }, "season": 2010, "value": 56.0, "week": 15 },
+    { "recordHolders": { "15": 57.0 }, "season": 2015, "value": 57.0, "week": 10 }
   ],
   "fewestPointsMatchup": [
     { "recordHolders": { "3": 56.0, "17": 54.0 }, "season": 2010, "value": 110.0, "week": 15 },
@@ -96,28 +96,28 @@
     { "recordHolders": { "12": 75.0, "9": 187.0 }, "season": 2012, "value": 112.0, "week": 11 }
   ],
   "longestLosingStreak": [
-    { "recordHolders": { "9": 15.0 }, "season": 2017, "value": 15.0 },
-    { "recordHolders": { "10": 12.0 }, "season": 2016, "value": 12.0 },
-    { "recordHolders": { "1": 9.0 }, "season": 2011, "value": 9.0 },
-    { "recordHolders": { "12": 8.0 }, "season": 2011, "value": 8.0 },
-    { "recordHolders": { "11": 8.0 }, "season": 2009, "value": 8.0 },
-    { "recordHolders": { "5": 7.0 }, "season": 2017, "value": 7.0 },
-    { "recordHolders": { "13": 7.0 }, "season": 2018, "value": 7.0 },
-    { "recordHolders": { "17": 5.0 }, "season": 2013, "value": 5.0 },
-    { "recordHolders": { "4": 5.0 }, "season": 2009, "value": 5.0 },
-    { "recordHolders": { "14": 5.0 }, "season": 2010, "value": 5.0 }
+    { "recordHolders": { "17": 14.0 }, "season": 2010, "value": 14.0 },
+    { "recordHolders": { "4": 13.0 }, "season": 2020, "value": 13.0 },
+    { "recordHolders": { "14": 13.0 }, "season": 2015, "value": 13.0 },
+    { "recordHolders": { "15": 11.0 }, "season": 2011, "value": 11.0 },
+    { "recordHolders": { "3": 8.0 }, "season": 2012, "value": 8.0 },
+    { "recordHolders": { "12": 7.0 }, "season": 2018, "value": 7.0 },
+    { "recordHolders": { "9": 6.0 }, "season": 2019, "value": 6.0 },
+    { "recordHolders": { "1": 5.0 }, "season": 2019, "value": 5.0 },
+    { "recordHolders": { "5": 5.0 }, "season": 2015, "value": 5.0 },
+    { "recordHolders": { "13": 5.0 }, "season": 2012, "value": 5.0 }
   ],
   "longestLosingStreakWithPlayoffs": [
-    { "recordHolders": { "9": 18.0 }, "season": 2016, "value": 18.0 },
-    { "recordHolders": { "13": 10.0 }, "season": 2020, "value": 10.0 },
-    { "recordHolders": { "10": 9.0 }, "season": 2013, "value": 9.0 },
-    { "recordHolders": { "11": 9.0 }, "season": 2009, "value": 9.0 },
-    { "recordHolders": { "1": 8.0 }, "season": 2010, "value": 8.0 },
-    { "recordHolders": { "12": 8.0 }, "season": 2011, "value": 8.0 },
-    { "recordHolders": { "17": 7.0 }, "season": 2020, "value": 7.0 },
-    { "recordHolders": { "4": 7.0 }, "season": 2019, "value": 7.0 },
-    { "recordHolders": { "5": 7.0 }, "season": 2017, "value": 7.0 },
-    { "recordHolders": { "3": 6.0 }, "season": 2016, "value": 6.0 }
+    { "recordHolders": { "4": 18.0 }, "season": 2020, "value": 18.0 },
+    { "recordHolders": { "14": 16.0 }, "season": 2015, "value": 16.0 },
+    { "recordHolders": { "15": 13.0 }, "season": 2016, "value": 13.0 },
+    { "recordHolders": { "17": 12.0 }, "season": 2010, "value": 12.0 },
+    { "recordHolders": { "3": 10.0 }, "season": 2018, "value": 10.0 },
+    { "recordHolders": { "12": 10.0 }, "season": 2018, "value": 10.0 },
+    { "recordHolders": { "5": 7.0 }, "season": 2014, "value": 7.0 },
+    { "recordHolders": { "9": 6.0 }, "season": 2019, "value": 6.0 },
+    { "recordHolders": { "1": 5.0 }, "season": 2019, "value": 5.0 },
+    { "recordHolders": { "10": 5.0 }, "season": 2011, "value": 5.0 }
   ],
   "longestWinningStreak": [
     { "recordHolders": { "9": 15.0 }, "season": 2017, "value": 15.0 },
@@ -184,12 +184,12 @@
     { "recordHolders": { "10": 262.62 }, "season": 2019, "value": 262.62, "week": 5 },
     { "recordHolders": { "11": 248.0 }, "season": 2012, "value": 248.0, "week": 16 },
     { "recordHolders": { "14": 247.84 }, "season": 2020, "value": 247.84, "week": 12 },
+    { "recordHolders": { "1": 246.82 }, "season": 2019, "value": 246.82, "week": 5 },
     { "recordHolders": { "10": 244.0 }, "season": 2013, "value": 244.0, "week": 13 },
     { "recordHolders": { "1": 239.38 }, "season": 2018, "value": 239.38, "week": 10 },
     { "recordHolders": { "1": 232.12 }, "season": 2020, "value": 232.12, "week": 2 },
     { "recordHolders": { "10": 230.0 }, "season": 2013, "value": 230.0, "week": 1 },
-    { "recordHolders": { "9": 226.22 }, "season": 2018, "value": 226.22, "week": 12 },
-    { "recordHolders": { "11": 226.0 }, "season": 2012, "value": 226.0, "week": 3 }
+    { "recordHolders": { "9": 226.22 }, "season": 2018, "value": 226.22, "week": 12 }
   ],
   "mostPointsMatchup": [
     { "recordHolders": { "10": 262.62, "1": 246.82 }, "season": 2019, "value": 509.44, "week": 5 },
