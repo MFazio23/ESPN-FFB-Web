@@ -1,67 +1,57 @@
 import * as React from 'react';
-import {Box, Button, List, ListItem, ListItemIcon, ListItemText, SwipeableDrawer} from "@mui/material";
-import InboxIcon from '@mui/icons-material/MoveToInbox';
-import MailIcon from '@mui/icons-material/Mail';
+import {Box, List, ListItem, ListItemIcon, ListItemText, SwipeableDrawer} from "@mui/material";
+import {NavLink} from "react-router-dom";
+import {FormatListNumbered, Home, MenuBook} from "@mui/icons-material";
+import Links from './links';
 
 const links = [
     {
-        text:'A'
+        text: 'Home',
+        url: '',
+        icon: <Home/>
     },
     {
-        text:'B'
+        text: 'Record Book',
+        url: Links.recordBook,
+        icon: <MenuBook/>
     },
     {
-        text:'C'
+        text: 'All-Time Standings',
+        url: Links.standings,
+        icon: <FormatListNumbered/>
     },
 ]
 
-export default function NavDrawer() {
-    const [state, setState] = React.useState({
-        left: false
-    })
-
-    const toggleDrawer = (open) => (event) => {
-        if (
-            event &&
-            event.type === 'keydown' &&
-            (event.key === 'Tab' || event.key === 'Shift')
-        ) {
-            return;
-        }
-
-        setState({...state, left: open});
-    }
-
+export default function NavDrawer(props) {
     const list = () => (
         <Box
-            sx={250}
+            sx={{width: 250}}
             role="presentation"
-            onClick={toggleDrawer(false)}
-            onKeyDown={toggleDrawer(false)}
-        >
-            <List>
-                {links.map((link, index) => (
-                    <ListItem button key={link.text}>
-                        <ListItemIcon>
-                            {index % 2 === 0 ? <InboxIcon /> : <MailIcon />}
-                        </ListItemIcon>
-                        <ListItemText primary={link.text} />
-                    </ListItem>
-                ))}
-            </List>
+            onClick={props.toggleDrawer(false)}
+            onKeyDown={props.toggleDrawer(false)}>
+            <nav>
+                <List>
+                    {links.map((link, index) => (
+                        <ListItem button key={link.text} component={NavLink} to={`${link.url}`}>
+                            <ListItemIcon>
+                                {link.icon}
+                            </ListItemIcon>
+                            <ListItemText primary={link.text}/>
+                        </ListItem>
+                    ))}
+                </List>
+            </nav>
         </Box>
     )
 
     return (
         <React.Fragment key="left">
-            <Button onClick={toggleDrawer(true)}>OPen drawer</Button>
             <SwipeableDrawer
                 anchor='left'
-                open={state['left']}
-                onClose={toggleDrawer(false)}
-                onOpen={toggleDrawer(true)}
-            >
-                {list}
+                open={props.isDrawerOpen}
+                onClose={props.toggleDrawer(false)}
+                onOpen={props.toggleDrawer(true)}>
+                {list()}
             </SwipeableDrawer>
         </React.Fragment>
     )

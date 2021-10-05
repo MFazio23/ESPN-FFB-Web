@@ -21,7 +21,7 @@ export default {
     fullTeamMap,
     recordBook: Object.entries(recordBook).map(([id, records]) => ({
             id,
-            title: recordBookTitles[id],
+            title: recordBookTitles[id].title,
             records: records.map(record => ({
                 ...record,
                 recordHolders: Object
@@ -37,7 +37,8 @@ export default {
                         )
                     )
             })),
-            withPlayoffs: id.includes("Playoff")
+            withPlayoffs: id.includes("Playoff"),
+            order: recordBookTitles[id].order
         })
-    ),
+    ).sort((a, b) => a > b),
 }

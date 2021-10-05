@@ -1,47 +1,50 @@
-import logo from './logo.svg';
-import Button from '@mui/material/Button';
+import * as React from 'react';
 import './App.css';
 import {
     BrowserRouter as Router,
     Switch,
-    Route,
-    Link
+    Route
 } from "react-router-dom";
 import TopAppBar from "./TopAppBar";
 import NavDrawer from "./NavDrawer";
 import RecordBook from "./record-book/RecordBook";
+import Home from "./Home";
+import Links from './links';
 
 export default function App() {
+    const [isDrawerOpen, setDrawerOpen] = React.useState(false);
+
+    const toggleDrawer = (open) => (event) => {
+        if (
+            event &&
+            event.type === 'keydown' &&
+            (event.key === 'Tab' || event.key === 'Shift')
+        ) {
+            return;
+        }
+
+        setDrawerOpen(open)
+    }
+
     return (
         <Router>
-            <TopAppBar />
+            <TopAppBar isDrawerOpen={isDrawerOpen} toggleDrawer={toggleDrawer}/>
             <main className="mainContainer">
-                {/*<nav>
-                    <ul>
-                        <li>
-                            <Link to="/">Home</Link>
-                        </li>
-                        <li>
-                            <Link to="/record-book">Record Book</Link>
-                        </li>
-                        <li>
-                            <Link to="/users">Users</Link>
-                        </li>
-                    </ul>
-                </nav>
-                <NavDrawer />*/}
-
+                <NavDrawer isDrawerOpen={isDrawerOpen} toggleDrawer={toggleDrawer}/>
                 {/* A <Switch> looks through its children <Route>s and
-            renders the first one that matches the current URL. */}
+                    renders the first one that matches the current URL. */}
                 <Switch>
-                    <Route path="/record-book">
-                        <RecordBook />
+                    <Route path={Links.recordBook}>
+                        <RecordBook/>
                     </Route>
-                    <Route path="/users">
-                        <div>USers</div>
+                    <Route path={Links.standings}>
+                        <div>Standings</div>
+                    </Route>
+                    <Route path="/teams">
+                        <div>Teams</div>
                     </Route>
                     <Route path="/">
-                        <RecordBook />
+                        <Home />
                     </Route>
                 </Switch>
             </main>
