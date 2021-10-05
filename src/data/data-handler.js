@@ -17,7 +17,7 @@ const getTeamById = (teamId, record) => {
     return yearMap?.find(team => team.id?.toString() === teamId);
 };
 
-export default {
+const DataHandler = {
     fullTeamMap,
     recordBook: Object.entries(recordBook).map(([id, records]) => ({
             id,
@@ -41,4 +41,6 @@ export default {
             order: recordBookTitles[id].order
         })
     ).sort((a, b) => a > b),
-}
+};
+
+export default DataHandler;

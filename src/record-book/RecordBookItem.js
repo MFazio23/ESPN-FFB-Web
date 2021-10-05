@@ -2,7 +2,6 @@ import * as React from 'react';
 import {Collapse, IconButton, Stack, TableCell, TableRow, Typography} from "@mui/material";
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
-import RecordItemLarge from "./RecordItemLarge";
 import RecordBookMiniList from "./RecordBookMiniList";
 
 export default function RecordBookItem(props) {
