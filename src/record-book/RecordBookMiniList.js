@@ -15,7 +15,7 @@ export default function RecordBookMiniList(props) {
                             <TableCell width={100}>
                                 <Stack>
                                     <Typography variant="h6" align="center" size="small">{record.value.toFixed(2)}</Typography>
-                                    <Typography variant="subtitle" align="center" size="small">{record.season}</Typography>
+                                    <Typography variant="subtitle" align="center" size="small">{`${record.season}${record.week ? ` W${record.week}` : ''}`}</Typography>
                                 </Stack>
                             </TableCell>
                             <TableCell>

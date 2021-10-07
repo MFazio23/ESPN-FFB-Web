@@ -10,6 +10,7 @@ import NavDrawer from "./NavDrawer";
 import RecordBook from "./record-book/RecordBook";
 import Home from "./Home";
 import Links from './links';
+import Standings from "./standings/Standings";
 
 export default function App() {
     const [isDrawerOpen, setDrawerOpen] = React.useState(false);
@@ -38,7 +39,7 @@ export default function App() {
                         <RecordBook/>
                     </Route>
                     <Route path={Links.standings}>
-                        <div>Standings</div>
+                        <Standings />
                     </Route>
                     <Route path="/teams">
                         <div>Teams</div>
