@@ -1,9 +1,33 @@
-import memberList from './member-list.json';
-import recordBook from './record-book.json';
-import recordBookTitles from './record-book-titles.json';
-import teamYearMap from './team-year-map.json';
+import memberList from './files/member-list.json';
+import recordBook from './files/record-book.json';
+import recordBookTitles from './files/record-book-titles.json';
+import teamYearMap from './files/team-year-map.json';
 
-const fullTeamMap = Object.entries(teamYearMap).reduce((acc, [year, teams]) => ({
+//type RecordHolder
+
+type RecordBookEntry = {
+    recordHolders: Map<string, number>;
+    season: number;
+    value: number;
+}
+
+type Member = {
+    id: string;
+    firstName: string;
+    lastName: string;
+    displayName: string;
+}
+
+type Team = {
+    id: number,
+    fullName: string,
+    location: string,
+    nickname: string,
+    shortName: string,
+    owners: Array<Member>
+}
+
+const fullTeamMap: Map<string, Team> = Object.entries(teamYearMap).reduce((acc, [year, teams]) => ({
         ...acc,
         [year]: teams.map(team => ({
             ...team,
@@ -12,7 +36,7 @@ const fullTeamMap = Object.entries(teamYearMap).reduce((acc, [year, teams]) => (
     }), {}
 );
 
-const getTeamById = (teamId, record) => {
+const getTeamById = (teamId: number, record: RecordBookEntry) => {
     const yearMap = fullTeamMap[record.season?.toString()];
     return yearMap?.find(team => team.id?.toString() === teamId);
 };
