@@ -1,70 +1,60 @@
-import memberList from './files/member-list.json';
-import recordBook from './files/record-book.json';
-import recordBookTitles from './files/record-book-titles.json';
-import teamYearMap from './files/team-year-map.json';
+import {JsonTeam, teamFromJson, Team} from "../types/Team";
+import {Member} from "../types/Member";
+import { TSMap } from "typescript-map"
+import {
+    recordBookEntryFromJson,
+    RecordBookRecordJson,
+    RecordBookEntry
+} from "../record-book/types/RecordBookRecord";
 
-//type RecordHolder
+import teamYearMapJson from './files/team-year-map.json';
+import recordBookJson from './files/record-book.json'
+import recordBookTitlesJson from './files/record-book-titles.json';
+import {RecordBookTitle} from "../record-book/types/RecordBookTitle";
 
-type RecordBookEntry = {
-    recordHolders: Map<string, number>;
-    season: number;
-    value: number;
-}
+const memberList: Array<Member> = require('./files/member-list.json');
 
-type Member = {
-    id: string;
-    firstName: string;
-    lastName: string;
-    displayName: string;
-}
+const teamYearMap = new TSMap<string, Array<Team>>().fromJSON(teamYearMapJson);
+const recordBookMap = new TSMap<string, Array<RecordBookRecordJson>>().fromJSON(recordBookJson);
+const recordBookTitles = new TSMap<string, RecordBookTitle>().fromJSON(recordBookTitlesJson);
 
-type Team = {
-    id: number,
-    fullName: string,
-    location: string,
-    nickname: string,
-    shortName: string,
-    owners: Array<Member>
-}
+const recordBook: Array<RecordBookEntry> = recordBookMap.map((jsonRecords, id, index) => {
 
-const fullTeamMap: Map<string, Team> = Object.entries(teamYearMap).reduce((acc, [year, teams]) => ({
-        ...acc,
-        [year]: teams.map(team => ({
-            ...team,
-            owners: team.owners.map(ownerId => memberList.find(m => m.id === ownerId))
-        }))
-    }), {}
-);
+    if (!id) return {}
 
-const getTeamById = (teamId: number, record: RecordBookEntry) => {
-    const yearMap = fullTeamMap[record.season?.toString()];
-    return yearMap?.find(team => team.id?.toString() === teamId);
-};
+    return {
+        id,
+        title: recordBookTitles.get(id)?.title ?? "N/A",
+        withPlayoffs: id.includes("Playoff"),
+        order: recordBookTitles.get(id)?.order ?? 100,
+        records: []
+    }
+})
+
+/*const recordBook = new Array<RecordBookEntry>();
+
+recordBookJson.forEach((jsonRecords, id) => {
+
+    const records = jsonRecords.map((record, index) =>
+        recordBookEntryFromJson(record, teamYearMap)
+    );
+
+    recordBook.push(
+        {
+            id,
+            title: recordBookTitles.get(id)?.title ?? "N/A",
+            withPlayoffs: id.includes("Playoff"),
+            order: recordBookTitles.get(id)?.order ?? 100,
+            records
+        }
+    )
+});
+
+recordBook.sort((entryA, entryB) => entryA.order - entryB.order);*/
 
 const DataHandler = {
-    fullTeamMap,
-    recordBook: Object.entries(recordBook).map(([id, records]) => ({
-            id,
-            title: recordBookTitles[id].title,
-            records: records.map(record => ({
-                ...record,
-                recordHolders: Object
-                    .entries(record.recordHolders)
-                    .map(([teamId, total]) => (
-                            {
-                                teamId,
-                                total,
-                                season: record.season,
-                                week: record.week,
-                                team: getTeamById(teamId, record)
-                            }
-                        )
-                    )
-            })),
-            withPlayoffs: id.includes("Playoff"),
-            order: recordBookTitles[id].order
-        })
-    ).sort((a, b) => a > b),
+    teamYearMap,
+    recordBook
 };
 
 export default DataHandler;
