@@ -5,6 +5,7 @@ import {TSMap} from "typescript-map";
 type RecordBookRecord = {
     recordHolders: TSMap<string, RecordBookEntryTeam>;
     season: number;
+    week: number;
     value: number;
 }
 

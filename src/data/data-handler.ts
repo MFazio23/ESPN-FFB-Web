@@ -1,4 +1,4 @@
-import {JsonTeam, teamFromJson, Team, getMembersFromOwnerIds} from "../types/Team";
+import {JsonTeam, Team, getMembersFromOwnerIds} from "../types/Team";
 import {Member} from "../types/Member";
 import {TSMap} from "typescript-map"
 import {RecordBookRecordJson} from "../record-book/types/RecordBookRecord";
@@ -47,27 +47,6 @@ const recordBook: Array<RecordBookEntry> = recordBookMap.map((jsonRecords, id, i
         records: jsonRecords.map(jsonRecord => recordBookEntryFromJson(jsonRecord, teamYearMap))
     }
 })
-
-/*const recordBook = new Array<RecordBookEntry>();
-
-recordBookJson.forEach((jsonRecords, id) => {
-
-    const records = jsonRecords.map((record, index) =>
-        recordBookEntryFromJson(record, teamYearMap)
-    );
-
-    recordBook.push(
-        {
-            id,
-            title: recordBookTitles.get(id)?.title ?? "N/A",
-            withPlayoffs: id.includes("Playoff"),
-            order: recordBookTitles.get(id)?.order ?? 100,
-            records
-        }
-    )
-});
-
-recordBook.sort((entryA, entryB) => entryA.order - entryB.order);*/
 
 console.table(recordBook)
 
