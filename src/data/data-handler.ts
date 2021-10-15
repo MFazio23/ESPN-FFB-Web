@@ -1,16 +1,13 @@
 import {JsonTeam, teamFromJson, Team} from "../types/Team";
 import {Member} from "../types/Member";
-import { TSMap } from "typescript-map"
-import {
-    recordBookEntryFromJson,
-    RecordBookRecordJson,
-    RecordBookEntry
-} from "../record-book/types/RecordBookRecord";
+import {TSMap} from "typescript-map"
+import {RecordBookRecordJson} from "../record-book/types/RecordBookRecord";
+import {RecordBookTitle} from "../record-book/types/RecordBookTitle";
+import {RecordBookEntry, recordBookEntryFromJson} from "../record-book/types/RecordBookEntry";
 
 import teamYearMapJson from './files/team-year-map.json';
 import recordBookJson from './files/record-book.json'
 import recordBookTitlesJson from './files/record-book-titles.json';
-import {RecordBookTitle} from "../record-book/types/RecordBookTitle";
 
 const memberList: Array<Member> = require('./files/member-list.json');
 
@@ -27,7 +24,7 @@ const recordBook: Array<RecordBookEntry> = recordBookMap.map((jsonRecords, id, i
         title: recordBookTitles.get(id)?.title ?? "N/A",
         withPlayoffs: id.includes("Playoff"),
         order: recordBookTitles.get(id)?.order ?? 100,
-        records: []
+        records: jsonRecords.map(jsonRecord => recordBookEntryFromJson(jsonRecord, teamYearMap))
     }
 })
 
@@ -51,6 +48,8 @@ recordBookJson.forEach((jsonRecords, id) => {
 });
 
 recordBook.sort((entryA, entryB) => entryA.order - entryB.order);*/
+
+console.table(recordBook)
 
 const DataHandler = {
     teamYearMap,

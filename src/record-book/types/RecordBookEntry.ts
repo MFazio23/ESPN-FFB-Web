@@ -1,5 +1,6 @@
 import {getRecordHoldersFromJson, RecordBookRecord, RecordBookRecordJson} from "./RecordBookRecord";
 import {Team} from "../../types/Team";
+import {TSMap} from "typescript-map";
 
 type RecordBookEntry = {
     id: string,
@@ -17,7 +18,7 @@ type RecordBookEntryTeam = {
     team: Team
 }
 
-function recordBookEntryFromJson(json: RecordBookRecordJson, teamMap: Map<string, Array<Team>>): RecordBookRecord {
+function recordBookEntryFromJson(json: RecordBookRecordJson, teamMap: TSMap<string, Array<Team>>): RecordBookRecord {
     return {
         recordHolders: getRecordHoldersFromJson(json, json.recordHolders, teamMap),
         season: json.season,
