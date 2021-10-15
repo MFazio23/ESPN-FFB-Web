@@ -1,4 +1,4 @@
-import {defaultTeam, Team} from "../../types/Team";
+import {defaultTeam, JsonTeam, Team} from "../../types/Team";
 import {RecordBookEntryTeam} from "./RecordBookEntry";
 import {TSMap} from "typescript-map";
 
@@ -17,6 +17,7 @@ type RecordBookRecordJson = {
 
 const getTeamById = (teamId: number, record: RecordBookRecordJson, teamMap: TSMap<string, Array<Team>>) => {
     const yearMap = teamMap.get(record.season?.toString());
+
     return yearMap?.find(team => team.id === teamId);
 };
 
@@ -25,8 +26,6 @@ function getRecordHoldersFromJson(
     recordHolders: TSMap<string, number>,
     teamMap: TSMap<string, Array<Team>>
 ): TSMap<string, RecordBookEntryTeam> {
-
-    console.log("RecordHolderMap", recordHolders.map);
 
     const recordHolderList = recordHolders.map((total, teamId) => {
         if (!teamId) return null

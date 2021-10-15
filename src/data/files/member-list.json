@@ -135,14 +135,6 @@
         "displayName": "nickkwiecien",
         "firstName": "Nick ",
         "id": "FAA9326C-D141-4711-A932-6CD1413711B9",
-        "lastName": "Kwiecien",
-        "notificationSettings": [
-            { "enabled": true, "id": "ec70d401-9ec6-4127-b9d2-908e67f68494", "type": "DRAFT" },
-            { "enabled": true, "id": "d707afd7-2f08-4c0a-9553-423bcc295fea", "type": "TEAM_TRADE_OFFER" },
-            { "enabled": true, "id": "e440ff15-c7cf-4442-940d-3455cb3191bd", "type": "TEAM_PLAYER_STARTBENCH" },
-            { "enabled": true, "id": "942fbfdd-d269-468c-a04a-51162eb74a2c", "type": "TEAM_PLAYER_INJURY" },
-            { "enabled": true, "id": "dd201769-bec2-460a-91f7-a865eb69636d", "type": "TEAM_PLAYER_AVAILABILITY" },
-            { "enabled": true, "id": "3f9af96d-a69a-415b-a828-cca6c88b1dc9", "type": "TEAM_PLAYER_NEWS" }
-        ]
+        "lastName": "Kwiecien"
     }
 ]

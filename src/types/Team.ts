@@ -45,8 +45,15 @@ function teamFromJson(jsonTeam: JsonTeam, members: Array<Member>): Team {
     }
 }
 
+const getMembersFromOwnerIds = (jsonTeam: JsonTeam, memberArray: Array<Member>): Member[] =>
+    jsonTeam
+        .owners
+        .map(ownerId => memberArray.find(member => member.id === ownerId) || null)
+        .filter((member): member is Member => !!member)
+
 export {
     teamFromJson,
+    getMembersFromOwnerIds,
     defaultTeam
 }
 

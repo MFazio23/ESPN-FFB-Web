@@ -1,7 +1,7 @@
 import * as React from "react";
 import {Paper, Stack, Table, TableBody, TableCell, TableContainer, TableRow, Typography} from "@mui/material";
 
-const getRecordKey = (record) => `${record.season}-${record.week}-${record.recordHolders[0].teamId}`;
+const getRecordKey = (record) => `${record.season}-${record.week}-${record.recordHolders[0]?.teamId}`;
 
 export default function RecordBookMiniList(props) {
     const records = props.records;
@@ -14,8 +14,10 @@ export default function RecordBookMiniList(props) {
                         <TableRow key={getRecordKey(record)}>
                             <TableCell width={100}>
                                 <Stack>
-                                    <Typography variant="h6" align="center" size="small">{record.value.toFixed(2)}</Typography>
-                                    <Typography variant="subtitle" align="center" size="small">{`${record.season}${record.week ? ` W${record.week}` : ''}`}</Typography>
+                                    <Typography variant="h6" align="center"
+                                                size="small">{record.value.toFixed(2)}</Typography>
+                                    <Typography variant="subtitle" align="center"
+                                                size="small">{`${record.season}${record.week ? ` W${record.week}` : ''}`}</Typography>
                                 </Stack>
                             </TableCell>
                             <TableCell>

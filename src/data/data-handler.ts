@@ -1,4 +1,4 @@
-import {JsonTeam, teamFromJson, Team} from "../types/Team";
+import {JsonTeam, teamFromJson, Team, getMembersFromOwnerIds} from "../types/Team";
 import {Member} from "../types/Member";
 import {TSMap} from "typescript-map"
 import {RecordBookRecordJson} from "../record-book/types/RecordBookRecord";
@@ -11,9 +11,29 @@ import recordBookTitlesJson from './files/record-book-titles.json';
 
 const memberList: Array<Member> = require('./files/member-list.json');
 
-const teamYearMap = new TSMap<string, Array<Team>>().fromJSON(teamYearMapJson);
 const recordBookMap = new TSMap<string, Array<RecordBookRecordJson>>().fromJSON(recordBookJson);
 const recordBookTitles = new TSMap<string, RecordBookTitle>().fromJSON(recordBookTitlesJson);
+
+const jsonTeamYearMap = new TSMap<string, Array<JsonTeam>>().fromJSON(teamYearMapJson);
+const teamYearMap = new TSMap<string, Array<Team>>(
+    jsonTeamYearMap.map((jsonTeams, year) => {
+            if (!year) return null;
+
+            const teams: Array<Team> = jsonTeams.map(
+                jsonTeam => ({
+                    id: jsonTeam.id,
+                    fullName: jsonTeam.fullName,
+                    location: jsonTeam.location,
+                    nickname: jsonTeam.nickname,
+                    shortName: jsonTeam.shortName,
+                    owners: getMembersFromOwnerIds(jsonTeam, memberList)
+                })
+            );
+
+            return [year, teams]
+        }
+    )
+)
 
 const recordBook: Array<RecordBookEntry> = recordBookMap.map((jsonRecords, id, index) => {
 
