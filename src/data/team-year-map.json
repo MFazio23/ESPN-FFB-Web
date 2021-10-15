@@ -6,7 +6,8 @@
             "location": "Vivian",
             "nickname": "Lopez",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "1CADD14C-2060-4856-BC7D-02C46D863D28"],
-            "shortName": "VIV"
+            "shortName": "VIV",
+            "year": 2009
         },
         {
             "fullName": "Wayne, NJ Dipstick Jimmys",
@@ -14,7 +15,8 @@
             "location": "Wayne, NJ",
             "nickname": "Dipstick Jimmys",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "TWYD"
+            "shortName": "TWYD",
+            "year": 2009
         },
         {
             "fullName": "Waukesha Ochsenfroesche",
@@ -22,7 +24,8 @@
             "location": "Waukesha",
             "nickname": "Ochsenfroesche",
             "owners": ["670ED790-95AB-4CD9-9708-1A997C227D33"],
-            "shortName": "OCHO"
+            "shortName": "OCHO",
+            "year": 2009
         },
         {
             "fullName": "The Milwaukee Singer",
@@ -30,7 +33,8 @@
             "location": "The Milwaukee",
             "nickname": "Singer",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "S"
+            "shortName": "S",
+            "year": 2009
         },
         {
             "fullName": "2 Mannings 1 Cup",
@@ -38,7 +42,8 @@
             "location": "2 Mannings",
             "nickname": "1 Cup",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2009
         },
         {
             "fullName": "Sweatpants Holsters",
@@ -46,7 +51,8 @@
             "location": "Sweatpants",
             "nickname": "Holsters",
             "owners": ["36294745-6024-4E2A-9998-21A15B816B5F"],
-            "shortName": "PLAX"
+            "shortName": "PLAX",
+            "year": 2009
         },
         {
             "fullName": "treadhead for life",
@@ -54,7 +60,8 @@
             "location": "treadhead",
             "nickname": "for life",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "TFL"
+            "shortName": "TFL",
+            "year": 2009
         },
         {
             "fullName": "Tucker's Team",
@@ -62,7 +69,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2009
         },
         {
             "fullName": "Lotta Ball Sweat",
@@ -70,7 +78,8 @@
             "location": "Lotta",
             "nickname": "Ball Sweat",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E", "57312B70-8D32-492F-8850-59850386652F"],
-            "shortName": "LBS"
+            "shortName": "LBS",
+            "year": 2009
         },
         {
             "fullName": "KungFu Panda",
@@ -78,7 +87,8 @@
             "location": "KungFu",
             "nickname": "Panda",
             "owners": ["8AEAA731-DCE1-4297-A4FF-2BEDAFB02BD1"],
-            "shortName": "ASN"
+            "shortName": "ASN",
+            "year": 2009
         },
         {
             "fullName": "Essen Gazoontite",
@@ -86,7 +96,8 @@
             "location": "Essen",
             "nickname": "Gazoontite",
             "owners": ["76F57F7A-5670-4B4C-998C-DA5CC903123C"],
-            "shortName": "EG"
+            "shortName": "EG",
+            "year": 2009
         },
         {
             "fullName": "Winning Team Farters",
@@ -94,7 +105,8 @@
             "location": "Winning",
             "nickname": "Team Farters",
             "owners": ["72E2EE97-54D3-4B0E-AF62-BA4C16023157"],
-            "shortName": "WTF"
+            "shortName": "WTF",
+            "year": 2009
         }
     ],
     "2010": [
@@ -104,7 +116,8 @@
             "location": "Silver Fish",
             "nickname": "Hand Catch",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
-            "shortName": "SFHC"
+            "shortName": "SFHC",
+            "year": 2010
         },
         {
             "fullName": "Wayne, NJ Dipstick Jimmys",
@@ -112,7 +125,8 @@
             "location": "Wayne, NJ",
             "nickname": "Dipstick Jimmys",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "TWYD"
+            "shortName": "TWYD",
+            "year": 2010
         },
         {
             "fullName": "Waukesha Ochsenfroesche",
@@ -120,7 +134,8 @@
             "location": "Waukesha",
             "nickname": "Ochsenfroesche",
             "owners": ["670ED790-95AB-4CD9-9708-1A997C227D33"],
-            "shortName": "OCHO"
+            "shortName": "OCHO",
+            "year": 2010
         },
         {
             "fullName": "Delicious Pasta",
@@ -128,7 +143,8 @@
             "location": "Delicious",
             "nickname": "Pasta",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "DP"
+            "shortName": "DP",
+            "year": 2010
         },
         {
             "fullName": "2 Mannings 1 Cup",
@@ -136,7 +152,8 @@
             "location": "2 Mannings",
             "nickname": "1 Cup",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2010
         },
         {
             "fullName": "Naptown Goiters",
@@ -144,7 +161,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2010
         },
         {
             "fullName": "treadhead for life",
@@ -152,7 +170,8 @@
             "location": "treadhead",
             "nickname": "for life",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "TFL"
+            "shortName": "TFL",
+            "year": 2010
         },
         {
             "fullName": "Tucker's Team",
@@ -160,7 +179,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2010
         },
         {
             "fullName": "Lotta Ball Sweat",
@@ -168,7 +188,8 @@
             "location": "Lotta",
             "nickname": "Ball Sweat",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E", "57312B70-8D32-492F-8850-59850386652F"],
-            "shortName": "LBS"
+            "shortName": "LBS",
+            "year": 2010
         },
         {
             "fullName": "No Longer KungFuPanda",
@@ -176,7 +197,8 @@
             "location": "No Longer",
             "nickname": "KungFuPanda",
             "owners": ["1CADD14C-2060-4856-BC7D-02C46D863D28"],
-            "shortName": "XASN"
+            "shortName": "XASN",
+            "year": 2010
         },
         {
             "fullName": "Essen Gazoontite",
@@ -184,7 +206,8 @@
             "location": "Essen",
             "nickname": "Gazoontite",
             "owners": ["76F57F7A-5670-4B4C-998C-DA5CC903123C"],
-            "shortName": "EG"
+            "shortName": "EG",
+            "year": 2010
         },
         {
             "fullName": "Admiral Ackbar's Team",
@@ -192,7 +215,8 @@
             "location": "Admiral",
             "nickname": "Ackbar's Team",
             "owners": ["72E2EE97-54D3-4B0E-AF62-BA4C16023157"],
-            "shortName": "TRAP"
+            "shortName": "TRAP",
+            "year": 2010
         }
     ],
     "2011": [
@@ -202,7 +226,8 @@
             "location": "Not",
             "nickname": "The Hammer",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "CAPT"
+            "shortName": "CAPT",
+            "year": 2011
         },
         {
             "fullName": "Prepare to be Sacked",
@@ -210,7 +235,8 @@
             "location": "Prepare to be",
             "nickname": "Sacked",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "HAWK"
+            "shortName": "HAWK",
+            "year": 2011
         },
         {
             "fullName": "Thats What She Said",
@@ -218,7 +244,8 @@
             "location": "Thats What",
             "nickname": "She Said",
             "owners": ["670ED790-95AB-4CD9-9708-1A997C227D33"],
-            "shortName": "Said"
+            "shortName": "Said",
+            "year": 2011
         },
         {
             "fullName": "Delicious Pasta",
@@ -226,7 +253,8 @@
             "location": "Delicious",
             "nickname": "Pasta",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "DP"
+            "shortName": "DP",
+            "year": 2011
         },
         {
             "fullName": "2 Mannings 1 Cup",
@@ -234,7 +262,8 @@
             "location": "2 Mannings",
             "nickname": "1 Cup",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2011
         },
         {
             "fullName": "Naptown Goiters",
@@ -242,7 +271,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2011
         },
         {
             "fullName": "treadhead for life",
@@ -250,7 +280,8 @@
             "location": "treadhead",
             "nickname": "for life",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "TFL"
+            "shortName": "TFL",
+            "year": 2011
         },
         {
             "fullName": "Tucker's Team",
@@ -258,7 +289,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2011
         },
         {
             "fullName": "Uncooked Box",
@@ -266,7 +298,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2011
         },
         {
             "fullName": "No Longer KungFuPanda",
@@ -274,7 +307,8 @@
             "location": "No Longer",
             "nickname": "KungFuPanda",
             "owners": ["1CADD14C-2060-4856-BC7D-02C46D863D28"],
-            "shortName": "XASN"
+            "shortName": "XASN",
+            "year": 2011
         },
         {
             "fullName": "MKE BLOOOOOOBBBBB!!",
@@ -282,7 +316,8 @@
             "location": "MKE",
             "nickname": "BLOOOOOOBBBBB!!",
             "owners": ["57312B70-8D32-492F-8850-59850386652F"],
-            "shortName": "BLOB"
+            "shortName": "BLOB",
+            "year": 2011
         },
         {
             "fullName": "Violent Rage Quitters",
@@ -290,7 +325,8 @@
             "location": "Violent",
             "nickname": "Rage Quitters",
             "owners": ["72E2EE97-54D3-4B0E-AF62-BA4C16023157"],
-            "shortName": "RAGE"
+            "shortName": "RAGE",
+            "year": 2011
         }
     ],
     "2012": [
@@ -300,7 +336,8 @@
             "location": "Not",
             "nickname": "The Hammer",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "CAPT"
+            "shortName": "CAPT",
+            "year": 2012
         },
         {
             "fullName": "Prepare to be Sacked",
@@ -308,7 +345,8 @@
             "location": "Prepare to be",
             "nickname": "Sacked",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "HAWK"
+            "shortName": "HAWK",
+            "year": 2012
         },
         {
             "fullName": "Thats What She Said",
@@ -316,7 +354,8 @@
             "location": "Thats What",
             "nickname": "She Said",
             "owners": ["670ED790-95AB-4CD9-9708-1A997C227D33"],
-            "shortName": "Said"
+            "shortName": "Said",
+            "year": 2012
         },
         {
             "fullName": "Delicious Pasta",
@@ -324,7 +363,8 @@
             "location": "Delicious",
             "nickname": "Pasta",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "DP"
+            "shortName": "DP",
+            "year": 2012
         },
         {
             "fullName": "2 Mannings 1 Cup",
@@ -332,7 +372,8 @@
             "location": "2 Mannings",
             "nickname": "1 Cup",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2012
         },
         {
             "fullName": "Naptown Goiters",
@@ -340,7 +381,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2012
         },
         {
             "fullName": "MarshallNomNom ForCutlersBalls",
@@ -348,7 +390,8 @@
             "location": "MarshallNomNom",
             "nickname": "ForCutlersBalls",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "NOM"
+            "shortName": "NOM",
+            "year": 2012
         },
         {
             "fullName": "Tucker's Team",
@@ -356,7 +399,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2012
         },
         {
             "fullName": "Uncooked Box",
@@ -364,7 +408,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2012
         },
         {
             "fullName": "Harbaugh's Sputum",
@@ -372,7 +417,8 @@
             "location": "Harbaugh's",
             "nickname": "Sputum",
             "owners": ["1CADD14C-2060-4856-BC7D-02C46D863D28"],
-            "shortName": "SPIT"
+            "shortName": "SPIT",
+            "year": 2012
         },
         {
             "fullName": "MKE BLOOOOOOBBBBB!!",
@@ -380,15 +426,17 @@
             "location": "MKE",
             "nickname": "BLOOOOOOBBBBB!!",
             "owners": ["57312B70-8D32-492F-8850-59850386652F"],
-            "shortName": "BLOB"
+            "shortName": "BLOB",
+            "year": 2012
         },
         {
-            "fullName": "Blind Side  Bombers",
+            "fullName": "Blind Side Bombers",
             "id": 17,
-            "location": "Blind Side ",
+            "location": "Blind Side",
             "nickname": "Bombers",
             "owners": ["72E2EE97-54D3-4B0E-AF62-BA4C16023157"],
-            "shortName": "GAS"
+            "shortName": "GAS",
+            "year": 2012
         }
     ],
     "2013": [
@@ -398,7 +446,8 @@
             "location": "Not",
             "nickname": "The Hammer",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "CAPT"
+            "shortName": "CAPT",
+            "year": 2013
         },
         {
             "fullName": "Prepare to be Sacked",
@@ -406,7 +455,8 @@
             "location": "Prepare to be",
             "nickname": "Sacked",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "HAWK"
+            "shortName": "HAWK",
+            "year": 2013
         },
         {
             "fullName": "Joe Buck Yourself",
@@ -414,7 +464,8 @@
             "location": "Joe Buck",
             "nickname": "Yourself",
             "owners": ["670ED790-95AB-4CD9-9708-1A997C227D33"],
-            "shortName": "Buck"
+            "shortName": "Buck",
+            "year": 2013
         },
         {
             "fullName": "Delicious Pasta",
@@ -422,7 +473,8 @@
             "location": "Delicious",
             "nickname": "Pasta",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "DP"
+            "shortName": "DP",
+            "year": 2013
         },
         {
             "fullName": "2 Mannings 1 Cup",
@@ -430,7 +482,8 @@
             "location": "2 Mannings",
             "nickname": "1 Cup",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2013
         },
         {
             "fullName": "Naptown Goiters",
@@ -438,7 +491,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2013
         },
         {
             "fullName": "MarshallNomNom ForCutlersBalls",
@@ -446,7 +500,8 @@
             "location": "MarshallNomNom",
             "nickname": "ForCutlersBalls",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "NOM"
+            "shortName": "NOM",
+            "year": 2013
         },
         {
             "fullName": "Tucker's Team",
@@ -454,7 +509,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2013
         },
         {
             "fullName": "Uncooked Box",
@@ -462,7 +518,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2013
         },
         {
             "fullName": "Harbaugh's Sputum",
@@ -470,7 +527,8 @@
             "location": "Harbaugh's",
             "nickname": "Sputum",
             "owners": ["1CADD14C-2060-4856-BC7D-02C46D863D28"],
-            "shortName": "SPIT"
+            "shortName": "SPIT",
+            "year": 2013
         },
         {
             "fullName": "MKE BLOOOOOOBBBBB!!",
@@ -478,7 +536,8 @@
             "location": "MKE",
             "nickname": "BLOOOOOOBBBBB!!",
             "owners": ["310C7B23-4C8B-4CC7-8C7B-234C8B7CC782", "57312B70-8D32-492F-8850-59850386652F"],
-            "shortName": "BLOB"
+            "shortName": "BLOB",
+            "year": 2013
         },
         {
             "fullName": "Bye Week Dominators",
@@ -486,7 +545,8 @@
             "location": "Bye Week",
             "nickname": "Dominators",
             "owners": ["72E2EE97-54D3-4B0E-AF62-BA4C16023157"],
-            "shortName": "LOSE"
+            "shortName": "LOSE",
+            "year": 2013
         }
     ],
     "2014": [
@@ -496,7 +556,8 @@
             "location": "Not",
             "nickname": "The Hammer",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "CAPT"
+            "shortName": "CAPT",
+            "year": 2014
         },
         {
             "fullName": "Prepare to be Sacked",
@@ -504,7 +565,8 @@
             "location": "Prepare to be",
             "nickname": "Sacked",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "HAWK"
+            "shortName": "HAWK",
+            "year": 2014
         },
         {
             "fullName": "Joe Buck Yourself",
@@ -512,7 +574,8 @@
             "location": "Joe Buck",
             "nickname": "Yourself",
             "owners": ["670ED790-95AB-4CD9-9708-1A997C227D33"],
-            "shortName": "Buck"
+            "shortName": "Buck",
+            "year": 2014
         },
         {
             "fullName": "Delicious Pasta",
@@ -520,7 +583,8 @@
             "location": "Delicious",
             "nickname": "Pasta",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "DP"
+            "shortName": "DP",
+            "year": 2014
         },
         {
             "fullName": "Manning of Steel",
@@ -528,7 +592,8 @@
             "location": "Manning of",
             "nickname": "Steel",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2014
         },
         {
             "fullName": "Naptown Goiters",
@@ -536,7 +601,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2014
         },
         {
             "fullName": "MarshallNomNom ForCutlersBalls",
@@ -544,7 +610,8 @@
             "location": "MarshallNomNom",
             "nickname": "ForCutlersBalls",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "NOM"
+            "shortName": "NOM",
+            "year": 2014
         },
         {
             "fullName": "Tucker's Team",
@@ -552,7 +619,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2014
         },
         {
             "fullName": "Uncooked Box",
@@ -560,7 +628,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2014
         },
         {
             "fullName": "Harbaugh's Sputum",
@@ -568,7 +637,8 @@
             "location": "Harbaugh's",
             "nickname": "Sputum",
             "owners": ["1CADD14C-2060-4856-BC7D-02C46D863D28"],
-            "shortName": "SPIT"
+            "shortName": "SPIT",
+            "year": 2014
         },
         {
             "fullName": "Shirtcockers Anonymous",
@@ -576,7 +646,8 @@
             "location": "Shirtcockers",
             "nickname": "Anonymous",
             "owners": ["310C7B23-4C8B-4CC7-8C7B-234C8B7CC782", "57312B70-8D32-492F-8850-59850386652F"],
-            "shortName": "SOCK"
+            "shortName": "SOCK",
+            "year": 2014
         },
         {
             "fullName": "Bye Week Dominators",
@@ -584,7 +655,8 @@
             "location": "Bye Week",
             "nickname": "Dominators",
             "owners": ["72E2EE97-54D3-4B0E-AF62-BA4C16023157"],
-            "shortName": "LOSE"
+            "shortName": "LOSE",
+            "year": 2014
         }
     ],
     "2015": [
@@ -594,7 +666,8 @@
             "location": "Not",
             "nickname": "The Hammer",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "CAPT"
+            "shortName": "CAPT",
+            "year": 2015
         },
         {
             "fullName": "Prepare to be Sacked",
@@ -602,7 +675,8 @@
             "location": "Prepare to be",
             "nickname": "Sacked",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "HAWK"
+            "shortName": "HAWK",
+            "year": 2015
         },
         {
             "fullName": "Joe Buck Yourself",
@@ -610,7 +684,8 @@
             "location": "Joe Buck",
             "nickname": "Yourself",
             "owners": ["670ED790-95AB-4CD9-9708-1A997C227D33"],
-            "shortName": "Buck"
+            "shortName": "Buck",
+            "year": 2015
         },
         {
             "fullName": "Delicious Pasta",
@@ -618,7 +693,8 @@
             "location": "Delicious",
             "nickname": "Pasta",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "DP"
+            "shortName": "DP",
+            "year": 2015
         },
         {
             "fullName": "Manning of Steel",
@@ -626,7 +702,8 @@
             "location": "Manning of",
             "nickname": "Steel",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2015
         },
         {
             "fullName": "Naptown Goiters",
@@ -634,7 +711,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2015
         },
         {
             "fullName": "MarshallNomNom ForCutlersBalls",
@@ -642,7 +720,8 @@
             "location": "MarshallNomNom",
             "nickname": "ForCutlersBalls",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "NOM"
+            "shortName": "NOM",
+            "year": 2015
         },
         {
             "fullName": "Tucker's Team",
@@ -650,7 +729,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2015
         },
         {
             "fullName": "Uncooked Box",
@@ -658,7 +738,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2015
         },
         {
             "fullName": "Harbaugh's Sputum",
@@ -666,7 +747,8 @@
             "location": "Harbaugh's",
             "nickname": "Sputum",
             "owners": ["1CADD14C-2060-4856-BC7D-02C46D863D28"],
-            "shortName": "SPIT"
+            "shortName": "SPIT",
+            "year": 2015
         },
         {
             "fullName": "Shirtcockers Anonymous",
@@ -674,7 +756,8 @@
             "location": "Shirtcockers",
             "nickname": "Anonymous",
             "owners": ["310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"],
-            "shortName": "SOCK"
+            "shortName": "SOCK",
+            "year": 2015
         },
         {
             "fullName": "Bye Week Dominators",
@@ -682,7 +765,8 @@
             "location": "Bye Week",
             "nickname": "Dominators",
             "owners": ["72E2EE97-54D3-4B0E-AF62-BA4C16023157"],
-            "shortName": "LOSE"
+            "shortName": "LOSE",
+            "year": 2015
         }
     ],
     "2016": [
@@ -692,15 +776,17 @@
             "location": "Am I",
             "nickname": "Going Over??",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "HHH"
+            "shortName": "HHH",
+            "year": 2016
         },
         {
-            "fullName": "Throw it I am Open ",
+            "fullName": "Throw it I am Open",
             "id": 3,
             "location": "Throw it I am",
-            "nickname": "Open ",
+            "nickname": "Open",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "Pack"
+            "shortName": "Pack",
+            "year": 2016
         },
         {
             "fullName": "Joe Buck Yourself",
@@ -708,7 +794,8 @@
             "location": "Joe Buck",
             "nickname": "Yourself",
             "owners": ["670ED790-95AB-4CD9-9708-1A997C227D33"],
-            "shortName": "Buck"
+            "shortName": "Buck",
+            "year": 2016
         },
         {
             "fullName": "Delicious Traitorade",
@@ -716,7 +803,8 @@
             "location": "Delicious",
             "nickname": "Traitorade",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "TR8R"
+            "shortName": "TR8R",
+            "year": 2016
         },
         {
             "fullName": "Manning the Bay",
@@ -724,7 +812,8 @@
             "location": "Manning the",
             "nickname": "Bay",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2016
         },
         {
             "fullName": "Naptown Goiters",
@@ -732,7 +821,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2016
         },
         {
             "fullName": "MarshallNomNom ForCutlersBalls",
@@ -740,7 +830,8 @@
             "location": "MarshallNomNom",
             "nickname": "ForCutlersBalls",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "NOM"
+            "shortName": "NOM",
+            "year": 2016
         },
         {
             "fullName": "Tucker's Team",
@@ -748,7 +839,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2016
         },
         {
             "fullName": "Uncooked Box",
@@ -756,7 +848,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2016
         },
         {
             "fullName": "Sputnik's Mad Russians",
@@ -764,7 +857,8 @@
             "location": "Sputnik's",
             "nickname": "Mad Russians",
             "owners": ["C7CCE30B-298A-4C85-8265-37510D53E1CF"],
-            "shortName": "SPIT"
+            "shortName": "SPIT",
+            "year": 2016
         },
         {
             "fullName": "Shirtcockers Anonymous",
@@ -772,7 +866,8 @@
             "location": "Shirtcockers",
             "nickname": "Anonymous",
             "owners": ["310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"],
-            "shortName": "SOCK"
+            "shortName": "SOCK",
+            "year": 2016
         },
         {
             "fullName": "Bye Week Dominators",
@@ -780,7 +875,8 @@
             "location": "Bye Week",
             "nickname": "Dominators",
             "owners": ["7779796B-FE3A-48C2-BD89-FF25CB2F87DA"],
-            "shortName": "LOSE"
+            "shortName": "LOSE",
+            "year": 2016
         }
     ],
     "2017": [
@@ -790,15 +886,17 @@
             "location": "Am I",
             "nickname": "Going Over??",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "HHH"
+            "shortName": "HHH",
+            "year": 2017
         },
         {
-            "fullName": "Throw it I am Open ",
+            "fullName": "Throw it I am Open",
             "id": 3,
             "location": "Throw it I am",
-            "nickname": "Open ",
+            "nickname": "Open",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "Pack"
+            "shortName": "Pack",
+            "year": 2017
         },
         {
             "fullName": "Joe Buck Yourself",
@@ -806,7 +904,8 @@
             "location": "Joe Buck",
             "nickname": "Yourself",
             "owners": ["670ED790-95AB-4CD9-9708-1A997C227D33"],
-            "shortName": "Buck"
+            "shortName": "Buck",
+            "year": 2017
         },
         {
             "fullName": "Delicious Traitorade",
@@ -814,7 +913,8 @@
             "location": "Delicious",
             "nickname": "Traitorade",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "TR8R"
+            "shortName": "TR8R",
+            "year": 2017
         },
         {
             "fullName": "Manning the Bay",
@@ -822,7 +922,8 @@
             "location": "Manning the",
             "nickname": "Bay",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2017
         },
         {
             "fullName": "Naptown Goiters",
@@ -830,7 +931,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2017
         },
         {
             "fullName": "MondayNight MemberBerries",
@@ -838,7 +940,8 @@
             "location": "MondayNight",
             "nickname": "MemberBerries",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "HNK"
+            "shortName": "HNK",
+            "year": 2017
         },
         {
             "fullName": "Tucker's Team",
@@ -846,7 +949,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2017
         },
         {
             "fullName": "Uncooked Box",
@@ -854,7 +958,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2017
         },
         {
             "fullName": "Sputnik's Mad Russians",
@@ -862,7 +967,8 @@
             "location": "Sputnik's",
             "nickname": "Mad Russians",
             "owners": ["C7CCE30B-298A-4C85-8265-37510D53E1CF"],
-            "shortName": "SPIT"
+            "shortName": "SPIT",
+            "year": 2017
         },
         {
             "fullName": "Shirtcockers Anonymous",
@@ -870,7 +976,8 @@
             "location": "Shirtcockers",
             "nickname": "Anonymous",
             "owners": ["310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"],
-            "shortName": "SOCK"
+            "shortName": "SOCK",
+            "year": 2017
         },
         {
             "fullName": "Bye Week Dominators",
@@ -878,7 +985,8 @@
             "location": "Bye Week",
             "nickname": "Dominators",
             "owners": ["C117D3A8-0CA0-4D96-AA00-DE4004A13A13"],
-            "shortName": "LOSE"
+            "shortName": "LOSE",
+            "year": 2017
         }
     ],
     "2018": [
@@ -888,15 +996,17 @@
             "location": "Am I",
             "nickname": "Going Over??",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "HHH"
+            "shortName": "HHH",
+            "year": 2018
         },
         {
-            "fullName": "Throw it I am Open ",
+            "fullName": "Throw it I am Open",
             "id": 3,
             "location": "Throw it I am",
-            "nickname": "Open ",
+            "nickname": "Open",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "Pack"
+            "shortName": "Pack",
+            "year": 2018
         },
         {
             "fullName": "Joe Buck Yourself",
@@ -904,7 +1014,8 @@
             "location": "Joe Buck",
             "nickname": "Yourself",
             "owners": ["75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"],
-            "shortName": "Buck"
+            "shortName": "Buck",
+            "year": 2018
         },
         {
             "fullName": "Delicious Traitorade",
@@ -912,7 +1023,8 @@
             "location": "Delicious",
             "nickname": "Traitorade",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "TR8R"
+            "shortName": "TR8R",
+            "year": 2018
         },
         {
             "fullName": "Manning the Bay",
@@ -920,7 +1032,8 @@
             "location": "Manning the",
             "nickname": "Bay",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2018
         },
         {
             "fullName": "Naptown Goiters",
@@ -928,7 +1041,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2018
         },
         {
             "fullName": "MondayNight MemberBerries",
@@ -936,7 +1050,8 @@
             "location": "MondayNight",
             "nickname": "MemberBerries",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "HNK"
+            "shortName": "HNK",
+            "year": 2018
         },
         {
             "fullName": "Tucker's Team",
@@ -944,7 +1059,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2018
         },
         {
             "fullName": "Uncooked Box",
@@ -952,7 +1068,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2018
         },
         {
             "fullName": "Sputnik's Mad Russians",
@@ -960,7 +1077,8 @@
             "location": "Sputnik's",
             "nickname": "Mad Russians",
             "owners": ["C7CCE30B-298A-4C85-8265-37510D53E1CF", "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"],
-            "shortName": "SPIT"
+            "shortName": "SPIT",
+            "year": 2018
         },
         {
             "fullName": "Shirtcockers Anonymous",
@@ -968,7 +1086,8 @@
             "location": "Shirtcockers",
             "nickname": "Anonymous",
             "owners": ["310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"],
-            "shortName": "SOCK"
+            "shortName": "SOCK",
+            "year": 2018
         },
         {
             "fullName": "Bye Week Dominators",
@@ -976,7 +1095,8 @@
             "location": "Bye Week",
             "nickname": "Dominators",
             "owners": ["C117D3A8-0CA0-4D96-AA00-DE4004A13A13"],
-            "shortName": "LOSE"
+            "shortName": "LOSE",
+            "year": 2018
         }
     ],
     "2019": [
@@ -986,15 +1106,17 @@
             "location": "Am I",
             "nickname": "Going Over??",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "HHH"
+            "shortName": "HHH",
+            "year": 2019
         },
         {
-            "fullName": "Throw it I am Open ",
+            "fullName": "Throw it I am Open",
             "id": 3,
             "location": "Throw it I am",
-            "nickname": "Open ",
+            "nickname": "Open",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "Pack"
+            "shortName": "Pack",
+            "year": 2019
         },
         {
             "fullName": "Joe Buck Yourself",
@@ -1002,7 +1124,8 @@
             "location": "Joe Buck",
             "nickname": "Yourself",
             "owners": ["75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"],
-            "shortName": "Buck"
+            "shortName": "Buck",
+            "year": 2019
         },
         {
             "fullName": "Delicious Traitorade",
@@ -1010,7 +1133,8 @@
             "location": "Delicious",
             "nickname": "Traitorade",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "TR8R"
+            "shortName": "TR8R",
+            "year": 2019
         },
         {
             "fullName": "Manning the Bay",
@@ -1018,7 +1142,8 @@
             "location": "Manning the",
             "nickname": "Bay",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2019
         },
         {
             "fullName": "Naptown Goiters",
@@ -1026,7 +1151,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2019
         },
         {
             "fullName": "MondayNight MemberBerries",
@@ -1034,7 +1160,8 @@
             "location": "MondayNight",
             "nickname": "MemberBerries",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "HNK"
+            "shortName": "HNK",
+            "year": 2019
         },
         {
             "fullName": "Tucker's Team",
@@ -1042,7 +1169,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2019
         },
         {
             "fullName": "Uncooked Box",
@@ -1050,7 +1178,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2019
         },
         {
             "fullName": "Sputnik's Mad Russians",
@@ -1058,7 +1187,8 @@
             "location": "Sputnik's",
             "nickname": "Mad Russians",
             "owners": ["A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"],
-            "shortName": "SPIT"
+            "shortName": "SPIT",
+            "year": 2019
         },
         {
             "fullName": "Shirtcockers Anonymous",
@@ -1066,7 +1196,8 @@
             "location": "Shirtcockers",
             "nickname": "Anonymous",
             "owners": ["FAA9326C-D141-4711-A932-6CD1413711B9"],
-            "shortName": "SOCK"
+            "shortName": "SOCK",
+            "year": 2019
         },
         {
             "fullName": "Bye Week Dominators",
@@ -1074,7 +1205,8 @@
             "location": "Bye Week",
             "nickname": "Dominators",
             "owners": ["C117D3A8-0CA0-4D96-AA00-DE4004A13A13"],
-            "shortName": "LOSE"
+            "shortName": "LOSE",
+            "year": 2019
         }
     ],
     "2020": [
@@ -1084,15 +1216,17 @@
             "location": "Am I",
             "nickname": "Going Over??",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
-            "shortName": "HHH"
+            "shortName": "HHH",
+            "year": 2020
         },
         {
-            "fullName": "Throw it I am Open ",
+            "fullName": "Throw it I am Open",
             "id": 3,
             "location": "Throw it I am",
-            "nickname": "Open ",
+            "nickname": "Open",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
-            "shortName": "Pack"
+            "shortName": "Pack",
+            "year": 2020
         },
         {
             "fullName": "Joe Buck Yourself",
@@ -1100,7 +1234,8 @@
             "location": "Joe Buck",
             "nickname": "Yourself",
             "owners": ["75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"],
-            "shortName": "Buck"
+            "shortName": "Buck",
+            "year": 2020
         },
         {
             "fullName": "Delicious Traitorade",
@@ -1108,7 +1243,8 @@
             "location": "Delicious",
             "nickname": "Traitorade",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
-            "shortName": "TR8R"
+            "shortName": "TR8R",
+            "year": 2020
         },
         {
             "fullName": "Manning the Bay",
@@ -1116,7 +1252,8 @@
             "location": "Manning the",
             "nickname": "Bay",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
-            "shortName": "2M1C"
+            "shortName": "2M1C",
+            "year": 2020
         },
         {
             "fullName": "Naptown Goiters",
@@ -1124,7 +1261,8 @@
             "location": "Naptown",
             "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
-            "shortName": "GOIT"
+            "shortName": "GOIT",
+            "year": 2020
         },
         {
             "fullName": "MondayNight MemberBerries",
@@ -1132,7 +1270,8 @@
             "location": "MondayNight",
             "nickname": "MemberBerries",
             "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
-            "shortName": "HNK"
+            "shortName": "HNK",
+            "year": 2020
         },
         {
             "fullName": "Tucker's Team",
@@ -1140,7 +1279,8 @@
             "location": "Tucker's",
             "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
-            "shortName": "TJS"
+            "shortName": "TJS",
+            "year": 2020
         },
         {
             "fullName": "Uncooked Box",
@@ -1148,7 +1288,8 @@
             "location": "Uncooked",
             "nickname": "Box",
             "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB"
+            "shortName": "BARB",
+            "year": 2020
         },
         {
             "fullName": "The Jalapeños",
@@ -1156,7 +1297,8 @@
             "location": "The",
             "nickname": "Jalapeños",
             "owners": ["A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"],
-            "shortName": "JPÑ"
+            "shortName": "JPÑ",
+            "year": 2020
         },
         {
             "fullName": "Little Red Fournette",
@@ -1164,7 +1306,8 @@
             "location": "Little Red",
             "nickname": "Fournette",
             "owners": ["FAA9326C-D141-4711-A932-6CD1413711B9"],
-            "shortName": "LRF"
+            "shortName": "LRF",
+            "year": 2020
         },
         {
             "fullName": "Bye Week Dominators",
@@ -1172,7 +1315,118 @@
             "location": "Bye Week",
             "nickname": "Dominators",
             "owners": ["C117D3A8-0CA0-4D96-AA00-DE4004A13A13"],
-            "shortName": "LOSE"
+            "shortName": "LOSE",
+            "year": 2020
+        }
+    ],
+    "2021": [
+        {
+            "fullName": "Am I Going Over??",
+            "id": 1,
+            "location": "Am I",
+            "nickname": "Going Over??",
+            "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+            "shortName": "HHH",
+            "year": 2021
+        },
+        {
+            "fullName": "Throw it I am Open",
+            "id": 3,
+            "location": "Throw it I am",
+            "nickname": "Open",
+            "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
+            "shortName": "Pack",
+            "year": 2021
+        },
+        {
+            "fullName": "Joe Buck Yourself",
+            "id": 4,
+            "location": "Joe Buck",
+            "nickname": "Yourself",
+            "owners": ["75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"],
+            "shortName": "Buck",
+            "year": 2021
+        },
+        {
+            "fullName": "Oh Saquon You See",
+            "id": 5,
+            "location": "Oh Saquon",
+            "nickname": "You See",
+            "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
+            "shortName": "SQN",
+            "year": 2021
+        },
+        {
+            "fullName": "Manning the Bay",
+            "id": 9,
+            "location": "Manning the",
+            "nickname": "Bay",
+            "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
+            "shortName": "2M1C",
+            "year": 2021
+        },
+        {
+            "fullName": "Naptown Goiters",
+            "id": 10,
+            "location": "Naptown",
+            "nickname": "Goiters",
+            "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
+            "shortName": "GOIT",
+            "year": 2021
+        },
+        {
+            "fullName": "MondayNight MemberBerries",
+            "id": 11,
+            "location": "MondayNight",
+            "nickname": "MemberBerries",
+            "owners": ["DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"],
+            "shortName": "HNK",
+            "year": 2021
+        },
+        {
+            "fullName": "Tucker's Team",
+            "id": 12,
+            "location": "Tucker's",
+            "nickname": "Team",
+            "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
+            "shortName": "TJS",
+            "year": 2021
+        },
+        {
+            "fullName": "Uncooked Box",
+            "id": 13,
+            "location": "Uncooked",
+            "nickname": "Box",
+            "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
+            "shortName": "BARB",
+            "year": 2021
+        },
+        {
+            "fullName": "The Jalapeños",
+            "id": 14,
+            "location": "The",
+            "nickname": "Jalapeños",
+            "owners": ["A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"],
+            "shortName": "JPÑ",
+            "year": 2021
+        },
+        {
+            "fullName": "Herbert Fully Loaded",
+            "id": 15,
+            "location": "Herbert Fully",
+            "nickname": "Loaded",
+            "owners": ["FAA9326C-D141-4711-A932-6CD1413711B9"],
+            "shortName": "HFL",
+            "year": 2021
+        },
+        {
+            "fullName": "Bye Week Dominators",
+            "id": 17,
+            "location": "Bye Week",
+            "nickname": "Dominators",
+            "owners": ["C117D3A8-0CA0-4D96-AA00-DE4004A13A13"],
+            "shortName": "LOSE",
+            "year": 2021
         }
     ]
 }
