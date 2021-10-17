@@ -1,4 +1,4 @@
-import {defaultTeam, JsonTeam, Team} from "../../types/Team";
+import {defaultTeam, Team} from "../../types/Team";
 import {RecordBookEntryTeam} from "./RecordBookEntry";
 import {TSMap} from "typescript-map";
 
