@@ -23,9 +23,9 @@
             "lastName": "Witz",
             "userName": "jaguars10"
         },
-        "pointsAgainst": { "standardScoring": 25900.659999999996 },
-        "pointsScored": { "standardScoring": 28748.400000000016 },
-        "wins": { "standardScoring": 129 }
+        "pointsAgainst": { "standardScoring": 26067.219999999998 },
+        "pointsScored": { "standardScoring": 28927.760000000017 },
+        "wins": { "standardScoring": 130 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -79,9 +79,9 @@
             "lastName": "Otto",
             "userName": "quadzy214"
         },
-        "pointsAgainst": { "standardScoring": 26030.260000000006 },
-        "pointsScored": { "standardScoring": 24430.19999999998 },
-        "wins": { "standardScoring": 84 }
+        "pointsAgainst": { "standardScoring": 26154.820000000007 },
+        "pointsScored": { "standardScoring": 24571.33999999998 },
+        "wins": { "standardScoring": 85 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -127,7 +127,7 @@
     },
     {
         "championships": { "standardScoring": 1 },
-        "losses": { "standardScoring": 106 },
+        "losses": { "standardScoring": 107 },
         "member": {
             "firstName": "Tucker",
             "fullName": "Tucker James",
@@ -135,13 +135,13 @@
             "lastName": "James",
             "userName": "BigT5910"
         },
-        "pointsAgainst": { "standardScoring": 27311.079999999998 },
-        "pointsScored": { "standardScoring": 26334.7 },
+        "pointsAgainst": { "standardScoring": 27452.219999999998 },
+        "pointsScored": { "standardScoring": 26459.260000000002 },
         "wins": { "standardScoring": 91 }
     },
     {
         "championships": { "standardScoring": 1 },
-        "losses": { "standardScoring": 76 },
+        "losses": { "standardScoring": 77 },
         "member": {
             "firstName": "Michael",
             "fullName": "Michael Fazio",
@@ -149,13 +149,13 @@
             "lastName": "Fazio",
             "userName": "MFazio23"
         },
-        "pointsAgainst": { "standardScoring": 26675.620000000006 },
-        "pointsScored": { "standardScoring": 28396.859999999997 },
+        "pointsAgainst": { "standardScoring": 26854.980000000007 },
+        "pointsScored": { "standardScoring": 28562.42 },
         "wins": { "standardScoring": 121 }
     },
     {
         "championships": { "standardScoring": 1 },
-        "losses": { "standardScoring": 74 },
+        "losses": { "standardScoring": 75 },
         "member": {
             "firstName": "Tim",
             "fullName": "Tim Ericsen",
@@ -163,8 +163,8 @@
             "lastName": "Ericsen",
             "userName": "ZTiminator"
         },
-        "pointsAgainst": { "standardScoring": 26230.199999999993 },
-        "pointsScored": { "standardScoring": 28720.600000000002 },
+        "pointsAgainst": { "standardScoring": 26407.719999999994 },
+        "pointsScored": { "standardScoring": 28882.56 },
         "wins": { "standardScoring": 123 }
     },
     {
@@ -177,13 +177,13 @@
             "lastName": "Johnson",
             "userName": "Trojan_Man44"
         },
-        "pointsAgainst": { "standardScoring": 26577.959999999992 },
-        "pointsScored": { "standardScoring": 28304.39999999999 },
-        "wins": { "standardScoring": 111 }
+        "pointsAgainst": { "standardScoring": 26725.43999999999 },
+        "pointsScored": { "standardScoring": 28488.51999999999 },
+        "wins": { "standardScoring": 112 }
     },
     {
         "championships": { "standardScoring": 1 },
-        "losses": { "standardScoring": 93 },
+        "losses": { "standardScoring": 94 },
         "member": {
             "firstName": "David",
             "fullName": "David Pietrzykowski",
@@ -191,8 +191,8 @@
             "lastName": "Pietrzykowski",
             "userName": "m1cmdrpitch"
         },
-        "pointsAgainst": { "standardScoring": 26594.439999999995 },
-        "pointsScored": { "standardScoring": 27653.439999999995 },
+        "pointsAgainst": { "standardScoring": 26778.559999999994 },
+        "pointsScored": { "standardScoring": 27800.919999999995 },
         "wins": { "standardScoring": 104 }
     },
     {
@@ -205,9 +205,9 @@
             "lastName": "Ericsen",
             "userName": "Ben_Ericsen"
         },
-        "pointsAgainst": { "standardScoring": 24261.14000000001 },
-        "pointsScored": { "standardScoring": 25883.559999999994 },
-        "wins": { "standardScoring": 109 }
+        "pointsAgainst": { "standardScoring": 24423.10000000001 },
+        "pointsScored": { "standardScoring": 26061.079999999994 },
+        "wins": { "standardScoring": 110 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -261,13 +261,13 @@
             "lastName": "Roselle",
             "userName": "bdr814"
         },
-        "pointsAgainst": { "standardScoring": 9943.000000000002 },
-        "pointsScored": { "standardScoring": 10297.880000000001 },
-        "wins": { "standardScoring": 37 }
+        "pointsAgainst": { "standardScoring": 10100.320000000002 },
+        "pointsScored": { "standardScoring": 10495.820000000002 },
+        "wins": { "standardScoring": 38 }
     },
     {
         "championships": { "standardScoring": 0 },
-        "losses": { "standardScoring": 37 },
+        "losses": { "standardScoring": 38 },
         "member": {
             "firstName": "Ben",
             "fullName": "Ben Pelc",
@@ -275,8 +275,8 @@
             "lastName": "Pelc",
             "userName": "bdpelc2609505"
         },
-        "pointsAgainst": { "standardScoring": 8018.539999999998 },
-        "pointsScored": { "standardScoring": 7027.980000000003 },
+        "pointsAgainst": { "standardScoring": 8160.6799999999985 },
+        "pointsScored": { "standardScoring": 7133.460000000003 },
         "wins": { "standardScoring": 16 }
     },
     {
@@ -289,13 +289,13 @@
             "lastName": "Siller",
             "userName": "MrCapuchino"
         },
-        "pointsAgainst": { "standardScoring": 7699.88 },
-        "pointsScored": { "standardScoring": 7802.700000000002 },
-        "wins": { "standardScoring": 27 }
+        "pointsAgainst": { "standardScoring": 7805.36 },
+        "pointsScored": { "standardScoring": 7944.840000000002 },
+        "wins": { "standardScoring": 28 }
     },
     {
         "championships": { "standardScoring": 0 },
-        "losses": { "standardScoring": 28 },
+        "losses": { "standardScoring": 29 },
         "member": {
             "firstName": "Nick",
             "fullName": "Nick Kwiecien",
@@ -303,8 +303,8 @@
             "lastName": "Kwiecien",
             "userName": "nickkwiecien"
         },
-        "pointsAgainst": { "standardScoring": 5721.339999999998 },
-        "pointsScored": { "standardScoring": 5094.96 },
+        "pointsAgainst": { "standardScoring": 5918.279999999998 },
+        "pointsScored": { "standardScoring": 5252.28 },
         "wins": { "standardScoring": 9 }
     }
 ]

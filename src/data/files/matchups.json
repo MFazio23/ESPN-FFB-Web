@@ -12993,12 +12993,78 @@
     {
         "awayScores": { "bestBallScore": 214.85999999999999, "standardScore": 195.26 },
         "awayTeamId": 15,
-        "homeScores": { "bestBallScore": 202.72, "standardScore": 166.42 },
+        "homeScores": { "bestBallScore": 201.72, "standardScore": 165.42 },
         "homeTeamId": 1,
         "id": 30,
         "isHomeOriginalWinner": false,
         "playoffTierType": "None",
         "week": 5,
+        "year": 2021
+    },
+    {
+        "awayScores": { "bestBallScore": 153.84, "standardScore": 142.14 },
+        "awayTeamId": 14,
+        "homeScores": { "bestBallScore": 125.98, "standardScore": 105.48 },
+        "homeTeamId": 4,
+        "id": 31,
+        "isHomeOriginalWinner": false,
+        "playoffTierType": "None",
+        "week": 6,
+        "year": 2021
+    },
+    {
+        "awayScores": { "bestBallScore": 145.40000000000003, "standardScore": 141.14 },
+        "awayTeamId": 3,
+        "homeScores": { "bestBallScore": 141.76, "standardScore": 124.56 },
+        "homeTeamId": 12,
+        "id": 32,
+        "isHomeOriginalWinner": false,
+        "playoffTierType": "None",
+        "week": 6,
+        "year": 2021
+    },
+    {
+        "awayScores": { "bestBallScore": 191.96000000000004, "standardScore": 161.96 },
+        "awayTeamId": 13,
+        "homeScores": { "bestBallScore": 199.94, "standardScore": 177.52 },
+        "homeTeamId": 10,
+        "id": 33,
+        "isHomeOriginalWinner": true,
+        "playoffTierType": "None",
+        "week": 6,
+        "year": 2021
+    },
+    {
+        "awayScores": { "bestBallScore": 187.50000000000003, "standardScore": 184.12 },
+        "awayTeamId": 5,
+        "homeScores": { "bestBallScore": 168.96, "standardScore": 147.48 },
+        "homeTeamId": 11,
+        "id": 34,
+        "isHomeOriginalWinner": false,
+        "playoffTierType": "None",
+        "week": 6,
+        "year": 2021
+    },
+    {
+        "awayScores": { "bestBallScore": 212.84, "standardScore": 197.94 },
+        "awayTeamId": 17,
+        "homeScores": { "bestBallScore": 197.64, "standardScore": 157.32 },
+        "homeTeamId": 15,
+        "id": 35,
+        "isHomeOriginalWinner": false,
+        "playoffTierType": "None",
+        "week": 6,
+        "year": 2021
+    },
+    {
+        "awayScores": { "bestBallScore": 206.76, "standardScore": 179.36 },
+        "awayTeamId": 9,
+        "homeScores": { "bestBallScore": 176.32, "standardScore": 166.56 },
+        "homeTeamId": 1,
+        "id": 36,
+        "isHomeOriginalWinner": false,
+        "playoffTierType": "None",
+        "week": 6,
         "year": 2021
     }
 ]
