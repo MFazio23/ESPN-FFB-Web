@@ -1,0 +1,310 @@
+[
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 71 },
+        "member": {
+            "firstName": "John",
+            "fullName": "John Otto",
+            "id": "1CADD14C-2060-4856-BC7D-02C46D863D28",
+            "lastName": "Otto",
+            "userName": "johnsonville396634"
+        },
+        "pointsAgainst": { "standardScoring": 14924.0 },
+        "pointsScored": { "standardScoring": 13608.0 },
+        "wins": { "standardScoring": 41 }
+    },
+    {
+        "championships": { "standardScoring": 3 },
+        "losses": { "standardScoring": 68 },
+        "member": {
+            "firstName": "Justin",
+            "fullName": "Justin Witz",
+            "id": "2569536C-A58F-4E7C-801F-F06DF3BE2A73",
+            "lastName": "Witz",
+            "userName": "jaguars10"
+        },
+        "pointsAgainst": { "standardScoring": 25900.659999999996 },
+        "pointsScored": { "standardScoring": 28748.400000000016 },
+        "wins": { "standardScoring": 129 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 10 },
+        "member": {
+            "firstName": "Carl",
+            "fullName": "Carl Brienen",
+            "id": "36294745-6024-4E2A-9998-21A15B816B5F",
+            "lastName": "Brienen",
+            "userName": "brienenc"
+        },
+        "pointsAgainst": { "standardScoring": 2155.0 },
+        "pointsScored": { "standardScoring": 1984.0 },
+        "wins": { "standardScoring": 6 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 50 },
+        "member": {
+            "firstName": "David",
+            "fullName": "David Breen",
+            "id": "57312B70-8D32-492F-8850-59850386652F",
+            "lastName": "Breen",
+            "userName": "AceOfJesters"
+        },
+        "pointsAgainst": { "standardScoring": 12948.0 },
+        "pointsScored": { "standardScoring": 12643.0 },
+        "wins": { "standardScoring": 46 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 77 },
+        "member": {
+            "firstName": "Dave",
+            "fullName": "Dave Smith",
+            "id": "670ED790-95AB-4CD9-9708-1A997C227D33",
+            "lastName": "Smith",
+            "userName": "Ochsenfroesche"
+        },
+        "pointsAgainst": { "standardScoring": 18381.980000000003 },
+        "pointsScored": { "standardScoring": 18202.22 },
+        "wins": { "standardScoring": 67 }
+    },
+    {
+        "championships": { "standardScoring": 1 },
+        "losses": { "standardScoring": 113 },
+        "member": {
+            "firstName": "James",
+            "fullName": "James Otto",
+            "id": "6BB7653E-8BC9-40F9-952A-33DD089B251C",
+            "lastName": "Otto",
+            "userName": "quadzy214"
+        },
+        "pointsAgainst": { "standardScoring": 26030.260000000006 },
+        "pointsScored": { "standardScoring": 24430.19999999998 },
+        "wins": { "standardScoring": 84 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 73 },
+        "member": {
+            "firstName": "Brandon",
+            "fullName": "Brandon Gustafson",
+            "id": "72E2EE97-54D3-4B0E-AF62-BA4C16023157",
+            "lastName": "Gustafson",
+            "userName": "Guffy_the_Great"
+        },
+        "pointsAgainst": { "standardScoring": 15393.0 },
+        "pointsScored": { "standardScoring": 13113.0 },
+        "wins": { "standardScoring": 39 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 24 },
+        "member": {
+            "firstName": "Matt",
+            "fullName": "Matt Schrader",
+            "id": "76F57F7A-5670-4B4C-998C-DA5CC903123C",
+            "lastName": "Schrader",
+            "userName": "SchraderMJ11@gmail.com"
+        },
+        "pointsAgainst": { "standardScoring": 4064.0 },
+        "pointsScored": { "standardScoring": 3310.0 },
+        "wins": { "standardScoring": 8 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 9 },
+        "member": {
+            "firstName": "zhemin",
+            "fullName": "zhemin huang",
+            "id": "8AEAA731-DCE1-4297-A4FF-2BEDAFB02BD1",
+            "lastName": "huang",
+            "userName": "simon79121"
+        },
+        "pointsAgainst": { "standardScoring": 2178.0 },
+        "pointsScored": { "standardScoring": 2234.0 },
+        "wins": { "standardScoring": 7 }
+    },
+    {
+        "championships": { "standardScoring": 1 },
+        "losses": { "standardScoring": 106 },
+        "member": {
+            "firstName": "Tucker",
+            "fullName": "Tucker James",
+            "id": "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256",
+            "lastName": "James",
+            "userName": "BigT5910"
+        },
+        "pointsAgainst": { "standardScoring": 27311.079999999998 },
+        "pointsScored": { "standardScoring": 26334.7 },
+        "wins": { "standardScoring": 91 }
+    },
+    {
+        "championships": { "standardScoring": 1 },
+        "losses": { "standardScoring": 76 },
+        "member": {
+            "firstName": "Michael",
+            "fullName": "Michael Fazio",
+            "id": "A24CE5EF-0E09-49AB-94D2-19EC1663B700",
+            "lastName": "Fazio",
+            "userName": "MFazio23"
+        },
+        "pointsAgainst": { "standardScoring": 26675.620000000006 },
+        "pointsScored": { "standardScoring": 28396.859999999997 },
+        "wins": { "standardScoring": 121 }
+    },
+    {
+        "championships": { "standardScoring": 1 },
+        "losses": { "standardScoring": 74 },
+        "member": {
+            "firstName": "Tim",
+            "fullName": "Tim Ericsen",
+            "id": "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E",
+            "lastName": "Ericsen",
+            "userName": "ZTiminator"
+        },
+        "pointsAgainst": { "standardScoring": 26230.199999999993 },
+        "pointsScored": { "standardScoring": 28720.600000000002 },
+        "wins": { "standardScoring": 123 }
+    },
+    {
+        "championships": { "standardScoring": 1 },
+        "losses": { "standardScoring": 86 },
+        "member": {
+            "firstName": "Scott",
+            "fullName": "Scott Johnson",
+            "id": "CBC901C7-2511-49DD-A053-5F6E22C32329",
+            "lastName": "Johnson",
+            "userName": "Trojan_Man44"
+        },
+        "pointsAgainst": { "standardScoring": 26577.959999999992 },
+        "pointsScored": { "standardScoring": 28304.39999999999 },
+        "wins": { "standardScoring": 111 }
+    },
+    {
+        "championships": { "standardScoring": 1 },
+        "losses": { "standardScoring": 93 },
+        "member": {
+            "firstName": "David",
+            "fullName": "David Pietrzykowski",
+            "id": "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC",
+            "lastName": "Pietrzykowski",
+            "userName": "m1cmdrpitch"
+        },
+        "pointsAgainst": { "standardScoring": 26594.439999999995 },
+        "pointsScored": { "standardScoring": 27653.439999999995 },
+        "wins": { "standardScoring": 104 }
+    },
+    {
+        "championships": { "standardScoring": 2 },
+        "losses": { "standardScoring": 72 },
+        "member": {
+            "firstName": "Ben",
+            "fullName": "Ben Ericsen",
+            "id": "F1509406-592B-43AF-A6E8-0F6BFB5638E7",
+            "lastName": "Ericsen",
+            "userName": "Ben_Ericsen"
+        },
+        "pointsAgainst": { "standardScoring": 24261.14000000001 },
+        "pointsScored": { "standardScoring": 25883.559999999994 },
+        "wins": { "standardScoring": 109 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 64 },
+        "member": {
+            "firstName": "Emad",
+            "fullName": "Emad Kazmi",
+            "id": "310C7B23-4C8B-4CC7-8C7B-234C8B7CC782",
+            "lastName": "Kazmi",
+            "userName": "emadkazmi1234"
+        },
+        "pointsAgainst": { "standardScoring": 12939.199999999997 },
+        "pointsScored": { "standardScoring": 11003.959999999995 },
+        "wins": { "standardScoring": 32 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 10 },
+        "member": {
+            "firstName": "Nathan",
+            "fullName": "Nathan Fellom",
+            "id": "7779796B-FE3A-48C2-BD89-FF25CB2F87DA",
+            "lastName": "Fellom",
+            "userName": "nkfellom"
+        },
+        "pointsAgainst": { "standardScoring": 2030.0 },
+        "pointsScored": { "standardScoring": 1817.0 },
+        "wins": { "standardScoring": 6 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 30 },
+        "member": {
+            "firstName": "Alex",
+            "fullName": "Alex Woodward",
+            "id": "C7CCE30B-298A-4C85-8265-37510D53E1CF",
+            "lastName": "Woodward",
+            "userName": "woodwa1764441"
+        },
+        "pointsAgainst": { "standardScoring": 6567.8 },
+        "pointsScored": { "standardScoring": 5988.060000000001 },
+        "wins": { "standardScoring": 18 }
+    },
+    {
+        "championships": { "standardScoring": 1 },
+        "losses": { "standardScoring": 32 },
+        "member": {
+            "firstName": "Blayne",
+            "fullName": "Blayne Roselle",
+            "id": "C117D3A8-0CA0-4D96-AA00-DE4004A13A13",
+            "lastName": "Roselle",
+            "userName": "bdr814"
+        },
+        "pointsAgainst": { "standardScoring": 9943.000000000002 },
+        "pointsScored": { "standardScoring": 10297.880000000001 },
+        "wins": { "standardScoring": 37 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 37 },
+        "member": {
+            "firstName": "Ben",
+            "fullName": "Ben Pelc",
+            "id": "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB",
+            "lastName": "Pelc",
+            "userName": "bdpelc2609505"
+        },
+        "pointsAgainst": { "standardScoring": 8018.539999999998 },
+        "pointsScored": { "standardScoring": 7027.980000000003 },
+        "wins": { "standardScoring": 16 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 26 },
+        "member": {
+            "firstName": "Juan Pablo",
+            "fullName": "Juan Pablo Siller",
+            "id": "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347",
+            "lastName": "Siller",
+            "userName": "MrCapuchino"
+        },
+        "pointsAgainst": { "standardScoring": 7699.88 },
+        "pointsScored": { "standardScoring": 7802.700000000002 },
+        "wins": { "standardScoring": 27 }
+    },
+    {
+        "championships": { "standardScoring": 0 },
+        "losses": { "standardScoring": 28 },
+        "member": {
+            "firstName": "Nick",
+            "fullName": "Nick Kwiecien",
+            "id": "FAA9326C-D141-4711-A932-6CD1413711B9",
+            "lastName": "Kwiecien",
+            "userName": "nickkwiecien"
+        },
+        "pointsAgainst": { "standardScoring": 5721.339999999998 },
+        "pointsScored": { "standardScoring": 5094.96 },
+        "wins": { "standardScoring": 9 }
+    }
+]
