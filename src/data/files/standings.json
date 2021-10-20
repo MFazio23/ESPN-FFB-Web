@@ -11,6 +11,7 @@
         },
         "pointsAgainst": { "standardScoring": 14924.0 },
         "pointsScored": { "standardScoring": 13608.0 },
+        "seasons": { "standardScoring": 7 },
         "wins": { "standardScoring": 41 }
     },
     {
@@ -25,6 +26,7 @@
         },
         "pointsAgainst": { "standardScoring": 26067.219999999998 },
         "pointsScored": { "standardScoring": 28927.760000000017 },
+        "seasons": { "standardScoring": 13 },
         "wins": { "standardScoring": 130 }
     },
     {
@@ -39,6 +41,7 @@
         },
         "pointsAgainst": { "standardScoring": 2155.0 },
         "pointsScored": { "standardScoring": 1984.0 },
+        "seasons": { "standardScoring": 1 },
         "wins": { "standardScoring": 6 }
     },
     {
@@ -53,6 +56,7 @@
         },
         "pointsAgainst": { "standardScoring": 12948.0 },
         "pointsScored": { "standardScoring": 12643.0 },
+        "seasons": { "standardScoring": 6 },
         "wins": { "standardScoring": 46 }
     },
     {
@@ -67,6 +71,7 @@
         },
         "pointsAgainst": { "standardScoring": 18381.980000000003 },
         "pointsScored": { "standardScoring": 18202.22 },
+        "seasons": { "standardScoring": 9 },
         "wins": { "standardScoring": 67 }
     },
     {
@@ -81,6 +86,7 @@
         },
         "pointsAgainst": { "standardScoring": 26154.820000000007 },
         "pointsScored": { "standardScoring": 24571.33999999998 },
+        "seasons": { "standardScoring": 13 },
         "wins": { "standardScoring": 85 }
     },
     {
@@ -95,6 +101,7 @@
         },
         "pointsAgainst": { "standardScoring": 15393.0 },
         "pointsScored": { "standardScoring": 13113.0 },
+        "seasons": { "standardScoring": 7 },
         "wins": { "standardScoring": 39 }
     },
     {
@@ -109,6 +116,7 @@
         },
         "pointsAgainst": { "standardScoring": 4064.0 },
         "pointsScored": { "standardScoring": 3310.0 },
+        "seasons": { "standardScoring": 2 },
         "wins": { "standardScoring": 8 }
     },
     {
@@ -123,6 +131,7 @@
         },
         "pointsAgainst": { "standardScoring": 2178.0 },
         "pointsScored": { "standardScoring": 2234.0 },
+        "seasons": { "standardScoring": 1 },
         "wins": { "standardScoring": 7 }
     },
     {
@@ -137,6 +146,7 @@
         },
         "pointsAgainst": { "standardScoring": 27452.219999999998 },
         "pointsScored": { "standardScoring": 26459.260000000002 },
+        "seasons": { "standardScoring": 13 },
         "wins": { "standardScoring": 91 }
     },
     {
@@ -151,6 +161,7 @@
         },
         "pointsAgainst": { "standardScoring": 26854.980000000007 },
         "pointsScored": { "standardScoring": 28562.42 },
+        "seasons": { "standardScoring": 13 },
         "wins": { "standardScoring": 121 }
     },
     {
@@ -165,6 +176,7 @@
         },
         "pointsAgainst": { "standardScoring": 26407.719999999994 },
         "pointsScored": { "standardScoring": 28882.56 },
+        "seasons": { "standardScoring": 13 },
         "wins": { "standardScoring": 123 }
     },
     {
@@ -179,6 +191,7 @@
         },
         "pointsAgainst": { "standardScoring": 26725.43999999999 },
         "pointsScored": { "standardScoring": 28488.51999999999 },
+        "seasons": { "standardScoring": 13 },
         "wins": { "standardScoring": 112 }
     },
     {
@@ -193,6 +206,7 @@
         },
         "pointsAgainst": { "standardScoring": 26778.559999999994 },
         "pointsScored": { "standardScoring": 27800.919999999995 },
+        "seasons": { "standardScoring": 13 },
         "wins": { "standardScoring": 104 }
     },
     {
@@ -207,6 +221,7 @@
         },
         "pointsAgainst": { "standardScoring": 24423.10000000001 },
         "pointsScored": { "standardScoring": 26061.079999999994 },
+        "seasons": { "standardScoring": 12 },
         "wins": { "standardScoring": 110 }
     },
     {
@@ -221,6 +236,7 @@
         },
         "pointsAgainst": { "standardScoring": 12939.199999999997 },
         "pointsScored": { "standardScoring": 11003.959999999995 },
+        "seasons": { "standardScoring": 6 },
         "wins": { "standardScoring": 32 }
     },
     {
@@ -235,6 +251,7 @@
         },
         "pointsAgainst": { "standardScoring": 2030.0 },
         "pointsScored": { "standardScoring": 1817.0 },
+        "seasons": { "standardScoring": 1 },
         "wins": { "standardScoring": 6 }
     },
     {
@@ -249,6 +266,7 @@
         },
         "pointsAgainst": { "standardScoring": 6567.8 },
         "pointsScored": { "standardScoring": 5988.060000000001 },
+        "seasons": { "standardScoring": 3 },
         "wins": { "standardScoring": 18 }
     },
     {
@@ -263,6 +281,7 @@
         },
         "pointsAgainst": { "standardScoring": 10100.320000000002 },
         "pointsScored": { "standardScoring": 10495.820000000002 },
+        "seasons": { "standardScoring": 5 },
         "wins": { "standardScoring": 38 }
     },
     {
@@ -277,6 +296,7 @@
         },
         "pointsAgainst": { "standardScoring": 8160.6799999999985 },
         "pointsScored": { "standardScoring": 7133.460000000003 },
+        "seasons": { "standardScoring": 4 },
         "wins": { "standardScoring": 16 }
     },
     {
@@ -291,6 +311,7 @@
         },
         "pointsAgainst": { "standardScoring": 7805.36 },
         "pointsScored": { "standardScoring": 7944.840000000002 },
+        "seasons": { "standardScoring": 4 },
         "wins": { "standardScoring": 28 }
     },
     {
@@ -305,6 +326,7 @@
         },
         "pointsAgainst": { "standardScoring": 5918.279999999998 },
         "pointsScored": { "standardScoring": 5252.28 },
+        "seasons": { "standardScoring": 3 },
         "wins": { "standardScoring": 9 }
     }
 ]

@@ -6,10 +6,14 @@ import {RecordBookTitle} from "../record-book/types/RecordBookTitle";
 import {RecordBookEntry, recordBookEntryFromJson} from "../record-book/types/RecordBookEntry";
 
 import teamYearMapJson from './files/team-year-map.json';
+import standingsJson from './files/standings.json'
 import recordBookJson from './files/record-book.json'
 import recordBookTitlesJson from './files/record-book-titles.json';
+import {StandingsItem} from "../types/StandingsItem";
 
 const memberList: Array<Member> = require('./files/member-list.json');
+
+const standingsList: Array<StandingsItem> = Array.from(standingsJson);
 
 const recordBookMap = new TSMap<string, Array<RecordBookRecordJson>>().fromJSON(recordBookJson);
 const recordBookTitles = new TSMap<string, RecordBookTitle>().fromJSON(recordBookTitlesJson);
@@ -52,7 +56,8 @@ console.table(recordBook)
 
 const DataHandler = {
     teamYearMap,
-    recordBook
+    recordBook,
+    standingsList
 };
 
 export default DataHandler;
