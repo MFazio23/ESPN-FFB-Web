@@ -120,8 +120,8 @@ const SortableTable = () => (
     </Card>
 )
 
-export default () => (
-    <div>
+export default function Standings() {
+    return <div>
         <SortableTable/>
-    </div>
-)
+    </div>;
+}
