@@ -7,9 +7,10 @@ interface SortableTableHeaderCell {
 }
 
 interface SortableTableDataCell {
-    id: string,
-    value: string | number | boolean;
-    numeric: boolean;
+    id: string
+    value: string | number | boolean
+    numeric: boolean
+    digits?: number
 }
 
 interface SortableTableProps {

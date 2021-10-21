@@ -29,7 +29,9 @@ const SortableTable = (props: SortableTableProps) => {
                             <TableRow key={rowIndex}>
                                 {Object.values(row).map((cell, index) => (
                                     <TableCell key={index}
-                                               align={headers[index]?.numeric ? 'right' : 'left'}>{Number(cell.value) ? (cell.value as number).toFixed(0) : cell.value}</TableCell>
+                                               align={headers[index]?.numeric ? 'right' : 'left'}>
+                                        {Number(cell.value) ? (cell.value as number).toFixed(cell.digits || 0) : cell.value}
+                                    </TableCell>
                                 ))}
                             </TableRow>
                         ))}

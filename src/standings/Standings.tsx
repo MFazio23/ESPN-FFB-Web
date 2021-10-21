@@ -32,6 +32,12 @@ const standingsTableItems: Array<SortableTableDataCell[]> = standings.map(standi
         numeric: true
     },
     {
+        id: 'winPct',
+        value: (standingsItem.wins.standardScoring / (standingsItem.wins.standardScoring + standingsItem.losses.standardScoring)),
+        numeric: true,
+        digits: 3
+    },
+    {
         id: 'pointsScored',
         value: standingsItem.pointsScored.standardScoring,
         numeric: true
@@ -43,7 +49,7 @@ const standingsTableItems: Array<SortableTableDataCell[]> = standings.map(standi
     },
     {
         id: 'championships',
-        value: standingsItem.championships.standardScoring,
+        value: Array.from({length: standingsItem.championships.standardScoring}, () => "🏆").join(""),
         numeric: true
     },
 ]);
@@ -70,6 +76,11 @@ const headers: readonly SortableTableHeaderCell[] = [
         numeric: true,
     },
     {
+        id: 'winPct',
+        label: "Win %",
+        numeric: true
+    },
+    {
         id: 'pointsScored',
         label: "PF",
         numeric: true,
@@ -81,13 +92,13 @@ const headers: readonly SortableTableHeaderCell[] = [
     },
     {
         id: 'championships',
-        label: "🏆",
+        label: "",
         numeric: true,
     },
 ]
 
 export default function Standings() {
     return <div>
-        <SortableTable topTitle="All-Time Standings" headers={headers} tableItems={standingsTableItems} />
+        <SortableTable topTitle="All-Time Standings" headers={headers} tableItems={standingsTableItems}/>
     </div>;
 }
