@@ -48,6 +48,18 @@ const standingsTableItems: Array<SortableTableDataCell[]> = standings.map(standi
         numeric: true
     },
     {
+        id: 'pointsScoredPerWeek',
+        value: standingsItem.pointsScored.standardScoring / (standingsItem.wins.standardScoring + standingsItem.losses.standardScoring),
+        numeric: true,
+        digits: 2
+    },
+    {
+        id: 'pointsAgainstPerWeek',
+        value: standingsItem.pointsAgainst.standardScoring / (standingsItem.wins.standardScoring + standingsItem.losses.standardScoring),
+        numeric: true,
+        digits: 2
+    },
+    {
         id: 'championships',
         value: Array.from({length: standingsItem.championships.standardScoring}, () => "🏆").join(""),
         numeric: true
@@ -89,6 +101,16 @@ const headers: readonly SortableTableHeaderCell[] = [
         id: 'pointsAgainst',
         label: "PA",
         numeric: true,
+    },
+    {
+        id: 'pointsScoredPerWeek',
+        label: "PF/W",
+        numeric: true,
+    },
+    {
+        id: 'pointsAgainstPerWeek',
+        label: "PA/W",
+        numeric: true
     },
     {
         id: 'championships',
