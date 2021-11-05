@@ -9,10 +9,11 @@
             "lastName": "Otto",
             "userName": "johnsonville396634"
         },
-        "pointsAgainst": { "standardScoring": 14924.0 },
-        "pointsScored": { "standardScoring": 13608.0 },
-        "seasons": { "standardScoring": 7 },
-        "wins": { "standardScoring": 41 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 14924.0, "topSixRankings": 14924.0 },
+        "pointsScored": { "standardScoring": 13608.0, "topSixRankings": 13608.0 },
+        "seasons": { "standardScoring": 7, "topSixRankings": 7 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 3 },
@@ -24,10 +25,11 @@
             "lastName": "Witz",
             "userName": "jaguars10"
         },
-        "pointsAgainst": { "standardScoring": 26067.219999999998 },
-        "pointsScored": { "standardScoring": 28927.760000000017 },
-        "seasons": { "standardScoring": 13 },
-        "wins": { "standardScoring": 130 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 26285.319999999996, "topSixRankings": 26285.319999999996 },
+        "pointsScored": { "standardScoring": 29224.300000000017, "topSixRankings": 29224.300000000017 },
+        "seasons": { "standardScoring": 13, "topSixRankings": 13 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -39,10 +41,11 @@
             "lastName": "Brienen",
             "userName": "brienenc"
         },
-        "pointsAgainst": { "standardScoring": 2155.0 },
-        "pointsScored": { "standardScoring": 1984.0 },
-        "seasons": { "standardScoring": 1 },
-        "wins": { "standardScoring": 6 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 2155.0, "topSixRankings": 2155.0 },
+        "pointsScored": { "standardScoring": 1984.0, "topSixRankings": 1984.0 },
+        "seasons": { "standardScoring": 1, "topSixRankings": 1 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -54,10 +57,11 @@
             "lastName": "Breen",
             "userName": "AceOfJesters"
         },
-        "pointsAgainst": { "standardScoring": 12948.0 },
-        "pointsScored": { "standardScoring": 12643.0 },
-        "seasons": { "standardScoring": 6 },
-        "wins": { "standardScoring": 46 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 12948.0, "topSixRankings": 12948.0 },
+        "pointsScored": { "standardScoring": 12643.0, "topSixRankings": 12643.0 },
+        "seasons": { "standardScoring": 6, "topSixRankings": 6 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -69,14 +73,15 @@
             "lastName": "Smith",
             "userName": "Ochsenfroesche"
         },
-        "pointsAgainst": { "standardScoring": 18381.980000000003 },
-        "pointsScored": { "standardScoring": 18202.22 },
-        "seasons": { "standardScoring": 9 },
-        "wins": { "standardScoring": 67 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 18381.980000000003, "topSixRankings": 18381.980000000003 },
+        "pointsScored": { "standardScoring": 18202.22, "topSixRankings": 18202.22 },
+        "seasons": { "standardScoring": 9, "topSixRankings": 9 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 1 },
-        "losses": { "standardScoring": 113 },
+        "losses": { "standardScoring": 115 },
         "member": {
             "firstName": "James",
             "fullName": "James Otto",
@@ -84,10 +89,11 @@
             "lastName": "Otto",
             "userName": "quadzy214"
         },
-        "pointsAgainst": { "standardScoring": 26154.820000000007 },
-        "pointsScored": { "standardScoring": 24571.33999999998 },
-        "seasons": { "standardScoring": 13 },
-        "wins": { "standardScoring": 85 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 26471.840000000007, "topSixRankings": 26471.840000000007 },
+        "pointsScored": { "standardScoring": 24840.439999999977, "topSixRankings": 24840.439999999977 },
+        "seasons": { "standardScoring": 13, "topSixRankings": 13 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -99,10 +105,11 @@
             "lastName": "Gustafson",
             "userName": "Guffy_the_Great"
         },
-        "pointsAgainst": { "standardScoring": 15393.0 },
-        "pointsScored": { "standardScoring": 13113.0 },
-        "seasons": { "standardScoring": 7 },
-        "wins": { "standardScoring": 39 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 15393.0, "topSixRankings": 15393.0 },
+        "pointsScored": { "standardScoring": 13113.0, "topSixRankings": 13113.0 },
+        "seasons": { "standardScoring": 7, "topSixRankings": 7 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -114,10 +121,11 @@
             "lastName": "Schrader",
             "userName": "SchraderMJ11@gmail.com"
         },
-        "pointsAgainst": { "standardScoring": 4064.0 },
-        "pointsScored": { "standardScoring": 3310.0 },
-        "seasons": { "standardScoring": 2 },
-        "wins": { "standardScoring": 8 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 4064.0, "topSixRankings": 4064.0 },
+        "pointsScored": { "standardScoring": 3310.0, "topSixRankings": 3310.0 },
+        "seasons": { "standardScoring": 2, "topSixRankings": 2 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -129,14 +137,15 @@
             "lastName": "huang",
             "userName": "simon79121"
         },
-        "pointsAgainst": { "standardScoring": 2178.0 },
-        "pointsScored": { "standardScoring": 2234.0 },
-        "seasons": { "standardScoring": 1 },
-        "wins": { "standardScoring": 7 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 2178.0, "topSixRankings": 2178.0 },
+        "pointsScored": { "standardScoring": 2234.0, "topSixRankings": 2234.0 },
+        "seasons": { "standardScoring": 1, "topSixRankings": 1 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 1 },
-        "losses": { "standardScoring": 107 },
+        "losses": { "standardScoring": 109 },
         "member": {
             "firstName": "Tucker",
             "fullName": "Tucker James",
@@ -144,14 +153,15 @@
             "lastName": "James",
             "userName": "BigT5910"
         },
-        "pointsAgainst": { "standardScoring": 27452.219999999998 },
-        "pointsScored": { "standardScoring": 26459.260000000002 },
-        "seasons": { "standardScoring": 13 },
-        "wins": { "standardScoring": 91 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 27714.6, "topSixRankings": 27714.6 },
+        "pointsScored": { "standardScoring": 26607.120000000003, "topSixRankings": 26607.120000000003 },
+        "seasons": { "standardScoring": 13, "topSixRankings": 13 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 1 },
-        "losses": { "standardScoring": 77 },
+        "losses": { "standardScoring": 78 },
         "member": {
             "firstName": "Michael",
             "fullName": "Michael Fazio",
@@ -159,14 +169,15 @@
             "lastName": "Fazio",
             "userName": "MFazio23"
         },
-        "pointsAgainst": { "standardScoring": 26854.980000000007 },
-        "pointsScored": { "standardScoring": 28562.42 },
-        "seasons": { "standardScoring": 13 },
-        "wins": { "standardScoring": 121 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 27188.600000000006, "topSixRankings": 27188.600000000006 },
+        "pointsScored": { "standardScoring": 28903.639999999996, "topSixRankings": 28903.639999999996 },
+        "seasons": { "standardScoring": 13, "topSixRankings": 13 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 1 },
-        "losses": { "standardScoring": 75 },
+        "losses": { "standardScoring": 77 },
         "member": {
             "firstName": "Tim",
             "fullName": "Tim Ericsen",
@@ -174,10 +185,11 @@
             "lastName": "Ericsen",
             "userName": "ZTiminator"
         },
-        "pointsAgainst": { "standardScoring": 26407.719999999994 },
-        "pointsScored": { "standardScoring": 28882.56 },
-        "seasons": { "standardScoring": 13 },
-        "wins": { "standardScoring": 123 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 26751.739999999994, "topSixRankings": 26751.739999999994 },
+        "pointsScored": { "standardScoring": 29187.960000000003, "topSixRankings": 29187.960000000003 },
+        "seasons": { "standardScoring": 13, "topSixRankings": 13 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 1 },
@@ -189,10 +201,11 @@
             "lastName": "Johnson",
             "userName": "Trojan_Man44"
         },
-        "pointsAgainst": { "standardScoring": 26725.43999999999 },
-        "pointsScored": { "standardScoring": 28488.51999999999 },
-        "seasons": { "standardScoring": 13 },
-        "wins": { "standardScoring": 112 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 27011.17999999999, "topSixRankings": 27011.17999999999 },
+        "pointsScored": { "standardScoring": 28825.31999999999, "topSixRankings": 28825.31999999999 },
+        "seasons": { "standardScoring": 13, "topSixRankings": 13 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 1 },
@@ -204,14 +217,15 @@
             "lastName": "Pietrzykowski",
             "userName": "m1cmdrpitch"
         },
-        "pointsAgainst": { "standardScoring": 26778.559999999994 },
-        "pointsScored": { "standardScoring": 27800.919999999995 },
-        "seasons": { "standardScoring": 13 },
-        "wins": { "standardScoring": 104 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 26983.039999999994, "topSixRankings": 26983.039999999994 },
+        "pointsScored": { "standardScoring": 28068.679999999997, "topSixRankings": 28068.679999999997 },
+        "seasons": { "standardScoring": 13, "topSixRankings": 13 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 2 },
-        "losses": { "standardScoring": 72 },
+        "losses": { "standardScoring": 73 },
         "member": {
             "firstName": "Ben",
             "fullName": "Ben Ericsen",
@@ -219,10 +233,11 @@
             "lastName": "Ericsen",
             "userName": "Ben_Ericsen"
         },
-        "pointsAgainst": { "standardScoring": 24423.10000000001 },
-        "pointsScored": { "standardScoring": 26061.079999999994 },
-        "seasons": { "standardScoring": 12 },
-        "wins": { "standardScoring": 110 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 24732.52000000001, "topSixRankings": 24732.52000000001 },
+        "pointsScored": { "standardScoring": 26348.819999999992, "topSixRankings": 26348.819999999992 },
+        "seasons": { "standardScoring": 12, "topSixRankings": 12 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -234,10 +249,11 @@
             "lastName": "Kazmi",
             "userName": "emadkazmi1234"
         },
-        "pointsAgainst": { "standardScoring": 12939.199999999997 },
-        "pointsScored": { "standardScoring": 11003.959999999995 },
-        "seasons": { "standardScoring": 6 },
-        "wins": { "standardScoring": 32 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 12939.199999999997, "topSixRankings": 12939.199999999997 },
+        "pointsScored": { "standardScoring": 11003.959999999995, "topSixRankings": 11003.959999999995 },
+        "seasons": { "standardScoring": 6, "topSixRankings": 6 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -249,10 +265,11 @@
             "lastName": "Fellom",
             "userName": "nkfellom"
         },
-        "pointsAgainst": { "standardScoring": 2030.0 },
-        "pointsScored": { "standardScoring": 1817.0 },
-        "seasons": { "standardScoring": 1 },
-        "wins": { "standardScoring": 6 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 2030.0, "topSixRankings": 2030.0 },
+        "pointsScored": { "standardScoring": 1817.0, "topSixRankings": 1817.0 },
+        "seasons": { "standardScoring": 1, "topSixRankings": 1 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -264,14 +281,15 @@
             "lastName": "Woodward",
             "userName": "woodwa1764441"
         },
-        "pointsAgainst": { "standardScoring": 6567.8 },
-        "pointsScored": { "standardScoring": 5988.060000000001 },
-        "seasons": { "standardScoring": 3 },
-        "wins": { "standardScoring": 18 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 6567.8, "topSixRankings": 6567.8 },
+        "pointsScored": { "standardScoring": 5988.060000000001, "topSixRankings": 5988.060000000001 },
+        "seasons": { "standardScoring": 3, "topSixRankings": 3 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 1 },
-        "losses": { "standardScoring": 32 },
+        "losses": { "standardScoring": 34 },
         "member": {
             "firstName": "Blayne",
             "fullName": "Blayne Roselle",
@@ -279,10 +297,11 @@
             "lastName": "Roselle",
             "userName": "bdr814"
         },
-        "pointsAgainst": { "standardScoring": 10100.320000000002 },
-        "pointsScored": { "standardScoring": 10495.820000000002 },
-        "seasons": { "standardScoring": 5 },
-        "wins": { "standardScoring": 38 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 10399.880000000001, "topSixRankings": 10399.880000000001 },
+        "pointsScored": { "standardScoring": 10726.400000000001, "topSixRankings": 10726.400000000001 },
+        "seasons": { "standardScoring": 5, "topSixRankings": 5 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -294,14 +313,15 @@
             "lastName": "Pelc",
             "userName": "bdpelc2609505"
         },
-        "pointsAgainst": { "standardScoring": 8160.6799999999985 },
-        "pointsScored": { "standardScoring": 7133.460000000003 },
-        "seasons": { "standardScoring": 4 },
-        "wins": { "standardScoring": 16 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 8372.279999999999, "topSixRankings": 8372.279999999999 },
+        "pointsScored": { "standardScoring": 7442.200000000003, "topSixRankings": 7442.200000000003 },
+        "seasons": { "standardScoring": 4, "topSixRankings": 4 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
-        "losses": { "standardScoring": 26 },
+        "losses": { "standardScoring": 28 },
         "member": {
             "firstName": "Juan Pablo",
             "fullName": "Juan Pablo Siller",
@@ -309,10 +329,11 @@
             "lastName": "Siller",
             "userName": "MrCapuchino"
         },
-        "pointsAgainst": { "standardScoring": 7805.36 },
-        "pointsScored": { "standardScoring": 7944.840000000002 },
-        "seasons": { "standardScoring": 4 },
-        "wins": { "standardScoring": 28 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 8097.48, "topSixRankings": 8097.48 },
+        "pointsScored": { "standardScoring": 8162.460000000002, "topSixRankings": 8162.460000000002 },
+        "seasons": { "standardScoring": 4, "topSixRankings": 4 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     },
     {
         "championships": { "standardScoring": 0 },
@@ -324,9 +345,10 @@
             "lastName": "Kwiecien",
             "userName": "nickkwiecien"
         },
-        "pointsAgainst": { "standardScoring": 5918.279999999998 },
-        "pointsScored": { "standardScoring": 5252.28 },
-        "seasons": { "standardScoring": 3 },
-        "wins": { "standardScoring": 9 }
+        "playoffApps": { "standardScoring": 0 },
+        "pointsAgainst": { "standardScoring": 6196.939999999998, "topSixRankings": 6196.939999999998 },
+        "pointsScored": { "standardScoring": 5599.64, "topSixRankings": 5599.64 },
+        "seasons": { "standardScoring": 3, "topSixRankings": 3 },
+        "wins": { "standardScoring": 0, "topSixRankings": 0 }
     }
 ]
