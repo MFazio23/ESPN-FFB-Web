@@ -60,6 +60,11 @@ const standingsTableItems: Array<SortableTableDataCell[]> = standings.map(standi
         digits: 2
     },
     {
+        id: 'playoffApps',
+        value: standingsItem.playoffApps.standardScoring,
+        numeric: true
+    },
+    {
         id: 'championships',
         value: Array.from({length: standingsItem.championships.standardScoring}, () => "🏆").join(""),
         numeric: true
@@ -111,6 +116,11 @@ const headers: readonly SortableTableHeaderCell[] = [
         id: 'pointsAgainstPerWeek',
         label: "PA/W",
         numeric: true
+    },
+    {
+        id: 'playoffApps',
+        label: "PL",
+        numeric: true,
     },
     {
         id: 'championships',

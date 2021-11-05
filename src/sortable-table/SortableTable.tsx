@@ -21,7 +21,7 @@ const SortableTable = (props: SortableTableProps) => {
         <Card>
             <Typography variant="h2" component="h2" align="center">{topTitle}</Typography>
             <TableContainer>
-                <Table sx={{maxWidth: 900, margin: '0 auto'}}>
+                <Table sx={{maxWidth: 1000, margin: '0 auto'}}>
                     <SortableTableHead headers={headers} sortOrder={order} orderBy={orderBy}
                                        onRequestSort={handleRequestSort}/>
                     <TableBody>
