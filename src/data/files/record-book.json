@@ -187,9 +187,9 @@
         { "recordHolders": { "1": 246.82 }, "season": 2019, "value": 246.82, "week": 5 },
         { "recordHolders": { "10": 244.0 }, "season": 2013, "value": 244.0, "week": 13 },
         { "recordHolders": { "1": 239.38 }, "season": 2018, "value": 239.38, "week": 10 },
+        { "recordHolders": { "10": 233.28 }, "season": 2021, "value": 233.28, "week": 11 },
         { "recordHolders": { "1": 232.12 }, "season": 2020, "value": 232.12, "week": 2 },
-        { "recordHolders": { "10": 230.0 }, "season": 2013, "value": 230.0, "week": 1 },
-        { "recordHolders": { "9": 226.22 }, "season": 2018, "value": 226.22, "week": 12 }
+        { "recordHolders": { "10": 230.0 }, "season": 2013, "value": 230.0, "week": 1 }
     ],
     "mostPointsMatchup": [
         { "recordHolders": { "10": 262.62, "1": 246.82 }, "season": 2019, "value": 509.44, "week": 5 },
