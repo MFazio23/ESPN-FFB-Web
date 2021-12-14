@@ -105,7 +105,7 @@
         { "recordHolders": { "15": 11.0 }, "season": 2019, "value": 11.0 },
         { "recordHolders": { "15": 10.0 }, "season": 2015, "value": 10.0 },
         { "recordHolders": { "15": 10.0 }, "season": 2016, "value": 10.0 },
-        { "recordHolders": { "14": 8.0 }, "season": 2010, "value": 8.0 }
+        { "recordHolders": { "12": 9.0 }, "season": 2021, "value": 9.0 }
     ],
     "longestLosingStreakWithPlayoffs": [
         { "recordHolders": { "4": 18.0 }, "season": 2019, "value": 18.0 },
@@ -117,7 +117,7 @@
         { "recordHolders": { "17": 11.0 }, "season": 2012, "value": 11.0 },
         { "recordHolders": { "12": 10.0 }, "season": 2017, "value": 10.0 },
         { "recordHolders": { "3": 10.0 }, "season": 2018, "value": 10.0 },
-        { "recordHolders": { "4": 9.0 }, "season": 2015, "value": 9.0 }
+        { "recordHolders": { "12": 10.0 }, "season": 2021, "value": 10.0 }
     ],
     "longestWinningStreak": [
         { "recordHolders": { "9": 15.0 }, "season": 2015, "value": 15.0 },
@@ -159,13 +159,13 @@
         { "recordHolders": { "1": 2333.76 }, "season": 2019, "value": 2333.76 },
         { "recordHolders": { "4": 2156.08 }, "season": 2020, "value": 2156.08 },
         { "recordHolders": { "12": 2097.3199999999997 }, "season": 2019, "value": 2097.3199999999997 },
+        { "recordHolders": { "1": 2075.82 }, "season": 2021, "value": 2075.82 },
         { "recordHolders": { "15": 2053.7999999999997 }, "season": 2019, "value": 2053.7999999999997 },
         { "recordHolders": { "9": 2048.7 }, "season": 2020, "value": 2048.7 },
         { "recordHolders": { "12": 2017.4199999999998 }, "season": 2020, "value": 2017.4199999999998 },
+        { "recordHolders": { "5": 2003.8600000000001 }, "season": 2021, "value": 2003.8600000000001 },
         { "recordHolders": { "15": 2003.8000000000002 }, "season": 2020, "value": 2003.8000000000002 },
-        { "recordHolders": { "5": 1990.24 }, "season": 2020, "value": 1990.24 },
-        { "recordHolders": { "1": 1983.94 }, "season": 2018, "value": 1983.94 },
-        { "recordHolders": { "13": 1973.0 }, "season": 2013, "value": 1973.0 }
+        { "recordHolders": { "12": 2001.98 }, "season": 2021, "value": 2001.98 }
     ],
     "mostPointsAllowedWithPlayoffs": [
         { "recordHolders": { "1": 2750.78 }, "season": 2019, "value": 2750.78 },
@@ -205,15 +205,15 @@
     ],
     "mostPointsSeason": [
         { "recordHolders": { "13": 2268.94 }, "season": 2020, "value": 2268.94 },
+        { "recordHolders": { "10": 2227.96 }, "season": 2021, "value": 2227.96 },
         { "recordHolders": { "5": 2216.32 }, "season": 2018, "value": 2216.32 },
+        { "recordHolders": { "13": 2188.7599999999998 }, "season": 2021, "value": 2188.7599999999998 },
         { "recordHolders": { "5": 2138.48 }, "season": 2019, "value": 2138.48 },
         { "recordHolders": { "1": 2115.98 }, "season": 2020, "value": 2115.98 },
         { "recordHolders": { "9": 2114.8 }, "season": 2020, "value": 2114.8 },
         { "recordHolders": { "13": 2110.9599999999996 }, "season": 2018, "value": 2110.9599999999996 },
         { "recordHolders": { "10": 2100.78 }, "season": 2019, "value": 2100.78 },
-        { "recordHolders": { "9": 2096.0 }, "season": 2010, "value": 2096.0 },
-        { "recordHolders": { "17": 2092.74 }, "season": 2019, "value": 2092.74 },
-        { "recordHolders": { "17": 2090.22 }, "season": 2018, "value": 2090.22 }
+        { "recordHolders": { "5": 2097.58 }, "season": 2021, "value": 2097.58 }
     ],
     "mostPointsSeasonWithPlayoffs": [
         { "recordHolders": { "13": 2815.1 }, "season": 2020, "value": 2815.1 },
