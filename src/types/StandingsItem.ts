@@ -6,6 +6,7 @@ type StandingsItem = {
     wins: StandingsScoringItem,
     losses: StandingsScoringItem,
     playoffApps: StandingsScoringItem,
+    championshipApps: StandingsScoringItem,
     championships: StandingsScoringItem,
 }
 

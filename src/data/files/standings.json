@@ -1,5 +1,6 @@
 [
     {
+        "championshipApps": { "standardScoring": 1 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 71 },
         "member": {
@@ -16,7 +17,8 @@
         "wins": { "standardScoring": 41, "topSixRankings": 41 }
     },
     {
-        "championships": { "standardScoring": 4 },
+        "championshipApps": { "standardScoring": 5 },
+        "championships": { "standardScoring": 3 },
         "losses": { "standardScoring": 72 },
         "member": {
             "firstName": "Justin",
@@ -32,6 +34,7 @@
         "wins": { "standardScoring": 136, "topSixRankings": 141 }
     },
     {
+        "championshipApps": { "standardScoring": 0 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 10 },
         "member": {
@@ -48,6 +51,7 @@
         "wins": { "standardScoring": 6, "topSixRankings": 8 }
     },
     {
+        "championshipApps": { "standardScoring": 1 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 50 },
         "member": {
@@ -64,6 +68,7 @@
         "wins": { "standardScoring": 46, "topSixRankings": 49 }
     },
     {
+        "championshipApps": { "standardScoring": 0 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 77 },
         "member": {
@@ -80,6 +85,7 @@
         "wins": { "standardScoring": 67, "topSixRankings": 71 }
     },
     {
+        "championshipApps": { "standardScoring": 1 },
         "championships": { "standardScoring": 1 },
         "losses": { "standardScoring": 119 },
         "member": {
@@ -96,6 +102,7 @@
         "wins": { "standardScoring": 89, "topSixRankings": 63 }
     },
     {
+        "championshipApps": { "standardScoring": 1 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 73 },
         "member": {
@@ -112,6 +119,7 @@
         "wins": { "standardScoring": 39, "topSixRankings": 43 }
     },
     {
+        "championshipApps": { "standardScoring": 0 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 24 },
         "member": {
@@ -128,6 +136,7 @@
         "wins": { "standardScoring": 8, "topSixRankings": 2 }
     },
     {
+        "championshipApps": { "standardScoring": 0 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 9 },
         "member": {
@@ -144,6 +153,7 @@
         "wins": { "standardScoring": 7, "topSixRankings": 9 }
     },
     {
+        "championshipApps": { "standardScoring": 2 },
         "championships": { "standardScoring": 1 },
         "losses": { "standardScoring": 116 },
         "member": {
@@ -160,6 +170,7 @@
         "wins": { "standardScoring": 92, "topSixRankings": 103 }
     },
     {
+        "championshipApps": { "standardScoring": 4 },
         "championships": { "standardScoring": 1 },
         "losses": { "standardScoring": 82 },
         "member": {
@@ -176,6 +187,7 @@
         "wins": { "standardScoring": 126, "topSixRankings": 126 }
     },
     {
+        "championshipApps": { "standardScoring": 1 },
         "championships": { "standardScoring": 1 },
         "losses": { "standardScoring": 80 },
         "member": {
@@ -192,6 +204,7 @@
         "wins": { "standardScoring": 128, "topSixRankings": 138 }
     },
     {
+        "championshipApps": { "standardScoring": 3 },
         "championships": { "standardScoring": 1 },
         "losses": { "standardScoring": 92 },
         "member": {
@@ -208,6 +221,7 @@
         "wins": { "standardScoring": 116, "topSixRankings": 120 }
     },
     {
+        "championshipApps": { "standardScoring": 1 },
         "championships": { "standardScoring": 1 },
         "losses": { "standardScoring": 101 },
         "member": {
@@ -224,6 +238,7 @@
         "wins": { "standardScoring": 107, "topSixRankings": 110 }
     },
     {
+        "championshipApps": { "standardScoring": 4 },
         "championships": { "standardScoring": 2 },
         "losses": { "standardScoring": 75 },
         "member": {
@@ -240,6 +255,7 @@
         "wins": { "standardScoring": 117, "topSixRankings": 116 }
     },
     {
+        "championshipApps": { "standardScoring": 1 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 64 },
         "member": {
@@ -256,6 +272,7 @@
         "wins": { "standardScoring": 32, "topSixRankings": 25 }
     },
     {
+        "championshipApps": { "standardScoring": 0 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 10 },
         "member": {
@@ -272,6 +289,7 @@
         "wins": { "standardScoring": 6, "topSixRankings": 5 }
     },
     {
+        "championshipApps": { "standardScoring": 0 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 30 },
         "member": {
@@ -288,6 +306,7 @@
         "wins": { "standardScoring": 18, "topSixRankings": 16 }
     },
     {
+        "championshipApps": { "standardScoring": 1 },
         "championships": { "standardScoring": 1 },
         "losses": { "standardScoring": 36 },
         "member": {
@@ -304,6 +323,7 @@
         "wins": { "standardScoring": 44, "topSixRankings": 40 }
     },
     {
+        "championshipApps": { "standardScoring": 0 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 40 },
         "member": {
@@ -320,7 +340,8 @@
         "wins": { "standardScoring": 24, "topSixRankings": 24 }
     },
     {
-        "championships": { "standardScoring": 1 },
+        "championshipApps": { "standardScoring": 0 },
+        "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 30 },
         "member": {
             "firstName": "Juan Pablo",
@@ -336,6 +357,7 @@
         "wins": { "standardScoring": 34, "topSixRankings": 29 }
     },
     {
+        "championshipApps": { "standardScoring": 0 },
         "championships": { "standardScoring": 0 },
         "losses": { "standardScoring": 34 },
         "member": {

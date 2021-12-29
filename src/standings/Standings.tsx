@@ -65,6 +65,11 @@ const standingsTableItems: Array<SortableTableDataCell[]> = standings.map(standi
         numeric: true
     },
     {
+        id: 'championshipApps',
+        value: standingsItem.championshipApps.standardScoring,
+        numeric: true
+    },
+    {
         id: 'championships',
         value: Array.from({length: standingsItem.championships.standardScoring}, () => "🏆").join(""),
         numeric: true
@@ -120,6 +125,11 @@ const headers: readonly SortableTableHeaderCell[] = [
     {
         id: 'playoffApps',
         label: "PL",
+        numeric: true,
+    },
+    {
+        id: 'championshipApps',
+        label: "CH",
         numeric: true,
     },
     {
