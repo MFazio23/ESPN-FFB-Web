@@ -22,7 +22,7 @@
         "id": 1,
         "location": "Not",
         "nickname": "The Hammer",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "CAPT",
         "year": 2011
     },
@@ -31,7 +31,7 @@
         "id": 1,
         "location": "Not",
         "nickname": "The Hammer",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "CAPT",
         "year": 2012
     },
@@ -40,7 +40,7 @@
         "id": 1,
         "location": "Not",
         "nickname": "The Hammer",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "CAPT",
         "year": 2013
     },
@@ -49,7 +49,7 @@
         "id": 1,
         "location": "Not",
         "nickname": "The Hammer",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "CAPT",
         "year": 2014
     },
@@ -58,7 +58,7 @@
         "id": 1,
         "location": "Not",
         "nickname": "The Hammer",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "CAPT",
         "year": 2015
     },
@@ -67,7 +67,7 @@
         "id": 1,
         "location": "Am I",
         "nickname": "Going Over??",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "HHH",
         "year": 2016
     },
@@ -76,7 +76,7 @@
         "id": 1,
         "location": "Am I",
         "nickname": "Going Over??",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "HHH",
         "year": 2017
     },
@@ -85,7 +85,7 @@
         "id": 1,
         "location": "Am I",
         "nickname": "Going Over??",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "HHH",
         "year": 2018
     },
@@ -94,7 +94,7 @@
         "id": 1,
         "location": "Am I",
         "nickname": "Going Over??",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "HHH",
         "year": 2019
     },
@@ -103,7 +103,7 @@
         "id": 1,
         "location": "Am I",
         "nickname": "Going Over??",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "HHH",
         "year": 2020
     },
@@ -112,7 +112,7 @@
         "id": 1,
         "location": "Am I",
         "nickname": "Going Over??",
-        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700", "047A1C53-72E7-4173-87EB-88EF5E4BAF7B"],
+        "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
         "shortName": "HHH",
         "year": 2021
     },
