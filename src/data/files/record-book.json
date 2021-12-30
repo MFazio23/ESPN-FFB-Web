@@ -263,6 +263,18 @@
         { "recordHolders": { "1": 232.12 }, "season": 2020, "value": 232.12, "week": 2 },
         { "recordHolders": { "10": 230.0 }, "season": 2013, "value": 230.0, "week": 1 }
     ],
+    "mostPointsGameBestBall": [
+        { "recordHolders": { "5": 279.62 }, "season": 2019, "value": 279.62, "week": 5 },
+        { "recordHolders": { "3": 266.91999999999996 }, "season": 2019, "value": 266.91999999999996, "week": 1 },
+        { "recordHolders": { "10": 266.32 }, "season": 2019, "value": 266.32, "week": 5 },
+        { "recordHolders": { "14": 265.14 }, "season": 2020, "value": 265.14, "week": 12 },
+        { "recordHolders": { "1": 255.31999999999996 }, "season": 2020, "value": 255.31999999999996, "week": 2 },
+        { "recordHolders": { "5": 254.3 }, "season": 2019, "value": 254.3, "week": 3 },
+        { "recordHolders": { "1": 253.57999999999998 }, "season": 2019, "value": 253.57999999999998, "week": 5 },
+        { "recordHolders": { "11": 248.0 }, "season": 2012, "value": 248.0, "week": 16 },
+        { "recordHolders": { "13": 244.58000000000004 }, "season": 2021, "value": 244.58000000000004, "week": 2 },
+        { "recordHolders": { "10": 244.0 }, "season": 2013, "value": 244.0, "week": 13 }
+    ],
     "mostPointsMatchup": [
         { "recordHolders": { "10": 262.62, "1": 246.82 }, "season": 2019, "value": 509.44, "week": 5 },
         { "recordHolders": { "1": 195.0, "11": 248.0 }, "season": 2012, "value": 443.0, "week": 16 },
@@ -310,6 +322,30 @@
         { "recordHolders": { "5": 2138.48 }, "season": 2019, "value": 2138.48 },
         { "recordHolders": { "1": 2115.98 }, "season": 2020, "value": 2115.98 },
         { "recordHolders": { "9": 2114.8 }, "season": 2020, "value": 2114.8 }
+    ],
+    "mostPointsSeasonBestBall": [
+        { "recordHolders": { "13": 2630.58 }, "season": 2021, "value": 2630.58 },
+        { "recordHolders": { "10": 2589.1600000000003 }, "season": 2021, "value": 2589.1600000000003 },
+        { "recordHolders": { "13": 2498.9 }, "season": 2020, "value": 2498.9 },
+        { "recordHolders": { "1": 2491.84 }, "season": 2021, "value": 2491.84 },
+        { "recordHolders": { "17": 2423.62 }, "season": 2019, "value": 2423.62 },
+        { "recordHolders": { "9": 2407.88 }, "season": 2021, "value": 2407.88 },
+        { "recordHolders": { "1": 2407.12 }, "season": 2020, "value": 2407.12 },
+        { "recordHolders": { "10": 2396.8200000000006 }, "season": 2019, "value": 2396.8200000000006 },
+        { "recordHolders": { "5": 2379.6400000000003 }, "season": 2021, "value": 2379.6400000000003 },
+        { "recordHolders": { "5": 2368.46 }, "season": 2019, "value": 2368.46 }
+    ],
+    "mostPointsSeasonBestBallWithPlayoffs": [
+        { "recordHolders": { "13": 3117.7 }, "season": 2020, "value": 3117.7 },
+        { "recordHolders": { "17": 3032.48 }, "season": 2019, "value": 3032.48 },
+        { "recordHolders": { "13": 2999.1000000000004 }, "season": 2021, "value": 2999.1000000000004 },
+        { "recordHolders": { "1": 2980.8399999999997 }, "season": 2020, "value": 2980.8399999999997 },
+        { "recordHolders": { "10": 2912.9800000000005 }, "season": 2021, "value": 2912.9800000000005 },
+        { "recordHolders": { "10": 2910.7000000000007 }, "season": 2019, "value": 2910.7000000000007 },
+        { "recordHolders": { "9": 2888.9 }, "season": 2020, "value": 2888.9 },
+        { "recordHolders": { "3": 2867.34 }, "season": 2019, "value": 2867.34 },
+        { "recordHolders": { "13": 2866.46 }, "season": 2019, "value": 2866.46 },
+        { "recordHolders": { "9": 2853.9800000000005 }, "season": 2021, "value": 2853.9800000000005 }
     ],
     "mostPointsSeasonWithPlayoffs": [
         { "recordHolders": { "13": 2815.1 }, "season": 2020, "value": 2815.1 },

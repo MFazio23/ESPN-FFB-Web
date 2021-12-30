@@ -41,26 +41,6 @@ function getRecordHoldersFromJson(
     });
 
     return new TSMap<string, RecordBookEntryTeam>(recordHolderList);
-
-    /*const recordHolderMap = new TSMap<string, RecordBookEntryTeam>();
-
-    recordHolders.forEach((total, teamId) => {
-        if (!teamId) return
-
-        const entryTeam: RecordBookEntryTeam = {
-            teamId,
-            total,
-            season: record.season,
-            week: record.week,
-            team: getTeamById(parseInt(teamId), record, teamMap) ?? defaultTeam
-        }
-        recordHolderMap.set(
-            teamId,
-            entryTeam
-        )
-    });
-
-    return recordHolderMap;*/
 }
 
 export {

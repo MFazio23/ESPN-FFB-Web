@@ -1,4 +1,3 @@
 export type RecordBookTitle = {
-    title: string,
-    order: number
+    title: string
 }

@@ -9,6 +9,7 @@ import teamYearMapJson from './files/team-year-map.json';
 import standingsJson from './files/standings.json'
 import recordBookJson from './files/record-book.json'
 import recordBookTitlesJson from './files/record-book-titles.json';
+import recordBookTitlesOrderJson from './files/record-book-title-order.json'
 import {StandingsItem} from "../types/StandingsItem";
 
 const memberList: Array<Member> = require('./files/member-list.json');
@@ -47,7 +48,7 @@ const recordBook: Array<RecordBookEntry> = recordBookMap.map((jsonRecords, id, i
         id,
         title: recordBookTitles.get(id)?.title ?? "N/A",
         withPlayoffs: id.includes("Playoff"),
-        order: recordBookTitles.get(id)?.order ?? 100,
+        order: recordBookTitlesOrderJson.indexOf(id) ?? 100,
         records: jsonRecords.map(jsonRecord => recordBookEntryFromJson(jsonRecord, teamYearMap))
     }
 })
