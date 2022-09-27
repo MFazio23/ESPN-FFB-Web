@@ -30,5 +30,6 @@
   "longestLosingStreak",
   "longestLosingStreakWithPlayoffs",
   "lowestWinningScore",
+  "lowestWinningScoreAfterIncrease",
   "highestLosingScore"
 ]

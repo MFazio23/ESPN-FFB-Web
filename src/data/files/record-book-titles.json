@@ -30,5 +30,6 @@
   "longestLosingStreak": { "title": "Longest Losing Streak" },
   "longestLosingStreakWithPlayoffs": { "title": "Longest Losing Streak" },
   "lowestWinningScore": { "title": "Lowest Winning Score" },
+  "lowestWinningScoreAfterIncrease": { "title": "Lowest Winning Score (after scoring increase)" },
   "highestLosingScore": { "title": "Highest Losing Score" }
 }
