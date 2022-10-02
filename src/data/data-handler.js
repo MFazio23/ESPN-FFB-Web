@@ -52,7 +52,7 @@ const recordBook = Object.entries(recordBooks).reduce((book, [type, recordBook])
     [type]: Object.entries(recordBook).map(([recordType, recordEntries]) => ({
         id: recordType,
         title: recordBookTitles[recordType]?.title || "N/A",
-        order: recordBookTitlesOrder.indexOf(recordType) || 100,
+        order: recordBookTitlesOrder.indexOf(recordType) === 0 ? 0 : (recordBookTitlesOrder.indexOf(recordType) || 100),
         withPlayoffs: recordType.includes("Playoff"),
         records: recordEntries.map(getRecords)
     }))

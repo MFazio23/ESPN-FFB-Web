@@ -9,17 +9,11 @@
   "mostPointsPerWeekWithPlayoffs": { "title": "Most Points per Week in a Season" },
   "mostPointsMatchup": { "title": "Most Combined Points in a Matchup" },
   "fewestPointsGame": { "title": "Fewest Points in a Week" },
-  "fewestPointsGameAfterIncrease": { "title": "Fewest Points in a Week (after scoring increase)" },
   "fewestPointsSeason": { "title": "Fewest Points in a Season" },
   "fewestPointsSeasonWithPlayoffs": { "title": "Fewest Points in a Season" },
-  "fewestPointsSeasonAfterIncrease": { "title": "Fewest Points in a Season (after scoring increase)" },
-  "fewestPointsSeasonWithPlayoffsAfterIncrease": { "title": "Fewest Points in a Season (after scoring increase)" },
   "fewestPointsPerWeek": { "title": "Fewest Points per Week in a Season" },
   "fewestPointsPerWeekWithPlayoffs": { "title": "Fewest Points per Week in a Season" },
-  "fewestPointsPerWeekAfterIncrease": { "title": "Fewest Points per Week in a Season (after scoring increase)" },
-  "fewestPointsPerWeekWithPlayoffsAfterIncrease": { "title": "Fewest Points per Week in a Season (after scoring increase)" },
   "fewestPointsMatchup": { "title": "Fewest Combined Points in a Matchup" },
-  "fewestPointsMatchupAfterIncrease": { "title": "Fewest Combined Points in a Matchup (after scoring increase)" },
   "smallestMarginOfVictory": { "title": "Smallest Margin of Victory" },
   "largestMarginOfVictory": { "title": "Largest Margin of Victory" },
   "mostPointsAllowed": { "title": "Most Points Allowed in a Season" },
@@ -35,6 +29,6 @@
   "longestLosingStreak": { "title": "Longest Losing Streak" },
   "longestLosingStreakWithPlayoffs": { "title": "Longest Losing Streak" },
   "lowestWinningScore": { "title": "Lowest Winning Score" },
-  "lowestWinningScoreAfterIncrease": { "title": "Lowest Winning Score (after scoring increase)" },
-  "highestLosingScore": { "title": "Highest Losing Score" }
+  "highestLosingScore": { "title": "Highest Losing Score" },
+  "mostPointsMissed": { "title": "Most Points Missed (Best ball - real score)" }
 }
