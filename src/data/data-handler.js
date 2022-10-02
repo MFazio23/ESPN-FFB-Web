@@ -48,6 +48,7 @@ const getRecords = (record) => {
 }
 
 const recordBook = Object.entries(recordBooks).reduce((book, [type, recordBook]) => ({
+    ...book,
     [type]: Object.entries(recordBook).map(([recordType, recordEntries]) => ({
         id: recordType,
         title: recordBookTitles[recordType]?.title || "N/A",

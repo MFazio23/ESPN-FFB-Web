@@ -8,6 +8,8 @@ export default function RecordBookItem(props) {
     const category = props.recordCategory;
     const [open, setOpen] = React.useState(false);
 
+    if (category.records.length <= 0) return "";
+
     return (
         <React.Fragment>
             <TableRow
@@ -28,7 +30,6 @@ export default function RecordBookItem(props) {
                         <Typography variant="caption">
                             {(category.withPlayoffs ? '+ playoffs' : '')}
                         </Typography>
-                        {/*<RecordItemLarge recordItem={category.records[0]}/>*/}
                     </Stack>
                 </TableCell>
             </TableRow>
