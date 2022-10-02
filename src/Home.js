@@ -1,6 +1,6 @@
 import {Button, Card, CardContent, Stack, Typography} from "@mui/material";
 import {Link} from "react-router-dom";
-import Links from './constants/links';
+import Links from "./nav/Links"
 
 export default function Home() {
     return (

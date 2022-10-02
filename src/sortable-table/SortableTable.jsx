@@ -1,21 +1,28 @@
 import {useState} from "react";
-import {getComparator, SortableTableProps, SortOrder} from "./SortableTableTypes";
 import * as React from "react";
 import {Card, Table, TableBody, TableCell, TableContainer, TableRow, Typography} from "@mui/material";
 import SortableTableHead from "./SortableTableHead";
 
-const SortableTable = (props: SortableTableProps) => {
+const SortableTable = (props) => {
 
     const {tableItems, headers, topTitle} = props;
 
-    const [order, setOrder] = useState<SortOrder>('desc');
-    const [orderBy, setOrderBy] = useState<string>('wins');
+    const [order, setOrder] = useState('desc');
+    const [orderBy, setOrderBy] = useState('wins');
 
-    const handleRequestSort = (event: React.MouseEvent<unknown>, property: string) => {
+    const handleRequestSort = (event, property) => {
         const isAsc = orderBy === property && order === 'asc';
         setOrder(isAsc ? 'desc' : 'asc');
         setOrderBy(property)
     }
+
+    const descendingComparator = (a, b, orderBy) => {
+        return (b.find(i => i.id === orderBy)?.value || 0) - (a.find(i => i.id === orderBy)?.value || 0);
+    }
+
+    const getComparator = (order, orderBy) => order === 'desc'
+        ? (a, b) => descendingComparator(a, b, orderBy)
+        : (a, b) => -descendingComparator(a, b, orderBy)
 
     return (
         <Card>
@@ -30,7 +37,7 @@ const SortableTable = (props: SortableTableProps) => {
                                 {Object.values(row).map((cell, index) => (
                                     <TableCell key={index}
                                                align={headers[index]?.numeric ? 'right' : 'left'}>
-                                        {Number(cell.value) ? (cell.value as number).toFixed(cell.digits || 0) : cell.value}
+                                        {Number(cell.value) ? (cell.value).toFixed(cell.digits || 0) : cell.value}
                                     </TableCell>
                                 ))}
                             </TableRow>

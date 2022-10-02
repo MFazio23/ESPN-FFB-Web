@@ -16,7 +16,7 @@ export default function RecordBook() {
             <Table aria-label="record-book">
                 <TableBody>
                     {dataHandler
-                        .recordBook
+                        .recordBook.standard
                         .sort((bookA, bookB) => bookA.order - bookB.order)
                         .map(recordCategory => <RecordBookItem key={recordCategory.id}
                                                                recordCategory={recordCategory}/>)}

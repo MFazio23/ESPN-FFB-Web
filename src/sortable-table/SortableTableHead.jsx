@@ -1,12 +1,11 @@
-import {SortableTableHeaderProps} from "./SortableTableTypes";
 import * as React from "react";
 import {TableCell, TableHead, TableRow, TableSortLabel} from "@mui/material";
 
-const SortableTableHead = (props: SortableTableHeaderProps) => {
+const SortableTableHead = (props) => {
 
     const {headers, orderBy, sortOrder, onRequestSort} = props;
 
-    const createSortHandler = (property: string) => (event: React.MouseEvent<unknown>) => {
+    const createSortHandler = (property) => (event) => {
         onRequestSort(event, property);
     }
 

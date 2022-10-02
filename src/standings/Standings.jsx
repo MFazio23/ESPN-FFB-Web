@@ -2,15 +2,11 @@ import * as React from 'react';
 
 import dataHandler from '../data/data-handler';
 
-import {
-    SortableTableDataCell,
-    SortableTableHeaderCell,
-} from "../sortable-table/SortableTableTypes";
 import SortableTable from "../sortable-table/SortableTable";
 
 const standings = dataHandler.standingsList;
 
-const standingsTableItems: Array<SortableTableDataCell[]> = standings.map(standingsItem => [
+const standingsTableItems = standings.map(standingsItem => [
     {
         id: 'playerName',
         value: standingsItem.member.fullName,
@@ -76,7 +72,7 @@ const standingsTableItems: Array<SortableTableDataCell[]> = standings.map(standi
     },
 ]);
 
-const headers: readonly SortableTableHeaderCell[] = [
+const headers = [
     {
         id: 'playerName',
         label: "Player",

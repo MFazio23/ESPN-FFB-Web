@@ -5,18 +5,18 @@ import {
     Switch,
     Route
 } from "react-router-dom";
-import TopAppBar from "./TopAppBar";
+import Links from "./nav/Links";
+import TopAppBar from "./nav/TopAppBar";
 import NavDrawer from "./nav/NavDrawer";
 import RecordBook from "./record-book/RecordBook";
 import Home from "./Home";
-import Links from './constants/links';
 import Standings from "./standings/Standings";
 
 export default function App() {
-    const [isDrawerOpen, setDrawerOpen] = React.useState<boolean>(false);
+    const [isDrawerOpen, setDrawerOpen] = React.useState(false);
 
-    const toggleDrawer = (open: boolean) => (event: React.SyntheticEvent) => {
-        const keyboardEvent = event as React.KeyboardEvent
+    const toggleDrawer = (open) => (event) => {
+        const keyboardEvent = event
         if (
             keyboardEvent &&
             keyboardEvent.type === 'keydown' &&

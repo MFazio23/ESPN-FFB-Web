@@ -1,16 +1,10 @@
 import * as React from 'react';
-import {Box, List, ListItem, ListItemIcon, ListItemText, SwipeableDrawer} from "@mui/material";
+import {Box, List, ListItemButton, ListItemIcon, ListItemText, SwipeableDrawer} from "@mui/material";
 import {FormatListNumbered, Home, MenuBook} from "@mui/icons-material";
-import Links from '../constants/links';
-import NavDrawerLink from "./NavDrawerLink";
 import {NavLink} from "react-router-dom";
+import Links from "./Links"
 
-interface Props {
-    isDrawerOpen: boolean,
-    toggleDrawer: (b: boolean) => ((event: React.SyntheticEvent) => void)
-}
-
-const links: Array<NavDrawerLink> = [
+const links = [
     {
         text: 'Home',
         url: '',
@@ -28,7 +22,7 @@ const links: Array<NavDrawerLink> = [
     },
 ]
 
-export default function NavDrawer(props: Props) {
+export default function NavDrawer(props) {
     const list = () => (
         <Box
             sx={{width: 250}}
@@ -38,12 +32,12 @@ export default function NavDrawer(props: Props) {
             <nav>
                 <List>
                     {links.map((link, index) => (
-                        <ListItem button key={link.text} component={NavLink} to={`${link.url}`}>
+                        <ListItemButton key={link.text} component={NavLink} to={`${link.url}`}>
                             <ListItemIcon>
                                 {link.icon}
                             </ListItemIcon>
                             <ListItemText primary={link.text}/>
-                        </ListItem>
+                        </ListItemButton>
                     ))}
                 </List>
             </nav>
