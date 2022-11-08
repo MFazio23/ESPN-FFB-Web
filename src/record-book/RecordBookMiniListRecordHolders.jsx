@@ -4,7 +4,7 @@ import * as React from "react";
 export function RecordBookMiniListRecordHolders(props) {
     const record = props.record;
 
-    const allRecordHolders = record.recordHolders.map(recordHolder => {
+    const allRecordHolders = record.recordHolders.sort((a, b) => b.total - a.total).map(recordHolder => {
         const teamFullName = recordHolder.team?.fullName;
         const recordHolderValue =
             (record.recordHolders.length > 1 ? `(${recordHolder.total.toFixed(2)})` : '');
