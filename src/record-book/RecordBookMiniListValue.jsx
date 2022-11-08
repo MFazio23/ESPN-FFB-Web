@@ -6,12 +6,16 @@ export function RecordBookMiniListValue(props) {
 
     const value = record.intValue ? record.value.toFixed(0) : record.value.toFixed(2);
 
+    let dateText = record.season
+    dateText += record.week ? ` W${record.week}` : ''
+    dateText += record.endSeason ? ` - ${record.endSeason} W${record.endWeek}` : ''
+
     return (
         <Stack>
             <Typography variant="h6" align="center"
                         size="small">{value}</Typography>
             <Typography variant="subtitle" align="center"
-                        size="small">{`${record.season}${record.week ? ` W${record.week}` : ''}`}</Typography>
+                        size="small">{dateText}</Typography>
         </Stack>
     )
 }
