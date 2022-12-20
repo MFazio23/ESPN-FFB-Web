@@ -31,5 +31,6 @@
   "lowestWinningScore": { "title": "Lowest Winning Score" },
   "highestLosingScore": { "title": "Highest Losing Score" },
   "mostPointsMissed": { "title": "Most Points Missed (Best ball - real score)" },
-  "mostPointsMissedInSeason": { "title": "Most Points Missed in a Season (Best ball - real score)" }
+  "mostPointsMissedInSeason": { "title": "Most Points Missed in a Season (Best ball - real score)" },
+  "mostPointsMissedInSeasonWithPlayoffs": { "title": "Most Points Missed in a Season (Best ball - real score)" }
 }
