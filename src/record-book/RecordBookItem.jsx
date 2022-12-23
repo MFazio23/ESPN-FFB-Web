@@ -8,7 +8,7 @@ export default function RecordBookItem(props) {
     const category = props.recordCategory;
     const [open, setOpen] = React.useState(false);
 
-    if (category.records.length <= 0) return "";
+    if (category.records.length <= 0) return (<React.Fragment />);
 
     return (
         <React.Fragment>

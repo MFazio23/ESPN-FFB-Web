@@ -1,9 +1,12 @@
 import memberList from './files/member-list.json'
+import memberVsTeamRecords from './files/member-vs-team-records.json'
 import recordBooks from './files/record-book.json'
 import recordBookTitles from './files/record-book-titles.json';
 import recordBookTitlesOrder from './files/record-book-title-order.json'
 import standings from './files/standings.json'
 import teamYearMapJson from './files/team-year-map.json';
+
+const currentYear = 2022
 
 const getMembersFromOwnerIds = (team, memberList) =>
     team
@@ -58,9 +61,28 @@ const recordBook = Object.entries(recordBooks).reduce((book, [type, recordBook])
     }))
 }), {});
 
+const getMemberVsTeamRecords = (ownerId) => {
+    return Object.entries(memberVsTeamRecords[ownerId] || {}).map(([teamId, records]) => {
+        console.log("TeamId", teamId)
+        return {
+            team: teamYearMap[currentYear].find(team => team.id === parseInt(teamId)),
+            records
+        }
+    })
+}
+
+const getOwnerDataById = (ownerId) => {
+    return !ownerId ? {} : {
+        owner: memberList.find(member => member.id === ownerId),
+        standings: standings.find(standing => standing.member.id === ownerId),
+        vsTeamRecords: getMemberVsTeamRecords(ownerId)
+    }
+}
+
 const DataHandler = {
     teamYearMap,
     recordBook,
+    getOwnerDataById,
     standingsList: standings
 };
 

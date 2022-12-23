@@ -1,3 +1,7 @@
 .App {
   text-align: center;
 }
+
+.clickable-row {
+  cursor: pointer;
+}

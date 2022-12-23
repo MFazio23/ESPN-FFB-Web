@@ -2,7 +2,7 @@ import * as React from 'react';
 import './App.css';
 import {
     BrowserRouter as Router,
-    Switch,
+    Routes,
     Route
 } from "react-router-dom";
 import Links from "./nav/Links";
@@ -11,6 +11,8 @@ import NavDrawer from "./nav/NavDrawer";
 import RecordBook from "./record-book/RecordBook";
 import Home from "./Home";
 import Standings from "./standings/Standings";
+import Franchises from "./teams/Franchises";
+import OwnerDetails from "./teams/OwnerDetails";
 
 export default function App() {
     const [isDrawerOpen, setDrawerOpen] = React.useState(false);
@@ -33,22 +35,13 @@ export default function App() {
             <TopAppBar isDrawerOpen={isDrawerOpen} toggleDrawer={toggleDrawer}/>
             <main className="mainContainer">
                 <NavDrawer isDrawerOpen={isDrawerOpen} toggleDrawer={toggleDrawer}/>
-                {/* A <Switch> looks through its children <Route>s and
-                    renders the first one that matches the current URL. */}
-                <Switch>
-                    <Route path={Links.recordBook}>
-                        <RecordBook/>
-                    </Route>
-                    <Route path={Links.standings}>
-                        <Standings />
-                    </Route>
-                    <Route path="/teams">
-                        <div>Teams</div>
-                    </Route>
-                    <Route path="/">
-                        <Home />
-                    </Route>
-                </Switch>
+                <Routes>
+                    <Route path={Links.recordBook} element={<RecordBook/>}/>
+                    <Route path={Links.standings} element={<Standings/>}/>
+                    <Route path={Links.franchises} element={<Franchises/>}/>
+                    <Route path={Links.ownerDetails} element={<OwnerDetails/>}/>
+                    <Route path="/" element={<Home/>}/>
+                </Routes>
             </main>
         </Router>
     );
