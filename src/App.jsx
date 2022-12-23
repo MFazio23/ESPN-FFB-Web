@@ -11,7 +11,6 @@ import NavDrawer from "./nav/NavDrawer";
 import RecordBook from "./record-book/RecordBook";
 import Home from "./Home";
 import Standings from "./standings/Standings";
-import Franchises from "./teams/Franchises";
 import OwnerDetails from "./teams/OwnerDetails";
 
 export default function App() {
@@ -38,7 +37,6 @@ export default function App() {
                 <Routes>
                     <Route path={Links.recordBook} element={<RecordBook/>}/>
                     <Route path={Links.standings} element={<Standings/>}/>
-                    <Route path={Links.franchises} element={<Franchises/>}/>
                     <Route path={Links.ownerDetails} element={<OwnerDetails/>}/>
                     <Route path="/" element={<Home/>}/>
                 </Routes>
