@@ -1,7 +1,6 @@
 import {Box, Typography} from "@mui/material";
 import {useParams} from "react-router-dom"
 import dataHandler from '../data/data-handler';
-import OwnerSummaryCard from "./OwnerSummaryCard";
 import OwnerVersusTable from "./OwnerVersusTable";
 
 export default function OwnerDetails() {
