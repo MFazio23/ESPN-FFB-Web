@@ -29,5 +29,12 @@
   "highestLosingScore",
   "mostPointsMissed",
   "mostPointsMissedInSeason",
-  "mostPointsMissedInSeasonWithPlayoffs"
+  "highestPointsPlus",
+  "highestPointsPlusWithPlayoffs",
+  "lowestPointsPlus",
+  "lowestPointsPlusWithPlayoffs",
+  "highestPointsAllowedPlus",
+  "highestPointsAllowedPlusWithPlayoffs",
+  "lowestPointsAllowedPlus",
+  "lowestPointsAllowedPlusWithPlayoffs"
 ]

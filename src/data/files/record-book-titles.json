@@ -32,5 +32,13 @@
   "highestLosingScore": { "title": "Highest Losing Score" },
   "mostPointsMissed": { "title": "Most Points Missed (Best ball - real score)" },
   "mostPointsMissedInSeason": { "title": "Most Points Missed in a Season (Best ball - real score)" },
-  "mostPointsMissedInSeasonWithPlayoffs": { "title": "Most Points Missed in a Season (Best ball - real score)" }
+  "mostPointsMissedInSeasonWithPlayoffs": { "title": "Most Points Missed in a Season (Best ball - real score)" },
+  "highestPointsPlus": { "title": "Highest Points+ in a Season" },
+  "highestPointsPlusWithPlayoffs": { "title": "Highest Points+ in a Season" },
+  "lowestPointsPlus": { "title": "Lowest Points+ in a Season" },
+  "lowestPointsPlusWithPlayoffs": { "title": "Lowest Points+ in a Season" },
+  "highestPointsAllowedPlus": { "title": "Highest Points+ Allowed in a Season" },
+  "highestPointsAllowedPlusWithPlayoffs": { "title": "Highest Points+ Allowed in a Season" },
+  "lowestPointsAllowedPlus": { "title": "Lowest Points+ Allowed in a Season" },
+  "lowestPointsAllowedPlusWithPlayoffs": { "title": "Lowest Points+ Allowed in a Season" }
 }
