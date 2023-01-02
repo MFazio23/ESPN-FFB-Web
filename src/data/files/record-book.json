@@ -522,6 +522,170 @@
         "week": 2
       }
     ],
+    "fewestPointsMissedInSeason": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 120.96000000000011
+        },
+        "season": 2019,
+        "value": 120.96000000000011
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 143.2200000000002
+        },
+        "season": 2019,
+        "value": 143.2200000000002
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "13": 144.4000000000001
+        },
+        "season": 2022,
+        "value": 144.4000000000001
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 147.86000000000016
+        },
+        "season": 2021,
+        "value": 147.86000000000016
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 151.7000000000001
+        },
+        "season": 2020,
+        "value": 151.7000000000001
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "14": 157.72
+        },
+        "season": 2019,
+        "value": 157.72
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 170.30000000000013
+        },
+        "season": 2021,
+        "value": 170.30000000000013
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 173.3600000000001
+        },
+        "season": 2021,
+        "value": 173.3600000000001
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 186.28000000000006
+        },
+        "season": 2022,
+        "value": 186.28000000000006
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "10": 189.89999999999998
+        },
+        "season": 2021,
+        "value": 189.89999999999998
+      }
+    ],
+    "fewestPointsMissedInSeasonWithPlayoffs": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 171.50000000000014
+        },
+        "season": 2021,
+        "value": 171.50000000000014
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 195.82000000000014
+        },
+        "season": 2019,
+        "value": 195.82000000000014
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "13": 195.92000000000016
+        },
+        "season": 2022,
+        "value": 195.92000000000016
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "14": 200.42000000000004
+        },
+        "season": 2019,
+        "value": 200.42000000000004
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 211.68000000000012
+        },
+        "season": 2021,
+        "value": 211.68000000000012
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 212.94000000000008
+        },
+        "season": 2022,
+        "value": 212.94000000000008
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 223.04000000000022
+        },
+        "season": 2019,
+        "value": 223.04000000000022
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "17": 235.7
+        },
+        "season": 2020,
+        "value": 235.7
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "10": 235.92
+        },
+        "season": 2021,
+        "value": 235.92
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 245.36
+        },
+        "season": 2020,
+        "value": 245.36
+      }
+    ],
     "fewestPointsPerWeek": [
       {
         "intValue": false,
@@ -1114,6 +1278,170 @@
         },
         "season": 2019,
         "value": 103.50425542629804
+      }
+    ],
+    "highestPointsPlayedPctInSeason": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "13": 94.067768758011
+        },
+        "season": 2022,
+        "value": 94.067768758011
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 94.03650275594822
+        },
+        "season": 2019,
+        "value": 94.03650275594822
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 93.78645509404781
+        },
+        "season": 2021,
+        "value": 93.78645509404781
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 93.14165860572915
+        },
+        "season": 2019,
+        "value": 93.14165860572915
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "10": 92.66557493550032
+        },
+        "season": 2021,
+        "value": 92.66557493550032
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 92.47685185185185
+        },
+        "season": 2021,
+        "value": 92.47685185185185
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 92.4601636199167
+        },
+        "season": 2020,
+        "value": 92.4601636199167
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "14": 92.3497055713468
+        },
+        "season": 2019,
+        "value": 92.3497055713468
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 92.07489897050485
+        },
+        "season": 2021,
+        "value": 92.07489897050485
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 91.7691036506155
+        },
+        "season": 2022,
+        "value": 91.7691036506155
+      }
+    ],
+    "highestPointsPlayedPctInSeasonWithPlayoffs": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 93.81134526558888
+        },
+        "season": 2021,
+        "value": 93.81134526558888
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "13": 92.85537159944572
+        },
+        "season": 2022,
+        "value": 92.85537159944572
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "10": 92.3841743711585
+        },
+        "season": 2021,
+        "value": 92.3841743711585
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 92.25500526870387
+        },
+        "season": 2021,
+        "value": 92.25500526870387
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 92.06885378695827
+        },
+        "season": 2019,
+        "value": 92.06885378695827
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "14": 92.05243915012412
+        },
+        "season": 2019,
+        "value": 92.05243915012412
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 91.82421329074073
+        },
+        "season": 2022,
+        "value": 91.82421329074073
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 91.6098016055132
+        },
+        "season": 2019,
+        "value": 91.6098016055132
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 91.50680189691579
+        },
+        "season": 2020,
+        "value": 91.50680189691579
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 91.42591972310613
+        },
+        "season": 2022,
+        "value": 91.42591972310613
       }
     ],
     "highestPointsPlus": [
@@ -1992,6 +2320,170 @@
         },
         "season": 2020,
         "value": 96.49610782981496
+      }
+    ],
+    "lowestPointsPlayedPctInSeason": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 82.01742178238236
+        },
+        "season": 2021,
+        "value": 82.01742178238236
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 82.98058385394171
+        },
+        "season": 2019,
+        "value": 82.98058385394171
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 83.54684584424604
+        },
+        "season": 2022,
+        "value": 83.54684584424604
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 83.657299026514
+        },
+        "season": 2020,
+        "value": 83.657299026514
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 84.29272826460307
+        },
+        "season": 2019,
+        "value": 84.29272826460307
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 84.80917084848762
+        },
+        "season": 2020,
+        "value": 84.80917084848762
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 84.8729641693811
+        },
+        "season": 2021,
+        "value": 84.8729641693811
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 85.26028927613261
+        },
+        "season": 2019,
+        "value": 85.26028927613261
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 85.3766699826145
+        },
+        "season": 2022,
+        "value": 85.3766699826145
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 85.66067752199137
+        },
+        "season": 2021,
+        "value": 85.66067752199137
+      }
+    ],
+    "lowestPointsPlayedPctInSeasonWithPlayoffs": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 79.10019929610314
+        },
+        "season": 2021,
+        "value": 79.10019929610314
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 82.28143992519865
+        },
+        "season": 2022,
+        "value": 82.28143992519865
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 82.92682926829269
+        },
+        "season": 2020,
+        "value": 82.92682926829269
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 83.40678148279827
+        },
+        "season": 2019,
+        "value": 83.40678148279827
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 83.6331051292161
+        },
+        "season": 2022,
+        "value": 83.6331051292161
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 84.11758549021366
+        },
+        "season": 2020,
+        "value": 84.11758549021366
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 84.25827562944409
+        },
+        "season": 2021,
+        "value": 84.25827562944409
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 84.90042304394879
+        },
+        "season": 2021,
+        "value": 84.90042304394879
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "10": 85.63806672782579
+        },
+        "season": 2020,
+        "value": 85.63806672782579
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 85.76616777681872
+        },
+        "season": 2019,
+        "value": 85.76616777681872
       }
     ],
     "lowestPointsPlus": [
@@ -3992,6 +4484,8 @@
         "week": 8
       }
     ],
+    "fewestPointsMissedInSeason": [],
+    "fewestPointsMissedInSeasonWithPlayoffs": [],
     "fewestPointsPerWeek": [
       {
         "intValue": false,
@@ -4586,6 +5080,8 @@
         "value": 105.7329673482388
       }
     ],
+    "highestPointsPlayedPctInSeason": [],
+    "highestPointsPlayedPctInSeasonWithPlayoffs": [],
     "highestPointsPlus": [
       {
         "intValue": false,
@@ -5464,6 +5960,8 @@
         "value": 95.05928823661085
       }
     ],
+    "lowestPointsPlayedPctInSeason": [],
+    "lowestPointsPlayedPctInSeasonWithPlayoffs": [],
     "lowestPointsPlus": [
       {
         "intValue": false,
@@ -7209,6 +7707,8 @@
         "week": 10
       }
     ],
+    "fewestPointsMissedInSeason": [],
+    "fewestPointsMissedInSeasonWithPlayoffs": [],
     "fewestPointsPerWeek": [
       {
         "intValue": false,
@@ -7803,6 +8303,8 @@
         "value": 108.97000949925363
       }
     ],
+    "highestPointsPlayedPctInSeason": [],
+    "highestPointsPlayedPctInSeasonWithPlayoffs": [],
     "highestPointsPlus": [
       {
         "intValue": false,
@@ -8681,6 +9183,8 @@
         "value": 91.85712339910613
       }
     ],
+    "lowestPointsPlayedPctInSeason": [],
+    "lowestPointsPlayedPctInSeasonWithPlayoffs": [],
     "lowestPointsPlus": [
       {
         "intValue": false,
