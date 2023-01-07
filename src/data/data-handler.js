@@ -56,7 +56,7 @@ const recordBook = Object.entries(recordBooks).reduce((book, [type, recordBook])
         id: recordType,
         title: recordBookTitles[recordType]?.title || "N/A",
         order: recordBookTitlesOrder.indexOf(recordType) === 0 ? 0 : (recordBookTitlesOrder.indexOf(recordType) || 100),
-        withPlayoffs: recordType.includes("Playoff"),
+        withPlayoffs: recordType.includes("WithPlayoff"),
         records: recordEntries.map(getRecords)
     }))
 }), {});

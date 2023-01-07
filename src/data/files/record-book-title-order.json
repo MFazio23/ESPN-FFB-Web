@@ -1,11 +1,13 @@
 [
   "mostPointsGame",
+  "mostPointsGameInPlayoffs",
   "mostPointsSeason",
   "mostPointsSeasonWithPlayoffs",
   "mostPointsPerWeek",
   "mostPointsPerWeekWithPlayoffs",
   "mostPointsMatchup",
   "fewestPointsGame",
+  "fewestPointsGameInPlayoffs",
   "fewestPointsSeason",
   "fewestPointsSeasonWithPlayoffs",
   "fewestPointsPerWeek",

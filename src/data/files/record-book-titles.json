@@ -1,5 +1,6 @@
 {
   "mostPointsGame": { "title": "Most Points in a Week" },
+  "mostPointsGameInPlayoffs": { "title": "Most Points in a Playoff Week" },
   "mostPointsGameBestBall": { "title": "Most Points in a Week (Best Ball scoring)" },
   "mostPointsSeason": { "title": "Most Points in a Season" },
   "mostPointsSeasonBestBall": { "title": "Most Points in a Season (Best Ball scoring)" },
@@ -9,6 +10,7 @@
   "mostPointsPerWeekWithPlayoffs": { "title": "Most Points per Week in a Season" },
   "mostPointsMatchup": { "title": "Most Combined Points in a Matchup" },
   "fewestPointsGame": { "title": "Fewest Points in a Week" },
+  "fewestPointsGameInPlayoffs": { "title": "Fewest Points in a Playoff Week" },
   "fewestPointsSeason": { "title": "Fewest Points in a Season" },
   "fewestPointsSeasonWithPlayoffs": { "title": "Fewest Points in a Season" },
   "fewestPointsPerWeek": { "title": "Fewest Points per Week in a Season" },
