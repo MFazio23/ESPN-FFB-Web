@@ -6,7 +6,7 @@ import recordBookTitlesOrder from './files/record-book-title-order.json'
 import standings from './files/standings.json'
 import teamYearMapJson from './files/team-year-map.json';
 
-const currentYear = 2022
+const currentYear = 2023
 
 const getMembersFromOwnerIds = (team, memberList) =>
     team
