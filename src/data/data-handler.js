@@ -5,8 +5,7 @@ import recordBookTitles from './files/record-book-titles.json';
 import recordBookTitlesOrder from './files/record-book-title-order.json'
 import standings from './files/standings.json'
 import teamYearMapJson from './files/team-year-map.json';
-
-const currentYear = 2023
+import config from "../config";
 
 const getMembersFromOwnerIds = (team, memberList) =>
     team
@@ -14,7 +13,7 @@ const getMembersFromOwnerIds = (team, memberList) =>
         .map(ownerId => memberList.find(member => member.id === ownerId))
         .filter(member => !!member)
 
-const teamYearMap = Object.entries(teamYearMapJson).reduce((yearMap, [year, teams], c) => {
+const teamYearMap = Object.entries(teamYearMapJson).reduce((yearMap, [year, teams]) => {
     const updatedTeams = teams.map(team => ({
         ...team,
         owners: getMembersFromOwnerIds(team, memberList)
@@ -65,7 +64,7 @@ const getMemberVsTeamRecords = (ownerId) => {
     return Object.entries(memberVsTeamRecords[ownerId] || {}).map(([teamId, records]) => {
         console.log("TeamId", teamId)
         return {
-            team: teamYearMap[currentYear].find(team => team.id === parseInt(teamId)),
+            team: teamYearMap[config.currentYear].find(team => team.id === parseInt(teamId)),
             records
         }
     })

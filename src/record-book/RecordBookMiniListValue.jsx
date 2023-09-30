@@ -1,5 +1,6 @@
 import {Stack, Typography} from "@mui/material";
 import * as React from "react";
+import config from "../config";
 
 export function RecordBookMiniListValue(props) {
     const record = props.record;
@@ -12,10 +13,10 @@ export function RecordBookMiniListValue(props) {
 
     return (
         <Stack>
-            <Typography variant="h6" align="center"
-                        size="small">{value}</Typography>
-            <Typography variant="subtitle" align="center"
-                        size="small">{dateText}</Typography>
+            <Typography variant="h6" align="center" size="small"
+                        color={record.season === config.currentYear ? "success.main" : "text.primary"}>{value}</Typography>
+            <Typography variant="subtitle" align="center" size="small"
+                        color={record.season === config.currentYear ? "success.main" : "text.primary"}>{dateText}</Typography>
         </Stack>
     )
 }
