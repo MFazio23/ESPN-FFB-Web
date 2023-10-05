@@ -60,23 +60,18 @@ const recordBook = Object.entries(recordBooks).reduce((book, [type, recordBook])
     }))
 }), {});
 
-const getMemberVsTeamRecords = (ownerId) => {
-    return Object.entries(memberVsTeamRecords[ownerId] || {}).map(([teamId, records]) => {
-        console.log("TeamId", teamId)
-        return {
-            team: teamYearMap[config.currentYear].find(team => team.id === parseInt(teamId)),
-            records
-        }
-    })
-}
+const getMemberVsTeamRecords = (ownerId) =>
+    Object.entries(memberVsTeamRecords[ownerId] || {}).map(([teamId, records]) => ({
+        team: teamYearMap[config.currentYear].find(team => team.id === parseInt(teamId)),
+        records
+    }))
 
-const getOwnerDataById = (ownerId) => {
-    return !ownerId ? {} : {
+const getOwnerDataById = (ownerId) =>
+    !ownerId ? {} : {
         owner: memberList.find(member => member.id === ownerId),
         standings: standings.find(standing => standing.member.id === ownerId),
         vsTeamRecords: getMemberVsTeamRecords(ownerId)
     }
-}
 
 const DataHandler = {
     teamYearMap,

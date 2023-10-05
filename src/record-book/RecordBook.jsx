@@ -9,7 +9,7 @@ export default function RecordBook() {
 
     const recordBook = dataHandler.recordBook[recordBookType];
 
-    return (
+    return recordBook && (
         <TableContainer component={Paper} sx={{
             width: "fit-content",
             maxWidth: 900,
@@ -26,12 +26,13 @@ export default function RecordBook() {
                 <Tab label="Standard" value="standard" />
                 <Tab label="Modern" value="modern"/>
                 <Tab label="Best Ball" value="bestBall" />
+                <Tab label="Current Year" value="currentYear" />
             </Tabs>
             <Table aria-label="record-book">
                 <TableBody>
                     {recordBook
                         .sort((bookA, bookB) => bookA.order - bookB.order)
-                        .map(recordCategory => <RecordBookItem key={recordCategory.id}
+                        .map(recordCategory => <RecordBookItem key={recordCategory.id} recordBookType={recordBookType}
                                                                recordCategory={recordCategory}/>)}
                 </TableBody>
             </Table>

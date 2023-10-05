@@ -4,11 +4,10 @@ import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import RecordBookMiniList from "./RecordBookMiniList";
 
-export default function RecordBookItem(props) {
-    const category = props.recordCategory;
+export default function RecordBookItem({recordCategory, recordBookType}) {
     const [open, setOpen] = React.useState(false);
 
-    if (category.records.length <= 0) return (<React.Fragment />);
+    if (recordCategory.records.length <= 0) return (<React.Fragment />);
 
     return (
         <React.Fragment>
@@ -25,10 +24,10 @@ export default function RecordBookItem(props) {
                 <TableCell component="th" scope="row">
                     <Stack>
                         <Typography variant="h4" component="h4">
-                            {category.title}
+                            {recordCategory.title}
                         </Typography>
                         <Typography variant="caption">
-                            {(category.withPlayoffs ? '+ playoffs' : '')}
+                            {(recordCategory.withPlayoffs ? '+ playoffs' : '')}
                         </Typography>
                     </Stack>
                 </TableCell>
@@ -36,7 +35,7 @@ export default function RecordBookItem(props) {
             <TableRow>
                 <TableCell style={{paddingBottom: 0, paddingTop: 0}} colSpan={6}>
                     <Collapse in={open} timeout="auto" unmountOnExit>
-                        <RecordBookMiniList records={category.records}/>
+                        <RecordBookMiniList recordBookType={recordBookType} records={recordCategory.records}/>
                     </Collapse>
                 </TableCell>
             </TableRow>
