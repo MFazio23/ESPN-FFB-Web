@@ -12,6 +12,7 @@ import RecordBook from "./record-book/RecordBook";
 import Home from "./Home";
 import Standings from "./standings/Standings";
 import OwnerDetails from "./teams/OwnerDetails";
+import Franchises from "./teams/Franchises";
 
 export default function App() {
     const [isDrawerOpen, setDrawerOpen] = React.useState(false);
@@ -35,9 +36,11 @@ export default function App() {
             <main className="mainContainer">
                 <NavDrawer isDrawerOpen={isDrawerOpen} toggleDrawer={toggleDrawer}/>
                 <Routes>
+                    <Route path={Links.owners} element={<Standings/>}/>
+                    <Route path={Links.ownerDetails} element={<OwnerDetails/>}/>
                     <Route path={Links.recordBook} element={<RecordBook/>}/>
                     <Route path={Links.standings} element={<Standings/>}/>
-                    <Route path={Links.ownerDetails} element={<OwnerDetails/>}/>
+                    <Route path={Links.franchises} element={<Franchises/>}/>
                     <Route path="/" element={<Home/>}/>
                 </Routes>
             </main>

@@ -4,6 +4,7 @@ import recordBooks from './files/record-book.json'
 import recordBookTitles from './files/record-book-titles.json';
 import recordBookTitlesOrder from './files/record-book-title-order.json'
 import standings from './files/standings.json'
+import teamSummaries from './files/team-summaries.json';
 import teamYearMapJson from './files/team-year-map.json';
 import config from "../config";
 
@@ -77,6 +78,7 @@ const DataHandler = {
     teamYearMap,
     recordBook,
     getOwnerDataById,
+    teamSummaries,
     standingsList: standings
 };
 

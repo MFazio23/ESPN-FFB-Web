@@ -3,8 +3,6 @@ import SortableTable from "../sortable-table/SortableTable";
 
 export default function OwnerVersusTable({records}) {
 
-    console.log("Records", records)
-
     const versusTableData = records.map(({team, records}) => ({
         itemId: team.id,
         tableItems: [
