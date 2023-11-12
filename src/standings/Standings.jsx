@@ -70,7 +70,8 @@ const standingsTableData = standings.map(standingsItem => ({
         },
         {
             id: 'championships',
-            value: Array.from({length: standingsItem.championships.standardScoring}, () => "🏆").join(""),
+            value: standingsItem.championships.standardScoring,
+            renderFunction: (cell) => Array.from({length: cell.value}, () => "🏆").join(""),
             numeric: true
         }
     ]

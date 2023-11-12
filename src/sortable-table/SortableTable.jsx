@@ -27,6 +27,15 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}
 
     if (!tableData) return <Box />
 
+    const cellDisplay = (cell) => {
+        if (cell.renderFunction) {
+            return cell.renderFunction(cell)
+        }
+        return cell.value === 0 || Number(cell.value) ?
+            (cell.value).toFixed(cell.digits || 0) :
+            cell.value
+    }
+
     return (
         <Card sx={{marginBottom: 8}}>
             {topTitle && <Typography variant="h2" component="h2" align="center">{topTitle}</Typography>}
@@ -42,7 +51,7 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}
                                 {row.tableItems.map((cell, index) => (
                                     <TableCell key={index}
                                                align={headers[index]?.numeric ? 'right' : 'left'}>
-                                        {cell.value === 0 || Number(cell.value) ? (cell.value).toFixed(cell.digits || 0) : cell.value}
+                                        {cellDisplay(cell)}
                                     </TableCell>
                                 ))}
                             </TableRow>
