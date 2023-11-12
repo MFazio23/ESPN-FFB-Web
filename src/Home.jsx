@@ -20,6 +20,7 @@ export default function Home() {
 
                     <Button component={Link} to={Links.recordBook}>Record Book</Button>
                     <Button component={Link} to={Links.standings}>All-Time Standings</Button>
+                    <Button component={Link} to={Links.franchises}>Franchise History</Button>
                 </Stack>
 
             </CardContent>
