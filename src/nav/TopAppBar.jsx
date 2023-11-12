@@ -27,15 +27,15 @@ export default function TopAppBar(props) {
                         size="large"
                         edge="start"
                         color="inherit"
-                        aria-label="menu"
+                        aria-label="home link with title"
+                        disableRipple
                         component={Link}
-                        to={Links.home}
-                        sx={{mr: 2}}>
-                        <SportsFootballIcon/>
+                        to={Links.home}>
+                        <SportsFootballIcon sx={{mr: 1}}/>
+                        <Typography variant="h6" component="div" sx={{flexGrow: 1}}>
+                            Fun Time Auction FFB History
+                        </Typography>
                     </IconButton>
-                    <Typography variant="h6" component="div" sx={{flexGrow: 1}}>
-                        Fun Time Auction FFB History
-                    </Typography>
                 </Toolbar>
             </AppBar>
         </Box>
