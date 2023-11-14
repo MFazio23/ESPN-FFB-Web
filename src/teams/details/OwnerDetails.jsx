@@ -1,7 +1,7 @@
 import {Box, Typography} from "@mui/material";
 import {useParams} from "react-router-dom"
-import dataHandler from '../data/data-handler';
-import OwnerVersusTable from "./OwnerVersusTable";
+import dataHandler from '../../data/data-handler';
+import OwnerVersusTable from "../OwnerVersusTable";
 
 export default function OwnerDetails() {
     const {ownerId} = useParams();

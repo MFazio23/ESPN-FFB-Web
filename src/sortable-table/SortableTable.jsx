@@ -37,7 +37,7 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}
     }
 
     return (
-        <Card sx={{marginBottom: 8}}>
+        <Card sx={{mx: 3, mb: 8, pb: 3}}>
             {topTitle && <Typography variant="h2" component="h2" align="center">{topTitle}</Typography>}
             {cardHeader && <CardHeader title={cardHeader} subheader={cardSubheader}/>}
             <TableContainer>
@@ -46,6 +46,7 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}
                                        onRequestSort={handleRequestSort}/>
                     <TableBody>
                         {tableData.slice().sort(getComparator(order, orderBy)).map(row => (
+
                             <TableRow key={row.itemId} onClick={() => navigate(row.itemLink)}
                                       className={row.itemLink ? 'clickable-row' : ''}>
                                 {row.tableItems.map((cell, index) => (

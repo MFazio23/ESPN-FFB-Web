@@ -1,7 +1,7 @@
 const Links = {
     home: "/",
     franchises: "/franchises",
-    franchise: "/franchises/:franchiseId",
+    franchiseDetails: "/franchises/:franchiseId",
     owners: "/owners",
     ownerDetails: "/owners/:ownerId",
     recordBook: "/record-book",
