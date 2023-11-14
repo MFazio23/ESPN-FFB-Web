@@ -1,6 +1,5 @@
-import {Card, CardContent, Stack, Typography} from "@mui/material";
-import Box from "@mui/material/Box";
-import {FranchiseCardRow} from "../FranchiseCardRow";
+import {Card} from "@mui/material";
+
 import dataHandler from "../../data/data-handler";
 import {useParams} from "react-router-dom";
 
