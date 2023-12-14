@@ -1543,9 +1543,7 @@
         {
             "fullName": "Am I Going Over??",
             "id": 1,
-            "location": "Am I",
             "name": "Am I Going Over??",
-            "nickname": "Going Over??",
             "owners": ["A24CE5EF-0E09-49AB-94D2-19EC1663B700"],
             "shortName": "HHH",
             "year": 2023
@@ -1553,9 +1551,7 @@
         {
             "fullName": "Forgot About Dre",
             "id": 3,
-            "location": "A.R.12",
             "name": "Forgot About Dre",
-            "nickname": "MVPsychedelic",
             "owners": ["6BB7653E-8BC9-40F9-952A-33DD089B251C"],
             "shortName": "TFL",
             "year": 2023
@@ -1563,9 +1559,7 @@
         {
             "fullName": "Joe Buck Yourself",
             "id": 4,
-            "location": "Joe Buck",
             "name": "Joe Buck Yourself",
-            "nickname": "Yourself",
             "owners": ["75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"],
             "shortName": "Buck",
             "year": 2023
@@ -1573,9 +1567,7 @@
         {
             "fullName": "Oh Saquon You See",
             "id": 5,
-            "location": "Oh Saquon",
             "name": "Oh Saquon You See",
-            "nickname": "You See",
             "owners": ["CBC901C7-2511-49DD-A053-5F6E22C32329"],
             "shortName": "SQN",
             "year": 2023
@@ -1583,9 +1575,7 @@
         {
             "fullName": "Manning the Bay",
             "id": 9,
-            "location": "Manning the",
             "name": "Manning the Bay",
-            "nickname": "Bay",
             "owners": ["2569536C-A58F-4E7C-801F-F06DF3BE2A73"],
             "shortName": "2M1C",
             "year": 2023
@@ -1593,9 +1583,7 @@
         {
             "fullName": "Naptown Goiters",
             "id": 10,
-            "location": "Naptown",
             "name": "Naptown Goiters",
-            "nickname": "Goiters",
             "owners": ["F1509406-592B-43AF-A6E8-0F6BFB5638E7"],
             "shortName": "GOIT",
             "year": 2023
@@ -1603,9 +1591,7 @@
         {
             "fullName": "The Durango Kids",
             "id": 11,
-            "location": "MondayNight",
             "name": "The Durango Kids",
-            "nickname": "MemberBerries",
             "owners": ["0852AF46-6C26-4040-92AF-466C26C040F9"],
             "shortName": "TDK",
             "year": 2023
@@ -1613,29 +1599,16 @@
         {
             "fullName": "Tucker's Team",
             "id": 12,
-            "location": "Tucker's",
             "name": "Tucker's Team",
-            "nickname": "Team",
             "owners": ["8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"],
             "shortName": "TJS",
             "year": 2023
         },
-        {
-            "fullName": "Uncooked Box",
-            "id": 13,
-            "location": "Uncooked",
-            "name": "Uncooked Box",
-            "nickname": "Box",
-            "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"],
-            "shortName": "BARB",
-            "year": 2023
-        },
+        { "fullName": "Uncooked Box", "id": 13, "name": "Uncooked Box", "owners": ["AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"], "shortName": "BARB", "year": 2023 },
         {
             "fullName": "The Jalapeños",
             "id": 14,
-            "location": "The",
             "name": "The Jalapeños",
-            "nickname": "Jalapeños",
             "owners": ["A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"],
             "shortName": "JPÑ",
             "year": 2023
@@ -1643,9 +1616,7 @@
         {
             "fullName": "Ja’Marr Chase Bank",
             "id": 15,
-            "location": "Ja’Marr Chase",
             "name": "Ja’Marr Chase Bank",
-            "nickname": "Bank",
             "owners": ["FAA9326C-D141-4711-A932-6CD1413711B9"],
             "shortName": "JCB",
             "year": 2023
@@ -1653,9 +1624,7 @@
         {
             "fullName": "Bye Week Dominators",
             "id": 17,
-            "location": "Bye Week",
             "name": "Bye Week Dominators",
-            "nickname": "Dominators",
             "owners": ["C117D3A8-0CA0-4D96-AA00-DE4004A13A13"],
             "shortName": "LOSE",
             "year": 2023

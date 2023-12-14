@@ -238,7 +238,7 @@
             { "endYear": 2010, "owners": ["David Breen", "Tim Ericsen"], "startYear": 2009, "teamName": "Lotta Ball Sweat" },
             { "endYear": 2023, "owners": ["Tim Ericsen"], "startYear": 2011, "teamName": "Uncooked Box" }
         ],
-        "losses": 84,
+        "losses": 83,
         "seasons": [
             { "finalRank": 3, "isChampion": false, "losses": 7, "owners": ["David Breen", "Tim Ericsen"], "teamId": 13, "wins": 6, "year": 2009 },
             { "finalRank": 3, "isChampion": false, "losses": 4, "owners": ["David Breen", "Tim Ericsen"], "teamId": 13, "wins": 9, "year": 2010 },
@@ -254,11 +254,11 @@
             { "finalRank": 1, "isChampion": true, "losses": 3, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 10, "year": 2020 },
             { "finalRank": 5, "isChampion": false, "losses": 5, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 9, "year": 2021 },
             { "finalRank": 5, "isChampion": false, "losses": 8, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 6, "year": 2022 },
-            { "finalRank": 0, "isChampion": false, "losses": 9, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 5, "year": 2023 }
+            { "finalRank": 0, "isChampion": false, "losses": 8, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 6, "year": 2023 }
         ],
         "teamId": 13,
         "teamName": "Uncooked Box",
-        "wins": 114
+        "wins": 115
     },
     {
         "championships": 0,
@@ -339,7 +339,7 @@
             { "endYear": 2016, "owners": ["Nathan Fellom"], "startYear": 2016, "teamName": "Bye Week Dominators" },
             { "endYear": 2023, "owners": ["Blayne Roselle"], "startYear": 2017, "teamName": "Bye Week Dominators" }
         ],
-        "losses": 115,
+        "losses": 116,
         "seasons": [
             { "finalRank": 11, "isChampion": false, "losses": 7, "owners": ["Brandon Gustafson"], "teamId": 17, "wins": 6, "year": 2009 },
             { "finalRank": 12, "isChampion": false, "losses": 12, "owners": ["Brandon Gustafson"], "teamId": 17, "wins": 1, "year": 2010 },
@@ -355,10 +355,10 @@
             { "finalRank": 3, "isChampion": false, "losses": 5, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 8, "year": 2020 },
             { "finalRank": 10, "isChampion": false, "losses": 8, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 6, "year": 2021 },
             { "finalRank": 8, "isChampion": false, "losses": 8, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 6, "year": 2022 },
-            { "finalRank": 0, "isChampion": false, "losses": 8, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 6, "year": 2023 }
+            { "finalRank": 0, "isChampion": false, "losses": 9, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 5, "year": 2023 }
         ],
         "teamId": 17,
         "teamName": "Bye Week Dominators",
-        "wins": 83
+        "wins": 82
     }
 ]

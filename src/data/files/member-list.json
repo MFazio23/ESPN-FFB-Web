@@ -41,17 +41,17 @@
         "lastName": "Lopez",
         "notificationSettings": [
             { "enabled": true, "id": "e2410618-924d-3201-8891-630e94ac23ab", "type": "TEAM_PLAYER_NEWS" },
+            { "enabled": true, "id": "f598b927-ed90-340b-a12f-316342aa687b", "type": "ADD_DROP" },
+            { "enabled": true, "id": "1890e6cf-211c-3feb-a1aa-254794bb7de3", "type": "WAIVERS" },
+            { "enabled": true, "id": "91a3b67b-ff7d-35ff-8aaa-00b909955805", "type": "KEY_STAT_UPDATE" },
+            { "enabled": true, "id": "b2da23fd-c062-3471-bb63-c8f667e70fc6", "type": "WEEKLY_RECAP" },
+            { "enabled": true, "id": "242ecfe3-a5b9-37f7-bb59-c5c7cf792616", "type": "TEAM_PLAYER_STARTBENCH" },
             { "enabled": true, "id": "6a9ee905-439d-3946-a1dd-992239dbd481", "type": "TEAM_PLAYER_AVAILABILITY" },
             { "enabled": true, "id": "35d35a94-0419-3766-9180-7e8a43c79c71", "type": "TEAM_PLAYER_INJURY" },
-            { "enabled": true, "id": "f598b927-ed90-340b-a12f-316342aa687b", "type": "ADD_DROP" },
             { "enabled": true, "id": "d7a25396-39f5-3740-bd9f-4eb3951e26eb", "type": "REDZONE" },
             { "enabled": true, "id": "71932cbc-a6e7-3cde-8c04-a92a8a2ba170", "type": "DRAFT" },
             { "enabled": true, "id": "8e0b8079-fe3b-33e1-9bc7-1268a022185d", "type": "TEAM_MATCHUP_SCORE" },
-            { "enabled": true, "id": "1890e6cf-211c-3feb-a1aa-254794bb7de3", "type": "WAIVERS" },
-            { "enabled": true, "id": "a5485eb8-f6f7-3fae-960f-933617b2ae26", "type": "TEAM_TRADE_OFFER" },
-            { "enabled": true, "id": "91a3b67b-ff7d-35ff-8aaa-00b909955805", "type": "KEY_STAT_UPDATE" },
-            { "enabled": true, "id": "b2da23fd-c062-3471-bb63-c8f667e70fc6", "type": "WEEKLY_RECAP" },
-            { "enabled": true, "id": "242ecfe3-a5b9-37f7-bb59-c5c7cf792616", "type": "TEAM_PLAYER_STARTBENCH" }
+            { "enabled": true, "id": "a5485eb8-f6f7-3fae-960f-933617b2ae26", "type": "TEAM_TRADE_OFFER" }
         ]
     }
 ]
