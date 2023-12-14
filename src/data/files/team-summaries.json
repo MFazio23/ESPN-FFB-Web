@@ -1,1 +1,364 @@
-[{"championships":1,"eras":[{"endYear":2009,"owners":["John Otto","Michael Fazio"],"startYear":2009,"teamName":"Vivian Lopez"},{"endYear":2010,"owners":["Michael Fazio"],"startYear":2010,"teamName":"Silver Fish Hand Catch"},{"endYear":2015,"owners":["Michael Fazio"],"startYear":2011,"teamName":"Not The Hammer"},{"endYear":2023,"owners":["Michael Fazio"],"startYear":2016,"teamName":"Am I Going Over??"}],"losses":79,"seasons":[{"finalRank":2,"isChampion":false,"losses":6,"owners":["John Otto","Michael Fazio"],"teamId":1,"wins":7,"year":2009},{"finalRank":5,"isChampion":false,"losses":2,"owners":["Michael Fazio"],"teamId":1,"wins":11,"year":2010},{"finalRank":1,"isChampion":true,"losses":3,"owners":["Michael Fazio"],"teamId":1,"wins":10,"year":2011},{"finalRank":2,"isChampion":false,"losses":4,"owners":["Michael Fazio"],"teamId":1,"wins":9,"year":2012},{"finalRank":5,"isChampion":false,"losses":5,"owners":["Michael Fazio"],"teamId":1,"wins":8,"year":2013},{"finalRank":7,"isChampion":false,"losses":3,"owners":["Michael Fazio"],"teamId":1,"wins":10,"year":2014},{"finalRank":3,"isChampion":false,"losses":5,"owners":["Michael Fazio"],"teamId":1,"wins":8,"year":2015},{"finalRank":5,"isChampion":false,"losses":6,"owners":["Michael Fazio"],"teamId":1,"wins":7,"year":2016},{"finalRank":2,"isChampion":false,"losses":4,"owners":["Michael Fazio"],"teamId":1,"wins":9,"year":2017},{"finalRank":3,"isChampion":false,"losses":8,"owners":["Michael Fazio"],"teamId":1,"wins":5,"year":2018},{"finalRank":11,"isChampion":false,"losses":10,"owners":["Michael Fazio"],"teamId":1,"wins":3,"year":2019},{"finalRank":5,"isChampion":false,"losses":4,"owners":["Michael Fazio"],"teamId":1,"wins":9,"year":2020},{"finalRank":9,"isChampion":false,"losses":9,"owners":["Michael Fazio"],"teamId":1,"wins":5,"year":2021},{"finalRank":3,"isChampion":false,"losses":3,"owners":["Michael Fazio"],"teamId":1,"wins":11,"year":2022},{"finalRank":0,"isChampion":false,"losses":7,"owners":["Michael Fazio"],"teamId":1,"wins":7,"year":2023}],"teamId":1,"teamName":"Am I Going Over??","wins":119},{"championships":1,"eras":[{"endYear":2010,"owners":["James Otto"],"startYear":2009,"teamName":"Wayne, NJ Dipstick Jimmys"},{"endYear":2015,"owners":["James Otto"],"startYear":2011,"teamName":"Prepare to be Sacked"},{"endYear":2021,"owners":["James Otto"],"startYear":2016,"teamName":"Throw it I am Open"},{"endYear":2022,"owners":["James Otto"],"startYear":2022,"teamName":"A.R.12 MVPsychedelic"},{"endYear":2023,"owners":["James Otto"],"startYear":2023,"teamName":"Forgot About Dre"}],"losses":116,"seasons":[{"finalRank":9,"isChampion":false,"losses":9,"owners":["James Otto"],"teamId":3,"wins":4,"year":2009},{"finalRank":10,"isChampion":false,"losses":9,"owners":["James Otto"],"teamId":3,"wins":4,"year":2010},{"finalRank":10,"isChampion":false,"losses":9,"owners":["James Otto"],"teamId":3,"wins":4,"year":2011},{"finalRank":11,"isChampion":false,"losses":8,"owners":["James Otto"],"teamId":3,"wins":5,"year":2012},{"finalRank":10,"isChampion":false,"losses":9,"owners":["James Otto"],"teamId":3,"wins":4,"year":2013},{"finalRank":1,"isChampion":true,"losses":6,"owners":["James Otto"],"teamId":3,"wins":7,"year":2014},{"finalRank":9,"isChampion":false,"losses":8,"owners":["James Otto"],"teamId":3,"wins":5,"year":2015},{"finalRank":12,"isChampion":false,"losses":8,"owners":["James Otto"],"teamId":3,"wins":5,"year":2016},{"finalRank":9,"isChampion":false,"losses":8,"owners":["James Otto"],"teamId":3,"wins":5,"year":2017},{"finalRank":11,"isChampion":false,"losses":9,"owners":["James Otto"],"teamId":3,"wins":4,"year":2018},{"finalRank":7,"isChampion":false,"losses":3,"owners":["James Otto"],"teamId":3,"wins":10,"year":2019},{"finalRank":9,"isChampion":false,"losses":8,"owners":["James Otto"],"teamId":3,"wins":5,"year":2020},{"finalRank":3,"isChampion":false,"losses":7,"owners":["James Otto"],"teamId":3,"wins":7,"year":2021},{"finalRank":11,"isChampion":false,"losses":9,"owners":["James Otto"],"teamId":3,"wins":5,"year":2022},{"finalRank":0,"isChampion":false,"losses":6,"owners":["James Otto"],"teamId":3,"wins":8,"year":2023}],"teamId":3,"teamName":"Forgot About Dre","wins":82},{"championships":0,"eras":[{"endYear":2010,"owners":["Dave Smith"],"startYear":2009,"teamName":"Waukesha Ochsenfroesche"},{"endYear":2012,"owners":["Dave Smith"],"startYear":2011,"teamName":"Thats What She Said"},{"endYear":2017,"owners":["Dave Smith"],"startYear":2013,"teamName":"Joe Buck Yourself"},{"endYear":2023,"owners":["Ben Pelc"],"startYear":2018,"teamName":"Joe Buck Yourself"}],"losses":120,"seasons":[{"finalRank":6,"isChampion":false,"losses":4,"owners":["Dave Smith"],"teamId":4,"wins":9,"year":2009},{"finalRank":9,"isChampion":false,"losses":8,"owners":["Dave Smith"],"teamId":4,"wins":5,"year":2010},{"finalRank":11,"isChampion":false,"losses":9,"owners":["Dave Smith"],"teamId":4,"wins":4,"year":2011},{"finalRank":6,"isChampion":false,"losses":7,"owners":["Dave Smith"],"teamId":4,"wins":6,"year":2012},{"finalRank":12,"isChampion":false,"losses":8,"owners":["Dave Smith"],"teamId":4,"wins":5,"year":2013},{"finalRank":9,"isChampion":false,"losses":11,"owners":["Dave Smith"],"teamId":4,"wins":2,"year":2014},{"finalRank":8,"isChampion":false,"losses":5,"owners":["Dave Smith"],"teamId":4,"wins":8,"year":2015},{"finalRank":9,"isChampion":false,"losses":9,"owners":["Dave Smith"],"teamId":4,"wins":4,"year":2016},{"finalRank":3,"isChampion":false,"losses":3,"owners":["Dave Smith"],"teamId":4,"wins":10,"year":2017},{"finalRank":9,"isChampion":false,"losses":8,"owners":["Ben Pelc"],"teamId":4,"wins":5,"year":2018},{"finalRank":8,"isChampion":false,"losses":6,"owners":["Ben Pelc"],"teamId":4,"wins":7,"year":2019},{"finalRank":11,"isChampion":false,"losses":13,"owners":["Ben Pelc"],"teamId":4,"wins":0,"year":2020},{"finalRank":6,"isChampion":false,"losses":7,"owners":["Ben Pelc"],"teamId":4,"wins":7,"year":2021},{"finalRank":12,"isChampion":false,"losses":13,"owners":["Ben Pelc"],"teamId":4,"wins":1,"year":2022},{"finalRank":0,"isChampion":false,"losses":9,"owners":["Ben Pelc"],"teamId":4,"wins":5,"year":2023}],"teamId":4,"teamName":"Joe Buck Yourself","wins":78},{"championships":2,"eras":[{"endYear":2009,"owners":["Scott Johnson"],"startYear":2009,"teamName":"The Milwaukee Singer"},{"endYear":2015,"owners":["Scott Johnson"],"startYear":2010,"teamName":"Delicious Pasta"},{"endYear":2020,"owners":["Scott Johnson"],"startYear":2016,"teamName":"Delicious Traitorade"},{"endYear":2023,"owners":["Scott Johnson"],"startYear":2021,"teamName":"Oh Saquon You See"}],"losses":82,"seasons":[{"finalRank":7,"isChampion":false,"losses":6,"owners":["Scott Johnson"],"teamId":5,"wins":7,"year":2009},{"finalRank":4,"isChampion":false,"losses":5,"owners":["Scott Johnson"],"teamId":5,"wins":8,"year":2010},{"finalRank":2,"isChampion":false,"losses":3,"owners":["Scott Johnson"],"teamId":5,"wins":10,"year":2011},{"finalRank":3,"isChampion":false,"losses":6,"owners":["Scott Johnson"],"teamId":5,"wins":7,"year":2012},{"finalRank":8,"isChampion":false,"losses":5,"owners":["Scott Johnson"],"teamId":5,"wins":8,"year":2013},{"finalRank":10,"isChampion":false,"losses":8,"owners":["Scott Johnson"],"teamId":5,"wins":5,"year":2014},{"finalRank":10,"isChampion":false,"losses":8,"owners":["Scott Johnson"],"teamId":5,"wins":5,"year":2015},{"finalRank":1,"isChampion":true,"losses":5,"owners":["Scott Johnson"],"teamId":5,"wins":8,"year":2016},{"finalRank":4,"isChampion":false,"losses":3,"owners":["Scott Johnson"],"teamId":5,"wins":10,"year":2017},{"finalRank":2,"isChampion":false,"losses":5,"owners":["Scott Johnson"],"teamId":5,"wins":8,"year":2018},{"finalRank":6,"isChampion":false,"losses":5,"owners":["Scott Johnson"],"teamId":5,"wins":8,"year":2019},{"finalRank":8,"isChampion":false,"losses":5,"owners":["Scott Johnson"],"teamId":5,"wins":8,"year":2020},{"finalRank":8,"isChampion":false,"losses":6,"owners":["Scott Johnson"],"teamId":5,"wins":8,"year":2021},{"finalRank":1,"isChampion":true,"losses":5,"owners":["Scott Johnson"],"teamId":5,"wins":9,"year":2022},{"finalRank":0,"isChampion":false,"losses":7,"owners":["Scott Johnson"],"teamId":5,"wins":7,"year":2023}],"teamId":5,"teamName":"Oh Saquon You See","wins":116},{"championships":4,"eras":[{"endYear":2013,"owners":["Justin Witz"],"startYear":2009,"teamName":"2 Mannings 1 Cup"},{"endYear":2015,"owners":["Justin Witz"],"startYear":2014,"teamName":"Manning of Steel"},{"endYear":2023,"owners":["Justin Witz"],"startYear":2016,"teamName":"Manning the Bay"}],"losses":67,"seasons":[{"finalRank":1,"isChampion":true,"losses":6,"owners":["Justin Witz"],"teamId":9,"wins":7,"year":2009},{"finalRank":2,"isChampion":false,"losses":2,"owners":["Justin Witz"],"teamId":9,"wins":11,"year":2010},{"finalRank":5,"isChampion":false,"losses":4,"owners":["Justin Witz"],"teamId":9,"wins":9,"year":2011},{"finalRank":8,"isChampion":false,"losses":4,"owners":["Justin Witz"],"teamId":9,"wins":9,"year":2012},{"finalRank":3,"isChampion":false,"losses":6,"owners":["Justin Witz"],"teamId":9,"wins":7,"year":2013},{"finalRank":3,"isChampion":false,"losses":2,"owners":["Justin Witz"],"teamId":9,"wins":11,"year":2014},{"finalRank":1,"isChampion":true,"losses":3,"owners":["Justin Witz"],"teamId":9,"wins":10,"year":2015},{"finalRank":4,"isChampion":false,"losses":0,"owners":["Justin Witz"],"teamId":9,"wins":13,"year":2016},{"finalRank":8,"isChampion":false,"losses":6,"owners":["Justin Witz"],"teamId":9,"wins":7,"year":2017},{"finalRank":1,"isChampion":true,"losses":6,"owners":["Justin Witz"],"teamId":9,"wins":7,"year":2018},{"finalRank":10,"isChampion":false,"losses":9,"owners":["Justin Witz"],"teamId":9,"wins":4,"year":2019},{"finalRank":2,"isChampion":false,"losses":5,"owners":["Justin Witz"],"teamId":9,"wins":8,"year":2020},{"finalRank":1,"isChampion":true,"losses":5,"owners":["Justin Witz"],"teamId":9,"wins":9,"year":2021},{"finalRank":6,"isChampion":false,"losses":6,"owners":["Justin Witz"],"teamId":9,"wins":8,"year":2022},{"finalRank":0,"isChampion":false,"losses":3,"owners":["Justin Witz"],"teamId":9,"wins":11,"year":2023}],"teamId":9,"teamName":"Manning the Bay","wins":131},{"championships":2,"eras":[{"endYear":2009,"owners":["Carl Brienen"],"startYear":2009,"teamName":"Sweatpants Holsters"},{"endYear":2023,"owners":["Ben Ericsen"],"startYear":2010,"teamName":"Naptown Goiters"}],"losses":80,"seasons":[{"finalRank":10,"isChampion":false,"losses":9,"owners":["Carl Brienen"],"teamId":10,"wins":4,"year":2009},{"finalRank":6,"isChampion":false,"losses":7,"owners":["Ben Ericsen"],"teamId":10,"wins":6,"year":2010},{"finalRank":3,"isChampion":false,"losses":7,"owners":["Ben Ericsen"],"teamId":10,"wins":6,"year":2011},{"finalRank":4,"isChampion":false,"losses":2,"owners":["Ben Ericsen"],"teamId":10,"wins":11,"year":2012},{"finalRank":1,"isChampion":true,"losses":3,"owners":["Ben Ericsen"],"teamId":10,"wins":10,"year":2013},{"finalRank":2,"isChampion":false,"losses":3,"owners":["Ben Ericsen"],"teamId":10,"wins":10,"year":2014},{"finalRank":4,"isChampion":false,"losses":5,"owners":["Ben Ericsen"],"teamId":10,"wins":8,"year":2015},{"finalRank":2,"isChampion":false,"losses":3,"owners":["Ben Ericsen"],"teamId":10,"wins":10,"year":2016},{"finalRank":1,"isChampion":true,"losses":4,"owners":["Ben Ericsen"],"teamId":10,"wins":9,"year":2017},{"finalRank":10,"isChampion":false,"losses":8,"owners":["Ben Ericsen"],"teamId":10,"wins":5,"year":2018},{"finalRank":4,"isChampion":false,"losses":6,"owners":["Ben Ericsen"],"teamId":10,"wins":7,"year":2019},{"finalRank":7,"isChampion":false,"losses":7,"owners":["Ben Ericsen"],"teamId":10,"wins":6,"year":2020},{"finalRank":4,"isChampion":false,"losses":4,"owners":["Ben Ericsen"],"teamId":10,"wins":10,"year":2021},{"finalRank":7,"isChampion":false,"losses":4,"owners":["Ben Ericsen"],"teamId":10,"wins":10,"year":2022},{"finalRank":0,"isChampion":false,"losses":8,"owners":["Ben Ericsen"],"teamId":10,"wins":6,"year":2023}],"teamId":10,"teamName":"Naptown Goiters","wins":118},{"championships":1,"eras":[{"endYear":2011,"owners":["David Pietrzykowski"],"startYear":2009,"teamName":"treadhead for life"},{"endYear":2016,"owners":["David Pietrzykowski"],"startYear":2012,"teamName":"MarshallNomNom ForCutlersBalls"},{"endYear":2022,"owners":["David Pietrzykowski"],"startYear":2017,"teamName":"MondayNight MemberBerries"},{"endYear":2023,"owners":["Rolando Lopez"],"startYear":2023,"teamName":"The Durango Kids"}],"losses":90,"seasons":[{"finalRank":4,"isChampion":false,"losses":3,"owners":["David Pietrzykowski"],"teamId":11,"wins":10,"year":2009},{"finalRank":7,"isChampion":false,"losses":6,"owners":["David Pietrzykowski"],"teamId":11,"wins":7,"year":2010},{"finalRank":7,"isChampion":false,"losses":6,"owners":["David Pietrzykowski"],"teamId":11,"wins":7,"year":2011},{"finalRank":1,"isChampion":true,"losses":6,"owners":["David Pietrzykowski"],"teamId":11,"wins":7,"year":2012},{"finalRank":9,"isChampion":false,"losses":9,"owners":["David Pietrzykowski"],"teamId":11,"wins":4,"year":2013},{"finalRank":4,"isChampion":false,"losses":7,"owners":["David Pietrzykowski"],"teamId":11,"wins":6,"year":2014},{"finalRank":6,"isChampion":false,"losses":4,"owners":["David Pietrzykowski"],"teamId":11,"wins":9,"year":2015},{"finalRank":7,"isChampion":false,"losses":6,"owners":["David Pietrzykowski"],"teamId":11,"wins":7,"year":2016},{"finalRank":7,"isChampion":false,"losses":8,"owners":["David Pietrzykowski"],"teamId":11,"wins":5,"year":2017},{"finalRank":6,"isChampion":false,"losses":6,"owners":["David Pietrzykowski"],"teamId":11,"wins":7,"year":2018},{"finalRank":5,"isChampion":false,"losses":4,"owners":["David Pietrzykowski"],"teamId":11,"wins":9,"year":2019},{"finalRank":6,"isChampion":false,"losses":5,"owners":["David Pietrzykowski"],"teamId":11,"wins":8,"year":2020},{"finalRank":11,"isChampion":false,"losses":9,"owners":["David Pietrzykowski"],"teamId":11,"wins":5,"year":2021},{"finalRank":9,"isChampion":false,"losses":10,"owners":["David Pietrzykowski"],"teamId":11,"wins":4,"year":2022},{"finalRank":0,"isChampion":false,"losses":1,"owners":["Rolando Lopez"],"teamId":11,"wins":13,"year":2023}],"teamId":11,"teamName":"The Durango Kids","wins":108},{"championships":1,"eras":[{"endYear":2023,"owners":["Tucker James"],"startYear":2009,"teamName":"Tucker's Team"}],"losses":109,"seasons":[{"finalRank":5,"isChampion":false,"losses":7,"owners":["Tucker James"],"teamId":12,"wins":6,"year":2009},{"finalRank":1,"isChampion":true,"losses":6,"owners":["Tucker James"],"teamId":12,"wins":7,"year":2010},{"finalRank":4,"isChampion":false,"losses":4,"owners":["Tucker James"],"teamId":12,"wins":9,"year":2011},{"finalRank":7,"isChampion":false,"losses":6,"owners":["Tucker James"],"teamId":12,"wins":7,"year":2012},{"finalRank":4,"isChampion":false,"losses":4,"owners":["Tucker James"],"teamId":12,"wins":9,"year":2013},{"finalRank":8,"isChampion":false,"losses":8,"owners":["Tucker James"],"teamId":12,"wins":5,"year":2014},{"finalRank":7,"isChampion":false,"losses":6,"owners":["Tucker James"],"teamId":12,"wins":7,"year":2015},{"finalRank":8,"isChampion":false,"losses":8,"owners":["Tucker James"],"teamId":12,"wins":5,"year":2016},{"finalRank":12,"isChampion":false,"losses":11,"owners":["Tucker James"],"teamId":12,"wins":2,"year":2017},{"finalRank":8,"isChampion":false,"losses":5,"owners":["Tucker James"],"teamId":12,"wins":8,"year":2018},{"finalRank":2,"isChampion":false,"losses":6,"owners":["Tucker James"],"teamId":12,"wins":7,"year":2019},{"finalRank":10,"isChampion":false,"losses":8,"owners":["Tucker James"],"teamId":12,"wins":5,"year":2020},{"finalRank":12,"isChampion":false,"losses":13,"owners":["Tucker James"],"teamId":12,"wins":1,"year":2021},{"finalRank":10,"isChampion":false,"losses":10,"owners":["Tucker James"],"teamId":12,"wins":4,"year":2022},{"finalRank":0,"isChampion":false,"losses":7,"owners":["Tucker James"],"teamId":12,"wins":7,"year":2023}],"teamId":12,"teamName":"Tucker's Team","wins":89},{"championships":1,"eras":[{"endYear":2010,"owners":["David Breen","Tim Ericsen"],"startYear":2009,"teamName":"Lotta Ball Sweat"},{"endYear":2023,"owners":["Tim Ericsen"],"startYear":2011,"teamName":"Uncooked Box"}],"losses":84,"seasons":[{"finalRank":3,"isChampion":false,"losses":7,"owners":["David Breen","Tim Ericsen"],"teamId":13,"wins":6,"year":2009},{"finalRank":3,"isChampion":false,"losses":4,"owners":["David Breen","Tim Ericsen"],"teamId":13,"wins":9,"year":2010},{"finalRank":6,"isChampion":false,"losses":7,"owners":["Tim Ericsen"],"teamId":13,"wins":6,"year":2011},{"finalRank":5,"isChampion":false,"losses":5,"owners":["Tim Ericsen"],"teamId":13,"wins":8,"year":2012},{"finalRank":11,"isChampion":false,"losses":8,"owners":["Tim Ericsen"],"teamId":13,"wins":5,"year":2013},{"finalRank":5,"isChampion":false,"losses":6,"owners":["Tim Ericsen"],"teamId":13,"wins":7,"year":2014},{"finalRank":5,"isChampion":false,"losses":6,"owners":["Tim Ericsen"],"teamId":13,"wins":7,"year":2015},{"finalRank":3,"isChampion":false,"losses":4,"owners":["Tim Ericsen"],"teamId":13,"wins":9,"year":2016},{"finalRank":5,"isChampion":false,"losses":6,"owners":["Tim Ericsen"],"teamId":13,"wins":7,"year":2017},{"finalRank":5,"isChampion":false,"losses":2,"owners":["Tim Ericsen"],"teamId":13,"wins":11,"year":2018},{"finalRank":3,"isChampion":false,"losses":4,"owners":["Tim Ericsen"],"teamId":13,"wins":9,"year":2019},{"finalRank":1,"isChampion":true,"losses":3,"owners":["Tim Ericsen"],"teamId":13,"wins":10,"year":2020},{"finalRank":5,"isChampion":false,"losses":5,"owners":["Tim Ericsen"],"teamId":13,"wins":9,"year":2021},{"finalRank":5,"isChampion":false,"losses":8,"owners":["Tim Ericsen"],"teamId":13,"wins":6,"year":2022},{"finalRank":0,"isChampion":false,"losses":9,"owners":["Tim Ericsen"],"teamId":13,"wins":5,"year":2023}],"teamId":13,"teamName":"Uncooked Box","wins":114},{"championships":0,"eras":[{"endYear":2009,"owners":["zhemin huang"],"startYear":2009,"teamName":"KungFu Panda"},{"endYear":2011,"owners":["John Otto"],"startYear":2010,"teamName":"No Longer KungFuPanda"},{"endYear":2015,"owners":["John Otto"],"startYear":2012,"teamName":"Harbaugh's Sputum"},{"endYear":2017,"owners":["Alex Woodward"],"startYear":2016,"teamName":"Sputnik's Mad Russians"},{"endYear":2018,"owners":["Alex Woodward","Juan Pablo Siller"],"startYear":2018,"teamName":"Sputnik's Mad Russians"},{"endYear":2019,"owners":["Juan Pablo Siller"],"startYear":2019,"teamName":"Sputnik's Mad Russians"},{"endYear":2023,"owners":["Juan Pablo Siller"],"startYear":2020,"teamName":"The Jalapeños"}],"losses":116,"seasons":[{"finalRank":8,"isChampion":false,"losses":6,"owners":["zhemin huang"],"teamId":14,"wins":7,"year":2009},{"finalRank":8,"isChampion":false,"losses":5,"owners":["John Otto"],"teamId":14,"wins":8,"year":2010},{"finalRank":9,"isChampion":false,"losses":10,"owners":["John Otto"],"teamId":14,"wins":3,"year":2011},{"finalRank":10,"isChampion":false,"losses":10,"owners":["John Otto"],"teamId":14,"wins":3,"year":2012},{"finalRank":7,"isChampion":false,"losses":7,"owners":["John Otto"],"teamId":14,"wins":6,"year":2013},{"finalRank":12,"isChampion":false,"losses":8,"owners":["John Otto"],"teamId":14,"wins":5,"year":2014},{"finalRank":12,"isChampion":false,"losses":12,"owners":["John Otto"],"teamId":14,"wins":1,"year":2015},{"finalRank":10,"isChampion":false,"losses":10,"owners":["Alex Woodward"],"teamId":14,"wins":3,"year":2016},{"finalRank":11,"isChampion":false,"losses":8,"owners":["Alex Woodward"],"teamId":14,"wins":5,"year":2017},{"finalRank":4,"isChampion":false,"losses":7,"owners":["Alex Woodward","Juan Pablo Siller"],"teamId":14,"wins":6,"year":2018},{"finalRank":9,"isChampion":false,"losses":7,"owners":["Juan Pablo Siller"],"teamId":14,"wins":6,"year":2019},{"finalRank":4,"isChampion":false,"losses":6,"owners":["Juan Pablo Siller"],"teamId":14,"wins":7,"year":2020},{"finalRank":2,"isChampion":false,"losses":5,"owners":["Juan Pablo Siller"],"teamId":14,"wins":9,"year":2021},{"finalRank":4,"isChampion":false,"losses":4,"owners":["Juan Pablo Siller"],"teamId":14,"wins":10,"year":2022},{"finalRank":0,"isChampion":false,"losses":11,"owners":["Juan Pablo Siller"],"teamId":14,"wins":3,"year":2023}],"teamId":14,"teamName":"The Jalapeños","wins":82},{"championships":0,"eras":[{"endYear":2010,"owners":["Matt Schrader"],"startYear":2009,"teamName":"Essen Gazoontite"},{"endYear":2012,"owners":["David Breen"],"startYear":2011,"teamName":"MKE BLOOOOOOBBBBB!!"},{"endYear":2013,"owners":["David Breen","Emad Kazmi"],"startYear":2013,"teamName":"MKE BLOOOOOOBBBBB!!"},{"endYear":2014,"owners":["David Breen","Emad Kazmi"],"startYear":2014,"teamName":"Shirtcockers Anonymous"},{"endYear":2018,"owners":["Emad Kazmi"],"startYear":2015,"teamName":"Shirtcockers Anonymous"},{"endYear":2019,"owners":["Nick Kwiecien"],"startYear":2019,"teamName":"Shirtcockers Anonymous"},{"endYear":2020,"owners":["Nick Kwiecien"],"startYear":2020,"teamName":"Little Red Fournette"},{"endYear":2021,"owners":["Nick Kwiecien"],"startYear":2021,"teamName":"Herbert Fully Loaded"},{"endYear":2023,"owners":["Nick Kwiecien"],"startYear":2022,"teamName":"Ja’Marr Chase Bank"}],"losses":130,"seasons":[{"finalRank":12,"isChampion":false,"losses":8,"owners":["Matt Schrader"],"teamId":15,"wins":5,"year":2009},{"finalRank":11,"isChampion":false,"losses":12,"owners":["Matt Schrader"],"teamId":15,"wins":1,"year":2010},{"finalRank":8,"isChampion":false,"losses":7,"owners":["David Breen"],"teamId":15,"wins":6,"year":2011},{"finalRank":9,"isChampion":false,"losses":9,"owners":["David Breen"],"teamId":15,"wins":4,"year":2012},{"finalRank":2,"isChampion":false,"losses":7,"owners":["David Breen","Emad Kazmi"],"teamId":15,"wins":6,"year":2013},{"finalRank":6,"isChampion":false,"losses":8,"owners":["David Breen","Emad Kazmi"],"teamId":15,"wins":5,"year":2014},{"finalRank":11,"isChampion":false,"losses":10,"owners":["Emad Kazmi"],"teamId":15,"wins":3,"year":2015},{"finalRank":11,"isChampion":false,"losses":11,"owners":["Emad Kazmi"],"teamId":15,"wins":2,"year":2016},{"finalRank":10,"isChampion":false,"losses":9,"owners":["Emad Kazmi"],"teamId":15,"wins":4,"year":2017},{"finalRank":12,"isChampion":false,"losses":10,"owners":["Emad Kazmi"],"teamId":15,"wins":3,"year":2018},{"finalRank":12,"isChampion":false,"losses":12,"owners":["Nick Kwiecien"],"teamId":15,"wins":1,"year":2019},{"finalRank":12,"isChampion":false,"losses":9,"owners":["Nick Kwiecien"],"teamId":15,"wins":4,"year":2020},{"finalRank":7,"isChampion":false,"losses":6,"owners":["Nick Kwiecien"],"teamId":15,"wins":8,"year":2021},{"finalRank":2,"isChampion":false,"losses":4,"owners":["Nick Kwiecien"],"teamId":15,"wins":10,"year":2022},{"finalRank":0,"isChampion":false,"losses":8,"owners":["Nick Kwiecien"],"teamId":15,"wins":6,"year":2023}],"teamId":15,"teamName":"Ja’Marr Chase Bank","wins":68},{"championships":1,"eras":[{"endYear":2009,"owners":["Brandon Gustafson"],"startYear":2009,"teamName":"Winning Team Farters"},{"endYear":2010,"owners":["Brandon Gustafson"],"startYear":2010,"teamName":"Admiral Ackbar's Team"},{"endYear":2011,"owners":["Brandon Gustafson"],"startYear":2011,"teamName":"Violent Rage Quitters"},{"endYear":2012,"owners":["Brandon Gustafson"],"startYear":2012,"teamName":"Blind Side Bombers"},{"endYear":2015,"owners":["Brandon Gustafson"],"startYear":2013,"teamName":"Bye Week Dominators"},{"endYear":2016,"owners":["Nathan Fellom"],"startYear":2016,"teamName":"Bye Week Dominators"},{"endYear":2023,"owners":["Blayne Roselle"],"startYear":2017,"teamName":"Bye Week Dominators"}],"losses":115,"seasons":[{"finalRank":11,"isChampion":false,"losses":7,"owners":["Brandon Gustafson"],"teamId":17,"wins":6,"year":2009},{"finalRank":12,"isChampion":false,"losses":12,"owners":["Brandon Gustafson"],"teamId":17,"wins":1,"year":2010},{"finalRank":12,"isChampion":false,"losses":9,"owners":["Brandon Gustafson"],"teamId":17,"wins":4,"year":2011},{"finalRank":12,"isChampion":false,"losses":11,"owners":["Brandon Gustafson"],"teamId":17,"wins":2,"year":2012},{"finalRank":6,"isChampion":false,"losses":7,"owners":["Brandon Gustafson"],"teamId":17,"wins":6,"year":2013},{"finalRank":11,"isChampion":false,"losses":8,"owners":["Brandon Gustafson"],"teamId":17,"wins":5,"year":2014},{"finalRank":2,"isChampion":false,"losses":6,"owners":["Brandon Gustafson"],"teamId":17,"wins":7,"year":2015},{"finalRank":6,"isChampion":false,"losses":8,"owners":["Nathan Fellom"],"teamId":17,"wins":5,"year":2016},{"finalRank":6,"isChampion":false,"losses":8,"owners":["Blayne Roselle"],"teamId":17,"wins":5,"year":2017},{"finalRank":7,"isChampion":false,"losses":4,"owners":["Blayne Roselle"],"teamId":17,"wins":9,"year":2018},{"finalRank":1,"isChampion":true,"losses":6,"owners":["Blayne Roselle"],"teamId":17,"wins":7,"year":2019},{"finalRank":3,"isChampion":false,"losses":5,"owners":["Blayne Roselle"],"teamId":17,"wins":8,"year":2020},{"finalRank":10,"isChampion":false,"losses":8,"owners":["Blayne Roselle"],"teamId":17,"wins":6,"year":2021},{"finalRank":8,"isChampion":false,"losses":8,"owners":["Blayne Roselle"],"teamId":17,"wins":6,"year":2022},{"finalRank":0,"isChampion":false,"losses":8,"owners":["Blayne Roselle"],"teamId":17,"wins":6,"year":2023}],"teamId":17,"teamName":"Bye Week Dominators","wins":83}]
+[
+    {
+        "championships": 1,
+        "eras": [
+            { "endYear": 2009, "owners": ["John Otto", "Michael Fazio"], "startYear": 2009, "teamName": "Vivian Lopez" },
+            { "endYear": 2010, "owners": ["Michael Fazio"], "startYear": 2010, "teamName": "Silver Fish Hand Catch" },
+            { "endYear": 2015, "owners": ["Michael Fazio"], "startYear": 2011, "teamName": "Not The Hammer" },
+            { "endYear": 2023, "owners": ["Michael Fazio"], "startYear": 2016, "teamName": "Am I Going Over??" }
+        ],
+        "losses": 79,
+        "seasons": [
+            { "finalRank": 2, "isChampion": false, "losses": 6, "owners": ["John Otto", "Michael Fazio"], "teamId": 1, "wins": 7, "year": 2009 },
+            { "finalRank": 5, "isChampion": false, "losses": 2, "owners": ["Michael Fazio"], "teamId": 1, "wins": 11, "year": 2010 },
+            { "finalRank": 1, "isChampion": true, "losses": 3, "owners": ["Michael Fazio"], "teamId": 1, "wins": 10, "year": 2011 },
+            { "finalRank": 2, "isChampion": false, "losses": 4, "owners": ["Michael Fazio"], "teamId": 1, "wins": 9, "year": 2012 },
+            { "finalRank": 5, "isChampion": false, "losses": 5, "owners": ["Michael Fazio"], "teamId": 1, "wins": 8, "year": 2013 },
+            { "finalRank": 7, "isChampion": false, "losses": 3, "owners": ["Michael Fazio"], "teamId": 1, "wins": 10, "year": 2014 },
+            { "finalRank": 3, "isChampion": false, "losses": 5, "owners": ["Michael Fazio"], "teamId": 1, "wins": 8, "year": 2015 },
+            { "finalRank": 5, "isChampion": false, "losses": 6, "owners": ["Michael Fazio"], "teamId": 1, "wins": 7, "year": 2016 },
+            { "finalRank": 2, "isChampion": false, "losses": 4, "owners": ["Michael Fazio"], "teamId": 1, "wins": 9, "year": 2017 },
+            { "finalRank": 3, "isChampion": false, "losses": 8, "owners": ["Michael Fazio"], "teamId": 1, "wins": 5, "year": 2018 },
+            { "finalRank": 11, "isChampion": false, "losses": 10, "owners": ["Michael Fazio"], "teamId": 1, "wins": 3, "year": 2019 },
+            { "finalRank": 5, "isChampion": false, "losses": 4, "owners": ["Michael Fazio"], "teamId": 1, "wins": 9, "year": 2020 },
+            { "finalRank": 9, "isChampion": false, "losses": 9, "owners": ["Michael Fazio"], "teamId": 1, "wins": 5, "year": 2021 },
+            { "finalRank": 3, "isChampion": false, "losses": 3, "owners": ["Michael Fazio"], "teamId": 1, "wins": 11, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 7, "owners": ["Michael Fazio"], "teamId": 1, "wins": 7, "year": 2023 }
+        ],
+        "teamId": 1,
+        "teamName": "Am I Going Over??",
+        "wins": 119
+    },
+    {
+        "championships": 1,
+        "eras": [
+            { "endYear": 2010, "owners": ["James Otto"], "startYear": 2009, "teamName": "Wayne, NJ Dipstick Jimmys" },
+            { "endYear": 2015, "owners": ["James Otto"], "startYear": 2011, "teamName": "Prepare to be Sacked" },
+            { "endYear": 2021, "owners": ["James Otto"], "startYear": 2016, "teamName": "Throw it I am Open" },
+            { "endYear": 2022, "owners": ["James Otto"], "startYear": 2022, "teamName": "A.R.12 MVPsychedelic" },
+            { "endYear": 2023, "owners": ["James Otto"], "startYear": 2023, "teamName": "Forgot About Dre" }
+        ],
+        "losses": 116,
+        "seasons": [
+            { "finalRank": 9, "isChampion": false, "losses": 9, "owners": ["James Otto"], "teamId": 3, "wins": 4, "year": 2009 },
+            { "finalRank": 10, "isChampion": false, "losses": 9, "owners": ["James Otto"], "teamId": 3, "wins": 4, "year": 2010 },
+            { "finalRank": 10, "isChampion": false, "losses": 9, "owners": ["James Otto"], "teamId": 3, "wins": 4, "year": 2011 },
+            { "finalRank": 11, "isChampion": false, "losses": 8, "owners": ["James Otto"], "teamId": 3, "wins": 5, "year": 2012 },
+            { "finalRank": 10, "isChampion": false, "losses": 9, "owners": ["James Otto"], "teamId": 3, "wins": 4, "year": 2013 },
+            { "finalRank": 1, "isChampion": true, "losses": 6, "owners": ["James Otto"], "teamId": 3, "wins": 7, "year": 2014 },
+            { "finalRank": 9, "isChampion": false, "losses": 8, "owners": ["James Otto"], "teamId": 3, "wins": 5, "year": 2015 },
+            { "finalRank": 12, "isChampion": false, "losses": 8, "owners": ["James Otto"], "teamId": 3, "wins": 5, "year": 2016 },
+            { "finalRank": 9, "isChampion": false, "losses": 8, "owners": ["James Otto"], "teamId": 3, "wins": 5, "year": 2017 },
+            { "finalRank": 11, "isChampion": false, "losses": 9, "owners": ["James Otto"], "teamId": 3, "wins": 4, "year": 2018 },
+            { "finalRank": 7, "isChampion": false, "losses": 3, "owners": ["James Otto"], "teamId": 3, "wins": 10, "year": 2019 },
+            { "finalRank": 9, "isChampion": false, "losses": 8, "owners": ["James Otto"], "teamId": 3, "wins": 5, "year": 2020 },
+            { "finalRank": 3, "isChampion": false, "losses": 7, "owners": ["James Otto"], "teamId": 3, "wins": 7, "year": 2021 },
+            { "finalRank": 11, "isChampion": false, "losses": 9, "owners": ["James Otto"], "teamId": 3, "wins": 5, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 6, "owners": ["James Otto"], "teamId": 3, "wins": 8, "year": 2023 }
+        ],
+        "teamId": 3,
+        "teamName": "Forgot About Dre",
+        "wins": 82
+    },
+    {
+        "championships": 0,
+        "eras": [
+            { "endYear": 2010, "owners": ["Dave Smith"], "startYear": 2009, "teamName": "Waukesha Ochsenfroesche" },
+            { "endYear": 2012, "owners": ["Dave Smith"], "startYear": 2011, "teamName": "Thats What She Said" },
+            { "endYear": 2017, "owners": ["Dave Smith"], "startYear": 2013, "teamName": "Joe Buck Yourself" },
+            { "endYear": 2023, "owners": ["Ben Pelc"], "startYear": 2018, "teamName": "Joe Buck Yourself" }
+        ],
+        "losses": 120,
+        "seasons": [
+            { "finalRank": 6, "isChampion": false, "losses": 4, "owners": ["Dave Smith"], "teamId": 4, "wins": 9, "year": 2009 },
+            { "finalRank": 9, "isChampion": false, "losses": 8, "owners": ["Dave Smith"], "teamId": 4, "wins": 5, "year": 2010 },
+            { "finalRank": 11, "isChampion": false, "losses": 9, "owners": ["Dave Smith"], "teamId": 4, "wins": 4, "year": 2011 },
+            { "finalRank": 6, "isChampion": false, "losses": 7, "owners": ["Dave Smith"], "teamId": 4, "wins": 6, "year": 2012 },
+            { "finalRank": 12, "isChampion": false, "losses": 8, "owners": ["Dave Smith"], "teamId": 4, "wins": 5, "year": 2013 },
+            { "finalRank": 9, "isChampion": false, "losses": 11, "owners": ["Dave Smith"], "teamId": 4, "wins": 2, "year": 2014 },
+            { "finalRank": 8, "isChampion": false, "losses": 5, "owners": ["Dave Smith"], "teamId": 4, "wins": 8, "year": 2015 },
+            { "finalRank": 9, "isChampion": false, "losses": 9, "owners": ["Dave Smith"], "teamId": 4, "wins": 4, "year": 2016 },
+            { "finalRank": 3, "isChampion": false, "losses": 3, "owners": ["Dave Smith"], "teamId": 4, "wins": 10, "year": 2017 },
+            { "finalRank": 9, "isChampion": false, "losses": 8, "owners": ["Ben Pelc"], "teamId": 4, "wins": 5, "year": 2018 },
+            { "finalRank": 8, "isChampion": false, "losses": 6, "owners": ["Ben Pelc"], "teamId": 4, "wins": 7, "year": 2019 },
+            { "finalRank": 11, "isChampion": false, "losses": 13, "owners": ["Ben Pelc"], "teamId": 4, "wins": 0, "year": 2020 },
+            { "finalRank": 6, "isChampion": false, "losses": 7, "owners": ["Ben Pelc"], "teamId": 4, "wins": 7, "year": 2021 },
+            { "finalRank": 12, "isChampion": false, "losses": 13, "owners": ["Ben Pelc"], "teamId": 4, "wins": 1, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 9, "owners": ["Ben Pelc"], "teamId": 4, "wins": 5, "year": 2023 }
+        ],
+        "teamId": 4,
+        "teamName": "Joe Buck Yourself",
+        "wins": 78
+    },
+    {
+        "championships": 2,
+        "eras": [
+            { "endYear": 2009, "owners": ["Scott Johnson"], "startYear": 2009, "teamName": "The Milwaukee Singer" },
+            { "endYear": 2015, "owners": ["Scott Johnson"], "startYear": 2010, "teamName": "Delicious Pasta" },
+            { "endYear": 2020, "owners": ["Scott Johnson"], "startYear": 2016, "teamName": "Delicious Traitorade" },
+            { "endYear": 2023, "owners": ["Scott Johnson"], "startYear": 2021, "teamName": "Oh Saquon You See" }
+        ],
+        "losses": 82,
+        "seasons": [
+            { "finalRank": 7, "isChampion": false, "losses": 6, "owners": ["Scott Johnson"], "teamId": 5, "wins": 7, "year": 2009 },
+            { "finalRank": 4, "isChampion": false, "losses": 5, "owners": ["Scott Johnson"], "teamId": 5, "wins": 8, "year": 2010 },
+            { "finalRank": 2, "isChampion": false, "losses": 3, "owners": ["Scott Johnson"], "teamId": 5, "wins": 10, "year": 2011 },
+            { "finalRank": 3, "isChampion": false, "losses": 6, "owners": ["Scott Johnson"], "teamId": 5, "wins": 7, "year": 2012 },
+            { "finalRank": 8, "isChampion": false, "losses": 5, "owners": ["Scott Johnson"], "teamId": 5, "wins": 8, "year": 2013 },
+            { "finalRank": 10, "isChampion": false, "losses": 8, "owners": ["Scott Johnson"], "teamId": 5, "wins": 5, "year": 2014 },
+            { "finalRank": 10, "isChampion": false, "losses": 8, "owners": ["Scott Johnson"], "teamId": 5, "wins": 5, "year": 2015 },
+            { "finalRank": 1, "isChampion": true, "losses": 5, "owners": ["Scott Johnson"], "teamId": 5, "wins": 8, "year": 2016 },
+            { "finalRank": 4, "isChampion": false, "losses": 3, "owners": ["Scott Johnson"], "teamId": 5, "wins": 10, "year": 2017 },
+            { "finalRank": 2, "isChampion": false, "losses": 5, "owners": ["Scott Johnson"], "teamId": 5, "wins": 8, "year": 2018 },
+            { "finalRank": 6, "isChampion": false, "losses": 5, "owners": ["Scott Johnson"], "teamId": 5, "wins": 8, "year": 2019 },
+            { "finalRank": 8, "isChampion": false, "losses": 5, "owners": ["Scott Johnson"], "teamId": 5, "wins": 8, "year": 2020 },
+            { "finalRank": 8, "isChampion": false, "losses": 6, "owners": ["Scott Johnson"], "teamId": 5, "wins": 8, "year": 2021 },
+            { "finalRank": 1, "isChampion": true, "losses": 5, "owners": ["Scott Johnson"], "teamId": 5, "wins": 9, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 7, "owners": ["Scott Johnson"], "teamId": 5, "wins": 7, "year": 2023 }
+        ],
+        "teamId": 5,
+        "teamName": "Oh Saquon You See",
+        "wins": 116
+    },
+    {
+        "championships": 4,
+        "eras": [
+            { "endYear": 2013, "owners": ["Justin Witz"], "startYear": 2009, "teamName": "2 Mannings 1 Cup" },
+            { "endYear": 2015, "owners": ["Justin Witz"], "startYear": 2014, "teamName": "Manning of Steel" },
+            { "endYear": 2023, "owners": ["Justin Witz"], "startYear": 2016, "teamName": "Manning the Bay" }
+        ],
+        "losses": 67,
+        "seasons": [
+            { "finalRank": 1, "isChampion": true, "losses": 6, "owners": ["Justin Witz"], "teamId": 9, "wins": 7, "year": 2009 },
+            { "finalRank": 2, "isChampion": false, "losses": 2, "owners": ["Justin Witz"], "teamId": 9, "wins": 11, "year": 2010 },
+            { "finalRank": 5, "isChampion": false, "losses": 4, "owners": ["Justin Witz"], "teamId": 9, "wins": 9, "year": 2011 },
+            { "finalRank": 8, "isChampion": false, "losses": 4, "owners": ["Justin Witz"], "teamId": 9, "wins": 9, "year": 2012 },
+            { "finalRank": 3, "isChampion": false, "losses": 6, "owners": ["Justin Witz"], "teamId": 9, "wins": 7, "year": 2013 },
+            { "finalRank": 3, "isChampion": false, "losses": 2, "owners": ["Justin Witz"], "teamId": 9, "wins": 11, "year": 2014 },
+            { "finalRank": 1, "isChampion": true, "losses": 3, "owners": ["Justin Witz"], "teamId": 9, "wins": 10, "year": 2015 },
+            { "finalRank": 4, "isChampion": false, "losses": 0, "owners": ["Justin Witz"], "teamId": 9, "wins": 13, "year": 2016 },
+            { "finalRank": 8, "isChampion": false, "losses": 6, "owners": ["Justin Witz"], "teamId": 9, "wins": 7, "year": 2017 },
+            { "finalRank": 1, "isChampion": true, "losses": 6, "owners": ["Justin Witz"], "teamId": 9, "wins": 7, "year": 2018 },
+            { "finalRank": 10, "isChampion": false, "losses": 9, "owners": ["Justin Witz"], "teamId": 9, "wins": 4, "year": 2019 },
+            { "finalRank": 2, "isChampion": false, "losses": 5, "owners": ["Justin Witz"], "teamId": 9, "wins": 8, "year": 2020 },
+            { "finalRank": 1, "isChampion": true, "losses": 5, "owners": ["Justin Witz"], "teamId": 9, "wins": 9, "year": 2021 },
+            { "finalRank": 6, "isChampion": false, "losses": 6, "owners": ["Justin Witz"], "teamId": 9, "wins": 8, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 3, "owners": ["Justin Witz"], "teamId": 9, "wins": 11, "year": 2023 }
+        ],
+        "teamId": 9,
+        "teamName": "Manning the Bay",
+        "wins": 131
+    },
+    {
+        "championships": 2,
+        "eras": [
+            { "endYear": 2009, "owners": ["Carl Brienen"], "startYear": 2009, "teamName": "Sweatpants Holsters" },
+            { "endYear": 2023, "owners": ["Ben Ericsen"], "startYear": 2010, "teamName": "Naptown Goiters" }
+        ],
+        "losses": 80,
+        "seasons": [
+            { "finalRank": 10, "isChampion": false, "losses": 9, "owners": ["Carl Brienen"], "teamId": 10, "wins": 4, "year": 2009 },
+            { "finalRank": 6, "isChampion": false, "losses": 7, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 6, "year": 2010 },
+            { "finalRank": 3, "isChampion": false, "losses": 7, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 6, "year": 2011 },
+            { "finalRank": 4, "isChampion": false, "losses": 2, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 11, "year": 2012 },
+            { "finalRank": 1, "isChampion": true, "losses": 3, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 10, "year": 2013 },
+            { "finalRank": 2, "isChampion": false, "losses": 3, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 10, "year": 2014 },
+            { "finalRank": 4, "isChampion": false, "losses": 5, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 8, "year": 2015 },
+            { "finalRank": 2, "isChampion": false, "losses": 3, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 10, "year": 2016 },
+            { "finalRank": 1, "isChampion": true, "losses": 4, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 9, "year": 2017 },
+            { "finalRank": 10, "isChampion": false, "losses": 8, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 5, "year": 2018 },
+            { "finalRank": 4, "isChampion": false, "losses": 6, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 7, "year": 2019 },
+            { "finalRank": 7, "isChampion": false, "losses": 7, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 6, "year": 2020 },
+            { "finalRank": 4, "isChampion": false, "losses": 4, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 10, "year": 2021 },
+            { "finalRank": 7, "isChampion": false, "losses": 4, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 10, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 8, "owners": ["Ben Ericsen"], "teamId": 10, "wins": 6, "year": 2023 }
+        ],
+        "teamId": 10,
+        "teamName": "Naptown Goiters",
+        "wins": 118
+    },
+    {
+        "championships": 1,
+        "eras": [
+            { "endYear": 2011, "owners": ["David Pietrzykowski"], "startYear": 2009, "teamName": "treadhead for life" },
+            { "endYear": 2016, "owners": ["David Pietrzykowski"], "startYear": 2012, "teamName": "MarshallNomNom ForCutlersBalls" },
+            { "endYear": 2022, "owners": ["David Pietrzykowski"], "startYear": 2017, "teamName": "MondayNight MemberBerries" },
+            { "endYear": 2023, "owners": ["Rolando Lopez"], "startYear": 2023, "teamName": "The Durango Kids" }
+        ],
+        "losses": 90,
+        "seasons": [
+            { "finalRank": 4, "isChampion": false, "losses": 3, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 10, "year": 2009 },
+            { "finalRank": 7, "isChampion": false, "losses": 6, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 7, "year": 2010 },
+            { "finalRank": 7, "isChampion": false, "losses": 6, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 7, "year": 2011 },
+            { "finalRank": 1, "isChampion": true, "losses": 6, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 7, "year": 2012 },
+            { "finalRank": 9, "isChampion": false, "losses": 9, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 4, "year": 2013 },
+            { "finalRank": 4, "isChampion": false, "losses": 7, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 6, "year": 2014 },
+            { "finalRank": 6, "isChampion": false, "losses": 4, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 9, "year": 2015 },
+            { "finalRank": 7, "isChampion": false, "losses": 6, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 7, "year": 2016 },
+            { "finalRank": 7, "isChampion": false, "losses": 8, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 5, "year": 2017 },
+            { "finalRank": 6, "isChampion": false, "losses": 6, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 7, "year": 2018 },
+            { "finalRank": 5, "isChampion": false, "losses": 4, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 9, "year": 2019 },
+            { "finalRank": 6, "isChampion": false, "losses": 5, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 8, "year": 2020 },
+            { "finalRank": 11, "isChampion": false, "losses": 9, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 5, "year": 2021 },
+            { "finalRank": 9, "isChampion": false, "losses": 10, "owners": ["David Pietrzykowski"], "teamId": 11, "wins": 4, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 1, "owners": ["Rolando Lopez"], "teamId": 11, "wins": 13, "year": 2023 }
+        ],
+        "teamId": 11,
+        "teamName": "The Durango Kids",
+        "wins": 108
+    },
+    {
+        "championships": 1,
+        "eras": [{ "endYear": 2023, "owners": ["Tucker James"], "startYear": 2009, "teamName": "Tucker's Team" }],
+        "losses": 109,
+        "seasons": [
+            { "finalRank": 5, "isChampion": false, "losses": 7, "owners": ["Tucker James"], "teamId": 12, "wins": 6, "year": 2009 },
+            { "finalRank": 1, "isChampion": true, "losses": 6, "owners": ["Tucker James"], "teamId": 12, "wins": 7, "year": 2010 },
+            { "finalRank": 4, "isChampion": false, "losses": 4, "owners": ["Tucker James"], "teamId": 12, "wins": 9, "year": 2011 },
+            { "finalRank": 7, "isChampion": false, "losses": 6, "owners": ["Tucker James"], "teamId": 12, "wins": 7, "year": 2012 },
+            { "finalRank": 4, "isChampion": false, "losses": 4, "owners": ["Tucker James"], "teamId": 12, "wins": 9, "year": 2013 },
+            { "finalRank": 8, "isChampion": false, "losses": 8, "owners": ["Tucker James"], "teamId": 12, "wins": 5, "year": 2014 },
+            { "finalRank": 7, "isChampion": false, "losses": 6, "owners": ["Tucker James"], "teamId": 12, "wins": 7, "year": 2015 },
+            { "finalRank": 8, "isChampion": false, "losses": 8, "owners": ["Tucker James"], "teamId": 12, "wins": 5, "year": 2016 },
+            { "finalRank": 12, "isChampion": false, "losses": 11, "owners": ["Tucker James"], "teamId": 12, "wins": 2, "year": 2017 },
+            { "finalRank": 8, "isChampion": false, "losses": 5, "owners": ["Tucker James"], "teamId": 12, "wins": 8, "year": 2018 },
+            { "finalRank": 2, "isChampion": false, "losses": 6, "owners": ["Tucker James"], "teamId": 12, "wins": 7, "year": 2019 },
+            { "finalRank": 10, "isChampion": false, "losses": 8, "owners": ["Tucker James"], "teamId": 12, "wins": 5, "year": 2020 },
+            { "finalRank": 12, "isChampion": false, "losses": 13, "owners": ["Tucker James"], "teamId": 12, "wins": 1, "year": 2021 },
+            { "finalRank": 10, "isChampion": false, "losses": 10, "owners": ["Tucker James"], "teamId": 12, "wins": 4, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 7, "owners": ["Tucker James"], "teamId": 12, "wins": 7, "year": 2023 }
+        ],
+        "teamId": 12,
+        "teamName": "Tucker's Team",
+        "wins": 89
+    },
+    {
+        "championships": 1,
+        "eras": [
+            { "endYear": 2010, "owners": ["David Breen", "Tim Ericsen"], "startYear": 2009, "teamName": "Lotta Ball Sweat" },
+            { "endYear": 2023, "owners": ["Tim Ericsen"], "startYear": 2011, "teamName": "Uncooked Box" }
+        ],
+        "losses": 84,
+        "seasons": [
+            { "finalRank": 3, "isChampion": false, "losses": 7, "owners": ["David Breen", "Tim Ericsen"], "teamId": 13, "wins": 6, "year": 2009 },
+            { "finalRank": 3, "isChampion": false, "losses": 4, "owners": ["David Breen", "Tim Ericsen"], "teamId": 13, "wins": 9, "year": 2010 },
+            { "finalRank": 6, "isChampion": false, "losses": 7, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 6, "year": 2011 },
+            { "finalRank": 5, "isChampion": false, "losses": 5, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 8, "year": 2012 },
+            { "finalRank": 11, "isChampion": false, "losses": 8, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 5, "year": 2013 },
+            { "finalRank": 5, "isChampion": false, "losses": 6, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 7, "year": 2014 },
+            { "finalRank": 5, "isChampion": false, "losses": 6, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 7, "year": 2015 },
+            { "finalRank": 3, "isChampion": false, "losses": 4, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 9, "year": 2016 },
+            { "finalRank": 5, "isChampion": false, "losses": 6, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 7, "year": 2017 },
+            { "finalRank": 5, "isChampion": false, "losses": 2, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 11, "year": 2018 },
+            { "finalRank": 3, "isChampion": false, "losses": 4, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 9, "year": 2019 },
+            { "finalRank": 1, "isChampion": true, "losses": 3, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 10, "year": 2020 },
+            { "finalRank": 5, "isChampion": false, "losses": 5, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 9, "year": 2021 },
+            { "finalRank": 5, "isChampion": false, "losses": 8, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 6, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 9, "owners": ["Tim Ericsen"], "teamId": 13, "wins": 5, "year": 2023 }
+        ],
+        "teamId": 13,
+        "teamName": "Uncooked Box",
+        "wins": 114
+    },
+    {
+        "championships": 0,
+        "eras": [
+            { "endYear": 2009, "owners": ["zhemin huang"], "startYear": 2009, "teamName": "KungFu Panda" },
+            { "endYear": 2011, "owners": ["John Otto"], "startYear": 2010, "teamName": "No Longer KungFuPanda" },
+            { "endYear": 2015, "owners": ["John Otto"], "startYear": 2012, "teamName": "Harbaugh's Sputum" },
+            { "endYear": 2017, "owners": ["Alex Woodward"], "startYear": 2016, "teamName": "Sputnik's Mad Russians" },
+            { "endYear": 2018, "owners": ["Alex Woodward", "Juan Pablo Siller"], "startYear": 2018, "teamName": "Sputnik's Mad Russians" },
+            { "endYear": 2019, "owners": ["Juan Pablo Siller"], "startYear": 2019, "teamName": "Sputnik's Mad Russians" },
+            { "endYear": 2023, "owners": ["Juan Pablo Siller"], "startYear": 2020, "teamName": "The Jalapeños" }
+        ],
+        "losses": 116,
+        "seasons": [
+            { "finalRank": 8, "isChampion": false, "losses": 6, "owners": ["zhemin huang"], "teamId": 14, "wins": 7, "year": 2009 },
+            { "finalRank": 8, "isChampion": false, "losses": 5, "owners": ["John Otto"], "teamId": 14, "wins": 8, "year": 2010 },
+            { "finalRank": 9, "isChampion": false, "losses": 10, "owners": ["John Otto"], "teamId": 14, "wins": 3, "year": 2011 },
+            { "finalRank": 10, "isChampion": false, "losses": 10, "owners": ["John Otto"], "teamId": 14, "wins": 3, "year": 2012 },
+            { "finalRank": 7, "isChampion": false, "losses": 7, "owners": ["John Otto"], "teamId": 14, "wins": 6, "year": 2013 },
+            { "finalRank": 12, "isChampion": false, "losses": 8, "owners": ["John Otto"], "teamId": 14, "wins": 5, "year": 2014 },
+            { "finalRank": 12, "isChampion": false, "losses": 12, "owners": ["John Otto"], "teamId": 14, "wins": 1, "year": 2015 },
+            { "finalRank": 10, "isChampion": false, "losses": 10, "owners": ["Alex Woodward"], "teamId": 14, "wins": 3, "year": 2016 },
+            { "finalRank": 11, "isChampion": false, "losses": 8, "owners": ["Alex Woodward"], "teamId": 14, "wins": 5, "year": 2017 },
+            { "finalRank": 4, "isChampion": false, "losses": 7, "owners": ["Alex Woodward", "Juan Pablo Siller"], "teamId": 14, "wins": 6, "year": 2018 },
+            { "finalRank": 9, "isChampion": false, "losses": 7, "owners": ["Juan Pablo Siller"], "teamId": 14, "wins": 6, "year": 2019 },
+            { "finalRank": 4, "isChampion": false, "losses": 6, "owners": ["Juan Pablo Siller"], "teamId": 14, "wins": 7, "year": 2020 },
+            { "finalRank": 2, "isChampion": false, "losses": 5, "owners": ["Juan Pablo Siller"], "teamId": 14, "wins": 9, "year": 2021 },
+            { "finalRank": 4, "isChampion": false, "losses": 4, "owners": ["Juan Pablo Siller"], "teamId": 14, "wins": 10, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 11, "owners": ["Juan Pablo Siller"], "teamId": 14, "wins": 3, "year": 2023 }
+        ],
+        "teamId": 14,
+        "teamName": "The Jalapeños",
+        "wins": 82
+    },
+    {
+        "championships": 0,
+        "eras": [
+            { "endYear": 2010, "owners": ["Matt Schrader"], "startYear": 2009, "teamName": "Essen Gazoontite" },
+            { "endYear": 2012, "owners": ["David Breen"], "startYear": 2011, "teamName": "MKE BLOOOOOOBBBBB!!" },
+            { "endYear": 2013, "owners": ["David Breen", "Emad Kazmi"], "startYear": 2013, "teamName": "MKE BLOOOOOOBBBBB!!" },
+            { "endYear": 2014, "owners": ["David Breen", "Emad Kazmi"], "startYear": 2014, "teamName": "Shirtcockers Anonymous" },
+            { "endYear": 2018, "owners": ["Emad Kazmi"], "startYear": 2015, "teamName": "Shirtcockers Anonymous" },
+            { "endYear": 2019, "owners": ["Nick Kwiecien"], "startYear": 2019, "teamName": "Shirtcockers Anonymous" },
+            { "endYear": 2020, "owners": ["Nick Kwiecien"], "startYear": 2020, "teamName": "Little Red Fournette" },
+            { "endYear": 2021, "owners": ["Nick Kwiecien"], "startYear": 2021, "teamName": "Herbert Fully Loaded" },
+            { "endYear": 2023, "owners": ["Nick Kwiecien"], "startYear": 2022, "teamName": "Ja’Marr Chase Bank" }
+        ],
+        "losses": 130,
+        "seasons": [
+            { "finalRank": 12, "isChampion": false, "losses": 8, "owners": ["Matt Schrader"], "teamId": 15, "wins": 5, "year": 2009 },
+            { "finalRank": 11, "isChampion": false, "losses": 12, "owners": ["Matt Schrader"], "teamId": 15, "wins": 1, "year": 2010 },
+            { "finalRank": 8, "isChampion": false, "losses": 7, "owners": ["David Breen"], "teamId": 15, "wins": 6, "year": 2011 },
+            { "finalRank": 9, "isChampion": false, "losses": 9, "owners": ["David Breen"], "teamId": 15, "wins": 4, "year": 2012 },
+            { "finalRank": 2, "isChampion": false, "losses": 7, "owners": ["David Breen", "Emad Kazmi"], "teamId": 15, "wins": 6, "year": 2013 },
+            { "finalRank": 6, "isChampion": false, "losses": 8, "owners": ["David Breen", "Emad Kazmi"], "teamId": 15, "wins": 5, "year": 2014 },
+            { "finalRank": 11, "isChampion": false, "losses": 10, "owners": ["Emad Kazmi"], "teamId": 15, "wins": 3, "year": 2015 },
+            { "finalRank": 11, "isChampion": false, "losses": 11, "owners": ["Emad Kazmi"], "teamId": 15, "wins": 2, "year": 2016 },
+            { "finalRank": 10, "isChampion": false, "losses": 9, "owners": ["Emad Kazmi"], "teamId": 15, "wins": 4, "year": 2017 },
+            { "finalRank": 12, "isChampion": false, "losses": 10, "owners": ["Emad Kazmi"], "teamId": 15, "wins": 3, "year": 2018 },
+            { "finalRank": 12, "isChampion": false, "losses": 12, "owners": ["Nick Kwiecien"], "teamId": 15, "wins": 1, "year": 2019 },
+            { "finalRank": 12, "isChampion": false, "losses": 9, "owners": ["Nick Kwiecien"], "teamId": 15, "wins": 4, "year": 2020 },
+            { "finalRank": 7, "isChampion": false, "losses": 6, "owners": ["Nick Kwiecien"], "teamId": 15, "wins": 8, "year": 2021 },
+            { "finalRank": 2, "isChampion": false, "losses": 4, "owners": ["Nick Kwiecien"], "teamId": 15, "wins": 10, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 8, "owners": ["Nick Kwiecien"], "teamId": 15, "wins": 6, "year": 2023 }
+        ],
+        "teamId": 15,
+        "teamName": "Ja’Marr Chase Bank",
+        "wins": 68
+    },
+    {
+        "championships": 1,
+        "eras": [
+            { "endYear": 2009, "owners": ["Brandon Gustafson"], "startYear": 2009, "teamName": "Winning Team Farters" },
+            { "endYear": 2010, "owners": ["Brandon Gustafson"], "startYear": 2010, "teamName": "Admiral Ackbar's Team" },
+            { "endYear": 2011, "owners": ["Brandon Gustafson"], "startYear": 2011, "teamName": "Violent Rage Quitters" },
+            { "endYear": 2012, "owners": ["Brandon Gustafson"], "startYear": 2012, "teamName": "Blind Side Bombers" },
+            { "endYear": 2015, "owners": ["Brandon Gustafson"], "startYear": 2013, "teamName": "Bye Week Dominators" },
+            { "endYear": 2016, "owners": ["Nathan Fellom"], "startYear": 2016, "teamName": "Bye Week Dominators" },
+            { "endYear": 2023, "owners": ["Blayne Roselle"], "startYear": 2017, "teamName": "Bye Week Dominators" }
+        ],
+        "losses": 115,
+        "seasons": [
+            { "finalRank": 11, "isChampion": false, "losses": 7, "owners": ["Brandon Gustafson"], "teamId": 17, "wins": 6, "year": 2009 },
+            { "finalRank": 12, "isChampion": false, "losses": 12, "owners": ["Brandon Gustafson"], "teamId": 17, "wins": 1, "year": 2010 },
+            { "finalRank": 12, "isChampion": false, "losses": 9, "owners": ["Brandon Gustafson"], "teamId": 17, "wins": 4, "year": 2011 },
+            { "finalRank": 12, "isChampion": false, "losses": 11, "owners": ["Brandon Gustafson"], "teamId": 17, "wins": 2, "year": 2012 },
+            { "finalRank": 6, "isChampion": false, "losses": 7, "owners": ["Brandon Gustafson"], "teamId": 17, "wins": 6, "year": 2013 },
+            { "finalRank": 11, "isChampion": false, "losses": 8, "owners": ["Brandon Gustafson"], "teamId": 17, "wins": 5, "year": 2014 },
+            { "finalRank": 2, "isChampion": false, "losses": 6, "owners": ["Brandon Gustafson"], "teamId": 17, "wins": 7, "year": 2015 },
+            { "finalRank": 6, "isChampion": false, "losses": 8, "owners": ["Nathan Fellom"], "teamId": 17, "wins": 5, "year": 2016 },
+            { "finalRank": 6, "isChampion": false, "losses": 8, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 5, "year": 2017 },
+            { "finalRank": 7, "isChampion": false, "losses": 4, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 9, "year": 2018 },
+            { "finalRank": 1, "isChampion": true, "losses": 6, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 7, "year": 2019 },
+            { "finalRank": 3, "isChampion": false, "losses": 5, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 8, "year": 2020 },
+            { "finalRank": 10, "isChampion": false, "losses": 8, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 6, "year": 2021 },
+            { "finalRank": 8, "isChampion": false, "losses": 8, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 6, "year": 2022 },
+            { "finalRank": 0, "isChampion": false, "losses": 8, "owners": ["Blayne Roselle"], "teamId": 17, "wins": 6, "year": 2023 }
+        ],
+        "teamId": 17,
+        "teamName": "Bye Week Dominators",
+        "wins": 83
+    }
+]
