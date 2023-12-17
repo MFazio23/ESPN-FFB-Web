@@ -14,6 +14,8 @@ import Standings from "./standings/Standings";
 import OwnerDetails from "./teams/details/OwnerDetails";
 import Franchises from "./teams/Franchises";
 import FranchiseDetails from "./teams/details/FranchiseDetails";
+import {Fab} from "@mui/material";
+import {ArrowUpward} from "@mui/icons-material";
 
 export default function App() {
     const [isDrawerOpen, setDrawerOpen] = React.useState(false);
@@ -31,6 +33,10 @@ export default function App() {
         setDrawerOpen(open)
     }
 
+    const scrollToTop = () => {
+        window.scrollTo(0, 0)
+    }
+
     return (
         <Router>
             <TopAppBar isDrawerOpen={isDrawerOpen} toggleDrawer={toggleDrawer}/>
@@ -45,6 +51,13 @@ export default function App() {
                     <Route path={Links.franchiseDetails} element={<FranchiseDetails/>}/>
                     <Route path={Links.home} element={<Home/>}/>
                 </Routes>
+                <Fab className="fab" color="primary" onClick={scrollToTop} sx={{
+                    position: 'fixed',
+                    bottom: (theme) => theme.spacing(4),
+                    right: (theme) => theme.spacing(4),
+                }}>
+                    <ArrowUpward/>
+                </Fab>
             </main>
         </Router>
     );
