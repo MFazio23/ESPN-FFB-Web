@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {Box, List, ListItemButton, ListItemIcon, ListItemText, SwipeableDrawer} from "@mui/material";
-import {FormatListNumbered, Home, MenuBook, Person, SportsFootball} from "@mui/icons-material";
+import {FormatListNumbered, History, Home, MenuBook, Person, SportsFootball} from "@mui/icons-material";
 import {NavLink} from "react-router-dom";
 import Links from "./Links"
 
@@ -29,6 +29,11 @@ const links = [
         text: 'Team Owners',
         url: Links.owners,
         icon: <Person/>
+    },
+    {
+        text: 'League History',
+        url: Links.history,
+        icon: <History/>
     },
 ]
 

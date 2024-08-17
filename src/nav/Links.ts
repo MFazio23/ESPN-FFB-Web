@@ -1,0 +1,15 @@
+export enum Links {
+    home = "/",
+    history = "/history",
+    leagueEvents = "/history/events",
+    leagueTrades = "/history/trades",
+    draftGrades = "/history/draft-grades",
+    franchises = "/franchises",
+    franchiseDetails = "/franchises/:franchiseId",
+    owners = "/owners",
+    ownerDetails = "/owners/:ownerId",
+    recordBook = "/record-book",
+    standings = "/standings",
+}
+
+export default Links;

@@ -1,10 +1,6 @@
 import * as React from 'react';
 import './App.css';
-import {
-    BrowserRouter as Router,
-    Routes,
-    Route
-} from "react-router-dom";
+import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import Links from "./nav/Links";
 import TopAppBar from "./nav/TopAppBar";
 import NavDrawer from "./nav/NavDrawer";
@@ -16,6 +12,10 @@ import Franchises from "./teams/Franchises";
 import FranchiseDetails from "./teams/details/FranchiseDetails";
 import {Fab} from "@mui/material";
 import {ArrowUpward} from "@mui/icons-material";
+import History from './history/History';
+import LeagueEvents from './history/LeagueEvents';
+import LeagueTrades from './history/LeagueTrades';
+import LeagueDraftGrades from './history/LeagueDraftGrades';
 
 export default function App() {
     const [isDrawerOpen, setDrawerOpen] = React.useState(false);
@@ -49,6 +49,10 @@ export default function App() {
                     <Route path={Links.standings} element={<Standings/>}/>
                     <Route path={Links.franchises} element={<Franchises/>}/>
                     <Route path={Links.franchiseDetails} element={<FranchiseDetails/>}/>
+                    <Route path={Links.history} element={<History/>}/>
+                    <Route path={Links.leagueEvents} element={<LeagueEvents/>}/>
+                    <Route path={Links.leagueTrades} element={<LeagueTrades/>}/>
+                    <Route path={Links.draftGrades} element={<LeagueDraftGrades/>}/>
                     <Route path={Links.home} element={<Home/>}/>
                 </Routes>
                 <Fab className="fab" color="primary" onClick={scrollToTop} sx={{
