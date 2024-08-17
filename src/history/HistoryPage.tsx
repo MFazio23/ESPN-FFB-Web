@@ -13,7 +13,7 @@ export interface HistoryPageProps {
     cards: HistoryPageCard[];
 }
 
-export default ({header, cards}: HistoryPageProps) => (
+const HistoryPage = ({header, cards}: HistoryPageProps) => (
     <Box display={'flex'} flexDirection={'column'} alignItems={'center'}>
         {header}
         <Grid container spacing={2} mt={3} justifyContent='space-evenly'>
@@ -24,3 +24,5 @@ export default ({header, cards}: HistoryPageProps) => (
         </Button>
     </Box>
 )
+
+export default HistoryPage;

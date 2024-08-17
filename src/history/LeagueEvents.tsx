@@ -1,4 +1,4 @@
-import {EventCard, EventCardProps} from './EventCard';
+import EventCard, {EventCardProps} from './EventCard';
 import HistoryPage, {HistoryPageCard} from './HistoryPage';
 
 export default function LeagueEvents() {

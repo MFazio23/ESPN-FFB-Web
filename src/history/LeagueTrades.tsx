@@ -35,4 +35,3 @@ export default function LeagueTrades() {
         <HistoryPage header={header} cards={tradeCards}/>
     );
 }
-

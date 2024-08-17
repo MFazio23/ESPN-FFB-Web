@@ -6,7 +6,7 @@ export interface EventCardProps {
     events: string[];
 }
 
-export const EventCard = ({card}: { card: EventCardProps }) => {
+const EventCard = ({card}: { card: EventCardProps }) => {
     const {year, events} = card;
     return <Card sx={{width: 450}}>
         <CardHeader title={year}/>
@@ -19,3 +19,5 @@ export const EventCard = ({card}: { card: EventCardProps }) => {
         </CardContent>
     </Card>
 }
+
+export default EventCard;
