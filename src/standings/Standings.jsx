@@ -59,6 +59,12 @@ const standingsTableData = standings.map(standingsItem => ({
             digits: 2
         },
         {
+            id: 'luck',
+            value: standingsItem.wins.standardScoring - standingsItem.wins.topSixRankings,
+            numeric: true,
+            digits: 0
+        },
+        {
             id: 'playoffApps',
             value: standingsItem.playoffApps.standardScoring,
             numeric: true
@@ -122,6 +128,12 @@ const headers = [
         id: 'pointsAgainstPerWeek',
         label: "PA/W",
         numeric: true
+    },
+    {
+        id: 'luck',
+        label: "Luck",
+        numeric: true,
+        hintText: 'Normal wins minus Top 6 wins'
     },
     {
         id: 'playoffApps',

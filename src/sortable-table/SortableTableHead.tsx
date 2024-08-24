@@ -1,10 +1,14 @@
 import * as React from "react";
 import {TableCell, TableHead, TableRow, TableSortLabel} from "@mui/material";
 
-const SortableTableHead = (props) => {
+interface SortableTableHeadProps {
+    headers: any[];
+    orderBy: string;
+    sortOrder: 'asc' | 'desc';
+    onRequestSort: (event: React.MouseEvent<unknown>, property: string) => void;
+}
 
-    const {headers, orderBy, sortOrder, onRequestSort} = props;
-
+const SortableTableHead = ({headers, orderBy, sortOrder, onRequestSort}: SortableTableHeadProps) => {
     const createSortHandler = (property) => (event) => {
         onRequestSort(event, property);
     }
@@ -17,6 +21,7 @@ const SortableTableHead = (props) => {
                     align={headerCell.numeric ? 'right' : 'left'}
                     sortDirection={orderBy === headerCell.id ? sortOrder : false}>
                     <TableSortLabel
+                        title={headerCell.hintText}
                         active={orderBy === headerCell.id}
                         direction={orderBy === headerCell.id ? sortOrder : 'asc'}
                         onClick={createSortHandler(headerCell.id)}>

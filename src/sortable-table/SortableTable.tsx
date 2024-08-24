@@ -1,17 +1,24 @@
-import {useState} from "react";
 import * as React from "react";
+import {useState} from "react";
 import {Box, Card, CardHeader, Table, TableBody, TableCell, TableContainer, TableRow, Typography} from "@mui/material";
 import SortableTableHead from "./SortableTableHead";
-import { useNavigate } from "react-router-dom";
+import {useNavigate} from "react-router-dom";
 
+interface SortableTableProps {
+    tableData: any;
+    headers: any;
+    topTitle: string;
+    cardHeader: string;
+    cardSubheader: string;
+}
 
-const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}) => {
-    const [order, setOrder] = useState('desc');
+const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}: SortableTableProps) => {
+    const [order, setOrder] = useState<'asc' | 'desc'>('desc');
     const [orderBy, setOrderBy] = useState('wins');
 
     const navigate = useNavigate();
 
-    const handleRequestSort = (event, property) => {
+    const handleRequestSort = (_, property) => {
         const isAsc = orderBy === property && order === 'asc';
         setOrder(isAsc ? 'desc' : 'asc');
         setOrderBy(property)
@@ -25,7 +32,7 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}
         ? (a, b) => descendingComparator(a.tableItems, b.tableItems, orderBy)
         : (a, b) => -descendingComparator(a.tableItems, b.tableItems, orderBy)
 
-    if (!tableData) return <Box />
+    if (!tableData) return <Box/>
 
     const cellDisplay = (cell) => {
         if (cell.renderFunction) {
