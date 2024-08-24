@@ -21,7 +21,7 @@ export default function FranchiseCard({summary}) {
             </Box>
 
             <Box mt={3}>
-                {eras.map(era => <FranchiseCardRow era={era}/>)}
+                {eras.map(era => <FranchiseCardRow key={`${era.teamName}-${era.startYear}-${era.endYear}`} era={era}/>)}
             </Box>
 
         </CardContent>
