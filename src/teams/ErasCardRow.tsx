@@ -1,10 +1,13 @@
 import {Grid, Stack, Typography} from "@mui/material";
+import {Era} from './ErasCard';
 
-export function FranchiseCardRow({era}) {
-    const {teamName, startYear, endYear, owners} = era;
+interface ErasCardRowProps {
+    era: Era;
+}
 
+export function ErasCardRow({era}: ErasCardRowProps) {
+    const {title, subtitle, startYear, endYear} = era;
     const yearText = startYear === endYear ? startYear : `${startYear} - ${endYear}`;
-    const ownerText = (owners || []).join(", ");
     return <Grid container alignItems="center">
         <Grid item sm={3}>
             <Typography sx={{display: 'flex', alignItems: "center"}}>{yearText}</Typography>
@@ -15,8 +18,8 @@ export function FranchiseCardRow({era}) {
                     overflow: 'hidden',
                     textOverflow: 'ellipsis',
                     whiteSpace: 'nowrap'
-                }} title={teamName}>{teamName}</Typography>
-                <Typography variant="body2">{ownerText}</Typography>
+                }} title={title}>{title}</Typography>
+                <Typography variant="body2">{subtitle}</Typography>
             </Stack>
         </Grid>
     </Grid>

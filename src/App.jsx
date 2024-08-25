@@ -16,6 +16,7 @@ import History from './history/History';
 import LeagueEvents from './history/LeagueEvents';
 import LeagueTrades from './history/LeagueTrades';
 import LeagueDraftGrades from './history/LeagueDraftGrades';
+import Owners from './teams/Owners';
 
 export default function App() {
     const [isDrawerOpen, setDrawerOpen] = React.useState(false);
@@ -43,7 +44,7 @@ export default function App() {
             <main className="mainContainer">
                 <NavDrawer isDrawerOpen={isDrawerOpen} toggleDrawer={toggleDrawer}/>
                 <Routes>
-                    <Route path={Links.owners} element={<Standings/>}/>
+                    <Route path={Links.owners} element={<Owners/>}/>
                     <Route path={Links.ownerDetails} element={<OwnerDetails/>}/>
                     <Route path={Links.recordBook} element={<RecordBook/>}/>
                     <Route path={Links.standings} element={<Standings/>}/>

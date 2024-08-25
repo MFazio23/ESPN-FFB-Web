@@ -3,18 +3,19 @@ import {useState} from "react";
 import {Box, Card, CardHeader, Table, TableBody, TableCell, TableContainer, TableRow, Typography} from "@mui/material";
 import SortableTableHead from "./SortableTableHead";
 import {useNavigate} from "react-router-dom";
+import {SortableTableHeader, SortableTableRow, SortDirection} from './sortable-table-types';
 
 interface SortableTableProps {
-    tableData: any;
-    headers: any;
+    tableData: SortableTableRow[];
+    headers: SortableTableHeader[];
     topTitle: string;
     cardHeader: string;
-    cardSubheader: string;
+    cardSubheader?: string;
 }
 
 const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}: SortableTableProps) => {
-    const [order, setOrder] = useState<'asc' | 'desc'>('desc');
-    const [orderBy, setOrderBy] = useState('wins');
+    const [order, setOrder] = useState<SortDirection>('desc');
+    const [orderBy, setOrderBy] = useState<string>('wins');
 
     const navigate = useNavigate();
 

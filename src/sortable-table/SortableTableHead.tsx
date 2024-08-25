@@ -1,8 +1,9 @@
 import * as React from "react";
 import {TableCell, TableHead, TableRow, TableSortLabel} from "@mui/material";
+import {SortableTableHeader} from './sortable-table-types';
 
 interface SortableTableHeadProps {
-    headers: any[];
+    headers: SortableTableHeader[];
     orderBy: string;
     sortOrder: 'asc' | 'desc';
     onRequestSort: (event: React.MouseEvent<unknown>, property: string) => void;
