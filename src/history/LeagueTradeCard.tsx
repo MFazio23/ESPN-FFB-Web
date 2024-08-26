@@ -8,7 +8,7 @@ interface LeagueTradeCardProps {
 
 export function LeagueTradeCard({trade}: LeagueTradeCardProps) {
     //TODO: Make this look better
-    const {id, year, firstOwner, firstTeam, firstTeamPlayers, secondOwner, secondTeam, secondTeamPlayers} = trade;
+    const {year, firstOwner, firstTeam, firstTeamPlayers, secondOwner, secondTeam, secondTeamPlayers} = trade;
     return <Card sx={{width: 400}}>
         <CardHeader title={year}/>
         <CardContent>
@@ -37,10 +37,5 @@ export function LeagueTradeCard({trade}: LeagueTradeCardProps) {
                 </List>
             </Box>
         </CardContent>
-        {/*<CardContent>
-            {year}: {firstOwner} ({firstTeam})
-            traded {firstTeamPlayers.map(player => `${player.name} (${player.team})`).join(", ")} to {secondOwner} ({secondTeam})
-            for {secondTeamPlayers.map(player => `${player.name} (${player.team})`).join(", ")}
-        </CardContent>*/}
     </Card>
 }
