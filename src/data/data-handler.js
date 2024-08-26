@@ -7,6 +7,7 @@ import standings from './files/standings.json'
 import teamSummaries from './files/team-summaries.json';
 import ownerSummaries from './files/owner-summaries.json';
 import teamYearMapJson from './files/team-year-map.json';
+import tradesJson from './files/trades.json';
 import config from "../config";
 
 const getMembersFromOwnerIds = (team, memberList) =>
@@ -81,7 +82,8 @@ const DataHandler = {
     getOwnerDataById,
     teamSummaries,
     ownerSummaries,
-    standingsList: standings
+    standingsList: standings,
+    tradeList: tradesJson,
 };
 
 export default DataHandler;
