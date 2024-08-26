@@ -24,7 +24,7 @@ const trades: Trade[] = dataHandler.tradeList;
 export default function LeagueTrades() {
     const header = (
         <Box display={'flex'} flexDirection={'column'} alignItems={'center'}>
-            <Typography variant='h3' p={1}>League Trades</Typography>
+            <Typography variant='h3' p={2}>League Trades</Typography>
             <Typography variant='body1'>There haven't been a ton of trades, only ten of them.</Typography>
         </Box>
     );

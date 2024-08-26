@@ -47,9 +47,9 @@ export default function LeagueDraftGrades() {
     const fantasyProsLink = <Link href="https://www.fantasypros.com" underline={'none'}>fantasypros.com</Link>
 
     const header = <Box display={'flex'} flexDirection={'column'} alignItems={'center'}>
-        <h1>Draft Grades + Rankings</h1>
-        <Typography variant={'body1'}>Here are the draft grades for each season.</Typography>
-        <Typography variant={'body1'}>
+        <Typography variant="h3" p={2}>Draft Grades + Rankings</Typography>
+        <Typography variant='body1'>Here are the draft grades for each season.</Typography>
+        <Typography variant='body1'>
             The rankings are derived from the {vbdLink} from {fantasyProsLink}.
         </Typography>
     </Box>
