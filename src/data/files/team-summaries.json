@@ -27,8 +27,8 @@
         "title": "Am I Going Over??"
       }
     ],
-    "id": 1,
-    "losses": 96,
+    "id": "1",
+    "losses": 95,
     "name": "Am I Going Over??",
     "wins": 148
   },
@@ -66,10 +66,10 @@
         "title": "Forgot About Dre"
       }
     ],
-    "id": 3,
+    "id": "3",
     "losses": 137,
     "name": "Forgot About Dre",
-    "wins": 107
+    "wins": 106
   },
   {
     "championships": 0,
@@ -99,10 +99,10 @@
         "title": "Joe Buck Yourself"
       }
     ],
-    "id": 4,
+    "id": "4",
     "losses": 143,
     "name": "Joe Buck Yourself",
-    "wins": 101
+    "wins": 100
   },
   {
     "championships": 3,
@@ -132,10 +132,10 @@
         "title": "Oh Saquon You See"
       }
     ],
-    "id": 5,
+    "id": "5",
     "losses": 105,
     "name": "Oh Saquon You See",
-    "wins": 139
+    "wins": 138
   },
   {
     "championships": 4,
@@ -165,8 +165,8 @@
         "title": "Flo'Rida Flock"
       }
     ],
-    "id": 9,
-    "losses": 85,
+    "id": "9",
+    "losses": 84,
     "name": "Flo'Rida Flock",
     "wins": 159
   },
@@ -186,8 +186,8 @@
         "title": "Naptown Goiters"
       }
     ],
-    "id": 10,
-    "losses": 103,
+    "id": "10",
+    "losses": 102,
     "name": "Naptown Goiters",
     "wins": 141
   },
@@ -219,8 +219,8 @@
         "title": "The Durango Kids"
       }
     ],
-    "id": 11,
-    "losses": 114,
+    "id": "11",
+    "losses": 113,
     "name": "The Durango Kids",
     "wins": 130
   },
@@ -234,8 +234,8 @@
         "title": "Tucker's Team"
       }
     ],
-    "id": 12,
-    "losses": 140,
+    "id": "12",
+    "losses": 139,
     "name": "Tucker's Team",
     "wins": 104
   },
@@ -255,10 +255,10 @@
         "title": "Uncooked Box"
       }
     ],
-    "id": 13,
+    "id": "13",
     "losses": 99,
     "name": "Uncooked Box",
-    "wins": 145
+    "wins": 144
   },
   {
     "championships": 0,
@@ -312,10 +312,10 @@
         "title": "My Ball Zach Ertz"
       }
     ],
-    "id": 14,
+    "id": "14",
     "losses": 143,
     "name": "My Ball Zach Ertz",
-    "wins": 101
+    "wins": 100
   },
   {
     "championships": 0,
@@ -375,8 +375,8 @@
         "title": "Ja’Marr Chase Bank"
       }
     ],
-    "id": 15,
-    "losses": 157,
+    "id": "15",
+    "losses": 156,
     "name": "Ja’Marr Chase Bank",
     "wins": 87
   },
@@ -426,9 +426,9 @@
         "title": "Bye Week Dominators"
       }
     ],
-    "id": 17,
+    "id": "17",
     "losses": 142,
     "name": "Bye Week Dominators",
-    "wins": 102
+    "wins": 101
   }
 ]
