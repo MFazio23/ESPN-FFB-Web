@@ -24,6 +24,9 @@ export default function Home() {
                     <Button component={Link} to={Links.standings} sx={{width: 'fit-content'}}>
                         All-Time Standings
                     </Button>
+                    <Button component={Link} to={Links.owners} sx={{width: 'fit-content'}}>
+                        Owner History
+                    </Button>
                     <Button component={Link} to={Links.franchises} sx={{width: 'fit-content'}}>
                         Franchise History
                     </Button>
