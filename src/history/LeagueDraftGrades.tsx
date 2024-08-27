@@ -57,7 +57,7 @@ export default function LeagueDraftGrades() {
     const gradeCards = draftGrades.map(gradeCards => {
         const historyPageCard: HistoryPageCard = {
             id: gradeCards.id,
-            component: <DraftGradesCard gradeCards={gradeCards}/>
+            component: <DraftGradesCard key={gradeCards.id} gradeCards={gradeCards}/>
         }
         return historyPageCard;
     });

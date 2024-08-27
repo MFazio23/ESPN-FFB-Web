@@ -20,7 +20,7 @@ export default function DraftGradesCard({gradeCards}: { gradeCards: DraftGradesC
             <CardContent>
                 <Stack>
                     {grades.map(grade => (
-                        <Box>
+                        <Box key={grade.team}>
                             <Typography variant="body1">{grade.rank}. {grade.team} - {grade.grade}</Typography>
                         </Box>
                     ))}

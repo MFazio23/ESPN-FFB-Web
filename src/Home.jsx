@@ -1,5 +1,4 @@
-import {Button, Card, CardContent, Stack, Typography} from "@mui/material";
-import {Link} from "react-router-dom";
+import {Button, Card, CardContent, Link, Stack, Typography} from "@mui/material";
 import Links from "./nav/Links"
 
 export default function Home() {
@@ -12,8 +11,8 @@ export default function Home() {
                     <Typography align="center" variant="h4">fantasy football league!</Typography>
 
                     <Typography variant="body1" margin={5}>
-                        This site contains all kind of information about the <a
-                        href="https://fantasy.espn.com/football/league?leagueId=358793">Fun Time Auction</a> fantasy
+                        This site contains all kind of information about the <Link
+                        href="https://fantasy.espn.com/football/league?leagueId=358793">Fun Time Auction</Link> fantasy
                         football league on ESPN.
                         Feel free to take a look around!
                     </Typography>
