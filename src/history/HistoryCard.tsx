@@ -11,7 +11,7 @@ export interface HistoryCardProps {
 
 export const HistoryCard = ({card}: { card: HistoryCardProps }) => {
     const {title, description, actionButtonText, actionButtonLink} = card;
-    return <Card sx={{width: 450}}>
+    return <Card sx={{width: 450, maxWidth: '100vw'}}>
         <CardHeader title={title}/>
         <CardContent>
             <Stack sx={{height: 50}}>

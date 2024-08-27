@@ -9,10 +9,10 @@ export function ErasCardRow({era}: ErasCardRowProps) {
     const {title, subtitle, startYear, endYear} = era;
     const yearText = startYear === endYear ? startYear : `${startYear} - ${endYear}`;
     return <Grid container alignItems="center">
-        <Grid item sm={3}>
+        <Grid item xs={3}>
             <Typography sx={{display: 'flex', alignItems: "center"}}>{yearText}</Typography>
         </Grid>
-        <Grid item alignItems="center" sm={9}>
+        <Grid item alignItems="center" xs={9}>
             <Stack pl={2}>
                 <Typography variant="h6" sx={{
                     overflow: 'hidden',

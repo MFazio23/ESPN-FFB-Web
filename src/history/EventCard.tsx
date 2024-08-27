@@ -8,7 +8,7 @@ export interface EventCardProps {
 
 const EventCard = ({card}: { card: EventCardProps }) => {
     const {year, events} = card;
-    return <Card sx={{width: 450}}>
+    return <Card sx={{width: 450, maxWidth: '100vw'}}>
         <CardHeader title={year}/>
         <CardContent>
             <Stack sx={{height: 160}}>

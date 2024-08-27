@@ -12,7 +12,7 @@ export default function FranchiseDetails() {
         return <h1>Franchise not found!</h1>
     }
 
-    return <Card sx={{width: 450}}>
+    return <Card sx={{width: 450, maxWidth: '100vw'}}>
         <pre>
         {JSON.stringify(summary, null, 2)}
             </pre>

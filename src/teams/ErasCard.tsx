@@ -26,7 +26,7 @@ export default function ErasCard({summary}: ErasCardProps) {
     const winLossText = `${wins}-${losses}`
     const championshipText = Array.from({length: championships}, () => "🏆").join("");
 
-    return <Card sx={{width: 450}}>
+    return <Card sx={{width: 450, maxWidth: '100vw'}}>
         <CardContent>
             <Box sx={{display: 'flex', flexDirection: 'row', justifyContent: 'space-between'}}>
                 <Stack>
