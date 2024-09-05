@@ -1,6 +1,6 @@
 import * as React from 'react';
 import {useState} from 'react';
-import {Paper, Tab, Table, TableBody, TableContainer, Tabs, Typography} from "@mui/material";
+import {Paper, Tab, Table, TableBody, TableCell, TableContainer, TableRow, Tabs, Typography} from "@mui/material";
 import dataHandler from '../data/data-handler'
 import RecordBookItem from "./RecordBookItem";
 
@@ -18,11 +18,15 @@ export default function RecordBook() {
     const recordBook: RecordBookRecord[] = dataHandler.recordBook[recordBookType];
 
     const records = recordBook.every(record => record.records.length === 0) ?
-        (<Paper>
-            <Typography variant="h4" align="center" p={'16px'}>
-                No records found, check back later.
-            </Typography>
-        </Paper>) :
+        (<React.Fragment>
+            <TableRow>
+                <TableCell>
+                    <Typography variant="h4" align="center">
+                        No records currently, check back later.
+                    </Typography>
+                </TableCell>
+            </TableRow>
+        </React.Fragment>) :
         (
             recordBook
                 .sort((bookA, bookB) => bookA.order - bookB.order)

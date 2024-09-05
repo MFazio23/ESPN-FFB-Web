@@ -1,4 +1,5 @@
-import {Grid, Stack, Typography} from "@mui/material";
+import {Stack, Typography} from "@mui/material";
+import Grid from "@mui/material/Grid2";
 import {Era} from './ErasCard';
 
 interface ErasCardRowProps {
@@ -9,10 +10,10 @@ export function ErasCardRow({era}: ErasCardRowProps) {
     const {title, subtitle, startYear, endYear} = era;
     const yearText = startYear === endYear ? startYear : `${startYear} - ${endYear}`;
     return <Grid container alignItems="center">
-        <Grid item xs={3}>
+        <Grid size={3}>
             <Typography sx={{display: 'flex', alignItems: "center"}}>{yearText}</Typography>
         </Grid>
-        <Grid item alignItems="center" xs={9}>
+        <Grid alignItems="center" size={9}>
             <Stack pl={2}>
                 <Typography variant="h6" sx={{
                     overflow: 'hidden',

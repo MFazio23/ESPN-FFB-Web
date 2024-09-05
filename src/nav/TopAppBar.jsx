@@ -1,5 +1,4 @@
 import * as React from 'react';
-import {useContext} from 'react';
 import AppBar from '@mui/material/AppBar';
 import Toolbar from '@mui/material/Toolbar';
 import Typography from '@mui/material/Typography';
@@ -10,12 +9,17 @@ import Brightness7Icon from '@mui/icons-material/Brightness7';
 import SportsFootballIcon from '@mui/icons-material/SportsFootball';
 import {Link} from "react-router-dom";
 import Links from "./Links";
-import {useTheme} from '@mui/material';
-import {ColorModeContext} from '../App';
+import {useColorScheme, useTheme} from '@mui/material';
 
 export default function TopAppBar(props) {
     const theme = useTheme();
-    const colorMode = useContext(ColorModeContext);
+
+    const {mode, setMode} = useColorScheme();
+
+    const toggleColorMode = () => {
+        setMode(mode === 'light' ? 'dark' : 'light');
+    }
+
     return (
         <AppBar position="sticky">
             <Toolbar>
@@ -39,7 +43,7 @@ export default function TopAppBar(props) {
                     to={Links.home}>
                     <SportsFootballIcon sx={{mr: 1}}/>
                     <Typography variant="h6" component="div" sx={{flexGrow: 1}}>
-                        Fun Time Auction FFB History
+                        Fun Time Auction FFB
                     </Typography>
                 </IconButton>
                 <IconButton
@@ -48,7 +52,7 @@ export default function TopAppBar(props) {
                     aria-label="mode"
                     sx={{ml: 1}}
                     title={`Change to ${theme.palette.mode === 'dark' ? `light` : 'dark'} mode`}
-                    onClick={colorMode.toggleColorMode}>
+                    onClick={toggleColorMode}>
                     {theme.palette.mode === 'dark' ? <Brightness7Icon/> : <Brightness4Icon/>}
                 </IconButton>
             </Toolbar>

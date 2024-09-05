@@ -1,4 +1,4 @@
-import {Grid} from '@mui/material';
+import Grid from '@mui/material/Grid2';
 import {HistoryCard, HistoryCardProps} from './HistoryCard';
 
 
@@ -29,7 +29,7 @@ export default function History() {
     return <Grid container spacing={2} mt={3} justifyContent='center'>
         {historyCards.map(card =>
             (
-                <Grid item xs="auto" key={card.id}>
+                <Grid size="auto" key={card.id}>
                     <HistoryCard card={card}/>
                 </Grid>
             ))}
