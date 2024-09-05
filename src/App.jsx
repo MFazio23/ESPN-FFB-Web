@@ -1,4 +1,5 @@
 import * as React from 'react';
+import {useEffect} from 'react';
 import './App.css';
 import {CssBaseline} from "@mui/material";
 import {ThemeProvider} from '@mui/material/styles';
@@ -10,8 +11,10 @@ export const ColorModeContext = React.createContext({
     }
 });
 
+export const ColorModeKey = 'colorMode';
+
 export default function App() {
-    const [mode, setMode] = React.useState('dark');
+    const [mode, setMode] = React.useState(localStorage.getItem(ColorModeKey) || 'dark');
     const colorMode = React.useMemo(
         () => ({
             toggleColorMode: () => {
@@ -20,6 +23,10 @@ export default function App() {
         }),
         [setMode],
     );
+
+    useEffect(() => {
+        localStorage.setItem(ColorModeKey, mode);
+    }, [mode]);
 
     const theme = generateTheme(mode);
 
