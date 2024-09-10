@@ -274,11 +274,6 @@
       },
       {
         "enabled": true,
-        "id": "157cf5e1-3ad7-38fb-bb47-87f60218284a",
-        "type": "KEY_STAT_UPDATE"
-      },
-      {
-        "enabled": true,
         "id": "9c7e2291-9ab2-318b-b139-2d3f84da0259",
         "type": "REDZONE"
       },
@@ -296,6 +291,11 @@
         "enabled": true,
         "id": "8b4a9b39-9644-3e81-94e6-0e29524c512e",
         "type": "WAIVERS"
+      },
+      {
+        "enabled": true,
+        "id": "5438c5bc-3c77-31a7-8609-5e5c5b23fdee",
+        "type": "CELEBRATION_SHARE"
       }
     ]
   }
