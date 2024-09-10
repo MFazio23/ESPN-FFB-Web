@@ -1,1 +1,302 @@
-[{"displayName":"johnsonville396634","firstName":"John","id":"1CADD14C-2060-4856-BC7D-02C46D863D28","lastName":"Otto"},{"displayName":"jaguars10","firstName":"Justin","id":"2569536C-A58F-4E7C-801F-F06DF3BE2A73","lastName":"Witz"},{"displayName":"brienenc","firstName":"Carl","id":"36294745-6024-4E2A-9998-21A15B816B5F","lastName":"Brienen"},{"displayName":"AceOfJesters","firstName":"David","id":"57312B70-8D32-492F-8850-59850386652F","lastName":"Breen"},{"displayName":"Ochsenfroesche","firstName":"Dave","id":"670ED790-95AB-4CD9-9708-1A997C227D33","lastName":"Smith"},{"displayName":"quadzy214","firstName":"James","id":"6BB7653E-8BC9-40F9-952A-33DD089B251C","lastName":"Otto"},{"displayName":"Guffy_the_Great","firstName":"Brandon","id":"72E2EE97-54D3-4B0E-AF62-BA4C16023157","lastName":"Gustafson"},{"displayName":"SchraderMJ11@gmail.com","firstName":"Matt","id":"76F57F7A-5670-4B4C-998C-DA5CC903123C","lastName":"Schrader"},{"displayName":"simon79121","firstName":"zhemin","id":"8AEAA731-DCE1-4297-A4FF-2BEDAFB02BD1","lastName":"huang"},{"displayName":"BigT5910","firstName":"Tucker","id":"8C3CB4F9-57AD-499A-85B8-D9AEB5A87256","lastName":"James"},{"displayName":"MFazio23","firstName":"Michael","id":"A24CE5EF-0E09-49AB-94D2-19EC1663B700","lastName":"Fazio"},{"displayName":"ZTiminator","firstName":"Tim","id":"AD6BDCCF-B64B-4BA6-8F45-D11A9617659E","lastName":"Ericsen"},{"displayName":"Trojan_Man44","firstName":"Scott","id":"CBC901C7-2511-49DD-A053-5F6E22C32329","lastName":"Johnson"},{"displayName":"m1cmdrpitch","firstName":"David","id":"DB2F4DE4-A627-4203-9CBC-5016EC30C3FC","lastName":"Pietrzykowski"},{"displayName":"Ben_Ericsen","firstName":"Ben","id":"F1509406-592B-43AF-A6E8-0F6BFB5638E7","lastName":"Ericsen"},{"displayName":"emadkazmi1234","firstName":"Emad","id":"310C7B23-4C8B-4CC7-8C7B-234C8B7CC782","lastName":"Kazmi"},{"displayName":"nkfellom","firstName":"Nathan","id":"7779796B-FE3A-48C2-BD89-FF25CB2F87DA","lastName":"Fellom"},{"displayName":"woodwa1764441","firstName":"Alex","id":"C7CCE30B-298A-4C85-8265-37510D53E1CF","lastName":"Woodward"},{"displayName":"bdr814","firstName":"Blayne","id":"C117D3A8-0CA0-4D96-AA00-DE4004A13A13","lastName":"Roselle"},{"displayName":"bdpelc2609505","firstName":"Ben","id":"75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB","lastName":"Pelc"},{"displayName":"MrCapuchino","firstName":"Juan Pablo","id":"A88DD146-6C4F-4BF8-B4F0-695BDCDC7347","lastName":"Siller"},{"displayName":"nickkwiecien","firstName":"Nick ","id":"FAA9326C-D141-4711-A932-6CD1413711B9","lastName":"Kwiecien","notificationSettings":[{"enabled":true,"id":"d2a27e0f-63c6-3b20-80db-f4f798a1ce85","type":"TEAM_PLAYER_INJURY"},{"enabled":true,"id":"fe52a5c9-b0e9-361a-bde8-14e125fa78ac","type":"TEAM_PLAYER_AVAILABILITY"},{"enabled":true,"id":"5711a601-b894-3c32-b909-b4f0e2f27716","type":"TEAM_PLAYER_NEWS"},{"enabled":true,"id":"9a16bb06-f8bc-31b6-9a03-bcc50459d94c","type":"TEAM_PLAYER_STARTBENCH"},{"enabled":true,"id":"61784abb-13bb-3191-b29e-c0d3dd44ec62","type":"TEAM_TRADE_OFFER"},{"enabled":true,"id":"5460ceb0-4ae0-39b4-be1c-b44b2dda2975","type":"DRAFT"}]},{"displayName":"Rolando Lopez","firstName":"Rolando","id":"0852AF46-6C26-4040-92AF-466C26C040F9","lastName":"Lopez","notificationSettings":[{"enabled":true,"id":"35d35a94-0419-3766-9180-7e8a43c79c71","type":"TEAM_PLAYER_INJURY"},{"enabled":true,"id":"6a9ee905-439d-3946-a1dd-992239dbd481","type":"TEAM_PLAYER_AVAILABILITY"},{"enabled":true,"id":"e2410618-924d-3201-8891-630e94ac23ab","type":"TEAM_PLAYER_NEWS"},{"enabled":true,"id":"242ecfe3-a5b9-37f7-bb59-c5c7cf792616","type":"TEAM_PLAYER_STARTBENCH"},{"enabled":true,"id":"a5485eb8-f6f7-3fae-960f-933617b2ae26","type":"TEAM_TRADE_OFFER"},{"enabled":true,"id":"71932cbc-a6e7-3cde-8c04-a92a8a2ba170","type":"DRAFT"},{"enabled":true,"id":"8e0b8079-fe3b-33e1-9bc7-1268a022185d","type":"TEAM_MATCHUP_SCORE"},{"enabled":true,"id":"91a3b67b-ff7d-35ff-8aaa-00b909955805","type":"KEY_STAT_UPDATE"},{"enabled":true,"id":"d7a25396-39f5-3740-bd9f-4eb3951e26eb","type":"REDZONE"},{"enabled":true,"id":"f598b927-ed90-340b-a12f-316342aa687b","type":"ADD_DROP"},{"enabled":true,"id":"b2da23fd-c062-3471-bb63-c8f667e70fc6","type":"WEEKLY_RECAP"},{"enabled":true,"id":"1890e6cf-211c-3feb-a1aa-254794bb7de3","type":"WAIVERS"}]},{"displayName":"espn50678272","firstName":"Ben","id":"99BCAACF-9EA7-458D-9FA2-634E5F4E48DE","lastName":"Green","notificationSettings":[{"enabled":true,"id":"2cb75679-6349-35e5-a543-dee93684ff2f","type":"TEAM_PLAYER_INJURY"},{"enabled":true,"id":"05e1048a-b294-3186-99ba-36a7cd94b426","type":"TEAM_PLAYER_AVAILABILITY"},{"enabled":true,"id":"f0bd167c-c4d7-339b-84b4-eedb76338d02","type":"TEAM_PLAYER_NEWS"},{"enabled":true,"id":"2ad57034-9967-3126-ad88-35aa8e461cc5","type":"TEAM_PLAYER_STARTBENCH"},{"enabled":true,"id":"fc4eb30c-17e2-35da-988d-c07b4d039c11","type":"TEAM_TRADE_OFFER"},{"enabled":true,"id":"a9253ec4-a1e8-3ad3-8b70-c97ec7ab3d6a","type":"DRAFT"},{"enabled":true,"id":"4e84c888-9b42-37ca-a9af-9445a8272541","type":"TEAM_MATCHUP_SCORE"},{"enabled":true,"id":"157cf5e1-3ad7-38fb-bb47-87f60218284a","type":"KEY_STAT_UPDATE"},{"enabled":true,"id":"9c7e2291-9ab2-318b-b139-2d3f84da0259","type":"REDZONE"},{"enabled":true,"id":"dae84613-e25f-3c5a-a7d4-bc59fdb68d4b","type":"ADD_DROP"},{"enabled":true,"id":"e27111bb-8882-3242-b6ac-a921cfa0277c","type":"WEEKLY_RECAP"},{"enabled":true,"id":"8b4a9b39-9644-3e81-94e6-0e29524c512e","type":"WAIVERS"}]}]
+[
+  {
+    "displayName": "johnsonville396634",
+    "firstName": "John",
+    "id": "1CADD14C-2060-4856-BC7D-02C46D863D28",
+    "lastName": "Otto"
+  },
+  {
+    "displayName": "jaguars10",
+    "firstName": "Justin",
+    "id": "2569536C-A58F-4E7C-801F-F06DF3BE2A73",
+    "lastName": "Witz"
+  },
+  {
+    "displayName": "brienenc",
+    "firstName": "Carl",
+    "id": "36294745-6024-4E2A-9998-21A15B816B5F",
+    "lastName": "Brienen"
+  },
+  {
+    "displayName": "AceOfJesters",
+    "firstName": "David",
+    "id": "57312B70-8D32-492F-8850-59850386652F",
+    "lastName": "Breen"
+  },
+  {
+    "displayName": "Ochsenfroesche",
+    "firstName": "Dave",
+    "id": "670ED790-95AB-4CD9-9708-1A997C227D33",
+    "lastName": "Smith"
+  },
+  {
+    "displayName": "quadzy214",
+    "firstName": "James",
+    "id": "6BB7653E-8BC9-40F9-952A-33DD089B251C",
+    "lastName": "Otto"
+  },
+  {
+    "displayName": "Guffy_the_Great",
+    "firstName": "Brandon",
+    "id": "72E2EE97-54D3-4B0E-AF62-BA4C16023157",
+    "lastName": "Gustafson"
+  },
+  {
+    "displayName": "SchraderMJ11@gmail.com",
+    "firstName": "Matt",
+    "id": "76F57F7A-5670-4B4C-998C-DA5CC903123C",
+    "lastName": "Schrader"
+  },
+  {
+    "displayName": "simon79121",
+    "firstName": "zhemin",
+    "id": "8AEAA731-DCE1-4297-A4FF-2BEDAFB02BD1",
+    "lastName": "huang"
+  },
+  {
+    "displayName": "BigT5910",
+    "firstName": "Tucker",
+    "id": "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256",
+    "lastName": "James"
+  },
+  {
+    "displayName": "MFazio23",
+    "firstName": "Michael",
+    "id": "A24CE5EF-0E09-49AB-94D2-19EC1663B700",
+    "lastName": "Fazio"
+  },
+  {
+    "displayName": "ZTiminator",
+    "firstName": "Tim",
+    "id": "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E",
+    "lastName": "Ericsen"
+  },
+  {
+    "displayName": "Trojan_Man44",
+    "firstName": "Scott",
+    "id": "CBC901C7-2511-49DD-A053-5F6E22C32329",
+    "lastName": "Johnson"
+  },
+  {
+    "displayName": "m1cmdrpitch",
+    "firstName": "David",
+    "id": "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC",
+    "lastName": "Pietrzykowski"
+  },
+  {
+    "displayName": "Ben_Ericsen",
+    "firstName": "Ben",
+    "id": "F1509406-592B-43AF-A6E8-0F6BFB5638E7",
+    "lastName": "Ericsen"
+  },
+  {
+    "displayName": "emadkazmi1234",
+    "firstName": "Emad",
+    "id": "310C7B23-4C8B-4CC7-8C7B-234C8B7CC782",
+    "lastName": "Kazmi"
+  },
+  {
+    "displayName": "nkfellom",
+    "firstName": "Nathan",
+    "id": "7779796B-FE3A-48C2-BD89-FF25CB2F87DA",
+    "lastName": "Fellom"
+  },
+  {
+    "displayName": "woodwa1764441",
+    "firstName": "Alex",
+    "id": "C7CCE30B-298A-4C85-8265-37510D53E1CF",
+    "lastName": "Woodward"
+  },
+  {
+    "displayName": "bdr814",
+    "firstName": "Blayne",
+    "id": "C117D3A8-0CA0-4D96-AA00-DE4004A13A13",
+    "lastName": "Roselle"
+  },
+  {
+    "displayName": "bdpelc2609505",
+    "firstName": "Ben",
+    "id": "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB",
+    "lastName": "Pelc"
+  },
+  {
+    "displayName": "MrCapuchino",
+    "firstName": "Juan Pablo",
+    "id": "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347",
+    "lastName": "Siller"
+  },
+  {
+    "displayName": "nickkwiecien",
+    "firstName": "Nick ",
+    "id": "FAA9326C-D141-4711-A932-6CD1413711B9",
+    "lastName": "Kwiecien",
+    "notificationSettings": [
+      {
+        "enabled": true,
+        "id": "d2a27e0f-63c6-3b20-80db-f4f798a1ce85",
+        "type": "TEAM_PLAYER_INJURY"
+      },
+      {
+        "enabled": true,
+        "id": "fe52a5c9-b0e9-361a-bde8-14e125fa78ac",
+        "type": "TEAM_PLAYER_AVAILABILITY"
+      },
+      {
+        "enabled": true,
+        "id": "5711a601-b894-3c32-b909-b4f0e2f27716",
+        "type": "TEAM_PLAYER_NEWS"
+      },
+      {
+        "enabled": true,
+        "id": "9a16bb06-f8bc-31b6-9a03-bcc50459d94c",
+        "type": "TEAM_PLAYER_STARTBENCH"
+      },
+      {
+        "enabled": true,
+        "id": "61784abb-13bb-3191-b29e-c0d3dd44ec62",
+        "type": "TEAM_TRADE_OFFER"
+      },
+      {
+        "enabled": true,
+        "id": "5460ceb0-4ae0-39b4-be1c-b44b2dda2975",
+        "type": "DRAFT"
+      }
+    ]
+  },
+  {
+    "displayName": "Rolando Lopez",
+    "firstName": "Rolando",
+    "id": "0852AF46-6C26-4040-92AF-466C26C040F9",
+    "lastName": "Lopez",
+    "notificationSettings": [
+      {
+        "enabled": true,
+        "id": "35d35a94-0419-3766-9180-7e8a43c79c71",
+        "type": "TEAM_PLAYER_INJURY"
+      },
+      {
+        "enabled": true,
+        "id": "6a9ee905-439d-3946-a1dd-992239dbd481",
+        "type": "TEAM_PLAYER_AVAILABILITY"
+      },
+      {
+        "enabled": true,
+        "id": "e2410618-924d-3201-8891-630e94ac23ab",
+        "type": "TEAM_PLAYER_NEWS"
+      },
+      {
+        "enabled": true,
+        "id": "242ecfe3-a5b9-37f7-bb59-c5c7cf792616",
+        "type": "TEAM_PLAYER_STARTBENCH"
+      },
+      {
+        "enabled": true,
+        "id": "a5485eb8-f6f7-3fae-960f-933617b2ae26",
+        "type": "TEAM_TRADE_OFFER"
+      },
+      {
+        "enabled": true,
+        "id": "71932cbc-a6e7-3cde-8c04-a92a8a2ba170",
+        "type": "DRAFT"
+      },
+      {
+        "enabled": true,
+        "id": "8e0b8079-fe3b-33e1-9bc7-1268a022185d",
+        "type": "TEAM_MATCHUP_SCORE"
+      },
+      {
+        "enabled": true,
+        "id": "91a3b67b-ff7d-35ff-8aaa-00b909955805",
+        "type": "KEY_STAT_UPDATE"
+      },
+      {
+        "enabled": true,
+        "id": "d7a25396-39f5-3740-bd9f-4eb3951e26eb",
+        "type": "REDZONE"
+      },
+      {
+        "enabled": true,
+        "id": "f598b927-ed90-340b-a12f-316342aa687b",
+        "type": "ADD_DROP"
+      },
+      {
+        "enabled": true,
+        "id": "b2da23fd-c062-3471-bb63-c8f667e70fc6",
+        "type": "WEEKLY_RECAP"
+      },
+      {
+        "enabled": true,
+        "id": "1890e6cf-211c-3feb-a1aa-254794bb7de3",
+        "type": "WAIVERS"
+      }
+    ]
+  },
+  {
+    "displayName": "espn50678272",
+    "firstName": "Ben",
+    "id": "99BCAACF-9EA7-458D-9FA2-634E5F4E48DE",
+    "lastName": "Green",
+    "notificationSettings": [
+      {
+        "enabled": true,
+        "id": "2cb75679-6349-35e5-a543-dee93684ff2f",
+        "type": "TEAM_PLAYER_INJURY"
+      },
+      {
+        "enabled": true,
+        "id": "05e1048a-b294-3186-99ba-36a7cd94b426",
+        "type": "TEAM_PLAYER_AVAILABILITY"
+      },
+      {
+        "enabled": true,
+        "id": "f0bd167c-c4d7-339b-84b4-eedb76338d02",
+        "type": "TEAM_PLAYER_NEWS"
+      },
+      {
+        "enabled": true,
+        "id": "2ad57034-9967-3126-ad88-35aa8e461cc5",
+        "type": "TEAM_PLAYER_STARTBENCH"
+      },
+      {
+        "enabled": true,
+        "id": "fc4eb30c-17e2-35da-988d-c07b4d039c11",
+        "type": "TEAM_TRADE_OFFER"
+      },
+      {
+        "enabled": true,
+        "id": "a9253ec4-a1e8-3ad3-8b70-c97ec7ab3d6a",
+        "type": "DRAFT"
+      },
+      {
+        "enabled": true,
+        "id": "4e84c888-9b42-37ca-a9af-9445a8272541",
+        "type": "TEAM_MATCHUP_SCORE"
+      },
+      {
+        "enabled": true,
+        "id": "157cf5e1-3ad7-38fb-bb47-87f60218284a",
+        "type": "KEY_STAT_UPDATE"
+      },
+      {
+        "enabled": true,
+        "id": "9c7e2291-9ab2-318b-b139-2d3f84da0259",
+        "type": "REDZONE"
+      },
+      {
+        "enabled": true,
+        "id": "dae84613-e25f-3c5a-a7d4-bc59fdb68d4b",
+        "type": "ADD_DROP"
+      },
+      {
+        "enabled": true,
+        "id": "e27111bb-8882-3242-b6ac-a921cfa0277c",
+        "type": "WEEKLY_RECAP"
+      },
+      {
+        "enabled": true,
+        "id": "8b4a9b39-9644-3e81-94e6-0e29524c512e",
+        "type": "WAIVERS"
+      }
+    ]
+  }
+]
