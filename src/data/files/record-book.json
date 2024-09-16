@@ -5187,8 +5187,170 @@
     ],
     "highestPointsPlayedPctInSeason": [],
     "highestPointsPlayedPctInSeasonWithPlayoffs": [],
-    "highestPointsPlus": [],
-    "highestPointsPlusWithPlayoffs": [],
+    "highestPointsPlus": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 136.1483201901264
+        },
+        "season": 2024,
+        "value": 136.1483201901264
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "10": 134.49801092306657
+        },
+        "season": 2024,
+        "value": 134.49801092306657
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "13": 118.41243644688157
+        },
+        "season": 2024,
+        "value": 118.41243644688157
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "14": 105.29018327364655
+        },
+        "season": 2024,
+        "value": 105.29018327364655
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 102.8512863637558
+        },
+        "season": 2024,
+        "value": 102.8512863637558
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "17": 101.08373350127269
+        },
+        "season": 2024,
+        "value": 101.08373350127269
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 98.018661746038
+        },
+        "season": 2024,
+        "value": 98.018661746038
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 94.12746862852521
+        },
+        "season": 2024,
+        "value": 94.12746862852521
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 82.802728823195
+        },
+        "season": 2024,
+        "value": 82.802728823195
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 81.91700880522633
+        },
+        "season": 2024,
+        "value": 81.91700880522633
+      }
+    ],
+    "highestPointsPlusWithPlayoffs": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 136.1483201901264
+        },
+        "season": 2024,
+        "value": 136.1483201901264
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "10": 134.49801092306657
+        },
+        "season": 2024,
+        "value": 134.49801092306657
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "13": 118.41243644688157
+        },
+        "season": 2024,
+        "value": 118.41243644688157
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "14": 105.29018327364655
+        },
+        "season": 2024,
+        "value": 105.29018327364655
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 102.8512863637558
+        },
+        "season": 2024,
+        "value": 102.8512863637558
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "17": 101.08373350127269
+        },
+        "season": 2024,
+        "value": 101.08373350127269
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 98.018661746038
+        },
+        "season": 2024,
+        "value": 98.018661746038
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 94.12746862852521
+        },
+        "season": 2024,
+        "value": 94.12746862852521
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 82.802728823195
+        },
+        "season": 2024,
+        "value": 82.802728823195
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 81.91700880522633
+        },
+        "season": 2024,
+        "value": 81.91700880522633
+      }
+    ],
     "largestMarginOfVictory": [
       {
         "intValue": false,
@@ -5689,8 +5851,170 @@
     ],
     "lowestPointsPlayedPctInSeason": [],
     "lowestPointsPlayedPctInSeasonWithPlayoffs": [],
-    "lowestPointsPlus": [],
-    "lowestPointsPlusWithPlayoffs": [],
+    "lowestPointsPlus": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 68.3560297627404
+        },
+        "season": 2024,
+        "value": 68.3560297627404
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 80.56046322685478
+        },
+        "season": 2024,
+        "value": 80.56046322685478
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 81.91700880522633
+        },
+        "season": 2024,
+        "value": 81.91700880522633
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 82.802728823195
+        },
+        "season": 2024,
+        "value": 82.802728823195
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 94.12746862852521
+        },
+        "season": 2024,
+        "value": 94.12746862852521
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 98.018661746038
+        },
+        "season": 2024,
+        "value": 98.018661746038
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "17": 101.08373350127269
+        },
+        "season": 2024,
+        "value": 101.08373350127269
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 102.8512863637558
+        },
+        "season": 2024,
+        "value": 102.8512863637558
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "14": 105.29018327364655
+        },
+        "season": 2024,
+        "value": 105.29018327364655
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "13": 118.41243644688157
+        },
+        "season": 2024,
+        "value": 118.41243644688157
+      }
+    ],
+    "lowestPointsPlusWithPlayoffs": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 68.3560297627404
+        },
+        "season": 2024,
+        "value": 68.3560297627404
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 80.56046322685478
+        },
+        "season": 2024,
+        "value": 80.56046322685478
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 81.91700880522633
+        },
+        "season": 2024,
+        "value": 81.91700880522633
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 82.802728823195
+        },
+        "season": 2024,
+        "value": 82.802728823195
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "11": 94.12746862852521
+        },
+        "season": 2024,
+        "value": 94.12746862852521
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 98.018661746038
+        },
+        "season": 2024,
+        "value": 98.018661746038
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "17": 101.08373350127269
+        },
+        "season": 2024,
+        "value": 101.08373350127269
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 102.8512863637558
+        },
+        "season": 2024,
+        "value": 102.8512863637558
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "14": 105.29018327364655
+        },
+        "season": 2024,
+        "value": 105.29018327364655
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "13": 118.41243644688157
+        },
+        "season": 2024,
+        "value": 118.41243644688157
+      }
+    ],
     "lowestWinningScore": [
       {
         "intValue": false,
