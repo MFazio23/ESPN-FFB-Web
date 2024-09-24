@@ -1,6 +1,7 @@
 import {Card, CardContent, Stack, Typography} from "@mui/material";
 import Box from "@mui/material/Box";
 import {ErasCardRow} from "./ErasCardRow";
+import {useNavigate} from 'react-router-dom';
 
 export interface Era {
     title: string;
@@ -19,14 +20,23 @@ export interface EraSummary {
 
 interface ErasCardProps {
     summary: EraSummary;
+    cardLink?: string;
 }
 
-export default function ErasCard({summary}: ErasCardProps) {
+export default function ErasCard({summary, cardLink}: ErasCardProps) {
+    const navigate = useNavigate();
     const {name, wins, losses, championships, eras} = summary;
     const winLossText = `${wins}-${losses}`
     const championshipText = Array.from({length: championships}, () => "🏆").join("");
 
-    return <Card sx={{width: 450, maxWidth: '100vw'}}>
+    const handleCardClicked = () => {
+        if (cardLink) navigate(cardLink);
+    }
+
+    const cardClass = cardLink ? "linked-card" : "";
+
+    return <Card className={cardClass} sx={{width: 450, maxWidth: '100vw'}}
+                 onClick={() => handleCardClicked()}>
         <CardContent>
             <Box sx={{display: 'flex', flexDirection: 'row', justifyContent: 'space-between'}}>
                 <Stack>

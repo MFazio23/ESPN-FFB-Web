@@ -1,7 +1,7 @@
 .App {
-  text-align: center;
+    text-align: center;
 }
 
-.clickable-row {
-  cursor: pointer;
+.clickable-row, .linked-card {
+    cursor: pointer;
 }

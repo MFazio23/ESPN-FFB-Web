@@ -29,7 +29,6 @@
   "longestLosingStreakWithPlayoffs",
   "lowestWinningScore",
   "highestLosingScore",
-  "fewestPointsMissed",
   "fewestPointsMissedInSeason",
   "fewestPointsMissedInSeasonWithPlayoffs",
   "highestPointsPlayedPctInSeason",

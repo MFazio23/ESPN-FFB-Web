@@ -7,7 +7,8 @@ export default function Owners() {
     return <Grid container spacing={2} my={3} justifyContent='center'>
         {summaries.map(ownerSummary => (
             <Grid size="auto" key={`ownerSummary-${ownerSummary.id}`}>
-                <ErasCard key={`${ownerSummary.id}card`} summary={ownerSummary}/>
+                <ErasCard key={`${ownerSummary.id}card`} cardLink={`/owners/${ownerSummary.id}`}
+                          summary={ownerSummary}/>
             </Grid>
         ))}
     </Grid>
