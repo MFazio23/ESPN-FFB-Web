@@ -23115,7 +23115,7 @@
     },
     "homeTeamId": 9,
     "id": 15,
-    "isHomeOriginalWinner": false,
+    "isHomeOriginalWinner": true,
     "playoffTierType": "None",
     "week": 3,
     "year": 2024
@@ -23132,7 +23132,7 @@
     },
     "homeTeamId": 1,
     "id": 16,
-    "isHomeOriginalWinner": false,
+    "isHomeOriginalWinner": true,
     "playoffTierType": "None",
     "week": 3,
     "year": 2024
@@ -23149,7 +23149,7 @@
     },
     "homeTeamId": 15,
     "id": 17,
-    "isHomeOriginalWinner": false,
+    "isHomeOriginalWinner": true,
     "playoffTierType": "None",
     "week": 3,
     "year": 2024
@@ -23166,7 +23166,7 @@
     },
     "homeTeamId": 11,
     "id": 18,
-    "isHomeOriginalWinner": false,
+    "isHomeOriginalWinner": true,
     "playoffTierType": "None",
     "week": 3,
     "year": 2024
