@@ -260,17 +260,17 @@
     "12": {
       "averagePlayoffPointsAgainst": 144.135,
       "averagePlayoffPointsFor": 146.985,
-      "averagePointsAgainst": 129.5378947368421,
-      "averagePointsFor": 148.58631578947364,
-      "games": 19,
+      "averagePointsAgainst": 128.959,
+      "averagePointsFor": 147.06099999999998,
+      "games": 20,
       "losses": 7,
       "playoffLosses": 2,
       "playoffPointsAgainst": 576.54,
       "playoffPointsFor": 587.94,
       "playoffWins": 2,
-      "pointsAgainst": 2461.2200000000003,
-      "pointsFor": 2823.1399999999994,
-      "wins": 12
+      "pointsAgainst": 2579.1800000000003,
+      "pointsFor": 2941.2199999999993,
+      "wins": 13
     },
     "13": {
       "averagePlayoffPointsAgainst": 157.52666666666667,
@@ -883,17 +883,17 @@
     "5": {
       "averagePlayoffPointsAgainst": 121.38666666666666,
       "averagePlayoffPointsFor": 146.29333333333332,
-      "averagePointsAgainst": 147.75533333333337,
-      "averagePointsFor": 130.13866666666667,
-      "games": 30,
+      "averagePointsAgainst": 147.67096774193553,
+      "averagePointsFor": 130.9432258064516,
+      "games": 31,
       "losses": 16,
       "playoffLosses": 1,
       "playoffPointsAgainst": 364.15999999999997,
       "playoffPointsFor": 438.88,
       "playoffWins": 2,
-      "pointsAgainst": 4432.660000000001,
-      "pointsFor": 3904.1600000000003,
-      "wins": 14
+      "pointsAgainst": 4577.800000000001,
+      "pointsFor": 4059.2400000000002,
+      "wins": 15
     },
     "9": {
       "averagePlayoffPointsAgainst": 144.5,
@@ -1581,16 +1581,16 @@
     "9": {
       "averagePlayoffPointsAgainst": 146.985,
       "averagePlayoffPointsFor": 144.135,
-      "averagePointsAgainst": 148.58631578947364,
-      "averagePointsFor": 129.5378947368421,
-      "games": 19,
-      "losses": 12,
+      "averagePointsAgainst": 147.06099999999998,
+      "averagePointsFor": 128.959,
+      "games": 20,
+      "losses": 13,
       "playoffLosses": 2,
       "playoffPointsAgainst": 587.94,
       "playoffPointsFor": 576.54,
       "playoffWins": 2,
-      "pointsAgainst": 2823.1399999999994,
-      "pointsFor": 2461.2200000000003,
+      "pointsAgainst": 2941.2199999999993,
+      "pointsFor": 2579.1800000000003,
       "wins": 7
     },
     "10": {
@@ -1748,16 +1748,16 @@
     "10": {
       "averagePlayoffPointsAgainst": 134.82666666666668,
       "averagePlayoffPointsFor": 119.56,
-      "averagePointsAgainst": 148.16222222222223,
-      "averagePointsFor": 142.6533333333333,
-      "games": 18,
-      "losses": 11,
+      "averagePointsAgainst": 149.51684210526318,
+      "averagePointsFor": 142.09052631578948,
+      "games": 19,
+      "losses": 12,
       "playoffLosses": 1,
       "playoffPointsAgainst": 404.48,
       "playoffPointsFor": 358.68,
       "playoffWins": 2,
-      "pointsAgainst": 2666.92,
-      "pointsFor": 2567.7599999999998,
+      "pointsAgainst": 2840.82,
+      "pointsFor": 2699.72,
       "wins": 7
     },
     "11": {
@@ -1885,16 +1885,16 @@
     "4": {
       "averagePlayoffPointsAgainst": 119.84333333333335,
       "averagePlayoffPointsFor": 149.63666666666668,
-      "averagePointsAgainst": 127.59238095238095,
-      "averagePointsFor": 142.90761904761905,
-      "games": 21,
-      "losses": 3,
+      "averagePointsAgainst": 129.49818181818182,
+      "averagePointsFor": 143.44727272727275,
+      "games": 22,
+      "losses": 4,
       "playoffLosses": 0,
       "playoffPointsAgainst": 719.0600000000001,
       "playoffPointsFor": 897.82,
       "playoffWins": 6,
-      "pointsAgainst": 2679.44,
-      "pointsFor": 3001.06,
+      "pointsAgainst": 2848.96,
+      "pointsFor": 3155.84,
       "wins": 18
     },
     "5": {
@@ -2037,16 +2037,16 @@
     "3": {
       "averagePlayoffPointsAgainst": 146.29333333333332,
       "averagePlayoffPointsFor": 121.38666666666666,
-      "averagePointsAgainst": 130.13866666666667,
-      "averagePointsFor": 147.75533333333337,
-      "games": 30,
-      "losses": 14,
+      "averagePointsAgainst": 130.9432258064516,
+      "averagePointsFor": 147.67096774193553,
+      "games": 31,
+      "losses": 15,
       "playoffLosses": 2,
       "playoffPointsAgainst": 438.88,
       "playoffPointsFor": 364.15999999999997,
       "playoffWins": 1,
-      "pointsAgainst": 3904.1600000000003,
-      "pointsFor": 4432.660000000001,
+      "pointsAgainst": 4059.2400000000002,
+      "pointsFor": 4577.800000000001,
       "wins": 16
     },
     "4": {
@@ -2356,17 +2356,17 @@
     "1": {
       "averagePlayoffPointsAgainst": 119.56,
       "averagePlayoffPointsFor": 134.82666666666668,
-      "averagePointsAgainst": 145.33882352941174,
-      "averagePointsFor": 152.58352941176472,
-      "games": 17,
+      "averagePointsAgainst": 144.59555555555553,
+      "averagePointsFor": 153.76777777777778,
+      "games": 18,
       "losses": 6,
       "playoffLosses": 2,
       "playoffPointsAgainst": 358.68,
       "playoffPointsFor": 404.48,
       "playoffWins": 1,
-      "pointsAgainst": 2470.7599999999998,
-      "pointsFor": 2593.92,
-      "wins": 11
+      "pointsAgainst": 2602.72,
+      "pointsFor": 2767.82,
+      "wins": 12
     },
     "3": {
       "averagePlayoffPointsAgainst": 155.48,
@@ -3159,17 +3159,17 @@
     "14": {
       "averagePlayoffPointsAgainst": 125.83000000000001,
       "averagePlayoffPointsFor": 143.2,
-      "averagePointsAgainst": 142.97777777777776,
-      "averagePointsFor": 136.99777777777777,
-      "games": 9,
+      "averagePointsAgainst": 141.56199999999998,
+      "averagePointsFor": 136.566,
+      "games": 10,
       "losses": 5,
       "playoffLosses": 1,
       "playoffPointsAgainst": 251.66000000000003,
       "playoffPointsFor": 286.4,
       "playoffWins": 1,
-      "pointsAgainst": 1286.8,
-      "pointsFor": 1232.98,
-      "wins": 4
+      "pointsAgainst": 1415.62,
+      "pointsFor": 1365.66,
+      "wins": 5
     },
     "15": {
       "averagePlayoffPointsAgainst": 0.0,
@@ -3296,17 +3296,17 @@
     "13": {
       "averagePlayoffPointsAgainst": 170.91,
       "averagePlayoffPointsFor": 139.53,
-      "averagePointsAgainst": 165.6825,
-      "averagePointsFor": 138.99,
-      "games": 8,
+      "averagePointsAgainst": 164.4711111111111,
+      "averagePointsFor": 142.38222222222223,
+      "games": 9,
       "losses": 8,
       "playoffLosses": 2,
       "playoffPointsAgainst": 341.82,
       "playoffPointsFor": 279.06,
       "playoffWins": 0,
-      "pointsAgainst": 1325.46,
-      "pointsFor": 1111.92,
-      "wins": 0
+      "pointsAgainst": 1480.24,
+      "pointsFor": 1281.44,
+      "wins": 1
     },
     "14": {
       "averagePlayoffPointsAgainst": 140.87,
@@ -3615,17 +3615,17 @@
     "11": {
       "averagePlayoffPointsAgainst": 190.26,
       "averagePlayoffPointsFor": 158.12,
-      "averagePointsAgainst": 157.26333333333335,
-      "averagePointsFor": 137.97666666666666,
-      "games": 6,
+      "averagePointsAgainst": 154.28,
+      "averagePointsFor": 141.60857142857142,
+      "games": 7,
       "losses": 6,
       "playoffLosses": 1,
       "playoffPointsAgainst": 190.26,
       "playoffPointsFor": 158.12,
       "playoffWins": 0,
-      "pointsAgainst": 943.58,
-      "pointsFor": 827.86,
-      "wins": 0
+      "pointsAgainst": 1079.96,
+      "pointsFor": 991.26,
+      "wins": 1
     },
     "12": {
       "averagePlayoffPointsAgainst": 163.22,
@@ -3827,16 +3827,16 @@
     "15": {
       "averagePlayoffPointsAgainst": 158.12,
       "averagePlayoffPointsFor": 190.26,
-      "averagePointsAgainst": 142.92000000000002,
-      "averagePointsFor": 168.69,
-      "games": 2,
-      "losses": 0,
+      "averagePointsAgainst": 149.74666666666667,
+      "averagePointsFor": 157.92,
+      "games": 3,
+      "losses": 1,
       "playoffLosses": 0,
       "playoffPointsAgainst": 158.12,
       "playoffPointsFor": 190.26,
       "playoffWins": 1,
-      "pointsAgainst": 285.84000000000003,
-      "pointsFor": 337.38,
+      "pointsAgainst": 449.24,
+      "pointsFor": 473.76,
       "wins": 2
     },
     "17": {
@@ -3900,6 +3900,21 @@
       "pointsAgainst": 113.58,
       "pointsFor": 145.4,
       "wins": 1
+    },
+    "17": {
+      "averagePlayoffPointsAgainst": 0.0,
+      "averagePlayoffPointsFor": 0.0,
+      "averagePointsAgainst": 132.68,
+      "averagePointsFor": 128.82,
+      "games": 1,
+      "losses": 1,
+      "playoffLosses": 0,
+      "playoffPointsAgainst": 0.0,
+      "playoffPointsFor": 0.0,
+      "playoffWins": 0,
+      "pointsAgainst": 132.68,
+      "pointsFor": 128.82,
+      "wins": 0
     }
   }
 }
