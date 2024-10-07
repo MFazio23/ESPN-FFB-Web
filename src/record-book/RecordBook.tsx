@@ -50,8 +50,8 @@ export default function RecordBook() {
             >
                 <Tab label="Standard" value="standard"/>
                 <Tab label="Modern" value="modern"/>
-                <Tab label="Best Ball" value="bestBall"/>
                 <Tab label="Current Year" value="currentYear"/>
+                <Tab label="Best Ball" value="bestBall"/>
                 <Tab label="Current Year (BB)" value="currentYearBestBall" wrapped={true}/>
             </Tabs>
             <Table aria-label="record-book">
