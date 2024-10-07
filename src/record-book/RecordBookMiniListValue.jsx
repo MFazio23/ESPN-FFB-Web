@@ -10,7 +10,9 @@ export function RecordBookMiniListValue({recordBookType, record}) {
     dateText += record.week ? ` W${record.week}` : ''
     dateText += record.endSeason ? ` - ${record.endSeason} W${record.endWeek}` : ''
 
-    const labelColor = recordBookType !== 'currentYear' && record.season === config.currentYear ? "success.main" : "text.primary"
+    const isCurrentYearRecordBook = !['currentYear', 'currentYearBestBall'].includes(recordBookType);
+
+    const labelColor = isCurrentYearRecordBook && record.season === config.currentYear ? "success.main" : "text.primary"
 
     return (
         <Stack>

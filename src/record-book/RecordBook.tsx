@@ -13,7 +13,7 @@ interface RecordBookRecord {
 }
 
 export default function RecordBook() {
-    const [recordBookType, setRecordBookType] = useState("standard");
+    const [recordBookType, setRecordBookType] = useState("modern");
 
     const recordBook: RecordBookRecord[] = dataHandler.recordBook[recordBookType];
 
@@ -52,6 +52,7 @@ export default function RecordBook() {
                 <Tab label="Modern" value="modern"/>
                 <Tab label="Best Ball" value="bestBall"/>
                 <Tab label="Current Year" value="currentYear"/>
+                <Tab label="Current Year (BB)" value="currentYearBestBall" wrapped={true}/>
             </Tabs>
             <Table aria-label="record-book">
                 <TableBody>
