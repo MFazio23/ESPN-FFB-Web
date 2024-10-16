@@ -37,8 +37,8 @@ export default function RecordBook() {
     return recordBook && (
         <TableContainer component={Paper} sx={{
             width: "fit-content",
-            maxWidth: 900,
-            margin: "0 auto"
+            maxWidth: '100vw',
+            margin: "0 auto",
         }}>
             <Typography variant="h2" component="h2" align="center">
                 Record Book
@@ -50,8 +50,8 @@ export default function RecordBook() {
             >
                 <Tab label="Standard" value="standard"/>
                 <Tab label="Modern" value="modern"/>
-                <Tab label="Current Year" value="currentYear"/>
-                <Tab label="Best Ball" value="bestBall"/>
+                <Tab label="Current Year" value="currentYear" wrapped={true}/>
+                <Tab label="Best Ball" value="bestBall" wrapped={true}/>
                 <Tab label="Current Year (BB)" value="currentYearBestBall" wrapped={true}/>
             </Tabs>
             <Table aria-label="record-book">
