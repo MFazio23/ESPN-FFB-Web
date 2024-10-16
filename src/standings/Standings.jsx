@@ -3,6 +3,7 @@ import * as React from 'react';
 import dataHandler from '../data/data-handler';
 
 import SortableTable from "../sortable-table/SortableTable";
+import {Box} from '@mui/material';
 
 const standings = dataHandler.standingsList;
 
@@ -153,7 +154,7 @@ const headers = [
 ]
 
 export default function Standings() {
-    return <div>
+    return <Box>
         <SortableTable topTitle="All-Time Standings" headers={headers} tableData={standingsTableData}/>
-    </div>;
+    </Box>;
 }

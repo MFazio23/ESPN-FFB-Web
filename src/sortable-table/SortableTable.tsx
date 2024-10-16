@@ -9,7 +9,7 @@ interface SortableTableProps {
     tableData: SortableTableRow[];
     headers: SortableTableHeader[];
     topTitle: string;
-    cardHeader: string;
+    cardHeader?: string;
     cardSubheader?: string;
 }
 
@@ -45,7 +45,7 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}
     }
 
     return (
-        <Card sx={{mx: 3, mb: 8, pb: 3}}>
+        <Card sx={{mb: 8, pb: 3}}>
             {topTitle && <Typography variant="h2" component="h2" align="center">{topTitle}</Typography>}
             {cardHeader && <CardHeader title={cardHeader} subheader={cardSubheader}/>}
             <TableContainer>
