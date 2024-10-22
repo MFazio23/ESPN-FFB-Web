@@ -7,13 +7,13 @@ import RecordBookMiniList from "./RecordBookMiniList";
 export default function RecordBookItem({recordCategory, recordBookType}) {
     const [open, setOpen] = React.useState(false);
 
-    if (recordCategory.records.length <= 0) return (<React.Fragment />);
+    if (recordCategory.records.length <= 0) return (<React.Fragment/>);
 
     return (
         <React.Fragment>
             <TableRow
                 onClick={() => setOpen(!open)}
-                sx={{ cursor: 'pointer' }}>
+                sx={{cursor: 'pointer'}}>
                 <TableCell>
                     <IconButton
                         aria-label="expand row"
@@ -35,7 +35,8 @@ export default function RecordBookItem({recordCategory, recordBookType}) {
             <TableRow>
                 <TableCell style={{paddingBottom: 0, paddingTop: 0}} colSpan={6}>
                     <Collapse in={open} timeout="auto" unmountOnExit>
-                        <RecordBookMiniList recordBookType={recordBookType} records={recordCategory.records}/>
+                        <RecordBookMiniList recordBookType={recordBookType} records={recordCategory.records}
+                                            sortAscending={recordCategory.sortAscending}/>
                     </Collapse>
                 </TableCell>
             </TableRow>

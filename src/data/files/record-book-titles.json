@@ -1,52 +1,153 @@
 {
-  "mostPointsGame": { "title": "Most Points in a Week" },
-  "mostPointsGameInPlayoffs": { "title": "Most Points in a Playoff Week" },
-  "mostPointsGameBestBall": { "title": "Most Points in a Week (Best Ball scoring)" },
-  "mostPointsSeason": { "title": "Most Points in a Season" },
-  "mostPointsSeasonBestBall": { "title": "Most Points in a Season (Best Ball scoring)" },
-  "mostPointsSeasonWithPlayoffs": { "title": "Most Points in a Season" },
-  "mostPointsSeasonBestBallWithPlayoffs": { "title": "Most Points in a Season (Best Ball scoring)" },
-  "mostPointsPerWeek": { "title": "Most Points per Week in a Season" },
-  "mostPointsPerWeekWithPlayoffs": { "title": "Most Points per Week in a Season" },
-  "mostPointsMatchup": { "title": "Most Combined Points in a Matchup" },
-  "fewestPointsGame": { "title": "Fewest Points in a Week" },
-  "fewestPointsGameInPlayoffs": { "title": "Fewest Points in a Playoff Week" },
-  "fewestPointsSeason": { "title": "Fewest Points in a Season" },
-  "fewestPointsSeasonWithPlayoffs": { "title": "Fewest Points in a Season" },
-  "fewestPointsPerWeek": { "title": "Fewest Points per Week in a Season" },
-  "fewestPointsPerWeekWithPlayoffs": { "title": "Fewest Points per Week in a Season" },
-  "fewestPointsMatchup": { "title": "Fewest Combined Points in a Matchup" },
-  "smallestMarginOfVictory": { "title": "Smallest Margin of Victory" },
-  "largestMarginOfVictory": { "title": "Largest Margin of Victory" },
-  "mostPointsAllowed": { "title": "Most Points Allowed in a Season" },
-  "mostPointsAllowedWithPlayoffs": { "title": "Most Points Allowed in a Season" },
-  "mostPointsAllowedPerWeek": { "title": "Most Points Allowed per Week in a Season" },
-  "mostPointsAllowedPerWeekWithPlayoffs": { "title": "Most Points Allowed per Week in a Season" },
-  "fewestPointsAllowed": { "title": "Fewest Points Allowed in a Season" },
-  "fewestPointsAllowedWithPlayoffs": { "title": "Fewest Points Allowed in a Season" },
-  "fewestPointsAllowedPerWeek": { "title": "Fewest Points Allowed per Week in a Season" },
-  "fewestPointsAllowedPerWeekWithPlayoffs": { "title": "Fewest Points Allowed per Week in a Season" },
-  "longestWinningStreak": { "title": "Longest Winning Streak" },
-  "longestWinningStreakWithPlayoffs": { "title": "Longest Winning Streak" },
-  "longestLosingStreak": { "title": "Longest Losing Streak" },
-  "longestLosingStreakWithPlayoffs": { "title": "Longest Losing Streak" },
-  "lowestWinningScore": { "title": "Lowest Winning Score" },
-  "highestLosingScore": { "title": "Highest Losing Score" },
-  "mostPointsMissed": { "title": "Most Points Missed (Best ball - real score)" },
-  "mostPointsMissedInSeason": { "title": "Most Points Missed in a Season (Best ball - real score)" },
-  "mostPointsMissedInSeasonWithPlayoffs": { "title": "Most Points Missed in a Season (Best ball - real score)" },
-  "fewestPointsMissedInSeason": { "title": "Fewest Points Missed in a Season (Best ball - real score)" },
-  "fewestPointsMissedInSeasonWithPlayoffs": { "title": "Fewest Points Missed in a Season (Best ball - real score)" },
-  "highestPointsPlayedPctInSeason": { "title": "Highest Points Played % in a Season (Real score / Best ball)" },
-  "highestPointsPlayedPctInSeasonWithPlayoffs": { "title": "Highest Points Played % in a Season (Real score / Best ball)" },
-  "lowestPointsPlayedPctInSeason": { "title": "Lowest Points Played % in a Season (Real score / Best ball)" },
-  "lowestPointsPlayedPctInSeasonWithPlayoffs": { "title": "Lowest Points Played % in a Season (Real score / Best ball)" },
-  "highestPointsPlus": { "title": "Highest Points+ in a Season" },
-  "highestPointsPlusWithPlayoffs": { "title": "Highest Points+ in a Season" },
-  "lowestPointsPlus": { "title": "Lowest Points+ in a Season" },
-  "lowestPointsPlusWithPlayoffs": { "title": "Lowest Points+ in a Season" },
-  "highestPointsAllowedPlus": { "title": "Highest Points+ Allowed in a Season" },
-  "highestPointsAllowedPlusWithPlayoffs": { "title": "Highest Points+ Allowed in a Season" },
-  "lowestPointsAllowedPlus": { "title": "Lowest Points+ Allowed in a Season" },
-  "lowestPointsAllowedPlusWithPlayoffs": { "title": "Lowest Points+ Allowed in a Season" }
+  "mostPointsGame": {
+    "title": "Most Points in a Week"
+  },
+  "mostPointsGameInPlayoffs": {
+    "title": "Most Points in a Playoff Week"
+  },
+  "mostPointsGameBestBall": {
+    "title": "Most Points in a Week (Best Ball scoring)"
+  },
+  "mostPointsSeason": {
+    "title": "Most Points in a Season"
+  },
+  "mostPointsSeasonBestBall": {
+    "title": "Most Points in a Season (Best Ball scoring)"
+  },
+  "mostPointsSeasonWithPlayoffs": {
+    "title": "Most Points in a Season"
+  },
+  "mostPointsSeasonBestBallWithPlayoffs": {
+    "title": "Most Points in a Season (Best Ball scoring)"
+  },
+  "mostPointsPerWeek": {
+    "title": "Most Points per Week in a Season"
+  },
+  "mostPointsPerWeekWithPlayoffs": {
+    "title": "Most Points per Week in a Season"
+  },
+  "mostPointsMatchup": {
+    "title": "Most Combined Points in a Matchup"
+  },
+  "fewestPointsGame": {
+    "title": "Fewest Points in a Week"
+  },
+  "fewestPointsGameInPlayoffs": {
+    "title": "Fewest Points in a Playoff Week"
+  },
+  "fewestPointsSeason": {
+    "title": "Fewest Points in a Season"
+  },
+  "fewestPointsSeasonWithPlayoffs": {
+    "title": "Fewest Points in a Season"
+  },
+  "fewestPointsPerWeek": {
+    "title": "Fewest Points per Week in a Season"
+  },
+  "fewestPointsPerWeekWithPlayoffs": {
+    "title": "Fewest Points per Week in a Season"
+  },
+  "fewestPointsMatchup": {
+    "title": "Fewest Combined Points in a Matchup"
+  },
+  "smallestMarginOfVictory": {
+    "title": "Smallest Margin of Victory"
+  },
+  "largestMarginOfVictory": {
+    "title": "Largest Margin of Victory"
+  },
+  "mostPointsAllowed": {
+    "title": "Most Points Allowed in a Season"
+  },
+  "mostPointsAllowedWithPlayoffs": {
+    "title": "Most Points Allowed in a Season"
+  },
+  "mostPointsAllowedPerWeek": {
+    "title": "Most Points Allowed per Week in a Season"
+  },
+  "mostPointsAllowedPerWeekWithPlayoffs": {
+    "title": "Most Points Allowed per Week in a Season"
+  },
+  "fewestPointsAllowed": {
+    "title": "Fewest Points Allowed in a Season"
+  },
+  "fewestPointsAllowedWithPlayoffs": {
+    "title": "Fewest Points Allowed in a Season"
+  },
+  "fewestPointsAllowedPerWeek": {
+    "title": "Fewest Points Allowed per Week in a Season"
+  },
+  "fewestPointsAllowedPerWeekWithPlayoffs": {
+    "title": "Fewest Points Allowed per Week in a Season"
+  },
+  "longestWinningStreak": {
+    "title": "Longest Winning Streak"
+  },
+  "longestWinningStreakWithPlayoffs": {
+    "title": "Longest Winning Streak"
+  },
+  "longestLosingStreak": {
+    "title": "Longest Losing Streak"
+  },
+  "longestLosingStreakWithPlayoffs": {
+    "title": "Longest Losing Streak"
+  },
+  "lowestWinningScore": {
+    "title": "Lowest Winning Score"
+  },
+  "highestLosingScore": {
+    "title": "Highest Losing Score",
+    "sortAscending": true
+  },
+  "mostPointsMissed": {
+    "title": "Most Points Missed (Best ball - real score)"
+  },
+  "mostPointsMissedInSeason": {
+    "title": "Most Points Missed in a Season (Best ball - real score)"
+  },
+  "mostPointsMissedInSeasonWithPlayoffs": {
+    "title": "Most Points Missed in a Season (Best ball - real score)"
+  },
+  "fewestPointsMissedInSeason": {
+    "title": "Fewest Points Missed in a Season (Best ball - real score)"
+  },
+  "fewestPointsMissedInSeasonWithPlayoffs": {
+    "title": "Fewest Points Missed in a Season (Best ball - real score)"
+  },
+  "highestPointsPlayedPctInSeason": {
+    "title": "Highest Points Played % in a Season (Real score / Best ball)"
+  },
+  "highestPointsPlayedPctInSeasonWithPlayoffs": {
+    "title": "Highest Points Played % in a Season (Real score / Best ball)"
+  },
+  "lowestPointsPlayedPctInSeason": {
+    "title": "Lowest Points Played % in a Season (Real score / Best ball)"
+  },
+  "lowestPointsPlayedPctInSeasonWithPlayoffs": {
+    "title": "Lowest Points Played % in a Season (Real score / Best ball)"
+  },
+  "highestPointsPlus": {
+    "title": "Highest Points+ in a Season"
+  },
+  "highestPointsPlusWithPlayoffs": {
+    "title": "Highest Points+ in a Season"
+  },
+  "lowestPointsPlus": {
+    "title": "Lowest Points+ in a Season"
+  },
+  "lowestPointsPlusWithPlayoffs": {
+    "title": "Lowest Points+ in a Season"
+  },
+  "highestPointsAllowedPlus": {
+    "title": "Highest Points+ Allowed in a Season"
+  },
+  "highestPointsAllowedPlusWithPlayoffs": {
+    "title": "Highest Points+ Allowed in a Season"
+  },
+  "lowestPointsAllowedPlus": {
+    "title": "Lowest Points+ Allowed in a Season"
+  },
+  "lowestPointsAllowedPlusWithPlayoffs": {
+    "title": "Lowest Points+ Allowed in a Season"
+  }
 }

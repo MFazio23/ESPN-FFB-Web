@@ -5,7 +5,7 @@ import {RecordBookMiniListValue} from "./RecordBookMiniListValue";
 
 const getRecordKey = (record) => `${record.season}-${record.week}-${record.recordHolders[0]?.teamId}`
 
-export default function RecordBookMiniList({recordBookType, records}) {
+export default function RecordBookMiniList({recordBookType, records, sortAscending}) {
     return <TableContainer component={Paper}>
         <Table aria-label="record-book" size="small">
             <TableBody>
@@ -15,7 +15,7 @@ export default function RecordBookMiniList({recordBookType, records}) {
                             <RecordBookMiniListValue recordBookType={recordBookType} record={record}/>
                         </TableCell>
                         <TableCell>
-                            <RecordBookMiniListRecordHolders record={record}/>
+                            <RecordBookMiniListRecordHolders record={record} sortAscending={sortAscending}/>
                         </TableCell>
                     </TableRow>
                 ))}

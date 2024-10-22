@@ -10,6 +10,7 @@ interface RecordBookRecord {
     records: unknown[];
     title: string;
     withPlayoffs: boolean;
+    sortAscending: boolean;
 }
 
 export default function RecordBook() {
