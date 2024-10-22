@@ -49,7 +49,7 @@
       }
     ],
     "id": "2569536C-A58F-4E7C-801F-F06DF3BE2A73",
-    "losses": 86,
+    "losses": 87,
     "name": "Justin Witz",
     "wins": 163
   },
@@ -153,7 +153,7 @@
       }
     ],
     "id": "6BB7653E-8BC9-40F9-952A-33DD089B251C",
-    "losses": 139,
+    "losses": 140,
     "name": "James Otto",
     "wins": 110
   },
@@ -231,7 +231,7 @@
     "id": "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256",
     "losses": 144,
     "name": "Tucker James",
-    "wins": 105
+    "wins": 106
   },
   {
     "championships": 1,
@@ -261,7 +261,7 @@
     "id": "A24CE5EF-0E09-49AB-94D2-19EC1663B700",
     "losses": 98,
     "name": "Michael Fazio",
-    "wins": 151
+    "wins": 152
   },
   {
     "championships": 1,
@@ -281,7 +281,7 @@
     "id": "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E",
     "losses": 100,
     "name": "Tim Ericsen",
-    "wins": 149
+    "wins": 150
   },
   {
     "championships": 3,
@@ -308,7 +308,7 @@
       }
     ],
     "id": "CBC901C7-2511-49DD-A053-5F6E22C32329",
-    "losses": 109,
+    "losses": 110,
     "name": "Scott Johnson",
     "wins": 140
   },
@@ -348,7 +348,7 @@
     "id": "F1509406-592B-43AF-A6E8-0F6BFB5638E7",
     "losses": 96,
     "name": "Ben Ericsen",
-    "wins": 137
+    "wins": 138
   },
   {
     "championships": 0,
@@ -422,7 +422,7 @@
     "id": "C117D3A8-0CA0-4D96-AA00-DE4004A13A13",
     "losses": 63,
     "name": "Blayne Roselle",
-    "wins": 58
+    "wins": 59
   },
   {
     "championships": 0,
@@ -434,7 +434,7 @@
       }
     ],
     "id": "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB",
-    "losses": 67,
+    "losses": 68,
     "name": "Ben Pelc",
     "wins": 38
   },
@@ -488,7 +488,7 @@
       }
     ],
     "id": "FAA9326C-D141-4711-A932-6CD1413711B9",
-    "losses": 51,
+    "losses": 52,
     "name": "Nick Kwiecien",
     "wins": 38
   },
@@ -504,7 +504,7 @@
     "id": "0852AF46-6C26-4040-92AF-466C26C040F9",
     "losses": 6,
     "name": "Rolando Lopez",
-    "wins": 17
+    "wins": 18
   },
   {
     "championships": 0,
@@ -516,7 +516,7 @@
       }
     ],
     "id": "99BCAACF-9EA7-458D-9FA2-634E5F4E48DE",
-    "losses": 4,
+    "losses": 5,
     "name": "Ben Green",
     "wins": 2
   }

@@ -44,7 +44,7 @@
       "standardScoring": 4
     },
     "losses": {
-      "standardScoring": 86
+      "standardScoring": 87
     },
     "member": {
       "firstName": "Justin",
@@ -57,12 +57,12 @@
       "standardScoring": 14
     },
     "pointsAgainst": {
-      "standardScoring": 33429.04000000001,
-      "topSixRankings": 33429.04000000001
+      "standardScoring": 33602.94000000001,
+      "topSixRankings": 33602.94000000001
     },
     "pointsScored": {
-      "standardScoring": 36651.140000000036,
-      "topSixRankings": 36651.140000000036
+      "standardScoring": 36777.34000000003,
+      "topSixRankings": 36777.34000000003
     },
     "seasons": {
       "standardScoring": 16,
@@ -192,7 +192,7 @@
       "standardScoring": 1
     },
     "losses": {
-      "standardScoring": 139
+      "standardScoring": 140
     },
     "member": {
       "firstName": "James",
@@ -205,12 +205,12 @@
       "standardScoring": 4
     },
     "pointsAgainst": {
-      "standardScoring": 33669.42000000001,
-      "topSixRankings": 33669.42000000001
+      "standardScoring": 33800.44000000001,
+      "topSixRankings": 33800.44000000001
     },
     "pointsScored": {
-      "standardScoring": 31897.719999999983,
-      "topSixRankings": 31897.719999999983
+      "standardScoring": 32019.65999999998,
+      "topSixRankings": 32019.65999999998
     },
     "seasons": {
       "standardScoring": 16,
@@ -353,20 +353,20 @@
       "standardScoring": 11
     },
     "pointsAgainst": {
-      "standardScoring": 34570.64,
-      "topSixRankings": 34570.64
+      "standardScoring": 34708.22,
+      "topSixRankings": 34708.22
     },
     "pointsScored": {
-      "standardScoring": 32648.88,
-      "topSixRankings": 32648.88
+      "standardScoring": 32823.98,
+      "topSixRankings": 32823.98
     },
     "seasons": {
       "standardScoring": 16,
       "topSixRankings": 16
     },
     "wins": {
-      "standardScoring": 105,
-      "topSixRankings": 113
+      "standardScoring": 106,
+      "topSixRankings": 114
     }
   },
   {
@@ -390,20 +390,20 @@
       "standardScoring": 13
     },
     "pointsAgainst": {
-      "standardScoring": 34196.66000000001,
-      "topSixRankings": 34196.66000000001
+      "standardScoring": 34309.98000000001,
+      "topSixRankings": 34309.98000000001
     },
     "pointsScored": {
-      "standardScoring": 36299.339999999975,
-      "topSixRankings": 36299.339999999975
+      "standardScoring": 36455.53999999997,
+      "topSixRankings": 36455.53999999997
     },
     "seasons": {
       "standardScoring": 16,
       "topSixRankings": 16
     },
     "wins": {
-      "standardScoring": 151,
-      "topSixRankings": 149
+      "standardScoring": 152,
+      "topSixRankings": 150
     }
   },
   {
@@ -427,20 +427,20 @@
       "standardScoring": 14
     },
     "pointsAgainst": {
-      "standardScoring": 33925.17999999998,
-      "topSixRankings": 33925.17999999998
+      "standardScoring": 34069.41999999998,
+      "topSixRankings": 34069.41999999998
     },
     "pointsScored": {
-      "standardScoring": 36854.68,
-      "topSixRankings": 36854.68
+      "standardScoring": 37001.72,
+      "topSixRankings": 37001.72
     },
     "seasons": {
       "standardScoring": 16,
       "topSixRankings": 16
     },
     "wins": {
-      "standardScoring": 149,
-      "topSixRankings": 164
+      "standardScoring": 150,
+      "topSixRankings": 165
     }
   },
   {
@@ -451,7 +451,7 @@
       "standardScoring": 3
     },
     "losses": {
-      "standardScoring": 109
+      "standardScoring": 110
     },
     "member": {
       "firstName": "Scott",
@@ -464,12 +464,12 @@
       "standardScoring": 13
     },
     "pointsAgainst": {
-      "standardScoring": 34341.97999999998,
-      "topSixRankings": 34341.97999999998
+      "standardScoring": 34498.17999999998,
+      "topSixRankings": 34498.17999999998
     },
     "pointsScored": {
-      "standardScoring": 36172.579999999994,
-      "topSixRankings": 36172.579999999994
+      "standardScoring": 36285.899999999994,
+      "topSixRankings": 36285.899999999994
     },
     "seasons": {
       "standardScoring": 16,
@@ -538,19 +538,19 @@
       "standardScoring": 12
     },
     "pointsAgainst": {
-      "standardScoring": 31888.140000000003,
-      "topSixRankings": 31888.140000000003
+      "standardScoring": 32000.820000000003,
+      "topSixRankings": 32000.820000000003
     },
     "pointsScored": {
-      "standardScoring": 33473.219999999994,
-      "topSixRankings": 33473.219999999994
+      "standardScoring": 33604.84,
+      "topSixRankings": 33604.84
     },
     "seasons": {
       "standardScoring": 15,
       "topSixRankings": 15
     },
     "wins": {
-      "standardScoring": 137,
+      "standardScoring": 138,
       "topSixRankings": 132
     }
   },
@@ -686,20 +686,20 @@
       "standardScoring": 5
     },
     "pointsAgainst": {
-      "standardScoring": 17180.240000000005,
-      "topSixRankings": 17180.240000000005
+      "standardScoring": 17306.440000000006,
+      "topSixRankings": 17306.440000000006
     },
     "pointsScored": {
-      "standardScoring": 17420.98,
-      "topSixRankings": 17420.98
+      "standardScoring": 17594.88,
+      "topSixRankings": 17594.88
     },
     "seasons": {
       "standardScoring": 8,
       "topSixRankings": 8
     },
     "wins": {
-      "standardScoring": 58,
-      "topSixRankings": 54
+      "standardScoring": 59,
+      "topSixRankings": 55
     }
   },
   {
@@ -710,7 +710,7 @@
       "standardScoring": 0
     },
     "losses": {
-      "standardScoring": 67
+      "standardScoring": 68
     },
     "member": {
       "firstName": "Ben",
@@ -723,12 +723,12 @@
       "standardScoring": 2
     },
     "pointsAgainst": {
-      "standardScoring": 15454.26,
-      "topSixRankings": 15454.26
+      "standardScoring": 15629.36,
+      "topSixRankings": 15629.36
     },
     "pointsScored": {
-      "standardScoring": 14146.240000000007,
-      "topSixRankings": 14146.240000000007
+      "standardScoring": 14283.820000000007,
+      "topSixRankings": 14283.820000000007
     },
     "seasons": {
       "standardScoring": 7,
@@ -736,7 +736,7 @@
     },
     "wins": {
       "standardScoring": 38,
-      "topSixRankings": 35
+      "topSixRankings": 36
     }
   },
   {
@@ -784,7 +784,7 @@
       "standardScoring": 0
     },
     "losses": {
-      "standardScoring": 51
+      "standardScoring": 52
     },
     "member": {
       "firstName": "Nick",
@@ -797,12 +797,12 @@
       "standardScoring": 3
     },
     "pointsAgainst": {
-      "standardScoring": 13184.42,
-      "topSixRankings": 13184.42
+      "standardScoring": 13331.460000000001,
+      "topSixRankings": 13331.460000000001
     },
     "pointsScored": {
-      "standardScoring": 12915.840000000004,
-      "topSixRankings": 12915.840000000004
+      "standardScoring": 13060.080000000004,
+      "topSixRankings": 13060.080000000004
     },
     "seasons": {
       "standardScoring": 6,
@@ -810,7 +810,7 @@
     },
     "wins": {
       "standardScoring": 38,
-      "topSixRankings": 45
+      "topSixRankings": 46
     }
   },
   {
@@ -834,19 +834,19 @@
       "standardScoring": 1
     },
     "pointsAgainst": {
-      "standardScoring": 3087.04,
-      "topSixRankings": 3087.04
+      "standardScoring": 3208.98,
+      "topSixRankings": 3208.98
     },
     "pointsScored": {
-      "standardScoring": 3683.4,
-      "topSixRankings": 3683.4
+      "standardScoring": 3814.42,
+      "topSixRankings": 3814.42
     },
     "seasons": {
       "standardScoring": 2,
       "topSixRankings": 2
     },
     "wins": {
-      "standardScoring": 17,
+      "standardScoring": 18,
       "topSixRankings": 16
     }
   },
@@ -858,7 +858,7 @@
       "standardScoring": 0
     },
     "losses": {
-      "standardScoring": 4
+      "standardScoring": 5
     },
     "member": {
       "firstName": "Ben",
@@ -871,12 +871,12 @@
       "standardScoring": 0
     },
     "pointsAgainst": {
-      "standardScoring": 839.7999999999998,
-      "topSixRankings": 839.7999999999998
+      "standardScoring": 971.4199999999998,
+      "topSixRankings": 971.4199999999998
     },
     "pointsScored": {
-      "standardScoring": 798.36,
-      "topSixRankings": 798.36
+      "standardScoring": 911.04,
+      "topSixRankings": 911.04
     },
     "seasons": {
       "standardScoring": 1,
