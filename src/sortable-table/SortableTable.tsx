@@ -11,9 +11,10 @@ interface SortableTableProps {
     topTitle: string;
     cardHeader?: string;
     cardSubheader?: string;
+    cardAction?: React.ReactNode;
 }
 
-const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}: SortableTableProps) => {
+const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader, cardAction}: SortableTableProps) => {
     const [order, setOrder] = useState<SortDirection>('desc');
     const [orderBy, setOrderBy] = useState<string>('wins');
 
@@ -47,9 +48,12 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader}
     return (
         <Card sx={{mb: 8, pb: 3}}>
             {topTitle && <Typography variant="h2" component="h2" align="center">{topTitle}</Typography>}
-            {cardHeader && <CardHeader title={cardHeader} subheader={cardSubheader}/>}
-            <TableContainer>
-                <Table sx={{maxWidth: 1200, margin: '0 auto'}}>
+            {cardHeader ? <CardHeader title={cardHeader} subheader={cardSubheader} action={cardAction}/> : null}
+            <TableContainer sx={{paddingTop: 3}}>
+                <Table sx={{position: 'relative', maxWidth: 1200, margin: '0 auto'}}>
+                    <Box position="absolute" sx={{top: -24, right: 0}}>
+                        {cardAction}
+                    </Box>
                     <SortableTableHead headers={headers} sortOrder={order} orderBy={orderBy}
                                        onRequestSort={handleRequestSort}/>
                     <TableBody>

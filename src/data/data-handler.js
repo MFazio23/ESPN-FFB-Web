@@ -4,6 +4,7 @@ import recordBooks from './files/record-book.json'
 import recordBookTitles from './files/record-book-titles.json';
 import recordBookTitlesOrder from './files/record-book-title-order.json'
 import standings from './files/standings.json'
+import modernStandings from './files/modern-standings.json'
 import teamSummaries from './files/team-summaries.json';
 import ownerSummaries from './files/owner-summaries.json';
 import teamYearMapJson from './files/team-year-map.json';
@@ -84,6 +85,7 @@ const DataHandler = {
     teamSummaries,
     ownerSummaries,
     standingsList: standings,
+    modernStandingsList: modernStandings,
     tradeList: tradesJson,
 };
 
