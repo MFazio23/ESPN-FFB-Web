@@ -23578,5 +23578,107 @@
     "playoffTierType": "None",
     "week": 7,
     "year": 2024
+  },
+  {
+    "awayScores": {
+      "bestBallScore": 191.21999999999997,
+      "standardScore": 170.26
+    },
+    "awayTeamId": 10,
+    "homeScores": {
+      "bestBallScore": 132.61999999999998,
+      "standardScore": 131.52
+    },
+    "homeTeamId": 4,
+    "id": 43,
+    "isHomeOriginalWinner": false,
+    "playoffTierType": "None",
+    "week": 8,
+    "year": 2024
+  },
+  {
+    "awayScores": {
+      "bestBallScore": 173.68,
+      "standardScore": 143.28
+    },
+    "awayTeamId": 12,
+    "homeScores": {
+      "bestBallScore": 162.56,
+      "standardScore": 148.96
+    },
+    "homeTeamId": 11,
+    "id": 44,
+    "isHomeOriginalWinner": true,
+    "playoffTierType": "None",
+    "week": 8,
+    "year": 2024
+  },
+  {
+    "awayScores": {
+      "bestBallScore": 188.46,
+      "standardScore": 162.5
+    },
+    "awayTeamId": 14,
+    "homeScores": {
+      "bestBallScore": 151.04,
+      "standardScore": 136.3
+    },
+    "homeTeamId": 15,
+    "id": 45,
+    "isHomeOriginalWinner": false,
+    "playoffTierType": "None",
+    "week": 8,
+    "year": 2024
+  },
+  {
+    "awayScores": {
+      "bestBallScore": 168.0,
+      "standardScore": 149.5
+    },
+    "awayTeamId": 3,
+    "homeScores": {
+      "bestBallScore": 183.54000000000002,
+      "standardScore": 167.84
+    },
+    "homeTeamId": 1,
+    "id": 46,
+    "isHomeOriginalWinner": true,
+    "playoffTierType": "None",
+    "week": 8,
+    "year": 2024
+  },
+  {
+    "awayScores": {
+      "bestBallScore": 214.64000000000001,
+      "standardScore": 214.64
+    },
+    "awayTeamId": 13,
+    "homeScores": {
+      "bestBallScore": 230.52,
+      "standardScore": 200.82
+    },
+    "homeTeamId": 9,
+    "id": 47,
+    "isHomeOriginalWinner": false,
+    "playoffTierType": "None",
+    "week": 8,
+    "year": 2024
+  },
+  {
+    "awayScores": {
+      "bestBallScore": 147.90000000000003,
+      "standardScore": 112.98
+    },
+    "awayTeamId": 5,
+    "homeScores": {
+      "bestBallScore": 224.55999999999997,
+      "standardScore": 175.94
+    },
+    "homeTeamId": 17,
+    "id": 48,
+    "isHomeOriginalWinner": true,
+    "playoffTierType": "None",
+    "week": 8,
+    "year": 2024
   }
 ]
