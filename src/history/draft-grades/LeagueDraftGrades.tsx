@@ -1,4 +1,4 @@
-import HistoryPage, {HistoryPageCard} from './HistoryPage';
+import HistoryPage, {HistoryPageCard} from '../HistoryPage';
 import DraftGradesCard, {DraftGradesCardProps} from './DraftGradesCard';
 import {Box, Link, Typography} from '@mui/material';
 

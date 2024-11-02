@@ -14,10 +14,10 @@ import {Fab} from "@mui/material";
 import {ArrowUpward} from "@mui/icons-material";
 import History from './history/History';
 import LeagueEvents from './history/LeagueEvents';
-import LeagueTrades from './history/LeagueTrades';
-import LeagueDraftGrades from './history/LeagueDraftGrades';
+import LeagueTrades from './history/trades/LeagueTrades';
+import LeagueDraftGrades from './history/draft-grades/LeagueDraftGrades';
 import Owners from './teams/Owners';
-import {VariousFactsScreen} from './history/VariousFactsScreen';
+import {VariousFactsScreen} from './history/various-facts/VariousFactsScreen';
 
 export default function AppRouter() {
     const [isDrawerOpen, setDrawerOpen] = React.useState(false);

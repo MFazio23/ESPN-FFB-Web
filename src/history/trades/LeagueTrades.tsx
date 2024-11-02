@@ -1,7 +1,7 @@
 import {Box, Typography} from '@mui/material';
-import HistoryPage, {HistoryPageCard} from './HistoryPage';
+import HistoryPage, {HistoryPageCard} from '../HistoryPage';
 import {LeagueTradeCard} from './LeagueTradeCard';
-import dataHandler from "../data/data-handler";
+import dataHandler from "../../data/data-handler";
 
 export interface Trade {
     id: string;
