@@ -17,6 +17,7 @@ import LeagueEvents from './history/LeagueEvents';
 import LeagueTrades from './history/LeagueTrades';
 import LeagueDraftGrades from './history/LeagueDraftGrades';
 import Owners from './teams/Owners';
+import {VariousFactsScreen} from './history/VariousFactsScreen';
 
 export default function AppRouter() {
     const [isDrawerOpen, setDrawerOpen] = React.useState(false);
@@ -54,6 +55,7 @@ export default function AppRouter() {
                     <Route path={Links.leagueEvents} element={<LeagueEvents/>}/>
                     <Route path={Links.leagueTrades} element={<LeagueTrades/>}/>
                     <Route path={Links.draftGrades} element={<LeagueDraftGrades/>}/>
+                    <Route path={Links.variousFacts} element={<VariousFactsScreen/>}/>
                     <Route path={Links.home} element={<Home/>}/>
                 </Routes>
                 <Fab className="fab" color="primary" onClick={scrollToTop} sx={{

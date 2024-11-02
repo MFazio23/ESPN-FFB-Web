@@ -10,6 +10,7 @@ export enum Links {
     ownerDetails = "/owners/:ownerId",
     recordBook = "/record-book",
     standings = "/standings",
+    variousFacts = "/history/various-facts",
 }
 
 export default Links;

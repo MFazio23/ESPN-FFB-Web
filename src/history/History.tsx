@@ -25,6 +25,13 @@ export default function History() {
             actionButtonText: "View Draft Grades",
             actionButtonLink: "/history/draft-grades",
         },
+        {
+            id: "history-various-facts",
+            title: "Various Facts",
+            description: "Various facts from the league",
+            actionButtonText: "View Facts",
+            actionButtonLink: "/history/various-facts",
+        },
     ];
     return <Grid container spacing={2} mt={3} justifyContent='center'>
         {historyCards.map(card =>
