@@ -33,7 +33,7 @@ export default function History() {
             actionButtonLink: "/history/various-facts",
         },
     ];
-    return <Grid container spacing={2} mt={3} justifyContent='center'>
+    return <Grid container spacing={2} my={3} mb={6} justifyContent='center'>
         {historyCards.map(card =>
             (
                 <Grid size="auto" key={card.id}>
