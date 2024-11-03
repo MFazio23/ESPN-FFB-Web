@@ -10,7 +10,7 @@ export const VariousFactCard = ({card}: VariousFactCardProps) => {
     if (!card) return null;
     const {title, subtitle, entries} = card;
     return (
-        <Card sx={{maxWidth: 400}}>
+        <Card sx={{width: 400}}>
             <CardHeader title={title} subheader={subtitle}/>
             <CardContent>
                 <Box>
