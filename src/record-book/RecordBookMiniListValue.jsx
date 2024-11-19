@@ -2,7 +2,7 @@ import {Stack, Typography} from "@mui/material";
 import * as React from "react";
 import config from "../config";
 
-export function RecordBookMiniListValue({recordBookType, record}) {
+export function RecordBookMiniListValue({recordBookType, record, latestWeek}) {
 
     const value = record.intValue ? record.value.toFixed(0) : record.value.toFixed(2);
 
@@ -10,9 +10,12 @@ export function RecordBookMiniListValue({recordBookType, record}) {
     dateText += record.week ? ` W${record.week}` : ''
     dateText += record.endSeason ? ` - ${record.endSeason} W${record.endWeek}` : ''
 
-    const isCurrentYearRecordBook = !['currentYear', 'currentYearBestBall'].includes(recordBookType);
+    const isCurrentYearRecordBook = ['currentYear', 'currentYearBestBall'].includes(recordBookType);
 
-    const labelColor = isCurrentYearRecordBook && record.season === config.currentYear ? "success.main" : "text.primary"
+    const isCurrentYearBookAndLatestWeek = isCurrentYearRecordBook && record.week === latestWeek;
+    const isCurrentYearWeek = !isCurrentYearRecordBook && record.season === config.currentYear;
+
+    const labelColor = (isCurrentYearBookAndLatestWeek || isCurrentYearWeek) ? "success.main" : "text.primary";
 
     return (
         <Stack>

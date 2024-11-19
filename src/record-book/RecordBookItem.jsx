@@ -4,7 +4,7 @@ import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
 import RecordBookMiniList from "./RecordBookMiniList";
 
-export default function RecordBookItem({recordCategory, recordBookType}) {
+export default function RecordBookItem({recordCategory, recordBookType, latestWeek}) {
     const [open, setOpen] = React.useState(false);
 
     if (recordCategory.records.length <= 0) return (<React.Fragment/>);
@@ -36,7 +36,7 @@ export default function RecordBookItem({recordCategory, recordBookType}) {
                 <TableCell style={{paddingBottom: 0, paddingTop: 0}} colSpan={6}>
                     <Collapse in={open} timeout="auto" unmountOnExit>
                         <RecordBookMiniList recordBookType={recordBookType} records={recordCategory.records}
-                                            sortAscending={recordCategory.sortAscending}/>
+                                            sortAscending={recordCategory.sortAscending} latestWeek={latestWeek}/>
                     </Collapse>
                 </TableCell>
             </TableRow>

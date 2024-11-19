@@ -16,7 +16,11 @@ interface RecordBookRecord {
 export default function RecordBook() {
     const [recordBookType, setRecordBookType] = useState("modern");
 
-    const recordBook: RecordBookRecord[] = dataHandler.recordBook[recordBookType];
+    const recordBookData = dataHandler.recordBook
+
+    const latestWeek = recordBookData.latestWeek;
+
+    const recordBook: RecordBookRecord[] = recordBookData[recordBookType];
 
     const records = recordBook.every(record => record.records.length === 0) ?
         (<React.Fragment>
@@ -32,7 +36,7 @@ export default function RecordBook() {
             recordBook
                 .sort((bookA, bookB) => bookA.order - bookB.order)
                 .map(recordCategory => <RecordBookItem key={recordCategory.id} recordBookType={recordBookType}
-                                                       recordCategory={recordCategory}/>)
+                                                       recordCategory={recordCategory} latestWeek={latestWeek}/>)
         );
 
     return recordBook && (

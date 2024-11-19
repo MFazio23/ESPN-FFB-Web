@@ -54,17 +54,18 @@ const getRecords = (record) => {
     }
 }
 
-const recordBook = Object.entries(recordBooks).reduce((book, [type, recordBook]) => ({
-    ...book,
-    [type]: Object.entries(recordBook).map(([recordType, recordEntries]) => ({
-        id: recordType,
-        title: recordBookTitles[recordType]?.title || "N/A",
-        order: recordBookTitlesOrder.indexOf(recordType) === 0 ? 0 : (recordBookTitlesOrder.indexOf(recordType) || 100),
-        withPlayoffs: recordType.includes("WithPlayoff"),
-        records: recordEntries.map(getRecords),
-        sortAscending: recordBookTitles[recordType]?.sortAscending ?? false
-    }))
-}), {});
+const recordBook = Object.entries(recordBooks).reduce((book, [type, recordBook]) =>
+    type === 'latestWeek' || type === 'latestYear' ? {...book, [type]: recordBook} : ({
+        ...book,
+        [type]: Object.entries(recordBook).map(([recordType, recordEntries]) => ({
+            id: recordType,
+            title: recordBookTitles[recordType]?.title || "N/A",
+            order: recordBookTitlesOrder.indexOf(recordType) === 0 ? 0 : (recordBookTitlesOrder.indexOf(recordType) || 100),
+            withPlayoffs: recordType.includes("WithPlayoff"),
+            records: recordEntries.map(getRecords),
+            sortAscending: recordBookTitles[recordType]?.sortAscending ?? false
+        }))
+    }), {});
 
 const getMemberVsTeamRecords = (ownerId) =>
     Object.entries(memberVsTeamRecords[ownerId] || {}).map(([teamId, records]) => ({
