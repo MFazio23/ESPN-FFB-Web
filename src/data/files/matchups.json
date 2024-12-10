@@ -166860,5 +166860,1601 @@
     "playoffTierType": "None",
     "week": 13,
     "year": 2024
+  },
+  {
+    "awayPlayers": [
+      {
+        "id": 3929630,
+        "lineupSlot": "RB",
+        "name": "Saquon Barkley",
+        "points": 19.4,
+        "position": "RB"
+      },
+      {
+        "id": 3117251,
+        "lineupSlot": "RB",
+        "name": "Christian McCaffrey",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 4431611,
+        "lineupSlot": "BENCH",
+        "name": "Caleb Williams",
+        "points": 18.060000000000002,
+        "position": "QB"
+      },
+      {
+        "id": 4258173,
+        "lineupSlot": "WR",
+        "name": "Nico Collins",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 3915416,
+        "lineupSlot": "WR",
+        "name": "DJ Moore",
+        "points": 10.9,
+        "position": "WR"
+      },
+      {
+        "id": 4241478,
+        "lineupSlot": "BENCH",
+        "name": "DeVonta Smith",
+        "points": 13.7,
+        "position": "WR"
+      },
+      {
+        "id": 4360248,
+        "lineupSlot": "BENCH",
+        "name": "Kyle Pitts",
+        "points": 2.4000000000000004,
+        "position": "TE"
+      },
+      {
+        "id": 3128720,
+        "lineupSlot": "BENCH",
+        "name": "Nick Chubb",
+        "points": 4.800000000000001,
+        "position": "RB"
+      },
+      {
+        "id": 4596448,
+        "lineupSlot": "RBWR",
+        "name": "Bucky Irving",
+        "points": 2.8,
+        "position": "RB"
+      },
+      {
+        "id": 4428850,
+        "lineupSlot": "WRTE",
+        "name": "Dontayvion Wicks",
+        "points": 8.9,
+        "position": "WR"
+      },
+      {
+        "id": 4361411,
+        "lineupSlot": "BENCH",
+        "name": "Pat Freiermuth",
+        "points": 13.8,
+        "position": "TE"
+      },
+      {
+        "id": 4038941,
+        "lineupSlot": "QB",
+        "name": "Justin Herbert",
+        "points": 15.719999999999999,
+        "position": "QB"
+      },
+      {
+        "id": 4373626,
+        "lineupSlot": "BENCH",
+        "name": "Tyler Allgeier",
+        "points": 12.3,
+        "position": "RB"
+      },
+      {
+        "id": -16009,
+        "lineupSlot": "DEF",
+        "name": "Packers D/ST",
+        "points": 8.0,
+        "position": "DEF"
+      },
+      {
+        "id": 3821683,
+        "lineupSlot": "K",
+        "name": "Austin Seibert",
+        "points": 0.0,
+        "position": "K"
+      },
+      {
+        "id": 4258595,
+        "lineupSlot": "TE",
+        "name": "Cole Kmet",
+        "points": 0.0,
+        "position": "TE"
+      }
+    ],
+    "awayScores": {
+      "bestBallScore": 109.86,
+      "standardScore": 65.72
+    },
+    "awayTeamId": 5,
+    "homePlayers": [
+      {
+        "id": 4241474,
+        "lineupSlot": "BENCH",
+        "name": "Brian Robinson Jr.",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 3916387,
+        "lineupSlot": "BENCH",
+        "name": "Lamar Jackson",
+        "points": 0.0,
+        "position": "QB"
+      },
+      {
+        "id": 2971573,
+        "lineupSlot": "BENCH",
+        "name": "Ka'imi Fairbairn",
+        "points": 0.0,
+        "position": "K"
+      },
+      {
+        "id": 4035687,
+        "lineupSlot": "BENCH",
+        "name": "Michael Pittman Jr.",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4697815,
+        "lineupSlot": "RB",
+        "name": "Rachaad White",
+        "points": 24.9,
+        "position": "RB"
+      },
+      {
+        "id": -16005,
+        "lineupSlot": "DEF",
+        "name": "Browns D/ST",
+        "points": 12.5,
+        "position": "DEF"
+      },
+      {
+        "id": 4595348,
+        "lineupSlot": "WR",
+        "name": "Malik Nabers",
+        "points": 14.9,
+        "position": "WR"
+      },
+      {
+        "id": 4035538,
+        "lineupSlot": "RB",
+        "name": "David Montgomery",
+        "points": 19.400000000000002,
+        "position": "RB"
+      },
+      {
+        "id": 2577417,
+        "lineupSlot": "IR",
+        "name": "Dak Prescott",
+        "points": 0.0,
+        "position": "QB"
+      },
+      {
+        "id": 4040761,
+        "lineupSlot": "BENCH",
+        "name": "Devin Singletary",
+        "points": 0.8,
+        "position": "RB"
+      },
+      {
+        "id": 3886598,
+        "lineupSlot": "WR",
+        "name": "Jauan Jennings",
+        "points": 28.0,
+        "position": "WR"
+      },
+      {
+        "id": 3046439,
+        "lineupSlot": "BENCH",
+        "name": "Hunter Henry",
+        "points": 0.0,
+        "position": "TE"
+      },
+      {
+        "id": 4432620,
+        "lineupSlot": "WRTE",
+        "name": "Parker Washington",
+        "points": 3.5,
+        "position": "WR"
+      },
+      {
+        "id": 2973405,
+        "lineupSlot": "IR",
+        "name": "Kalif Raymond",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 3116164,
+        "lineupSlot": "TE",
+        "name": "Mike Gesicki",
+        "points": 5.4,
+        "position": "TE"
+      },
+      {
+        "id": 4248528,
+        "lineupSlot": "RBWR",
+        "name": "Christian Watson",
+        "points": 18.4,
+        "position": "WR"
+      },
+      {
+        "id": 3917232,
+        "lineupSlot": "K",
+        "name": "Tyler Bass",
+        "points": 18.0,
+        "position": "K"
+      },
+      {
+        "id": 4361418,
+        "lineupSlot": "QB",
+        "name": "Will Levis",
+        "points": 7.02,
+        "position": "QB"
+      }
+    ],
+    "homeScores": {
+      "bestBallScore": 152.02,
+      "standardScore": 152.02
+    },
+    "homeTeamId": 4,
+    "id": 79,
+    "isHomeOriginalWinner": true,
+    "playoffTierType": "None",
+    "week": 14,
+    "year": 2024
+  },
+  {
+    "awayPlayers": [
+      {
+        "id": 3116365,
+        "lineupSlot": "BENCH",
+        "name": "Mark Andrews",
+        "points": 0.0,
+        "position": "TE"
+      },
+      {
+        "id": 4426502,
+        "lineupSlot": "WR",
+        "name": "Drake London",
+        "points": 12.0,
+        "position": "WR"
+      },
+      {
+        "id": 4429795,
+        "lineupSlot": "RBWR",
+        "name": "Jahmyr Gibbs",
+        "points": 19.3,
+        "position": "RB"
+      },
+      {
+        "id": 4379399,
+        "lineupSlot": "RB",
+        "name": "James Cook",
+        "points": 4.9,
+        "position": "RB"
+      },
+      {
+        "id": 4259545,
+        "lineupSlot": "BENCH",
+        "name": "D'Andre Swift",
+        "points": 5.000000000000001,
+        "position": "RB"
+      },
+      {
+        "id": 4032473,
+        "lineupSlot": "IR",
+        "name": "Rashid Shaheed",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 3128429,
+        "lineupSlot": "BENCH",
+        "name": "Courtland Sutton",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4241457,
+        "lineupSlot": "RB",
+        "name": "Najee Harris",
+        "points": 11.3,
+        "position": "RB"
+      },
+      {
+        "id": 4361741,
+        "lineupSlot": "QB",
+        "name": "Brock Purdy",
+        "points": 31.1,
+        "position": "QB"
+      },
+      {
+        "id": 3121023,
+        "lineupSlot": "IR",
+        "name": "Dallas Goedert",
+        "points": 0.0,
+        "position": "TE"
+      },
+      {
+        "id": 4683062,
+        "lineupSlot": "WRTE",
+        "name": "Xavier Worthy",
+        "points": 9.600000000000001,
+        "position": "WR"
+      },
+      {
+        "id": -16002,
+        "lineupSlot": "DEF",
+        "name": "Bills D/ST",
+        "points": 8.36,
+        "position": "DEF"
+      },
+      {
+        "id": 4243331,
+        "lineupSlot": "TE",
+        "name": "Cade Otton",
+        "points": 10.0,
+        "position": "TE"
+      },
+      {
+        "id": 4429025,
+        "lineupSlot": "BENCH",
+        "name": "Quentin Johnston",
+        "points": 15.8,
+        "position": "WR"
+      },
+      {
+        "id": 4360438,
+        "lineupSlot": "IR",
+        "name": "Brandon Aiyuk",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4372414,
+        "lineupSlot": "WR",
+        "name": "Elijah Moore",
+        "points": 6.4,
+        "position": "WR"
+      },
+      {
+        "id": 2969939,
+        "lineupSlot": "BENCH",
+        "name": "Jameis Winston",
+        "points": 19.28,
+        "position": "QB"
+      },
+      {
+        "id": 4635008,
+        "lineupSlot": "BENCH",
+        "name": "Keon Coleman",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 3128444,
+        "lineupSlot": "K",
+        "name": "Matthew Wright",
+        "points": 19.1,
+        "position": "K"
+      }
+    ],
+    "awayScores": {
+      "bestBallScore": 142.96,
+      "standardScore": 132.06
+    },
+    "awayTeamId": 17,
+    "homePlayers": [
+      {
+        "id": 16800,
+        "lineupSlot": "WR",
+        "name": "Davante Adams",
+        "points": 30.9,
+        "position": "WR"
+      },
+      {
+        "id": 4429615,
+        "lineupSlot": "BENCH",
+        "name": "Zay Flowers",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 16737,
+        "lineupSlot": "WR",
+        "name": "Mike Evans",
+        "points": 10.9,
+        "position": "WR"
+      },
+      {
+        "id": 15847,
+        "lineupSlot": "TE",
+        "name": "Travis Kelce",
+        "points": 9.5,
+        "position": "TE"
+      },
+      {
+        "id": 3054850,
+        "lineupSlot": "RB",
+        "name": "Alvin Kamara",
+        "points": 12.9,
+        "position": "RB"
+      },
+      {
+        "id": 3116385,
+        "lineupSlot": "BENCH",
+        "name": "Joe Mixon",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 4242355,
+        "lineupSlot": "WRTE",
+        "name": "Jake Ferguson",
+        "points": 6.2,
+        "position": "TE"
+      },
+      {
+        "id": 4612826,
+        "lineupSlot": "BENCH",
+        "name": "Ladd McConkey",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4035676,
+        "lineupSlot": "IR",
+        "name": "Zack Moss",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 3052587,
+        "lineupSlot": "QB",
+        "name": "Baker Mayfield",
+        "points": 25.0,
+        "position": "QB"
+      },
+      {
+        "id": 4361432,
+        "lineupSlot": "IR",
+        "name": "Romeo Doubs",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4360078,
+        "lineupSlot": "BENCH",
+        "name": "Alec Pierce",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 17372,
+        "lineupSlot": "K",
+        "name": "Chris Boswell",
+        "points": 17.4,
+        "position": "K"
+      },
+      {
+        "id": 14881,
+        "lineupSlot": "BENCH",
+        "name": "Russell Wilson",
+        "points": 20.02,
+        "position": "QB"
+      },
+      {
+        "id": 4426338,
+        "lineupSlot": "BENCH",
+        "name": "Bo Nix",
+        "points": 0.0,
+        "position": "QB"
+      },
+      {
+        "id": 4372019,
+        "lineupSlot": "RB",
+        "name": "Jerome Ford",
+        "points": 12.180000000000001,
+        "position": "RB"
+      },
+      {
+        "id": -16022,
+        "lineupSlot": "DEF",
+        "name": "Cardinals D/ST",
+        "points": 8.84,
+        "position": "DEF"
+      },
+      {
+        "id": 3929785,
+        "lineupSlot": "RBWR",
+        "name": "Nick Westbrook-Ikhine",
+        "points": 2.9000000000000004,
+        "position": "WR"
+      }
+    ],
+    "homeScores": {
+      "bestBallScore": 136.72,
+      "standardScore": 136.72
+    },
+    "homeTeamId": 13,
+    "id": 80,
+    "isHomeOriginalWinner": true,
+    "playoffTierType": "None",
+    "week": 14,
+    "year": 2024
+  },
+  {
+    "awayPlayers": [
+      {
+        "id": 4426515,
+        "lineupSlot": "WR",
+        "name": "Puka Nacua",
+        "points": 46.8,
+        "position": "WR"
+      },
+      {
+        "id": 4427366,
+        "lineupSlot": "IR",
+        "name": "Breece Hall",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 4432708,
+        "lineupSlot": "WRTE",
+        "name": "Marvin Harrison Jr.",
+        "points": 8.9,
+        "position": "WR"
+      },
+      {
+        "id": 4047365,
+        "lineupSlot": "RB",
+        "name": "Josh Jacobs",
+        "points": 24.6,
+        "position": "RB"
+      },
+      {
+        "id": 4366031,
+        "lineupSlot": "BENCH",
+        "name": "Tank Dell",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4361307,
+        "lineupSlot": "TE",
+        "name": "Trey McBride",
+        "points": 14.0,
+        "position": "TE"
+      },
+      {
+        "id": 4428331,
+        "lineupSlot": "IR",
+        "name": "Rashee Rice",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 3917315,
+        "lineupSlot": "QB",
+        "name": "Kyler Murray",
+        "points": 21.96,
+        "position": "QB"
+      },
+      {
+        "id": 3895856,
+        "lineupSlot": "IR",
+        "name": "Christian Kirk",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4373678,
+        "lineupSlot": "WR",
+        "name": "Khalil Shakir",
+        "points": 26.6,
+        "position": "WR"
+      },
+      {
+        "id": 4362238,
+        "lineupSlot": "RBWR",
+        "name": "Chase Brown",
+        "points": 24.3,
+        "position": "RB"
+      },
+      {
+        "id": 3059915,
+        "lineupSlot": "BENCH",
+        "name": "Kareem Hunt",
+        "points": 3.9000000000000004,
+        "position": "RB"
+      },
+      {
+        "id": -16016,
+        "lineupSlot": "DEF",
+        "name": "Vikings D/ST",
+        "points": 13.34,
+        "position": "DEF"
+      },
+      {
+        "id": 4360516,
+        "lineupSlot": "RB",
+        "name": "Tyrone Tracy Jr.",
+        "points": 19.3,
+        "position": "RB"
+      },
+      {
+        "id": 16339,
+        "lineupSlot": "K",
+        "name": "Brandon McManus",
+        "points": 15.2,
+        "position": "K"
+      },
+      {
+        "id": 3046779,
+        "lineupSlot": "BENCH",
+        "name": "Jared Goff",
+        "points": 28.02,
+        "position": "QB"
+      },
+      {
+        "id": 4372561,
+        "lineupSlot": "BENCH",
+        "name": "Isaac Guerendo",
+        "points": 26.8,
+        "position": "RB"
+      },
+      {
+        "id": 4685247,
+        "lineupSlot": "BENCH",
+        "name": "Braelon Allen",
+        "points": 12.100000000000001,
+        "position": "RB"
+      },
+      {
+        "id": 4430968,
+        "lineupSlot": "BENCH",
+        "name": "Kimani Vidal",
+        "points": 3.4000000000000004,
+        "position": "RB"
+      }
+    ],
+    "awayScores": {
+      "bestBallScore": 228.55999999999997,
+      "standardScore": 215.0
+    },
+    "awayTeamId": 9,
+    "homePlayers": [
+      {
+        "id": 4361370,
+        "lineupSlot": "IR",
+        "name": "Chris Olave",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 3116406,
+        "lineupSlot": "WR",
+        "name": "Tyreek Hill",
+        "points": 33.1,
+        "position": "WR"
+      },
+      {
+        "id": 3040151,
+        "lineupSlot": "TE",
+        "name": "George Kittle",
+        "points": 26.1,
+        "position": "TE"
+      },
+      {
+        "id": 3042519,
+        "lineupSlot": "RB",
+        "name": "Aaron Jones",
+        "points": 16.400000000000002,
+        "position": "RB"
+      },
+      {
+        "id": 4567048,
+        "lineupSlot": "BENCH",
+        "name": "Kenneth Walker III",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 3116165,
+        "lineupSlot": "IR",
+        "name": "Chris Godwin",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4429205,
+        "lineupSlot": "WRTE",
+        "name": "Jordan Addison",
+        "points": 44.3,
+        "position": "WR"
+      },
+      {
+        "id": 3916148,
+        "lineupSlot": "RB",
+        "name": "Tony Pollard",
+        "points": 19.400000000000002,
+        "position": "RB"
+      },
+      {
+        "id": 4241479,
+        "lineupSlot": "QB",
+        "name": "Tua Tagovailoa",
+        "points": 32.54,
+        "position": "QB"
+      },
+      {
+        "id": 4372066,
+        "lineupSlot": "BENCH",
+        "name": "Jake Moody",
+        "points": 17.3,
+        "position": "K"
+      },
+      {
+        "id": 4241985,
+        "lineupSlot": "IR",
+        "name": "J.K. Dobbins",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 4241463,
+        "lineupSlot": "WR",
+        "name": "Jerry Jeudy",
+        "points": 17.4,
+        "position": "WR"
+      },
+      {
+        "id": -16003,
+        "lineupSlot": "BENCH",
+        "name": "Bears D/ST",
+        "points": 6.5600000000000005,
+        "position": "DEF"
+      },
+      {
+        "id": 4048244,
+        "lineupSlot": "BENCH",
+        "name": "Alexander Mattison",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 15835,
+        "lineupSlot": "BENCH",
+        "name": "Zach Ertz",
+        "points": 0.0,
+        "position": "TE"
+      },
+      {
+        "id": 15864,
+        "lineupSlot": "BENCH",
+        "name": "Geno Smith",
+        "points": 15.32,
+        "position": "QB"
+      },
+      {
+        "id": 3150744,
+        "lineupSlot": "K",
+        "name": "Chase McLaughlin",
+        "points": 12.0,
+        "position": "K"
+      },
+      {
+        "id": 3051738,
+        "lineupSlot": "RBWR",
+        "name": "Marquez Valdes-Scantling",
+        "points": 9.100000000000001,
+        "position": "WR"
+      },
+      {
+        "id": -16026,
+        "lineupSlot": "DEF",
+        "name": "Seahawks D/ST",
+        "points": 12.14,
+        "position": "DEF"
+      }
+    ],
+    "homeScores": {
+      "bestBallScore": 227.78000000000003,
+      "standardScore": 222.48
+    },
+    "homeTeamId": 3,
+    "id": 81,
+    "isHomeOriginalWinner": true,
+    "playoffTierType": "None",
+    "week": 14,
+    "year": 2024
+  },
+  {
+    "awayPlayers": [
+      {
+        "id": 4569618,
+        "lineupSlot": "WRTE",
+        "name": "Garrett Wilson",
+        "points": 23.4,
+        "position": "WR"
+      },
+      {
+        "id": 4430027,
+        "lineupSlot": "TE",
+        "name": "Sam LaPorta",
+        "points": 10.4,
+        "position": "TE"
+      },
+      {
+        "id": 4430807,
+        "lineupSlot": "RB",
+        "name": "Bijan Robinson",
+        "points": 20.1,
+        "position": "RB"
+      },
+      {
+        "id": 2977187,
+        "lineupSlot": "WR",
+        "name": "Cooper Kupp",
+        "points": 20.200000000000003,
+        "position": "WR"
+      },
+      {
+        "id": 4040715,
+        "lineupSlot": "QB",
+        "name": "Jalen Hurts",
+        "points": 28.22,
+        "position": "QB"
+      },
+      {
+        "id": 2576414,
+        "lineupSlot": "IR",
+        "name": "Raheem Mostert",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 4430878,
+        "lineupSlot": "WR",
+        "name": "Jaxon Smith-Njigba",
+        "points": 19.6,
+        "position": "WR"
+      },
+      {
+        "id": 3932905,
+        "lineupSlot": "BENCH",
+        "name": "Diontae Johnson",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 15795,
+        "lineupSlot": "BENCH",
+        "name": "DeAndre Hopkins",
+        "points": 13.2,
+        "position": "WR"
+      },
+      {
+        "id": 3068267,
+        "lineupSlot": "IR",
+        "name": "Austin Ekeler",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 4361579,
+        "lineupSlot": "BENCH",
+        "name": "Javonte Williams",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 4431299,
+        "lineupSlot": "RBWR",
+        "name": "Rome Odunze",
+        "points": 20.2,
+        "position": "WR"
+      },
+      {
+        "id": 4569987,
+        "lineupSlot": "RB",
+        "name": "Jaylen Warren",
+        "points": 9.2,
+        "position": "RB"
+      },
+      {
+        "id": 3953687,
+        "lineupSlot": "K",
+        "name": "Brandon Aubrey",
+        "points": 14.200000000000001,
+        "position": "K"
+      },
+      {
+        "id": 4572680,
+        "lineupSlot": "BENCH",
+        "name": "Tucker Kraft",
+        "points": 13.100000000000001,
+        "position": "TE"
+      },
+      {
+        "id": -16007,
+        "lineupSlot": "BENCH",
+        "name": "Broncos D/ST",
+        "points": 0.0,
+        "position": "DEF"
+      },
+      {
+        "id": -16018,
+        "lineupSlot": "DEF",
+        "name": "Saints D/ST",
+        "points": 14.88,
+        "position": "DEF"
+      },
+      {
+        "id": 4430104,
+        "lineupSlot": "BENCH",
+        "name": "Sincere McCormick",
+        "points": 10.9,
+        "position": "RB"
+      }
+    ],
+    "awayScores": {
+      "bestBallScore": 184.79999999999998,
+      "standardScore": 180.4
+    },
+    "awayTeamId": 1,
+    "homePlayers": [
+      {
+        "id": 4430737,
+        "lineupSlot": "RB",
+        "name": "Kyren Williams",
+        "points": 23.700000000000003,
+        "position": "RB"
+      },
+      {
+        "id": 3139477,
+        "lineupSlot": "QB",
+        "name": "Patrick Mahomes",
+        "points": 16.1,
+        "position": "QB"
+      },
+      {
+        "id": 4374302,
+        "lineupSlot": "WR",
+        "name": "Amon-Ra St. Brown",
+        "points": 10.3,
+        "position": "WR"
+      },
+      {
+        "id": 4047646,
+        "lineupSlot": "WRTE",
+        "name": "A.J. Brown",
+        "points": 8.3,
+        "position": "WR"
+      },
+      {
+        "id": 3126486,
+        "lineupSlot": "WR",
+        "name": "Deebo Samuel Sr.",
+        "points": 5.5,
+        "position": "WR"
+      },
+      {
+        "id": 3925357,
+        "lineupSlot": "RBWR",
+        "name": "Calvin Ridley",
+        "points": 12.9,
+        "position": "WR"
+      },
+      {
+        "id": 4426348,
+        "lineupSlot": "BENCH",
+        "name": "Jayden Daniels",
+        "points": 0.0,
+        "position": "QB"
+      },
+      {
+        "id": 4426385,
+        "lineupSlot": "BENCH",
+        "name": "Zach Charbonnet",
+        "points": 43.3,
+        "position": "RB"
+      },
+      {
+        "id": 4689936,
+        "lineupSlot": "K",
+        "name": "Jake Bates",
+        "points": 19.8,
+        "position": "K"
+      },
+      {
+        "id": 4569587,
+        "lineupSlot": "BENCH",
+        "name": "Wan'Dale Robinson",
+        "points": 7.800000000000001,
+        "position": "WR"
+      },
+      {
+        "id": 4249087,
+        "lineupSlot": "BENCH",
+        "name": "Matt Gay",
+        "points": 0.0,
+        "position": "K"
+      },
+      {
+        "id": 4688813,
+        "lineupSlot": "BENCH",
+        "name": "Josh Downs",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": -16021,
+        "lineupSlot": "DEF",
+        "name": "Eagles D/ST",
+        "points": 11.16,
+        "position": "DEF"
+      },
+      {
+        "id": 2468609,
+        "lineupSlot": "IR",
+        "name": "Taysom Hill",
+        "points": 0.0,
+        "position": "TE"
+      },
+      {
+        "id": 4240021,
+        "lineupSlot": "RB",
+        "name": "Cam Akers",
+        "points": 5.62,
+        "position": "RB"
+      },
+      {
+        "id": 4372096,
+        "lineupSlot": "TE",
+        "name": "Luke Schoonmaker",
+        "points": 4.2,
+        "position": "TE"
+      }
+    ],
+    "homeScores": {
+      "bestBallScore": 157.56,
+      "standardScore": 117.58
+    },
+    "homeTeamId": 14,
+    "id": 82,
+    "isHomeOriginalWinner": false,
+    "playoffTierType": "None",
+    "week": 14,
+    "year": 2024
+  },
+  {
+    "awayPlayers": [
+      {
+        "id": 4362628,
+        "lineupSlot": "WR",
+        "name": "Ja'Marr Chase",
+        "points": 50.099999999999994,
+        "position": "WR"
+      },
+      {
+        "id": 3043078,
+        "lineupSlot": "BENCH",
+        "name": "Derrick Henry",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 3916433,
+        "lineupSlot": "WR",
+        "name": "Jakobi Meyers",
+        "points": 13.7,
+        "position": "WR"
+      },
+      {
+        "id": 4241416,
+        "lineupSlot": "RB",
+        "name": "Chuba Hubbard",
+        "points": 20.700000000000003,
+        "position": "RB"
+      },
+      {
+        "id": 4040655,
+        "lineupSlot": "RBWR",
+        "name": "Darnell Mooney",
+        "points": 25.200000000000003,
+        "position": "WR"
+      },
+      {
+        "id": 4430034,
+        "lineupSlot": "BENCH",
+        "name": "Xavier Legette",
+        "points": 5.9,
+        "position": "WR"
+      },
+      {
+        "id": 16731,
+        "lineupSlot": "BENCH",
+        "name": "Brandin Cooks",
+        "points": 7.3,
+        "position": "WR"
+      },
+      {
+        "id": 4429501,
+        "lineupSlot": "BENCH",
+        "name": "Ray Davis",
+        "points": 1.12,
+        "position": "RB"
+      },
+      {
+        "id": 4361050,
+        "lineupSlot": "BENCH",
+        "name": "Isaiah Likely",
+        "points": 0.0,
+        "position": "TE"
+      },
+      {
+        "id": 2976592,
+        "lineupSlot": "WRTE",
+        "name": "Sterling Shepard",
+        "points": 10.3,
+        "position": "WR"
+      },
+      {
+        "id": 3676833,
+        "lineupSlot": "BENCH",
+        "name": "KaVontae Turpin",
+        "points": 5.699999999999999,
+        "position": "WR"
+      },
+      {
+        "id": 3054212,
+        "lineupSlot": "TE",
+        "name": "Jonnu Smith",
+        "points": 13.4,
+        "position": "TE"
+      },
+      {
+        "id": -16024,
+        "lineupSlot": "DEF",
+        "name": "Chargers D/ST",
+        "points": 8.24,
+        "position": "DEF"
+      },
+      {
+        "id": 3912547,
+        "lineupSlot": "QB",
+        "name": "Sam Darnold",
+        "points": 49.58,
+        "position": "QB"
+      },
+      {
+        "id": 4362081,
+        "lineupSlot": "K",
+        "name": "Cameron Dicker",
+        "points": 9.7,
+        "position": "K"
+      },
+      {
+        "id": 2576336,
+        "lineupSlot": "RB",
+        "name": "Ameer Abdullah",
+        "points": 7.919999999999999,
+        "position": "RB"
+      }
+    ],
+    "awayScores": {
+      "bestBallScore": 208.84,
+      "standardScore": 208.84
+    },
+    "awayTeamId": 15,
+    "homePlayers": [
+      {
+        "id": 4426354,
+        "lineupSlot": "WRTE",
+        "name": "George Pickens",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4429160,
+        "lineupSlot": "RB",
+        "name": "De'Von Achane",
+        "points": 18.9,
+        "position": "RB"
+      },
+      {
+        "id": 4239996,
+        "lineupSlot": "RB",
+        "name": "Travis Etienne Jr.",
+        "points": 11.0,
+        "position": "RB"
+      },
+      {
+        "id": 4372016,
+        "lineupSlot": "WR",
+        "name": "Jaylen Waddle",
+        "points": 20.9,
+        "position": "WR"
+      },
+      {
+        "id": 2976499,
+        "lineupSlot": "BENCH",
+        "name": "Amari Cooper",
+        "points": 15.5,
+        "position": "WR"
+      },
+      {
+        "id": 4239993,
+        "lineupSlot": "RBWR",
+        "name": "Tee Higgins",
+        "points": 4.300000000000001,
+        "position": "WR"
+      },
+      {
+        "id": 3915511,
+        "lineupSlot": "QB",
+        "name": "Joe Burrow",
+        "points": 35.56,
+        "position": "QB"
+      },
+      {
+        "id": 4432665,
+        "lineupSlot": "TE",
+        "name": "Brock Bowers",
+        "points": 8.2,
+        "position": "TE"
+      },
+      {
+        "id": 3121422,
+        "lineupSlot": "BENCH",
+        "name": "Terry McLaurin",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 4678008,
+        "lineupSlot": "BENCH",
+        "name": "Jonathon Brooks",
+        "points": -0.30000000000000004,
+        "position": "RB"
+      },
+      {
+        "id": 4432773,
+        "lineupSlot": "WR",
+        "name": "Brian Thomas Jr.",
+        "points": 16.6,
+        "position": "WR"
+      },
+      {
+        "id": 4429013,
+        "lineupSlot": "BENCH",
+        "name": "Tank Bigsby",
+        "points": 13.2,
+        "position": "RB"
+      },
+      {
+        "id": 3051876,
+        "lineupSlot": "BENCH",
+        "name": "Evan Engram",
+        "points": 7.300000000000001,
+        "position": "TE"
+      },
+      {
+        "id": -16023,
+        "lineupSlot": "DEF",
+        "name": "Steelers D/ST",
+        "points": 16.8,
+        "position": "DEF"
+      },
+      {
+        "id": 4369863,
+        "lineupSlot": "BENCH",
+        "name": "Cedric Tillman",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 3124679,
+        "lineupSlot": "K",
+        "name": "Jason Sanders",
+        "points": 16.2,
+        "position": "K"
+      }
+    ],
+    "homeScores": {
+      "bestBallScore": 172.85999999999999,
+      "standardScore": 148.46
+    },
+    "homeTeamId": 12,
+    "id": 83,
+    "isHomeOriginalWinner": false,
+    "playoffTierType": "None",
+    "week": 14,
+    "year": 2024
+  },
+  {
+    "awayPlayers": [
+      {
+        "id": 4262921,
+        "lineupSlot": "WR",
+        "name": "Justin Jefferson",
+        "points": 37.2,
+        "position": "WR"
+      },
+      {
+        "id": 4047650,
+        "lineupSlot": "WRTE",
+        "name": "DK Metcalf",
+        "points": 8.9,
+        "position": "WR"
+      },
+      {
+        "id": 3918298,
+        "lineupSlot": "QB",
+        "name": "Josh Allen",
+        "points": 62.88,
+        "position": "QB"
+      },
+      {
+        "id": 4242335,
+        "lineupSlot": "BENCH",
+        "name": "Jonathan Taylor",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 4361529,
+        "lineupSlot": "RB",
+        "name": "Isiah Pacheco",
+        "points": 8.1,
+        "position": "RB"
+      },
+      {
+        "id": 4385690,
+        "lineupSlot": "IR",
+        "name": "Dalton Kincaid",
+        "points": 0.0,
+        "position": "TE"
+      },
+      {
+        "id": 3055899,
+        "lineupSlot": "BENCH",
+        "name": "Harrison Butker",
+        "points": 0.0,
+        "position": "K"
+      },
+      {
+        "id": 2976212,
+        "lineupSlot": "IR",
+        "name": "Stefon Diggs",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": -16033,
+        "lineupSlot": "BENCH",
+        "name": "Ravens D/ST",
+        "points": 0.0,
+        "position": "DEF"
+      },
+      {
+        "id": 4427095,
+        "lineupSlot": "BENCH",
+        "name": "DeMario Douglas",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 3728262,
+        "lineupSlot": "RBWR",
+        "name": "Ray-Ray McCloud III",
+        "points": 18.580000000000002,
+        "position": "WR"
+      },
+      {
+        "id": 15818,
+        "lineupSlot": "WR",
+        "name": "Keenan Allen",
+        "points": 6.0,
+        "position": "WR"
+      },
+      {
+        "id": 4038441,
+        "lineupSlot": "BENCH",
+        "name": "Justice Hill",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 3050478,
+        "lineupSlot": "K",
+        "name": "Jake Elliott",
+        "points": 6.0,
+        "position": "K"
+      },
+      {
+        "id": 3127292,
+        "lineupSlot": "TE",
+        "name": "Will Dissly",
+        "points": 3.9000000000000004,
+        "position": "TE"
+      },
+      {
+        "id": 12483,
+        "lineupSlot": "BENCH",
+        "name": "Matthew Stafford",
+        "points": 29.8,
+        "position": "QB"
+      },
+      {
+        "id": 4428557,
+        "lineupSlot": "RB",
+        "name": "Tyjae Spears",
+        "points": 7.94,
+        "position": "RB"
+      },
+      {
+        "id": -16010,
+        "lineupSlot": "DEF",
+        "name": "Titans D/ST",
+        "points": 17.56,
+        "position": "DEF"
+      }
+    ],
+    "awayScores": {
+      "bestBallScore": 177.06000000000003,
+      "standardScore": 177.06
+    },
+    "awayTeamId": 11,
+    "homePlayers": [
+      {
+        "id": 4432577,
+        "lineupSlot": "BENCH",
+        "name": "C.J. Stroud",
+        "points": 0.0,
+        "position": "QB"
+      },
+      {
+        "id": 15683,
+        "lineupSlot": "BENCH",
+        "name": "Justin Tucker",
+        "points": 0.0,
+        "position": "K"
+      },
+      {
+        "id": 4241389,
+        "lineupSlot": "RBWR",
+        "name": "CeeDee Lamb",
+        "points": 21.4,
+        "position": "WR"
+      },
+      {
+        "id": 4569173,
+        "lineupSlot": "BENCH",
+        "name": "Rhamondre Stevenson",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": 4362249,
+        "lineupSlot": "WR",
+        "name": "Jayden Reed",
+        "points": 0.0,
+        "position": "WR"
+      },
+      {
+        "id": 3045147,
+        "lineupSlot": "RB",
+        "name": "James Conner",
+        "points": 22.2,
+        "position": "RB"
+      },
+      {
+        "id": 4036378,
+        "lineupSlot": "QB",
+        "name": "Jordan Love",
+        "points": 16.54,
+        "position": "QB"
+      },
+      {
+        "id": 4036133,
+        "lineupSlot": "WRTE",
+        "name": "T.J. Hockenson",
+        "points": 8.5,
+        "position": "TE"
+      },
+      {
+        "id": 3123076,
+        "lineupSlot": "TE",
+        "name": "David Njoku",
+        "points": 17.2,
+        "position": "TE"
+      },
+      {
+        "id": 4426388,
+        "lineupSlot": "BENCH",
+        "name": "Jameson Williams",
+        "points": 13.0,
+        "position": "WR"
+      },
+      {
+        "id": 3051926,
+        "lineupSlot": "BENCH",
+        "name": "Gus Edwards",
+        "points": 9.6,
+        "position": "RB"
+      },
+      {
+        "id": 4038815,
+        "lineupSlot": "RB",
+        "name": "Rico Dowdle",
+        "points": 20.1,
+        "position": "RB"
+      },
+      {
+        "id": 4360569,
+        "lineupSlot": "IR",
+        "name": "Jordan Mason",
+        "points": 0.0,
+        "position": "RB"
+      },
+      {
+        "id": -16008,
+        "lineupSlot": "BENCH",
+        "name": "Lions D/ST",
+        "points": 3.5,
+        "position": "DEF"
+      },
+      {
+        "id": -16027,
+        "lineupSlot": "DEF",
+        "name": "Buccaneers D/ST",
+        "points": 15.04,
+        "position": "DEF"
+      },
+      {
+        "id": 10621,
+        "lineupSlot": "K",
+        "name": "Nick Folk",
+        "points": 8.5,
+        "position": "K"
+      },
+      {
+        "id": 16460,
+        "lineupSlot": "WR",
+        "name": "Adam Thielen",
+        "points": 24.200000000000003,
+        "position": "WR"
+      }
+    ],
+    "homeScores": {
+      "bestBallScore": 167.77999999999997,
+      "standardScore": 153.68
+    },
+    "homeTeamId": 10,
+    "id": 84,
+    "isHomeOriginalWinner": false,
+    "playoffTierType": "None",
+    "week": 14,
+    "year": 2024
   }
 ]

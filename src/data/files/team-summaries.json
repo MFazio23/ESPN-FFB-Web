@@ -30,7 +30,7 @@
     "id": "1",
     "losses": 101,
     "name": "Am I Going Over??",
-    "wins": 155
+    "wins": 156
   },
   {
     "championships": 1,
@@ -69,7 +69,7 @@
     "id": "3",
     "losses": 145,
     "name": "Forgot About Dre",
-    "wins": 111
+    "wins": 112
   },
   {
     "championships": 0,
@@ -102,7 +102,7 @@
     "id": "4",
     "losses": 149,
     "name": "Joe Buck Yourself",
-    "wins": 107
+    "wins": 108
   },
   {
     "championships": 3,
@@ -133,7 +133,7 @@
       }
     ],
     "id": "5",
-    "losses": 113,
+    "losses": 114,
     "name": "Oh Saquon You See",
     "wins": 143
   },
@@ -166,7 +166,7 @@
       }
     ],
     "id": "9",
-    "losses": 90,
+    "losses": 91,
     "name": "Flo'Rida Flock",
     "wins": 166
   },
@@ -187,7 +187,7 @@
       }
     ],
     "id": "10",
-    "losses": 111,
+    "losses": 112,
     "name": "Naptown Goiters",
     "wins": 145
   },
@@ -222,7 +222,7 @@
     "id": "11",
     "losses": 120,
     "name": "The Durango Kids",
-    "wins": 136
+    "wins": 137
   },
   {
     "championships": 1,
@@ -235,7 +235,7 @@
       }
     ],
     "id": "12",
-    "losses": 147,
+    "losses": 148,
     "name": "Tucker's Team",
     "wins": 109
   },
@@ -258,7 +258,7 @@
     "id": "13",
     "losses": 102,
     "name": "Uncooked Box",
-    "wins": 154
+    "wins": 155
   },
   {
     "championships": 0,
@@ -313,7 +313,7 @@
       }
     ],
     "id": "14",
-    "losses": 148,
+    "losses": 149,
     "name": "My Ball Zach Ertz",
     "wins": 108
   },
@@ -378,7 +378,7 @@
     "id": "15",
     "losses": 162,
     "name": "Ja’Marr Chase Bank",
-    "wins": 94
+    "wins": 95
   },
   {
     "championships": 1,
@@ -427,7 +427,7 @@
       }
     ],
     "id": "17",
-    "losses": 148,
+    "losses": 149,
     "name": "Bye Week Dominators",
     "wins": 108
   }
