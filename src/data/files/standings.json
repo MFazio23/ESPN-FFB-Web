@@ -54,23 +54,23 @@
       "userName": "jaguars10"
     },
     "playoffApps": {
-      "standardScoring": 14
+      "standardScoring": 15
     },
     "pointsAgainst": {
-      "standardScoring": 34688.04000000001,
-      "topSixRankings": 34688.04000000001
+      "standardScoring": 34804.62000000001,
+      "topSixRankings": 34804.62000000001
     },
     "pointsScored": {
-      "standardScoring": 37950.98000000003,
-      "topSixRankings": 37950.98000000003
+      "standardScoring": 38158.48000000003,
+      "topSixRankings": 38158.48000000003
     },
     "seasons": {
       "standardScoring": 16,
       "topSixRankings": 16
     },
     "wins": {
-      "standardScoring": 166,
-      "topSixRankings": 172
+      "standardScoring": 167,
+      "topSixRankings": 173
     }
   },
   {
@@ -192,7 +192,7 @@
       "standardScoring": 1
     },
     "losses": {
-      "standardScoring": 145
+      "standardScoring": 146
     },
     "member": {
       "firstName": "James",
@@ -205,12 +205,12 @@
       "standardScoring": 4
     },
     "pointsAgainst": {
-      "standardScoring": 34925.060000000005,
-      "topSixRankings": 34925.060000000005
+      "standardScoring": 35067.50000000001,
+      "topSixRankings": 35067.50000000001
     },
     "pointsScored": {
-      "standardScoring": 33081.37999999999,
-      "topSixRankings": 33081.37999999999
+      "standardScoring": 33212.87999999999,
+      "topSixRankings": 33212.87999999999
     },
     "seasons": {
       "standardScoring": 16,
@@ -353,19 +353,19 @@
       "standardScoring": 11
     },
     "pointsAgainst": {
-      "standardScoring": 35857.799999999996,
-      "topSixRankings": 35857.799999999996
+      "standardScoring": 35989.299999999996,
+      "topSixRankings": 35989.299999999996
     },
     "pointsScored": {
-      "standardScoring": 33934.880000000005,
-      "topSixRankings": 33934.880000000005
+      "standardScoring": 34077.32000000001,
+      "topSixRankings": 34077.32000000001
     },
     "seasons": {
       "standardScoring": 16,
       "topSixRankings": 16
     },
     "wins": {
-      "standardScoring": 109,
+      "standardScoring": 110,
       "topSixRankings": 118
     }
   },
@@ -387,23 +387,23 @@
       "userName": "MFazio23"
     },
     "playoffApps": {
-      "standardScoring": 13
+      "standardScoring": 14
     },
     "pointsAgainst": {
-      "standardScoring": 35365.56000000001,
-      "topSixRankings": 35365.56000000001
+      "standardScoring": 35521.720000000016,
+      "topSixRankings": 35521.720000000016
     },
     "pointsScored": {
-      "standardScoring": 37628.679999999964,
-      "topSixRankings": 37628.679999999964
+      "standardScoring": 37801.359999999964,
+      "topSixRankings": 37801.359999999964
     },
     "seasons": {
       "standardScoring": 16,
       "topSixRankings": 16
     },
     "wins": {
-      "standardScoring": 156,
-      "topSixRankings": 155
+      "standardScoring": 157,
+      "topSixRankings": 156
     }
   },
   {
@@ -424,23 +424,23 @@
       "userName": "ZTiminator"
     },
     "playoffApps": {
-      "standardScoring": 14
+      "standardScoring": 15
     },
     "pointsAgainst": {
-      "standardScoring": 35062.659999999974,
-      "topSixRankings": 35062.659999999974
+      "standardScoring": 35221.35999999997,
+      "topSixRankings": 35221.35999999997
     },
     "pointsScored": {
-      "standardScoring": 38113.54,
-      "topSixRankings": 38113.54
+      "standardScoring": 38339.68,
+      "topSixRankings": 38339.68
     },
     "seasons": {
       "standardScoring": 16,
       "topSixRankings": 16
     },
     "wins": {
-      "standardScoring": 155,
-      "topSixRankings": 170
+      "standardScoring": 156,
+      "topSixRankings": 171
     }
   },
   {
@@ -451,7 +451,7 @@
       "standardScoring": 3
     },
     "losses": {
-      "standardScoring": 114
+      "standardScoring": 115
     },
     "member": {
       "firstName": "Scott",
@@ -464,12 +464,12 @@
       "standardScoring": 13
     },
     "pointsAgainst": {
-      "standardScoring": 35612.959999999985,
-      "topSixRankings": 35612.959999999985
+      "standardScoring": 35799.11999999999,
+      "topSixRankings": 35799.11999999999
     },
     "pointsScored": {
-      "standardScoring": 37169.38,
-      "topSixRankings": 37169.38
+      "standardScoring": 37274.7,
+      "topSixRankings": 37274.7
     },
     "seasons": {
       "standardScoring": 16,
@@ -538,20 +538,20 @@
       "standardScoring": 12
     },
     "pointsAgainst": {
-      "standardScoring": 33135.14,
-      "topSixRankings": 33135.14
+      "standardScoring": 33240.46,
+      "topSixRankings": 33240.46
     },
     "pointsScored": {
-      "standardScoring": 34600.56,
-      "topSixRankings": 34600.56
+      "standardScoring": 34786.72,
+      "topSixRankings": 34786.72
     },
     "seasons": {
       "standardScoring": 15,
       "topSixRankings": 15
     },
     "wins": {
-      "standardScoring": 139,
-      "topSixRankings": 135
+      "standardScoring": 140,
+      "topSixRankings": 136
     }
   },
   {
@@ -673,7 +673,7 @@
       "standardScoring": 1
     },
     "losses": {
-      "standardScoring": 66
+      "standardScoring": 67
     },
     "member": {
       "firstName": "Blayne",
@@ -683,15 +683,15 @@
       "userName": "bdr814"
     },
     "playoffApps": {
-      "standardScoring": 5
+      "standardScoring": 6
     },
     "pointsAgainst": {
-      "standardScoring": 18265.72000000001,
-      "topSixRankings": 18265.72000000001
+      "standardScoring": 18438.40000000001,
+      "topSixRankings": 18438.40000000001
     },
     "pointsScored": {
-      "standardScoring": 18629.18,
-      "topSixRankings": 18629.18
+      "standardScoring": 18785.34,
+      "topSixRankings": 18785.34
     },
     "seasons": {
       "standardScoring": 8,
@@ -710,7 +710,7 @@
       "standardScoring": 0
     },
     "losses": {
-      "standardScoring": 72
+      "standardScoring": 73
     },
     "member": {
       "firstName": "Ben",
@@ -720,15 +720,15 @@
       "userName": "bdpelc2609505"
     },
     "playoffApps": {
-      "standardScoring": 2
+      "standardScoring": 3
     },
     "pointsAgainst": {
-      "standardScoring": 16603.68,
-      "topSixRankings": 16603.68
+      "standardScoring": 16787.260000000002,
+      "topSixRankings": 16787.260000000002
     },
     "pointsScored": {
-      "standardScoring": 15225.760000000006,
-      "topSixRankings": 15225.760000000006
+      "standardScoring": 15390.100000000006,
+      "topSixRankings": 15390.100000000006
     },
     "seasons": {
       "standardScoring": 7,
@@ -736,7 +736,7 @@
     },
     "wins": {
       "standardScoring": 41,
-      "topSixRankings": 38
+      "topSixRankings": 39
     }
   },
   {
@@ -784,7 +784,7 @@
       "standardScoring": 0
     },
     "losses": {
-      "standardScoring": 55
+      "standardScoring": 56
     },
     "member": {
       "firstName": "Nick",
@@ -794,15 +794,15 @@
       "userName": "nickkwiecien"
     },
     "playoffApps": {
-      "standardScoring": 3
+      "standardScoring": 4
     },
     "pointsAgainst": {
-      "standardScoring": 14470.46,
-      "topSixRankings": 14470.46
+      "standardScoring": 14677.96,
+      "topSixRankings": 14677.96
     },
     "pointsScored": {
-      "standardScoring": 14217.400000000001,
-      "topSixRankings": 14217.400000000001
+      "standardScoring": 14333.980000000001,
+      "topSixRankings": 14333.980000000001
     },
     "seasons": {
       "standardScoring": 6,
@@ -821,7 +821,7 @@
       "standardScoring": 0
     },
     "losses": {
-      "standardScoring": 9
+      "standardScoring": 10
     },
     "member": {
       "firstName": "Rolando",
@@ -831,15 +831,15 @@
       "userName": "Rolando Lopez"
     },
     "playoffApps": {
-      "standardScoring": 1
+      "standardScoring": 2
     },
     "pointsAgainst": {
-      "standardScoring": 4215.700000000001,
-      "topSixRankings": 4215.700000000001
+      "standardScoring": 4441.840000000001,
+      "topSixRankings": 4441.840000000001
     },
     "pointsScored": {
-      "standardScoring": 4777.84,
-      "topSixRankings": 4777.84
+      "standardScoring": 4936.54,
+      "topSixRankings": 4936.54
     },
     "seasons": {
       "standardScoring": 2,
@@ -868,23 +868,23 @@
       "userName": "espn50678272"
     },
     "playoffApps": {
-      "standardScoring": 0
+      "standardScoring": 1
     },
     "pointsAgainst": {
-      "standardScoring": 1913.8199999999997,
-      "topSixRankings": 1913.8199999999997
+      "standardScoring": 2078.16,
+      "topSixRankings": 2078.16
     },
     "pointsScored": {
-      "standardScoring": 1982.5800000000004,
-      "topSixRankings": 1982.5800000000004
+      "standardScoring": 2166.1600000000003,
+      "topSixRankings": 2166.1600000000003
     },
     "seasons": {
       "standardScoring": 1,
       "topSixRankings": 1
     },
     "wins": {
-      "standardScoring": 8,
-      "topSixRankings": 6
+      "standardScoring": 9,
+      "topSixRankings": 7
     }
   }
 ]
