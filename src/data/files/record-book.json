@@ -332,286 +332,250 @@
       {
         "intValue": false,
         "recordHolders": {
-          "13": 84.32000000000001
+          "9": 132.16
         },
-        "season": 2023,
-        "value": 84.32000000000001,
-        "week": 9
+        "season": 2024,
+        "value": 132.16,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "10": 87.82000000000001
+          "17": 143.54
         },
-        "season": 2023,
-        "value": 87.82000000000001,
-        "week": 13
+        "season": 2021,
+        "value": 143.54,
+        "week": 2
       },
       {
         "intValue": false,
         "recordHolders": {
-          "12": 88.0
+          "4": 147.98000000000002
+        },
+        "season": 2024,
+        "value": 147.98000000000002,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "4": 148.82
+        },
+        "season": 2021,
+        "value": 148.82,
+        "week": 2
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "17": 151.98
+        },
+        "season": 2024,
+        "value": 151.98,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 152.85999999999999
+        },
+        "season": 2019,
+        "value": 152.85999999999999,
+        "week": 16
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 153.16000000000003
+        },
+        "season": 2024,
+        "value": 153.16000000000003,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 153.8
         },
         "season": 2022,
-        "value": 88.0,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "4": 88.6
-        },
-        "season": 2020,
-        "value": 88.6,
-        "week": 8
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "17": 89.94
-        },
-        "season": 2023,
-        "value": 89.94,
-        "week": 11
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "17": 90.02
-        },
-        "season": 2022,
-        "value": 90.02,
+        "value": 153.8,
         "week": 4
       },
       {
         "intValue": false,
         "recordHolders": {
-          "10": 94.26
-        },
-        "season": 2024,
-        "value": 94.26,
-        "week": 3
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "15": 94.72
+          "3": 156.57999999999998
         },
         "season": 2019,
-        "value": 94.72,
-        "week": 6
+        "value": 156.57999999999998,
+        "week": 14
       },
       {
         "intValue": false,
         "recordHolders": {
-          "12": 96.94
+          "11": 165.66
         },
-        "season": 2021,
-        "value": 96.94,
-        "week": 7
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "9": 97.36
-        },
-        "season": 2019,
-        "value": 97.36,
-        "week": 13
+        "season": 2022,
+        "value": 165.66,
+        "week": 4
       }
     ],
     "fewestPointsGameInPlayoffs": [
       {
         "intValue": false,
         "recordHolders": {
-          "14": 104.35999999999999
+          "12": 152.85999999999999
         },
         "season": 2019,
-        "value": 104.35999999999999,
+        "value": 152.85999999999999,
+        "week": 16
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 156.57999999999998
+        },
+        "season": 2019,
+        "value": 156.57999999999998,
         "week": 14
       },
       {
         "intValue": false,
         "recordHolders": {
-          "4": 112.58
-        },
-        "season": 2022,
-        "value": 112.58,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "5": 113.92
-        },
-        "season": 2020,
-        "value": 113.92,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "1": 115.06
-        },
-        "season": 2024,
-        "value": 115.06,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "9": 116.17999999999999
-        },
-        "season": 2022,
-        "value": 116.17999999999999,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "4": 117.86000000000001
-        },
-        "season": 2024,
-        "value": 117.86000000000001,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "11": 119.38000000000002
-        },
-        "season": 2022,
-        "value": 119.38000000000002,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "17": 120.41999999999999
-        },
-        "season": 2022,
-        "value": 120.41999999999999,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "4": 120.9
-        },
-        "season": 2019,
-        "value": 120.9,
-        "week": 14
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "10": 120.94000000000001
+          "1": 168.96
         },
         "season": 2023,
-        "value": 120.94000000000001,
+        "value": 168.96,
+        "week": 15
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "17": 207.51999999999998
+        },
+        "season": 2019,
+        "value": 207.51999999999998,
         "week": 16
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 213.24
+        },
+        "season": 2019,
+        "value": 213.24,
+        "week": 14
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 239.54000000000002
+        },
+        "season": 2023,
+        "value": 239.54000000000002,
+        "week": 15
       }
     ],
     "fewestPointsMatchup": [
       {
         "intValue": false,
         "recordHolders": {
-          "4": 88.6,
-          "5": 133.56
+          "9": 132.16,
+          "4": 147.98000000000002
         },
-        "season": 2020,
-        "value": 222.16,
-        "week": 8
+        "season": 2024,
+        "value": 280.14,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "10": 87.82000000000001,
-          "12": 137.38
+          "4": 148.82,
+          "17": 143.54
         },
-        "season": 2023,
-        "value": 225.2,
-        "week": 13
+        "season": 2021,
+        "value": 292.36,
+        "week": 2
       },
       {
         "intValue": false,
         "recordHolders": {
-          "14": 107.44000000000001,
-          "1": 119.46
+          "1": 153.16000000000003,
+          "17": 151.98
         },
-        "season": 2023,
-        "value": 226.9,
-        "week": 14
+        "season": 2024,
+        "value": 305.14,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "4": 108.88000000000001,
-          "17": 120.54
-        },
-        "season": 2020,
-        "value": 229.42000000000002,
-        "week": 12
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "14": 141.10000000000002,
-          "17": 90.02
+          "11": 165.66,
+          "15": 153.8
         },
         "season": 2022,
-        "value": 231.12,
+        "value": 319.46000000000004,
         "week": 4
       },
       {
         "intValue": false,
         "recordHolders": {
-          "4": 112.64000000000001,
-          "15": 120.88
+          "9": 190.14000000000001,
+          "4": 166.18
+        },
+        "season": 2022,
+        "value": 356.32000000000005,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "17": 207.51999999999998,
+          "12": 152.85999999999999
+        },
+        "season": 2019,
+        "value": 360.38,
+        "week": 16
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "3": 156.57999999999998,
+          "12": 213.24
+        },
+        "season": 2019,
+        "value": 369.82,
+        "week": 14
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 203.06,
+          "5": 168.44
+        },
+        "season": 2019,
+        "value": 371.5,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 208.26000000000002,
+          "17": 177.56000000000003
         },
         "season": 2021,
-        "value": 233.52,
-        "week": 10
+        "value": 385.82000000000005,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "9": 104.19999999999999,
-          "14": 129.5
-        },
-        "season": 2019,
-        "value": 233.7,
-        "week": 12
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "11": 129.42000000000002,
-          "4": 104.44
+          "5": 239.54000000000002,
+          "1": 168.96
         },
         "season": 2023,
-        "value": 233.86,
-        "week": 9
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "15": 94.72,
-          "4": 140.44
-        },
-        "season": 2019,
-        "value": 235.16,
-        "week": 6
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "17": 134.07999999999998,
-          "4": 102.39999999999999
-        },
-        "season": 2023,
-        "value": 236.47999999999996,
-        "week": 13
+        "value": 408.5,
+        "week": 15
       }
     ],
     "fewestPointsMissedInSeason": [
@@ -4478,277 +4442,42 @@
       {
         "intValue": false,
         "recordHolders": {
-          "5": 65.72
+          "9": 115.36
         },
         "season": 2024,
-        "value": 65.72,
-        "week": 14
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "10": 73.46
-        },
-        "season": 2024,
-        "value": 73.46,
-        "week": 3
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "17": 88.6
-        },
-        "season": 2024,
-        "value": 88.6,
-        "week": 3
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "5": 96.76
-        },
-        "season": 2024,
-        "value": 96.76,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "13": 96.82
-        },
-        "season": 2024,
-        "value": 96.82,
-        "week": 3
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "15": 97.38
-        },
-        "season": 2024,
-        "value": 97.38,
+        "value": 115.36,
         "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "3": 101.0
+          "4": 136.18
         },
         "season": 2024,
-        "value": 101.0,
-        "week": 10
+        "value": 136.18,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "5": 105.32
+          "17": 140.08
         },
         "season": 2024,
-        "value": 105.32,
-        "week": 15
+        "value": 140.08,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "4": 105.66
+          "1": 142.32
         },
         "season": 2024,
-        "value": 105.66,
-        "week": 9
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "4": 108.76
-        },
-        "season": 2024,
-        "value": 108.76,
-        "week": 16
+        "value": 142.32,
+        "week": 1
       }
     ],
-    "fewestPointsGameInPlayoffs": [
-      {
-        "intValue": false,
-        "recordHolders": {
-          "5": 105.32
-        },
-        "season": 2024,
-        "value": 105.32,
-        "week": 15
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "4": 108.76
-        },
-        "season": 2024,
-        "value": 108.76,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "1": 110.26
-        },
-        "season": 2024,
-        "value": 110.26,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "15": 116.58
-        },
-        "season": 2024,
-        "value": 116.58,
-        "week": 15
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "3": 124.62
-        },
-        "season": 2024,
-        "value": 124.62,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "3": 131.5
-        },
-        "season": 2024,
-        "value": 131.5,
-        "week": 15
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "10": 132.6
-        },
-        "season": 2024,
-        "value": 132.6,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "12": 142.44
-        },
-        "season": 2024,
-        "value": 142.44,
-        "week": 15
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "5": 146.28
-        },
-        "season": 2024,
-        "value": 146.28,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "1": 149.54
-        },
-        "season": 2024,
-        "value": 149.54,
-        "week": 16
-      }
-    ],
+    "fewestPointsGameInPlayoffs": [],
     "fewestPointsMatchup": [
-      {
-        "intValue": false,
-        "recordHolders": {
-          "17": 88.6,
-          "13": 96.82
-        },
-        "season": 2024,
-        "value": 185.42,
-        "week": 3
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "15": 97.38,
-          "5": 116.52
-        },
-        "season": 2024,
-        "value": 213.89999999999998,
-        "week": 1
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "4": 152.02,
-          "5": 65.72
-        },
-        "season": 2024,
-        "value": 217.74,
-        "week": 14
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "13": 132.1,
-          "3": 101.0
-        },
-        "season": 2024,
-        "value": 233.1,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "12": 117.96,
-          "9": 118.08
-        },
-        "season": 2024,
-        "value": 236.04,
-        "week": 4
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "9": 125.1,
-          "10": 115.64
-        },
-        "season": 2024,
-        "value": 240.74,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "11": 136.88,
-          "4": 105.66
-        },
-        "season": 2024,
-        "value": 242.54,
-        "week": 9
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "14": 112.68,
-          "10": 131.62
-        },
-        "season": 2024,
-        "value": 244.3,
-        "week": 7
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "13": 120.42,
-          "11": 127.42
-        },
-        "season": 2024,
-        "value": 247.84,
-        "week": 12
-      },
       {
         "intValue": false,
         "recordHolders": {
@@ -4757,6 +4486,16 @@
         },
         "season": 2024,
         "value": 251.54000000000002,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 142.32,
+          "17": 140.08
+        },
+        "season": 2024,
+        "value": 282.4,
         "week": 1
       }
     ],
@@ -7642,286 +7381,61 @@
       {
         "intValue": false,
         "recordHolders": {
-          "10": 94.26
+          "9": 132.16
         },
         "season": 2024,
-        "value": 94.26,
-        "week": 3
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "3": 105.9
-        },
-        "season": 2024,
-        "value": 105.9,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "5": 107.46000000000001
-        },
-        "season": 2024,
-        "value": 107.46000000000001,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "5": 109.86
-        },
-        "season": 2024,
-        "value": 109.86,
-        "week": 14
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "12": 113.2
-        },
-        "season": 2024,
-        "value": 113.2,
-        "week": 12
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "11": 113.22000000000001
-        },
-        "season": 2024,
-        "value": 113.22000000000001,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "13": 115.04000000000002
-        },
-        "season": 2024,
-        "value": 115.04000000000002,
-        "week": 3
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "1": 115.06
-        },
-        "season": 2024,
-        "value": 115.06,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "10": 115.64
-        },
-        "season": 2024,
-        "value": 115.64,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "4": 117.86000000000001
-        },
-        "season": 2024,
-        "value": 117.86000000000001,
-        "week": 16
-      }
-    ],
-    "fewestPointsGameInPlayoffs": [
-      {
-        "intValue": false,
-        "recordHolders": {
-          "1": 115.06
-        },
-        "season": 2024,
-        "value": 115.06,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "4": 117.86000000000001
-        },
-        "season": 2024,
-        "value": 117.86000000000001,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "10": 132.6
-        },
-        "season": 2024,
-        "value": 132.6,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "3": 137.42
-        },
-        "season": 2024,
-        "value": 137.42,
-        "week": 15
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "15": 137.7
-        },
-        "season": 2024,
-        "value": 137.7,
-        "week": 15
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "3": 150.07999999999998
-        },
-        "season": 2024,
-        "value": 150.07999999999998,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "5": 150.51999999999998
-        },
-        "season": 2024,
-        "value": 150.51999999999998,
-        "week": 15
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "1": 161.06
-        },
-        "season": 2024,
-        "value": 161.06,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "5": 164.78000000000003
-        },
-        "season": 2024,
-        "value": 164.78000000000003,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "11": 167.18
-        },
-        "season": 2024,
-        "value": 167.18,
-        "week": 17
-      }
-    ],
-    "fewestPointsMatchup": [
-      {
-        "intValue": false,
-        "recordHolders": {
-          "13": 132.1,
-          "3": 105.9
-        },
-        "season": 2024,
-        "value": 238.0,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "13": 125.18,
-          "11": 132.12
-        },
-        "season": 2024,
-        "value": 257.3,
-        "week": 12
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "15": 123.91999999999999,
-          "5": 137.96
-        },
-        "season": 2024,
-        "value": 261.88,
+        "value": 132.16,
         "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "4": 152.02,
-          "5": 109.86
+          "4": 147.98000000000002
         },
         "season": 2024,
-        "value": 261.88,
-        "week": 14
+        "value": 147.98000000000002,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "11": 143.3,
-          "4": 120.46000000000002
+          "17": 151.98
         },
         "season": 2024,
-        "value": 263.76000000000005,
-        "week": 9
+        "value": 151.98,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "14": 137.36,
-          "10": 133.52
+          "1": 153.16000000000003
         },
         "season": 2024,
-        "value": 270.88,
-        "week": 7
+        "value": 153.16000000000003,
+        "week": 1
+      }
+    ],
+    "fewestPointsGameInPlayoffs": [],
+    "fewestPointsMatchup": [
+      {
+        "intValue": false,
+        "recordHolders": {
+          "9": 132.16,
+          "4": 147.98000000000002
+        },
+        "season": 2024,
+        "value": 280.14,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "17": 156.2,
-          "13": 115.04000000000002
+          "1": 153.16000000000003,
+          "17": 151.98
         },
         "season": 2024,
-        "value": 271.24,
-        "week": 3
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "14": 158.17999999999998,
-          "12": 113.2
-        },
-        "season": 2024,
-        "value": 271.38,
-        "week": 12
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "5": 107.46000000000001,
-          "14": 168.64000000000001
-        },
-        "season": 2024,
-        "value": 276.1,
-        "week": 10
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "13": 136.72,
-          "17": 142.96
-        },
-        "season": 2024,
-        "value": 279.68,
-        "week": 14
+        "value": 305.14,
+        "week": 1
       }
     ],
     "fewestPointsMissedInSeason": [
@@ -11061,286 +10575,250 @@
       {
         "intValue": false,
         "recordHolders": {
-          "15": 53.48
+          "9": 115.36
+        },
+        "season": 2024,
+        "value": 115.36,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 128.8
         },
         "season": 2019,
-        "value": 53.48,
-        "week": 4
+        "value": 128.8,
+        "week": 16
       },
       {
         "intValue": false,
         "recordHolders": {
-          "12": 59.48
-        },
-        "season": 2022,
-        "value": 59.48,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "13": 60.62
+          "1": 129.28
         },
         "season": 2023,
-        "value": 60.62,
-        "week": 9
+        "value": 129.28,
+        "week": 15
       },
       {
         "intValue": false,
         "recordHolders": {
-          "5": 65.72
-        },
-        "season": 2024,
-        "value": 65.72,
-        "week": 14
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "12": 67.14
+          "4": 129.58
         },
         "season": 2021,
-        "value": 67.14,
-        "week": 17
+        "value": 129.58,
+        "week": 2
       },
       {
         "intValue": false,
         "recordHolders": {
-          "9": 68.26
+          "15": 130.18
         },
         "season": 2019,
-        "value": 68.26,
-        "week": 13
+        "value": 130.18,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "17": 70.48
-        },
-        "season": 2022,
-        "value": 70.48,
-        "week": 4
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "12": 72.34
-        },
-        "season": 2021,
-        "value": 72.34,
-        "week": 7
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "10": 73.46
+          "4": 136.18
         },
         "season": 2024,
-        "value": 73.46,
-        "week": 3
+        "value": 136.18,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "12": 75.52
+          "17": 136.2
         },
         "season": 2021,
-        "value": 75.52,
-        "week": 8
+        "value": 136.2,
+        "week": 2
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "17": 140.08
+        },
+        "season": 2024,
+        "value": 140.08,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 142.32
+        },
+        "season": 2024,
+        "value": 142.32,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 143.84
+        },
+        "season": 2022,
+        "value": 143.84,
+        "week": 4
       }
     ],
     "fewestPointsGameInPlayoffs": [
       {
         "intValue": false,
         "recordHolders": {
-          "12": 59.48
-        },
-        "season": 2022,
-        "value": 59.48,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "12": 67.14
-        },
-        "season": 2021,
-        "value": 67.14,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "14": 90.76
+          "12": 128.8
         },
         "season": 2019,
-        "value": 90.76,
-        "week": 14
+        "value": 128.8,
+        "week": 16
       },
       {
         "intValue": false,
         "recordHolders": {
-          "17": 91.12
+          "1": 129.28
         },
         "season": 2023,
-        "value": 91.12,
+        "value": 129.28,
         "week": 15
       },
       {
         "intValue": false,
         "recordHolders": {
-          "12": 92.28
+          "3": 146.4
         },
-        "season": 2021,
-        "value": 92.28,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "4": 92.5
-        },
-        "season": 2020,
-        "value": 92.5,
+        "season": 2019,
+        "value": 146.4,
         "week": 14
       },
       {
         "intValue": false,
         "recordHolders": {
-          "4": 92.72
+          "12": 158.38
         },
-        "season": 2020,
-        "value": 92.72,
-        "week": 15
+        "season": 2019,
+        "value": 158.38,
+        "week": 14
       },
       {
         "intValue": false,
         "recordHolders": {
-          "12": 92.88
+          "17": 170.86
+        },
+        "season": 2019,
+        "value": 170.86,
+        "week": 16
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 182.0
         },
         "season": 2023,
-        "value": 92.88,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "3": 93.82
-        },
-        "season": 2022,
-        "value": 93.82,
-        "week": 16
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "15": 94.86
-        },
-        "season": 2020,
-        "value": 94.86,
-        "week": 16
+        "value": 182.0,
+        "week": 15
       }
     ],
     "fewestPointsMatchup": [
       {
         "intValue": false,
         "recordHolders": {
-          "11": 96.6,
-          "12": 59.48
-        },
-        "season": 2022,
-        "value": 156.07999999999998,
-        "week": 17
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "10": 76.76,
-          "12": 107.84
-        },
-        "season": 2023,
-        "value": 184.60000000000002,
-        "week": 13
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "14": 131.7,
-          "15": 53.48
-        },
-        "season": 2019,
-        "value": 185.17999999999998,
-        "week": 4
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "17": 88.6,
-          "13": 96.82
+          "9": 115.36,
+          "4": 136.18
         },
         "season": 2024,
-        "value": 185.42,
-        "week": 3
+        "value": 251.54000000000002,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "17": 118.3,
-          "9": 68.26
+          "4": 129.58,
+          "17": 136.2
+        },
+        "season": 2021,
+        "value": 265.78,
+        "week": 2
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 142.32,
+          "17": 140.08
+        },
+        "season": 2024,
+        "value": 282.4,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 130.18,
+          "5": 155.84
         },
         "season": 2019,
-        "value": 186.56,
-        "week": 13
+        "value": 286.02,
+        "week": 1
       },
       {
         "intValue": false,
         "recordHolders": {
-          "14": 117.6,
-          "17": 70.48
+          "11": 150.56,
+          "15": 143.84
         },
         "season": 2022,
-        "value": 188.07999999999998,
+        "value": 294.4,
         "week": 4
       },
       {
         "intValue": false,
         "recordHolders": {
-          "13": 60.62,
-          "5": 128.6
+          "17": 170.86,
+          "12": 128.8
         },
-        "season": 2023,
-        "value": 189.22,
-        "week": 9
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "3": 93.82,
-          "12": 96.76
-        },
-        "season": 2022,
-        "value": 190.57999999999998,
+        "season": 2019,
+        "value": 299.66,
         "week": 16
       },
       {
         "intValue": false,
         "recordHolders": {
-          "12": 76.08,
-          "15": 115.74
+          "3": 146.4,
+          "12": 158.38
         },
-        "season": 2021,
-        "value": 191.82,
+        "season": 2019,
+        "value": 304.78,
         "week": 14
       },
       {
         "intValue": false,
         "recordHolders": {
-          "11": 125.28,
-          "12": 67.14
+          "9": 159.58,
+          "4": 146.28
+        },
+        "season": 2022,
+        "value": 305.86,
+        "week": 1
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "5": 182.0,
+          "1": 129.28
+        },
+        "season": 2023,
+        "value": 311.28,
+        "week": 15
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "1": 171.26,
+          "17": 168.24
         },
         "season": 2021,
-        "value": 192.42000000000002,
-        "week": 17
+        "value": 339.5,
+        "week": 1
       }
     ],
     "fewestPointsMissedInSeason": [],
@@ -14513,15 +13991,6 @@
       {
         "intValue": false,
         "recordHolders": {
-          "15": 53.48
-        },
-        "season": 2019,
-        "value": 53.48,
-        "week": 4
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
           "17": 54.0
         },
         "season": 2010,
@@ -14554,6 +14023,15 @@
         "season": 2015,
         "value": 57.0,
         "week": 10
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "12": 57.78
+        },
+        "season": 2017,
+        "value": 57.78,
+        "week": 9
       }
     ],
     "fewestPointsGameInPlayoffs": [
@@ -14592,15 +14070,6 @@
         "season": 2010,
         "value": 56.0,
         "week": 15
-      },
-      {
-        "intValue": false,
-        "recordHolders": {
-          "12": 59.48
-        },
-        "season": 2022,
-        "value": 59.48,
-        "week": 17
       },
       {
         "intValue": false,
@@ -14646,6 +14115,15 @@
         "season": 2010,
         "value": 64.0,
         "week": 14
+      },
+      {
+        "intValue": false,
+        "recordHolders": {
+          "15": 65.0
+        },
+        "season": 2013,
+        "value": 65.0,
+        "week": 16
       }
     ],
     "fewestPointsMatchup": [
@@ -14742,12 +14220,12 @@
       {
         "intValue": false,
         "recordHolders": {
-          "11": 96.6,
-          "12": 59.48
+          "1": 102.0,
+          "15": 57.0
         },
-        "season": 2022,
-        "value": 156.07999999999998,
-        "week": 17
+        "season": 2015,
+        "value": 159.0,
+        "week": 10
       }
     ],
     "fewestPointsMissedInSeason": [],
