@@ -10,6 +10,7 @@ import ownerSummaries from './files/owner-summaries.json';
 import teamYearMapJson from './files/team-year-map.json';
 import tradesJson from './files/trades.json';
 import variousFactCardsJson from './files/various-fact-cards.json';
+import keeperPricesJson from './files/keeper-prices.json';
 import config from "../config";
 
 const getMembersFromOwnerIds = (team, memberList) =>
@@ -80,6 +81,30 @@ const getOwnerDataById = (ownerId) =>
         vsTeamRecords: getMemberVsTeamRecords(ownerId)
     }
 
+const getKeeperPrices = () => {
+    const teamMap = keeperPricesJson.reduce((prices, keeperPriceEntry) => {
+        if (prices[keeperPriceEntry.teamName] === undefined) {
+            prices[keeperPriceEntry.teamName] = [];
+        }
+        const {keeperPrice, newKeeperPrice, playerId, playerName, playerTeamName, position} = keeperPriceEntry;
+        prices[keeperPriceEntry.teamName].push({
+            keeperPrice,
+            newKeeperPrice,
+            playerId,
+            playerName,
+            playerTeamName,
+            position
+        });
+        return prices;
+    }, {});
+
+    Object.entries(teamMap).forEach(([_, team]) => {
+        team.sort((a, b) => b.newKeeperPrice - a.newKeeperPrice);
+    })
+
+    return teamMap;
+}
+
 const DataHandler = {
     teamYearMap,
     recordBook,
@@ -89,6 +114,7 @@ const DataHandler = {
     standingsList: standings,
     modernStandingsList: modernStandings,
     tradeList: tradesJson,
+    getKeeperPrices,
     variousFactCards: variousFactCardsJson,
 };
 

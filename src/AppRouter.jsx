@@ -18,6 +18,7 @@ import LeagueTrades from './history/trades/LeagueTrades';
 import LeagueDraftGrades from './history/draft-grades/LeagueDraftGrades';
 import Owners from './teams/Owners';
 import {VariousFactsScreen} from './history/various-facts/VariousFactsScreen';
+import KeeperPricePage from './history/keeper-prices/KeeperPricePage';
 
 export default function AppRouter() {
     const [isDrawerOpen, setDrawerOpen] = React.useState(false);
@@ -54,6 +55,7 @@ export default function AppRouter() {
                     <Route path={Links.history} element={<History/>}/>
                     <Route path={Links.leagueEvents} element={<LeagueEvents/>}/>
                     <Route path={Links.leagueTrades} element={<LeagueTrades/>}/>
+                    <Route path={Links.keeperPrices} element={<KeeperPricePage/>}/>
                     <Route path={Links.draftGrades} element={<LeagueDraftGrades/>}/>
                     <Route path={Links.variousFacts} element={<VariousFactsScreen/>}/>
                     <Route path={Links.home} element={<Home/>}/>

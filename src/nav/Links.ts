@@ -3,6 +3,7 @@ export enum Links {
     history = "/history",
     leagueEvents = "/history/events",
     leagueTrades = "/history/trades",
+    keeperPrices = "/history/keeper-prices",
     draftGrades = "/history/draft-grades",
     franchises = "/franchises",
     franchiseDetails = "/franchises/:franchiseId",

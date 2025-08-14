@@ -19,6 +19,13 @@ export default function History() {
             actionButtonLink: "/history/trades",
         },
         {
+            id: "history-keeper-prices",
+            title: "Keeper Prices",
+            description: "A list of keeper prices for the current season.",
+            actionButtonText: "View Keeper Prices",
+            actionButtonLink: "/history/keeper-prices",
+        },
+        {
             id: "history-draft-grades",
             title: "Draft Grades",
             description: "A list of draft grades for each season.",
