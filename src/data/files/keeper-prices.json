@@ -12,7 +12,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4430027,
     "playerName": "Sam LaPorta",
     "playerTeamName": "DET",
@@ -155,7 +155,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4572680,
     "playerName": "Tucker Kraft",
     "playerTeamName": "GB",
@@ -166,7 +166,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16011,
     "playerName": "Colts D/ST",
     "playerTeamName": "IND",
@@ -177,7 +177,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4431452,
     "playerName": "Drake Maye",
     "playerTeamName": "NE",
@@ -287,7 +287,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 4372066,
     "playerName": "Jake Moody",
     "playerTeamName": "SF",
@@ -309,7 +309,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4241463,
     "playerName": "Jerry Jeudy",
     "playerTeamName": "CLE",
@@ -320,7 +320,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16003,
     "playerName": "Bears D/ST",
     "playerTeamName": "CHI",
@@ -331,7 +331,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4048244,
     "playerName": "Alexander Mattison",
     "playerTeamName": "MIA",
@@ -342,7 +342,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 15835,
     "playerName": "Zach Ertz",
     "playerTeamName": "WAS",
@@ -353,7 +353,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 15864,
     "playerName": "Geno Smith",
     "playerTeamName": "LV",
@@ -364,7 +364,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3150744,
     "playerName": "Chase McLaughlin",
     "playerTeamName": "TB",
@@ -375,7 +375,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3051738,
     "playerName": "Marquez Valdes-Scantling",
     "playerTeamName": "SEA",
@@ -386,7 +386,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16026,
     "playerName": "Seahawks D/ST",
     "playerTeamName": "SEA",
@@ -397,7 +397,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 4241474,
     "playerName": "Brian Robinson Jr.",
     "playerTeamName": "WAS",
@@ -419,7 +419,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 2971573,
     "playerName": "Ka'imi Fairbairn",
     "playerTeamName": "HOU",
@@ -496,7 +496,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 4040761,
     "playerName": "Devin Singletary",
     "playerTeamName": "NYG",
@@ -507,7 +507,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3886598,
     "playerName": "Jauan Jennings",
     "playerTeamName": "SF",
@@ -518,7 +518,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3046439,
     "playerName": "Hunter Henry",
     "playerTeamName": "NE",
@@ -529,7 +529,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4432620,
     "playerName": "Parker Washington",
     "playerTeamName": "JAX",
@@ -540,7 +540,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 2973405,
     "playerName": "Kalif Raymond",
     "playerTeamName": "DET",
@@ -551,7 +551,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3116164,
     "playerName": "Mike Gesicki",
     "playerTeamName": "CIN",
@@ -562,7 +562,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4248528,
     "playerName": "Christian Watson",
     "playerTeamName": "GB",
@@ -573,7 +573,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3917232,
     "playerName": "Tyler Bass",
     "playerTeamName": "BUF",
@@ -584,7 +584,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4361418,
     "playerName": "Will Levis",
     "playerTeamName": "TEN",
@@ -595,7 +595,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3929630,
     "playerName": "Saquon Barkley",
     "playerTeamName": "PHI",
@@ -683,7 +683,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4596448,
     "playerName": "Bucky Irving",
     "playerTeamName": "TB",
@@ -694,7 +694,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 4428850,
     "playerName": "Dontayvion Wicks",
     "playerTeamName": "GB",
@@ -705,7 +705,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 4361411,
     "playerName": "Pat Freiermuth",
     "playerTeamName": "PIT",
@@ -716,7 +716,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4038941,
     "playerName": "Justin Herbert",
     "playerTeamName": "LAC",
@@ -727,7 +727,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4373626,
     "playerName": "Tyler Allgeier",
     "playerTeamName": "ATL",
@@ -738,7 +738,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16009,
     "playerName": "Packers D/ST",
     "playerTeamName": "GB",
@@ -749,7 +749,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3821683,
     "playerName": "Austin Seibert",
     "playerTeamName": "FA",
@@ -760,7 +760,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4258595,
     "playerName": "Cole Kmet",
     "playerTeamName": "CHI",
@@ -771,7 +771,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4426515,
     "playerName": "Puka Nacua",
     "playerTeamName": "LAR",
@@ -881,7 +881,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4362238,
     "playerName": "Chase Brown",
     "playerTeamName": "CIN",
@@ -892,7 +892,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16016,
     "playerName": "Vikings D/ST",
     "playerTeamName": "MIN",
@@ -903,7 +903,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4360516,
     "playerName": "Tyrone Tracy Jr.",
     "playerTeamName": "NYG",
@@ -914,7 +914,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 16339,
     "playerName": "Brandon McManus",
     "playerTeamName": "GB",
@@ -925,7 +925,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3046779,
     "playerName": "Jared Goff",
     "playerTeamName": "DET",
@@ -936,7 +936,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4372561,
     "playerName": "Isaac Guerendo",
     "playerTeamName": "SF",
@@ -947,7 +947,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4685247,
     "playerName": "Braelon Allen",
     "playerTeamName": "NYJ",
@@ -958,7 +958,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4430834,
     "playerName": "Jalen McMillan",
     "playerTeamName": "TB",
@@ -969,7 +969,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4259308,
     "playerName": "Raheem Blackshear",
     "playerTeamName": "CAR",
@@ -980,7 +980,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4432577,
     "playerName": "C.J. Stroud",
     "playerTeamName": "HOU",
@@ -1101,7 +1101,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4038815,
     "playerName": "Rico Dowdle",
     "playerTeamName": "CAR",
@@ -1112,7 +1112,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4360569,
     "playerName": "Jordan Mason",
     "playerTeamName": "MIN",
@@ -1123,7 +1123,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 10621,
     "playerName": "Nick Folk",
     "playerTeamName": "NYJ",
@@ -1134,7 +1134,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 16460,
     "playerName": "Adam Thielen",
     "playerTeamName": "CAR",
@@ -1145,7 +1145,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16034,
     "playerName": "Texans D/ST",
     "playerTeamName": "HOU",
@@ -1156,7 +1156,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16004,
     "playerName": "Bengals D/ST",
     "playerTeamName": "CIN",
@@ -1167,7 +1167,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 4262921,
     "playerName": "Justin Jefferson",
     "playerTeamName": "MIN",
@@ -1178,7 +1178,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4047650,
     "playerName": "DK Metcalf",
     "playerTeamName": "PIT",
@@ -1266,7 +1266,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4427095,
     "playerName": "DeMario Douglas",
     "playerTeamName": "NE",
@@ -1277,7 +1277,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3728262,
     "playerName": "Ray-Ray McCloud III",
     "playerTeamName": "ATL",
@@ -1288,7 +1288,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 15818,
     "playerName": "Keenan Allen",
     "playerTeamName": "LAC",
@@ -1299,7 +1299,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3050478,
     "playerName": "Jake Elliott",
     "playerTeamName": "PHI",
@@ -1310,7 +1310,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3127292,
     "playerName": "Will Dissly",
     "playerTeamName": "LAC",
@@ -1321,7 +1321,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 12483,
     "playerName": "Matthew Stafford",
     "playerTeamName": "LAR",
@@ -1332,7 +1332,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4428557,
     "playerName": "Tyjae Spears",
     "playerTeamName": "TEN",
@@ -1343,7 +1343,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16010,
     "playerName": "Titans D/ST",
     "playerTeamName": "TEN",
@@ -1365,7 +1365,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4429160,
     "playerName": "De'Von Achane",
     "playerTeamName": "MIA",
@@ -1464,7 +1464,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4432773,
     "playerName": "Brian Thomas Jr.",
     "playerTeamName": "JAX",
@@ -1475,7 +1475,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4429013,
     "playerName": "Tank Bigsby",
     "playerTeamName": "JAX",
@@ -1486,7 +1486,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3051876,
     "playerName": "Evan Engram",
     "playerTeamName": "DEN",
@@ -1497,7 +1497,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16023,
     "playerName": "Steelers D/ST",
     "playerTeamName": "PIT",
@@ -1508,7 +1508,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4369863,
     "playerName": "Cedric Tillman",
     "playerTeamName": "CLE",
@@ -1519,7 +1519,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3124679,
     "playerName": "Jason Sanders",
     "playerTeamName": "MIA",
@@ -1541,7 +1541,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 4429615,
     "playerName": "Zay Flowers",
     "playerTeamName": "BAL",
@@ -1618,7 +1618,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 4035676,
     "playerName": "Zack Moss",
     "playerTeamName": "FA",
@@ -1629,7 +1629,7 @@
   },
   {
     "keeperPrice": 2,
-    "newKeeperPrice": 3,
+    "newKeeperPrice": 5,
     "playerId": 3052587,
     "playerName": "Baker Mayfield",
     "playerTeamName": "TB",
@@ -1640,7 +1640,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4361432,
     "playerName": "Romeo Doubs",
     "playerTeamName": "GB",
@@ -1651,7 +1651,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4360078,
     "playerName": "Alec Pierce",
     "playerTeamName": "IND",
@@ -1662,7 +1662,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 17372,
     "playerName": "Chris Boswell",
     "playerTeamName": "PIT",
@@ -1673,7 +1673,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4426338,
     "playerName": "Bo Nix",
     "playerTeamName": "DEN",
@@ -1684,7 +1684,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4372019,
     "playerName": "Jerome Ford",
     "playerTeamName": "CLE",
@@ -1695,7 +1695,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16001,
     "playerName": "Falcons D/ST",
     "playerTeamName": "ATL",
@@ -1706,7 +1706,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4599739,
     "playerName": "Kendre Miller",
     "playerTeamName": "NO",
@@ -1717,7 +1717,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16015,
     "playerName": "Dolphins D/ST",
     "playerTeamName": "MIA",
@@ -1728,7 +1728,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4430737,
     "playerName": "Kyren Williams",
     "playerTeamName": "LAR",
@@ -1739,7 +1739,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3139477,
     "playerName": "Patrick Mahomes",
     "playerTeamName": "KC",
@@ -1794,7 +1794,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4426348,
     "playerName": "Jayden Daniels",
     "playerTeamName": "WAS",
@@ -1805,7 +1805,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4426385,
     "playerName": "Zach Charbonnet",
     "playerTeamName": "SEA",
@@ -1816,7 +1816,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4689936,
     "playerName": "Jake Bates",
     "playerTeamName": "DET",
@@ -1827,7 +1827,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4569587,
     "playerName": "Wan'Dale Robinson",
     "playerTeamName": "NYG",
@@ -1838,7 +1838,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4249087,
     "playerName": "Matt Gay",
     "playerTeamName": "WAS",
@@ -1849,7 +1849,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4688813,
     "playerName": "Josh Downs",
     "playerTeamName": "IND",
@@ -1860,7 +1860,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16021,
     "playerName": "Eagles D/ST",
     "playerTeamName": "PHI",
@@ -1871,7 +1871,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 2468609,
     "playerName": "Taysom Hill",
     "playerTeamName": "NO",
@@ -1882,7 +1882,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4372096,
     "playerName": "Luke Schoonmaker",
     "playerTeamName": "DAL",
@@ -1893,7 +1893,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4430539,
     "playerName": "Brenton Strange",
     "playerTeamName": "JAX",
@@ -1915,7 +1915,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3043078,
     "playerName": "Derrick Henry",
     "playerTeamName": "BAL",
@@ -1926,7 +1926,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3916433,
     "playerName": "Jakobi Meyers",
     "playerTeamName": "LV",
@@ -1937,7 +1937,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4241416,
     "playerName": "Chuba Hubbard",
     "playerTeamName": "CAR",
@@ -1948,7 +1948,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4040655,
     "playerName": "Darnell Mooney",
     "playerTeamName": "ATL",
@@ -1959,7 +1959,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4430034,
     "playerName": "Xavier Legette",
     "playerTeamName": "CAR",
@@ -1970,7 +1970,7 @@
   },
   {
     "keeperPrice": 1,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 16731,
     "playerName": "Brandin Cooks",
     "playerTeamName": "NO",
@@ -1981,7 +1981,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4361050,
     "playerName": "Isaiah Likely",
     "playerTeamName": "BAL",
@@ -1992,7 +1992,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 2976592,
     "playerName": "Sterling Shepard",
     "playerTeamName": "TB",
@@ -2003,7 +2003,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3676833,
     "playerName": "KaVontae Turpin",
     "playerTeamName": "DAL",
@@ -2014,7 +2014,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3054212,
     "playerName": "Jonnu Smith",
     "playerTeamName": "PIT",
@@ -2025,7 +2025,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16024,
     "playerName": "Chargers D/ST",
     "playerTeamName": "LAC",
@@ -2036,7 +2036,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 3912547,
     "playerName": "Sam Darnold",
     "playerTeamName": "SEA",
@@ -2047,7 +2047,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4362081,
     "playerName": "Cameron Dicker",
     "playerTeamName": "LAC",
@@ -2058,7 +2058,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 2576336,
     "playerName": "Ameer Abdullah",
     "playerTeamName": "SF",
@@ -2069,7 +2069,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4686472,
     "playerName": "Marvin Mims Jr.",
     "playerTeamName": "DEN",
@@ -2201,7 +2201,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16002,
     "playerName": "Bills D/ST",
     "playerTeamName": "BUF",
@@ -2212,7 +2212,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4243331,
     "playerName": "Cade Otton",
     "playerTeamName": "TB",
@@ -2223,7 +2223,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4429025,
     "playerName": "Quentin Johnston",
     "playerTeamName": "LAC",
@@ -2234,7 +2234,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4360438,
     "playerName": "Brandon Aiyuk",
     "playerTeamName": "SF",
@@ -2245,7 +2245,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4372414,
     "playerName": "Elijah Moore",
     "playerTeamName": "BUF",
@@ -2256,7 +2256,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": -16028,
     "playerName": "Commanders D/ST",
     "playerTeamName": "WAS",
@@ -2267,7 +2267,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 4567104,
     "playerName": "Will Reichard",
     "playerTeamName": "MIN",
@@ -2278,7 +2278,7 @@
   },
   {
     "keeperPrice": 0,
-    "newKeeperPrice": 2,
+    "newKeeperPrice": 5,
     "playerId": 8439,
     "playerName": "Aaron Rodgers",
     "playerTeamName": "PIT",
