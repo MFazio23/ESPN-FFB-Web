@@ -27,6 +27,8 @@ export default function RecordBookItem({recordCategory, recordBookType, latestWe
                             {recordCategory.title}
                         </Typography>
                         <Typography variant="caption">
+                            {recordCategory.subtitle}
+                            {recordCategory.subtitle ? ' ' : ''}
                             {(recordCategory.withPlayoffs ? '+ playoffs' : '')}
                         </Typography>
                     </Stack>

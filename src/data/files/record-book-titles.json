@@ -6,19 +6,22 @@
     "title": "Most Points in a Playoff Week"
   },
   "mostPointsGameBestBall": {
-    "title": "Most Points in a Week (Best Ball scoring)"
+    "title": "Most Points in a Week",
+    "subtitle": "Best Ball scoring"
   },
   "mostPointsSeason": {
     "title": "Most Points in a Season"
   },
   "mostPointsSeasonBestBall": {
-    "title": "Most Points in a Season (Best Ball scoring)"
+    "title": "Most Points in a Season",
+    "subtitle": "Best Ball scoring"
   },
   "mostPointsSeasonWithPlayoffs": {
     "title": "Most Points in a Season"
   },
   "mostPointsSeasonBestBallWithPlayoffs": {
-    "title": "Most Points in a Season (Best Ball scoring)"
+    "title": "Most Points in a Season",
+    "subtitle": "Best Ball scoring"
   },
   "mostPointsPerWeek": {
     "title": "Most Points per Week in a Season"
@@ -100,31 +103,40 @@
     "sortAscending": true
   },
   "mostPointsMissed": {
-    "title": "Most Points Missed (Best ball - real score)"
+    "title": "Most Points Missed",
+    "subtitle": "Best ball score - real score"
   },
   "mostPointsMissedInSeason": {
-    "title": "Most Points Missed in a Season (Best ball - real score)"
+    "title": "Most Points Missed in a Season",
+    "subtitle": "Best ball score - real score"
   },
   "mostPointsMissedInSeasonWithPlayoffs": {
-    "title": "Most Points Missed in a Season (Best ball - real score)"
+    "title": "Most Points Missed in a Season",
+    "subtitle": "Best ball score - real score"
   },
   "fewestPointsMissedInSeason": {
-    "title": "Fewest Points Missed in a Season (Best ball - real score)"
+    "title": "Fewest Points Missed in a Season",
+    "subtitle": "Best ball score - real score"
   },
   "fewestPointsMissedInSeasonWithPlayoffs": {
-    "title": "Fewest Points Missed in a Season (Best ball - real score)"
+    "title": "Fewest Points Missed in a Season",
+    "subtitle": "Best ball score - real score"
   },
   "highestPointsPlayedPctInSeason": {
-    "title": "Highest Points Played % in a Season (Real score / Best ball)"
+    "title": "Highest Points Played % in a Season",
+    "subtitle": "Real score / Best ball score"
   },
   "highestPointsPlayedPctInSeasonWithPlayoffs": {
-    "title": "Highest Points Played % in a Season (Real score / Best ball)"
+    "title": "Highest Points Played % in a Season",
+    "subtitle": "Real score / Best ball score"
   },
   "lowestPointsPlayedPctInSeason": {
-    "title": "Lowest Points Played % in a Season (Real score / Best ball)"
+    "title": "Lowest Points Played % in a Season",
+    "subtitle": "Real score / Best ball score"
   },
   "lowestPointsPlayedPctInSeasonWithPlayoffs": {
-    "title": "Lowest Points Played % in a Season (Real score / Best ball)"
+    "title": "Lowest Points Played % in a Season",
+    "subtitle": "Real score / Best ball score"
   },
   "highestPointsPlus": {
     "title": "Highest Points+ in a Season"
