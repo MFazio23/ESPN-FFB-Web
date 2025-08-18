@@ -1,5 +1,5 @@
 import {Box, Button} from '@mui/material';
-import Grid from '@mui/material/Grid2';
+import Grid from '@mui/material/Grid';
 import {Link} from 'react-router-dom';
 import Links from '../nav/Links';
 import {ReactElement} from 'react';

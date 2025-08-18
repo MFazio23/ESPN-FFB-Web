@@ -127,15 +127,12 @@ export default function LeagueEvents() {
             return (
                 <TimelineItem key={year}>
                     <TimelineOppositeContent
-                        sx={{m: 'auto 0'}}
-                        align="right"
-                        variant="body2"
-                        color="text.secondary"></TimelineOppositeContent>
+                        sx={{m: 'auto 0'}}></TimelineOppositeContent>
                     <TimelineSeparator>
-                        <TimelineConnector style={{visibility: year === endYear ? 'hidden' : 'visible'}}/>
+                        <TimelineConnector sx={{visibility: year === endYear ? 'hidden' : 'visible'}}/>
 
                         <TimelineConnector
-                            style={{visibility: year === startYear ? 'hidden' : 'visible'}}/>
+                            sx={{visibility: year === startYear ? 'hidden' : 'visible'}}/>
                     </TimelineSeparator>
                     <TimelineContent sx={{py: '12px', px: 2}}>
                     </TimelineContent>
@@ -146,17 +143,14 @@ export default function LeagueEvents() {
             return (
                 <TimelineItem key={year}>
                     <TimelineOppositeContent
-                        sx={{m: 'auto 0'}}
-                        align="right"
-                        variant="body2"
-                        color="text.secondary">{year}</TimelineOppositeContent>
+                        sx={{m: 'auto 0', color: 'text.secondary'}}>{year}</TimelineOppositeContent>
                     <TimelineSeparator>
-                        <TimelineConnector style={{visibility: ind === 0 ? 'hidden' : 'visible'}}/>
+                        <TimelineConnector sx={{visibility: ind === 0 ? 'hidden' : 'visible'}}/>
                         <TimelineDot color={iconColor} variant={iconStyle}>
                             {icon}
                         </TimelineDot>
                         <TimelineConnector
-                            style={{visibility: ind === leagueEvents.length - 1 ? 'hidden' : 'visible'}}/>
+                            sx={{visibility: ind === leagueEvents.length - 1 ? 'hidden' : 'visible'}}/>
                     </TimelineSeparator>
                     <TimelineContent sx={{py: '12px', px: 2}}>
                         <Typography variant="h6" component="span">{eventTitle}</Typography>

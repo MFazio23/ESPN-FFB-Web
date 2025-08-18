@@ -1,4 +1,4 @@
-import Grid from "@mui/material/Grid2";
+import Grid from "@mui/material/Grid";
 import ErasCard from "./ErasCard";
 import dataHandler from "../data/data-handler";
 

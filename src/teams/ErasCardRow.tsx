@@ -1,5 +1,5 @@
 import {Stack, Typography} from "@mui/material";
-import Grid from "@mui/material/Grid2";
+import Grid from "@mui/material/Grid";
 import {Era} from './ErasCard';
 
 interface ErasCardRowProps {
