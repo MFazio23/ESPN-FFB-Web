@@ -1,5 +1,6 @@
 import HistoryPage from '../HistoryPage';
 import {Box, Typography} from '@mui/material';
+// @ts-ignore
 import dataHandler from '../../data/data-handler';
 import {KeeperPriceEntry} from './KeeperPriceEntry';
 import {KeeperPriceCard} from './KeeperPriceCard';

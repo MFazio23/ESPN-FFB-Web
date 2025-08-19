@@ -1,14 +1,16 @@
 import * as React from 'react';
 import {useState} from 'react';
 import {Paper, Tab, Table, TableBody, TableCell, TableContainer, TableRow, Tabs, Typography} from "@mui/material";
+// @ts-ignore
 import dataHandler from '../data/data-handler'
 import RecordBookItem from "./RecordBookItem";
 
-interface RecordBookRecord {
+export interface RecordBookRecord {
     id: string;
     order: number;
     records: unknown[];
     title: string;
+    subtitle?: string;
     withPlayoffs: boolean;
     sortAscending: boolean;
 }
@@ -50,7 +52,7 @@ export default function RecordBook() {
             </Typography>
             <Tabs
                 value={recordBookType}
-                onChange={(e, newValue) => setRecordBookType(newValue)}
+                onChange={(_, newValue) => setRecordBookType(newValue)}
                 variant="fullWidth"
             >
                 <Tab label="Standard" value="standard"/>

@@ -1,6 +1,7 @@
 import {Box, Typography} from '@mui/material';
 import HistoryPage, {HistoryPageCard} from '../HistoryPage';
 import {LeagueTradeCard} from './LeagueTradeCard';
+// @ts-ignore
 import dataHandler from "../../data/data-handler";
 
 export interface Trade {

@@ -2,9 +2,17 @@ import * as React from 'react';
 import {Collapse, IconButton, Stack, TableCell, TableRow, Typography} from "@mui/material";
 import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
 import KeyboardArrowUpIcon from '@mui/icons-material/KeyboardArrowUp';
+// @ts-ignore
 import RecordBookMiniList from "./RecordBookMiniList";
+import {RecordBookRecord} from './RecordBook';
 
-export default function RecordBookItem({recordCategory, recordBookType, latestWeek}) {
+interface RecordBookItemProps {
+    recordCategory: RecordBookRecord;
+    recordBookType: string;
+    latestWeek: number;
+}
+
+export default function RecordBookItem({recordCategory, recordBookType, latestWeek}: RecordBookItemProps) {
     const [open, setOpen] = React.useState(false);
 
     if (recordCategory.records.length <= 0) return (<React.Fragment/>);

@@ -1,3 +1,4 @@
+// @ts-ignore
 import dataHandler from '../../data/data-handler';
 import {Box, Typography} from '@mui/material';
 import HistoryPage, {HistoryPageCard} from '../HistoryPage';
