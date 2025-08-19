@@ -1,5 +1,5 @@
 import Grid from "@mui/material/Grid";
-import ErasCard from "./ErasCard";
+import ErasCard from "@/teams/ErasCard";
 // @ts-ignore
 import dataHandler from "../data/data-handler";
 
