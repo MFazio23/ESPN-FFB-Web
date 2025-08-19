@@ -8,7 +8,7 @@ import {SortableTableHeader, SortableTableRow, SortDirection} from './sortable-t
 interface SortableTableProps {
     tableData: SortableTableRow[];
     headers: SortableTableHeader[];
-    topTitle: string;
+    topTitle?: string;
     cardHeader?: string;
     cardSubheader?: string;
     cardAction?: React.ReactNode;
