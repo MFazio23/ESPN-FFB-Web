@@ -1,5 +1,5 @@
 import * as React from 'react';
-import './App.css';
+import './tailwind.css';
 import {CssBaseline} from "@mui/material";
 import {ThemeProvider} from '@mui/material/styles';
 import AppRouter from './AppRouter';

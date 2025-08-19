@@ -1,5 +1,4 @@
 import * as React from 'react';
-import './App.css';
 import {BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import Links from "./nav/Links";
 import TopAppBar from "./nav/TopAppBar";
