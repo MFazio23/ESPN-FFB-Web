@@ -20,19 +20,23 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader,
 
     const navigate = useNavigate();
 
-    const handleRequestSort = (_, property) => {
+    // @ts-ignore
+    const handleRequestSort = (_, property: string) => {
         const isAsc = orderBy === property && order === 'asc';
         setOrder(isAsc ? 'desc' : 'asc');
         setOrderBy(property)
     }
 
-    const descendingComparator = (a, b, orderBy) => {
-        return (b.find(i => i.id === orderBy)?.value || 0) - (a.find(i => i.id === orderBy)?.value || 0);
+    const descendingComparator = (a: SortableTableItem[], b: SortableTableItem[], orderBy: string) => {
+        const itemAValue = a.find(i => i.id === orderBy)?.value || 0;
+        const itemBValue = b.find(i => i.id === orderBy)?.value || 0;
+
+        return itemAValue > itemBValue ? -1 : 1;
     }
 
     const getComparator = (order: SortDirection, orderBy: string) => order === 'desc'
-        ? (a, b) => descendingComparator(a.tableItems, b.tableItems, orderBy)
-        : (a, b) => -descendingComparator(a.tableItems, b.tableItems, orderBy)
+        ? (a: SortableTableRow, b: SortableTableRow) => descendingComparator(a.tableItems, b.tableItems, orderBy)
+        : (a: SortableTableRow, b: SortableTableRow) => -descendingComparator(a.tableItems, b.tableItems, orderBy)
 
     if (!tableData) return <Box/>
 

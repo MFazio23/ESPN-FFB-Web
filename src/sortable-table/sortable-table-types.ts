@@ -9,6 +9,7 @@ export interface SortableTableItem {
     value: string | number;
     renderFunction?: (cell: SortableTableItem) => string;
     numeric?: boolean;
+    digits?: number;
 }
 
 export interface SortableTableHeader {

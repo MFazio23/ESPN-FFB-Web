@@ -8,10 +8,10 @@ export default function OwnerDetails() {
 
     const {owner, standings, vsTeamRecords} = dataHandler.getOwnerDataById(ownerId)
 
-    if (!owner || !standings) return <Box />
+    if (!owner || !standings) return <Box/>
 
     return <Box>
         <Typography variant="h2" component="h2" align="center">{owner.firstName} {owner.lastName}</Typography>
-        <OwnerVersusTable owner={owner} records={vsTeamRecords} />
+        <OwnerVersusTable owner={owner} records={vsTeamRecords}/>
     </Box>
 }

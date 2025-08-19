@@ -1,6 +1,6 @@
 import * as React from "react";
 import {TableCell, TableHead, TableRow, TableSortLabel} from "@mui/material";
-import {SortableTableHeader} from './sortable-table-types';
+import type {SortableTableHeader} from './sortable-table-types';
 
 interface SortableTableHeadProps {
     headers: SortableTableHeader[];
@@ -10,7 +10,7 @@ interface SortableTableHeadProps {
 }
 
 const SortableTableHead = ({headers, orderBy, sortOrder, onRequestSort}: SortableTableHeadProps) => {
-    const createSortHandler = (property) => (event) => {
+    const createSortHandler = (property: string) => (event: React.MouseEvent<unknown>) => {
         onRequestSort(event, property);
     }
 
