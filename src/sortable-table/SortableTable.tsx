@@ -3,7 +3,7 @@ import {useState} from "react";
 import {Box, Card, CardHeader, Table, TableBody, TableCell, TableContainer, TableRow, Typography} from "@mui/material";
 import SortableTableHead from "./SortableTableHead";
 import {useNavigate} from "react-router-dom";
-import {SortableTableHeader, SortableTableRow, SortDirection} from './sortable-table-types';
+import type {SortableTableHeader, SortableTableItem, SortableTableRow, SortDirection} from './sortable-table-types';
 
 interface SortableTableProps {
     tableData: SortableTableRow[];
@@ -30,18 +30,18 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader,
         return (b.find(i => i.id === orderBy)?.value || 0) - (a.find(i => i.id === orderBy)?.value || 0);
     }
 
-    const getComparator = (order, orderBy) => order === 'desc'
+    const getComparator = (order: SortDirection, orderBy: string) => order === 'desc'
         ? (a, b) => descendingComparator(a.tableItems, b.tableItems, orderBy)
         : (a, b) => -descendingComparator(a.tableItems, b.tableItems, orderBy)
 
     if (!tableData) return <Box/>
 
-    const cellDisplay = (cell) => {
+    const cellDisplay = (cell: SortableTableItem) => {
         if (cell.renderFunction) {
             return cell.renderFunction(cell)
         }
-        return cell.value === 0 || Number(cell.value) ?
-            (cell.value).toFixed(cell.digits || 0) :
+        return Number(cell.value) ?
+            (cell.value as Number).toFixed(cell.digits || 0) :
             cell.value
     }
 
@@ -51,15 +51,15 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader,
             {cardHeader ? <CardHeader title={cardHeader} subheader={cardSubheader} action={cardAction}/> : null}
             <TableContainer sx={{paddingTop: 3}}>
                 <Table sx={{position: 'relative', maxWidth: 1200, margin: '0 auto'}}>
-                    <Box position="absolute" sx={{top: -24, right: 0}}>
-                        {cardAction}
-                    </Box>
                     <SortableTableHead headers={headers} sortOrder={order} orderBy={orderBy}
                                        onRequestSort={handleRequestSort}/>
                     <TableBody>
+                        <Box position="absolute" sx={{top: -24, right: 0}}>
+                            {cardAction}
+                        </Box>
                         {tableData.slice().sort(getComparator(order, orderBy)).map(row => (
 
-                            <TableRow key={row.itemId} onClick={() => navigate(row.itemLink)}
+                            <TableRow key={row.itemId} onClick={() => row.itemLink ? navigate(row.itemLink) : undefined}
                                       className={row.itemLink ? 'clickable-row' : ''}>
                                 {row.tableItems.map((cell, index) => (
                                     <TableCell key={index}
