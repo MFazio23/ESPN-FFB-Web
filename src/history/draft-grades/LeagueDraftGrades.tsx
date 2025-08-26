@@ -5,6 +5,25 @@ import {Box, Link, Typography} from '@mui/material';
 export default function LeagueDraftGrades() {
     const draftGrades: DraftGradesCardProps[] = [
         {
+            id: '2025',
+            year: 2025,
+            grades: [
+                {rank: 1, team: 'Ja’Marr Chase Bank', grade: 'A+'},
+                {rank: 2, team: 'Oh Saquon You See', grade: 'A+'},
+                {rank: 3, team: 'Tucker\'s Team', grade: 'A+'},
+                {rank: 4, team: 'Flo\'Rida Flock', grade: 'A-'},
+                {rank: 5, team: 'Am I Going Over??', grade: 'B+'},
+                {rank: 6, team: 'Bye Week Dominators', grade: 'B+'},
+                {rank: 7, team: 'Placeholder Text', grade: 'B'},
+                {rank: 8, team: 'Uncooked Box', grade: 'B'},
+                {rank: 9, team: 'The Durango Kids', grade: 'C+'},
+                {rank: 10, team: 'Joe Buck Yourself', grade: 'C+'},
+                {rank: 11, team: 'Naptown Goiters', grade: 'D+'},
+                {rank: 12, team: 'Forgot About Dre', grade: 'F'},
+            ],
+        },
+
+        {
             id: '2024',
             year: 2024,
             grades: [
