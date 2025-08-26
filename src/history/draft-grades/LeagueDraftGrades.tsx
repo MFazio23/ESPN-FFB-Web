@@ -5,24 +5,23 @@ import {Box, Link, Typography} from '@mui/material';
 export default function LeagueDraftGrades() {
     const draftGrades: DraftGradesCardProps[] = [
         {
-            id: '2025',
-            year: 2025,
+            id: '2023',
+            year: 2023,
             grades: [
                 {rank: 1, team: 'Ja’Marr Chase Bank', grade: 'A+'},
-                {rank: 2, team: 'Oh Saquon You See', grade: 'A+'},
-                {rank: 3, team: 'Tucker\'s Team', grade: 'A+'},
-                {rank: 4, team: 'Flo\'Rida Flock', grade: 'A-'},
-                {rank: 5, team: 'Am I Going Over??', grade: 'B+'},
-                {rank: 6, team: 'Bye Week Dominators', grade: 'B+'},
-                {rank: 7, team: 'Placeholder Text', grade: 'B'},
-                {rank: 8, team: 'Uncooked Box', grade: 'B'},
-                {rank: 9, team: 'The Durango Kids', grade: 'C+'},
-                {rank: 10, team: 'Joe Buck Yourself', grade: 'C+'},
-                {rank: 11, team: 'Naptown Goiters', grade: 'D+'},
-                {rank: 12, team: 'Forgot About Dre', grade: 'F'},
-            ],
+                {rank: 2, team: 'The Durango Kids', grade: 'A+'},
+                {rank: 3, team: 'Uncooked Box', grade: 'A'},
+                {rank: 4, team: 'Am I Going Over??', grade: 'A'},
+                {rank: 5, team: 'Bye Week Dominators', grade: 'A-'},
+                {rank: 6, team: 'Oh Saquon You See', grade: 'A-'},
+                {rank: 7, team: 'Naptown Goiters', grade: 'B'},
+                {rank: 8, team: 'Forgot About Dre', grade: 'B-'},
+                {rank: 9, team: 'Joe Buck Yourself', grade: 'B-'},
+                {rank: 10, team: 'Tucker\'s Team', grade: 'C+'},
+                {rank: 11, team: 'Manning The Bay', grade: 'C'},
+                {rank: 12, team: 'The Jalapeños', grade: 'F'}
+            ]
         },
-
         {
             id: '2024',
             year: 2024,
@@ -42,23 +41,23 @@ export default function LeagueDraftGrades() {
             ],
         },
         {
-            id: '2023',
-            year: 2023,
+            id: '2025',
+            year: 2025,
             grades: [
                 {rank: 1, team: 'Ja’Marr Chase Bank', grade: 'A+'},
-                {rank: 2, team: 'The Durango Kids', grade: 'A+'},
-                {rank: 3, team: 'Uncooked Box', grade: 'A'},
-                {rank: 4, team: 'Am I Going Over??', grade: 'A'},
-                {rank: 5, team: 'Bye Week Dominators', grade: 'A-'},
-                {rank: 6, team: 'Oh Saquon You See', grade: 'A-'},
-                {rank: 7, team: 'Naptown Goiters', grade: 'B'},
-                {rank: 8, team: 'Forgot About Dre', grade: 'B-'},
-                {rank: 9, team: 'Joe Buck Yourself', grade: 'B-'},
-                {rank: 10, team: 'Tucker\'s Team', grade: 'C+'},
-                {rank: 11, team: 'Manning The Bay', grade: 'C'},
-                {rank: 12, team: 'The Jalapeños', grade: 'F'}
-            ]
-        }
+                {rank: 2, team: 'Oh Saquon You See', grade: 'A+'},
+                {rank: 3, team: 'Tucker\'s Team', grade: 'A+'},
+                {rank: 4, team: 'Flo\'Rida Flock', grade: 'A-'},
+                {rank: 5, team: 'Am I Going Over??', grade: 'B+'},
+                {rank: 6, team: 'Bye Week Dominators', grade: 'B+'},
+                {rank: 7, team: 'Placeholder Text', grade: 'B'},
+                {rank: 8, team: 'Uncooked Box', grade: 'B'},
+                {rank: 9, team: 'The Durango Kids', grade: 'C+'},
+                {rank: 10, team: 'Joe Buck Yourself', grade: 'C+'},
+                {rank: 11, team: 'Naptown Goiters', grade: 'D+'},
+                {rank: 12, team: 'Forgot About Dre', grade: 'F'},
+            ],
+        },
     ];
     const vbdLink = <Link href="https://www.fantasypros.com/nfl/rankings/ppr-vbd.php" underline={'none'}>
         Value-Based drafting scores
