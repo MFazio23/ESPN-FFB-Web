@@ -4,6 +4,7 @@ import dataHandler from '../../data/data-handler';
 import LineChartCard, {LineChartAxisDataType} from '../../general/LineChartCard';
 import yearlyMemberWinsData from '../../data/files/charts/yearly-member-wins.json'
 import yearlyMemberStandingsData from '../../data/files/charts/yearly-member-standing.json'
+import yearlyMemberPointsData from '../../data/files/charts/yearly-member-points.json'
 import Grid from '@mui/material/Grid';
 import OwnerVersusTable from '../OwnerVersusTable.jsx';
 
@@ -17,6 +18,9 @@ export default function OwnerDetails() {
 
     const yearlyStandingData = yearlyMemberStandingsData
         .find(entry => entry.chartId === `yearly-member-standing-${ownerId}`)
+
+    const yearlyPointsData = yearlyMemberPointsData
+        .find(entry => entry.chartId === `yearly-member-points-${ownerId}`)
 
     if (!owner || !standings || !yearlyWinsData) return <Box/>
 
@@ -37,6 +41,14 @@ export default function OwnerDetails() {
                                seriesData={yearlyStandingData?.seriesData}
                                xAxis={yearlyStandingData?.xAxis}
                                yAxis={yearlyStandingData?.yAxis}
+                               xAxisDataType={LineChartAxisDataType.string}/>
+            </Grid>
+            <Grid>
+                <LineChartCard title="Points by year" height={250} width={500}
+                               dataset={yearlyPointsData.dataset}
+                               seriesData={yearlyPointsData?.seriesData}
+                               xAxis={yearlyPointsData?.xAxis}
+                               yAxis={yearlyPointsData?.yAxis}
                                xAxisDataType={LineChartAxisDataType.string}/>
             </Grid>
         </Grid>
