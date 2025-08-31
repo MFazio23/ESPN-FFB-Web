@@ -1,5 +1,16 @@
 import {Card, CardContent, CardHeader, useTheme} from '@mui/material';
-import {LineChart} from '@mui/x-charts';
+import {
+    ChartDataProvider,
+    ChartsAxisHighlight,
+    ChartsLegend,
+    ChartsReferenceLine,
+    ChartsSurface,
+    ChartsTooltip,
+    ChartsXAxis,
+    ChartsYAxis,
+    LinePlot,
+    MarkPlot
+} from '@mui/x-charts';
 
 interface AxisProps {
     dataKey: string;
@@ -85,24 +96,32 @@ export default function LineChartCard(
         <Card sx={{width: width, p: 0, m: 0, maxWidth: '100vw'}}>
             <CardHeader title={title} subheader={subtitle}/>
             {/*Add negative margin since there's normally a lot of space on a chart*/}
-            <CardContent sx={{mx: -5, my: -2, width, maxWidth: '100%'}}>
-                <LineChart
-
-                    height={height}
-                    sx={{
-                        mr: -5,
-                    }}
+            <CardContent sx={{mx: -4, my: -2, width, maxWidth: '100%'}}>
+                <ChartDataProvider
                     // @ts-ignore
-                    dataset={dataset}
                     xAxis={[xAxisSettings]}
                     yAxis={[yAxisSettings]}
-                    // @ts-ignore
                     series={seriesData.map((series, index) => ({
                         ...series,
                         color: colorList[index % colorList.length],
+                        type: 'line'
                     }))}
+                    // @ts-ignore
+                    dataset={dataset}>
+                    <ChartsLegend direction="horizontal" sx={{justifyContent: 'center'}}/>
+                    <ChartsSurface
+                        sx={{width, height}}>
+                        <LinePlot/>
+                        <MarkPlot/>
+                        <ChartsReferenceLine y={100} lineStyle={{stroke: 'white'}}/>
+                        <ChartsXAxis/>
+                        <ChartsYAxis/>
+                        <ChartsTooltip/>
+                        <ChartsAxisHighlight x={'line'}/>
 
-                />
+                    </ChartsSurface>
+                </ChartDataProvider>
+
             </CardContent>
         </Card>
     );
