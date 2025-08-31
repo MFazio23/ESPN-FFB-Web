@@ -61,7 +61,11 @@ export default function OwnerDetails() {
                                seriesData={yearlyPointsPlusData?.seriesData}
                                xAxis={yearlyPointsPlusData?.xAxis}
                                yAxis={yearlyPointsPlusData?.yAxis}
-                               xAxisDataType={LineChartAxisDataType.string}/>
+                               xAxisDataType={LineChartAxisDataType.string}
+                               referenceLines={[{
+                                   y: 100,
+                                   color: 'white'
+                               }]}/>
             </Grid>
         </Grid>
         <OwnerVersusTable owner={owner} records={vsTeamRecords}/>

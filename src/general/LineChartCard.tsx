@@ -38,11 +38,19 @@ interface LineChartCardProps {
     yAxis: AxisProps;
     xAxisDataType?: LineChartAxisDataType;
     yAxisDataType?: LineChartAxisDataType;
+    referenceLines?: LineChartReferenceLineProps[];
 }
 
 export enum LineChartAxisDataType {
     number = 'number',
     string = 'string',
+}
+
+interface LineChartReferenceLineProps {
+    x?: number;
+    y?: number;
+    label?: string;
+    color?: string;
 }
 
 export default function LineChartCard(
@@ -57,6 +65,7 @@ export default function LineChartCard(
         yAxis,
         xAxisDataType = LineChartAxisDataType.number,
         yAxisDataType = LineChartAxisDataType.number,
+        referenceLines,
     }: LineChartCardProps
 ) {
     const theme = useTheme();
@@ -113,7 +122,16 @@ export default function LineChartCard(
                         sx={{width, height}}>
                         <LinePlot/>
                         <MarkPlot/>
-                        <ChartsReferenceLine y={100} lineStyle={{stroke: 'white'}}/>
+                        {referenceLines?.map((item, index) => (
+                            item.x !== undefined ?
+                                <ChartsReferenceLine key={`${index}-x`} x={item.x} label={item.label}
+                                                     lineStyle={{stroke: item.color}}/> : null
+                        ))}
+                        {referenceLines?.map((item, index) => (
+                            item.y !== undefined ?
+                                <ChartsReferenceLine key={`${index}-y`} y={item.y} label={item.label}
+                                                     lineStyle={{stroke: item.color}}/> : null
+                        ))}
                         <ChartsXAxis/>
                         <ChartsYAxis/>
                         <ChartsTooltip/>
