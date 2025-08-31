@@ -50,7 +50,7 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader,
     }
 
     return (
-        <Card sx={{mb: 8, pb: 3}}>
+        <Card sx={{mb: 8, pb: 3, maxWidth: '100vw'}}>
             {topTitle && <Typography variant="h2" component="h2" align="center">{topTitle}</Typography>}
             {cardHeader ? <CardHeader title={cardHeader} subheader={cardSubheader} action={cardAction}/> : null}
             <TableContainer sx={{paddingTop: 3}}>
