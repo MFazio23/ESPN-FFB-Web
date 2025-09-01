@@ -1,5 +1,5 @@
-import {Box, Typography} from "@mui/material";
-import {useParams} from "react-router-dom"
+import {Box, Button, Typography} from "@mui/material";
+import {Link, useParams} from "react-router-dom"
 import dataHandler from '../../data/data-handler';
 import yearlyMemberWinsData from '../../data/files/charts/yearly-member-wins.json'
 import yearlyMemberStandingsData from '../../data/files/charts/yearly-member-standing.json'
@@ -10,6 +10,7 @@ import Grid from '@mui/material/Grid';
 import OwnerVersusTable from '../OwnerVersusTable.jsx';
 import LineChartCard from '../../charts/LineChartCard.js';
 import {LineChartAxisDataType} from '../../charts/FFBLineChartTypes';
+import Links from '../../nav/Links.js';
 
 const positionalPointsColorList = [
     '#1D7226',
@@ -20,7 +21,9 @@ const positionalPointsColorList = [
 ];
 
 export default function OwnerDetails() {
-    const {ownerId} = useParams();
+    const {ownerId: startingOwnerId} = useParams();
+
+    const ownerId = dataHandler.getOwnerIdFromAlias(startingOwnerId);
 
     const {owner, standings, vsTeamRecords} = dataHandler.getOwnerDataById(ownerId)
 
@@ -39,7 +42,25 @@ export default function OwnerDetails() {
     const yearlyPositionalPointsData = yearlyMemberPositionalPointsData
         .find(entry => entry.chartId === `yearly-positional-points-${ownerId}`)
 
-    if (!owner || !standings) return <Box/>
+    if (!owner || !standings) return (
+        <Box display="flex" flexDirection="column" alignItems="center" maxWidth="100vw">
+            <Typography variant="h2" component="h2" align="center">Owner not found!</Typography>
+            <Typography variant="body1" component="p">Sorry, we couldn't find an owner/member with that ID. Please try
+                again.</Typography>
+            <Grid container>
+                <Grid>
+                    <Button sx={{margin: '1em', width: 'fit-content'}} component={Link} to={Links.owners}>
+                        Back to owners
+                    </Button>
+                </Grid>
+                <Grid>
+                    <Button sx={{margin: '1em', width: 'fit-content'}} component={Link} to={Links.home}>
+                        Back to league home
+                    </Button>
+                </Grid>
+            </Grid>
+        </Box>
+    )
 
     return <Box display="flex" flexDirection="column" alignItems="center" maxWidth="100vw">
         <Typography variant="h2" component="h2" align="center">{owner.firstName} {owner.lastName}</Typography>
