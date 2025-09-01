@@ -1,5 +1,29 @@
 [
   {
+    "id": "2025-Collin-Fazio",
+    "year": 2025,
+    "firstOwner": "Collin Schindler",
+    "firstTeam": "Waterboys Win Championships",
+    "firstTeamPlayers": [
+      {
+        "name": "Jalen Hurts",
+        "team": "PHI"
+      }
+    ],
+    "secondOwner": "Michael Fazio",
+    "secondTeam": "Am I Going Over?",
+    "secondTeamPlayers": [
+      {
+        "name": "Brock Purdy",
+        "team": "SF"
+      },
+      {
+        "name": "Cooper Kupp",
+        "team": "SEA"
+      }
+    ]
+  },
+  {
     "id": "2023-Pelc-Fazio",
     "year": 2023,
     "firstOwner": "Ben Pelc",
