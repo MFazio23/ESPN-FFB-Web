@@ -1,4 +1,4 @@
-import {Box, Button, Typography} from "@mui/material";
+import {Box, Button, Typography, useMediaQuery, useTheme} from "@mui/material";
 import {Link, useParams} from "react-router-dom"
 import dataHandler from '../../data/data-handler';
 import yearlyMemberWinsData from '../../data/files/charts/yearly-member-wins.json'
@@ -7,10 +7,11 @@ import yearlyMemberPointsData from '../../data/files/charts/yearly-member-points
 import yearlyMemberPointsPlusData from '../../data/files/charts/yearly-member-points-plus.json'
 import yearlyMemberPositionalPointsData from '../../data/files/charts/yearly-positional-points.json'
 import Grid from '@mui/material/Grid';
-import OwnerVersusTable from '../OwnerVersusTable.jsx';
-import LineChartCard from '../../charts/LineChartCard.js';
+import OwnerVersusTable from '../OwnerVersusTable';
+import LineChartCard from '../../charts/LineChartCard';
 import {LineChartAxisDataType} from '../../charts/FFBLineChartTypes';
-import Links from '../../nav/Links.js';
+import Links from '../../nav/Links';
+import OwnerSummaryCard from './OwnerSummaryCard';
 
 const positionalPointsColorList = [
     '#1D7226',
@@ -21,6 +22,9 @@ const positionalPointsColorList = [
 ];
 
 export default function OwnerDetails() {
+    const theme = useTheme();
+    const isSmall = useMediaQuery(theme.breakpoints.down('sm'));
+
     const {ownerId: startingOwnerId} = useParams();
 
     const ownerId = dataHandler.getOwnerIdFromAlias(startingOwnerId);
@@ -62,11 +66,15 @@ export default function OwnerDetails() {
         </Box>
     )
 
+    const cardWidth = isSmall ? 400 : 500;
+
     return <Box display="flex" flexDirection="column" alignItems="center" maxWidth="100vw">
-        <Typography variant="h2" component="h2" align="center">{owner.firstName} {owner.lastName}</Typography>
+        <Typography variant="h2" component="h2"
+                    align="center">{owner.firstName} {owner.lastName}</Typography>
         <Grid container my={2} spacing={2} justifyContent="center">
+            <OwnerSummaryCard width={cardWidth} owner={owner} standings={standings}/>
             {yearlyWinsData && <Grid>
-                <LineChartCard title="Wins by year" subtitle="Regular season and playoffs" width={500}
+                <LineChartCard title="Wins by year" subtitle="Regular season and playoffs" width={cardWidth}
                                dataset={yearlyWinsData.dataset}
                                seriesData={yearlyWinsData.seriesData}
                                xAxis={yearlyWinsData.xAxis}
@@ -74,7 +82,7 @@ export default function OwnerDetails() {
                                xAxisDataType={LineChartAxisDataType.string}/>
             </Grid>}
             {yearlyStandingData && <Grid>
-                <LineChartCard title="Standing by year" subtitle="Final standing after playoffs" width={500}
+                <LineChartCard title="Standing by year" subtitle="Final standing after playoffs" width={cardWidth}
                                dataset={yearlyStandingData.dataset}
                                seriesData={yearlyStandingData.seriesData}
                                xAxis={yearlyStandingData.xAxis}
@@ -82,7 +90,7 @@ export default function OwnerDetails() {
                                xAxisDataType={LineChartAxisDataType.string}/>
             </Grid>}
             {yearlyPointsData && <Grid>
-                <LineChartCard title="Points by year" subtitle="Points scored and allowed" width={500}
+                <LineChartCard title="Points by year" subtitle="Points scored and allowed" width={cardWidth}
                                dataset={yearlyPointsData.dataset}
                                seriesData={yearlyPointsData.seriesData}
                                xAxis={yearlyPointsData.xAxis}
@@ -90,7 +98,7 @@ export default function OwnerDetails() {
                                xAxisDataType={LineChartAxisDataType.string}/>
             </Grid>}
             {yearlyPointsPlusData && <Grid>
-                <LineChartCard title="Points+ by year" subtitle="100 is league average" width={500}
+                <LineChartCard title="Points+ by year" subtitle="100 is league average" width={cardWidth}
                                dataset={yearlyPointsPlusData.dataset}
                                seriesData={yearlyPointsPlusData.seriesData}
                                xAxis={yearlyPointsPlusData.xAxis}
@@ -102,7 +110,8 @@ export default function OwnerDetails() {
                                }]}/>
             </Grid>}
             {yearlyPositionalPointsData && <Grid>
-                <LineChartCard title="Points by position" subtitle="Modern seasons only (2019 and later)" width={500}
+                <LineChartCard title="Points by position" subtitle="Modern seasons only (2019 and later)"
+                               width={cardWidth}
                                dataset={yearlyPositionalPointsData.dataset}
                                seriesData={yearlyPositionalPointsData.seriesData}
                                colorList={positionalPointsColorList}

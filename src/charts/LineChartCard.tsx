@@ -76,7 +76,7 @@ export default function LineChartCard(
     }
 
     return (
-        <Card sx={{width: width, p: 0, m: 0, maxWidth: '100vw'}}>
+        <Card sx={{width, p: 0, m: 0, maxWidth: '100vw'}}>
             <CardHeader title={title} subheader={subtitle}/>
             {/*Add negative margin since there's normally a lot of space on a chart*/}
             <CardContent sx={{mx: -4, my: -2, width, maxWidth: '100%'}}>

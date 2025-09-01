@@ -48,12 +48,11 @@ export default function ErasCard({summary, cardLink}: ErasCardProps) {
                 </Box>
             </Box>
 
-            <Box mt={3}>
-                {(eras ?
-                        eras.map(era => <ErasCardRow key={`${era.title}-${era.startYear}-${era.endYear}`} era={era}/>) :
-                        <Box/>
-                )}
-            </Box>
+            {eras ? <Box mt={3}>
+                {
+                    eras.map(era => <ErasCardRow key={`${era.title}-${era.startYear}-${era.endYear}`} era={era}/>)
+                }
+            </Box> : null}
 
         </CardContent>
     </Card>
