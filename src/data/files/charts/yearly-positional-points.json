@@ -1,1 +1,1590 @@
-[{"type":"Line","chartId":"yearly-positional-points-2569536C-A58F-4E7C-801F-F06DF3BE2A73","dataset":[{"year":2019,"totalPoints":2106.5200000000004,"QB":398.58000000000004,"RB":443.8,"WR":719.4399999999999,"TE":164.00000000000003,"K":217.0,"DEF":163.70000000000005},{"year":2020,"totalPoints":2643.54,"QB":529.88,"RB":529.1,"WR":1040.44,"TE":136.20000000000002,"K":224.0,"DEF":183.92000000000002},{"year":2021,"totalPoints":2696.6,"QB":508.15999999999997,"RB":390.79999999999995,"WR":1153.04,"TE":142.6,"K":217.0,"DEF":285.0},{"year":2022,"totalPoints":2436.44,"QB":461.12,"RB":568.6,"WR":862.4,"TE":127.0,"K":222.0,"DEF":195.31999999999996},{"year":2023,"totalPoints":2776.98,"QB":427.82000000000005,"RB":635.8399999999999,"WR":1175.7600000000002,"TE":107.92,"K":233.0,"DEF":196.64},{"year":2024,"totalPoints":2663.08,"QB":421.71999999999997,"RB":832.1600000000001,"WR":724.8399999999999,"TE":255.8,"K":212.5,"DEF":216.06}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-6BB7653E-8BC9-40F9-952A-33DD089B251C","dataset":[{"year":2019,"totalPoints":2473.06,"QB":374.68,"RB":710.1,"WR":726.24,"TE":223.3,"K":218.0,"DEF":220.74000000000004},{"year":2020,"totalPoints":2250.2799999999997,"QB":374.48,"RB":703.2199999999999,"WR":485.26,"TE":235.60000000000002,"K":235.0,"DEF":216.72},{"year":2021,"totalPoints":2521.4399999999996,"QB":490.5999999999999,"RB":757.0600000000001,"WR":664.94,"TE":170.6,"K":184.0,"DEF":254.23999999999998},{"year":2022,"totalPoints":2258.68,"QB":345.56,"RB":662.7,"WR":661.04,"TE":176.6,"K":203.0,"DEF":209.78},{"year":2023,"totalPoints":2568.18,"QB":370.97999999999996,"RB":480.3,"WR":1029.9799999999998,"TE":147.49999999999997,"K":267.0,"DEF":272.41999999999996},{"year":2024,"totalPoints":2500.04,"QB":336.0,"RB":626.7,"WR":774.12,"TE":289.6,"K":260.5,"DEF":213.12000000000006}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-8C3CB4F9-57AD-499A-85B8-D9AEB5A87256","dataset":[{"year":2019,"totalPoints":2381.66,"QB":354.3,"RB":645.34,"WR":690.3,"TE":180.5,"K":260.0,"DEF":251.22},{"year":2020,"totalPoints":2385.2999999999997,"QB":408.53999999999996,"RB":646.0000000000001,"WR":552.4000000000002,"TE":306.3,"K":233.0,"DEF":239.06000000000003},{"year":2021,"totalPoints":1865.42,"QB":275.58000000000004,"RB":552.58,"WR":499.2,"TE":139.30000000000004,"K":196.0,"DEF":202.76},{"year":2022,"totalPoints":2101.0799999999995,"QB":436.92,"RB":420.9999999999999,"WR":688.3999999999999,"TE":91.80000000000001,"K":218.0,"DEF":244.96},{"year":2023,"totalPoints":2207.42,"QB":317.85999999999996,"RB":359.5,"WR":819.2,"TE":224.00000000000003,"K":220.0,"DEF":266.86},{"year":2024,"totalPoints":2642.5600000000004,"QB":488.84,"RB":467.86,"WR":928.5,"TE":267.7,"K":236.70000000000005,"DEF":252.96}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-A24CE5EF-0E09-49AB-94D2-19EC1663B700","dataset":[{"year":2019,"totalPoints":2497.1400000000003,"QB":342.72,"RB":812.7,"WR":771.0000000000001,"TE":170.3,"K":223.0,"DEF":177.41999999999996},{"year":2020,"totalPoints":2622.5,"QB":489.94,"RB":617.8,"WR":901.9000000000001,"TE":149.9,"K":243.0,"DEF":219.96},{"year":2021,"totalPoints":2739.1,"QB":421.24,"RB":782.04,"WR":905.44,"TE":163.19999999999996,"K":218.0,"DEF":249.18},{"year":2022,"totalPoints":2772.4,"QB":497.1599999999999,"RB":770.96,"WR":887.7800000000002,"TE":165.5,"K":208.0,"DEF":242.99999999999997},{"year":2023,"totalPoints":2323.36,"QB":432.8999999999999,"RB":572.0,"WR":666.8000000000001,"TE":222.9,"K":179.0,"DEF":249.76000000000002},{"year":2024,"totalPoints":2666.78,"QB":387.94,"RB":658.5000000000001,"WR":875.1000000000003,"TE":185.20000000000002,"K":266.4,"DEF":293.64}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-AD6BDCCF-B64B-4BA6-8F45-D11A9617659E","dataset":[{"year":2019,"totalPoints":2531.4199999999996,"QB":338.53999999999996,"RB":541.5000000000001,"WR":971.5999999999999,"TE":267.09999999999997,"K":213.0,"DEF":199.68000000000004},{"year":2020,"totalPoints":2815.1,"QB":469.15999999999997,"RB":423.8,"WR":1120.74,"TE":412.96000000000004,"K":200.0,"DEF":188.44},{"year":2021,"totalPoints":2825.7799999999997,"QB":426.40000000000003,"RB":618.32,"WR":1077.3,"TE":288.79999999999995,"K":216.0,"DEF":198.96},{"year":2022,"totalPoints":2760.42,"QB":331.32,"RB":542.4,"WR":1019.4000000000001,"TE":398.7,"K":206.0,"DEF":262.6},{"year":2023,"totalPoints":2563.22,"QB":390.79999999999995,"RB":639.9999999999999,"WR":775.0,"TE":251.10000000000002,"K":263.0,"DEF":243.32},{"year":2024,"totalPoints":2761.74,"QB":428.32,"RB":653.44,"WR":970.2400000000001,"TE":235.6,"K":225.5,"DEF":248.64}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-CBC901C7-2511-49DD-A053-5F6E22C32329","dataset":[{"year":2019,"totalPoints":2582.6000000000004,"QB":302.12,"RB":899.1999999999999,"WR":739.16,"TE":232.3,"K":178.0,"DEF":231.82000000000002},{"year":2020,"totalPoints":2399.1000000000004,"QB":456.96,"RB":619.2,"WR":808.04,"TE":153.1,"K":209.0,"DEF":152.80000000000004},{"year":2021,"totalPoints":2599.7,"QB":435.6,"RB":556.6999999999999,"WR":963.74,"TE":197.70000000000002,"K":239.0,"DEF":206.96},{"year":2022,"totalPoints":2504.0399999999995,"QB":327.05999999999995,"RB":834.96,"WR":724.74,"TE":154.1,"K":229.0,"DEF":234.18},{"year":2023,"totalPoints":2711.16,"QB":355.61999999999995,"RB":791.4999999999999,"WR":931.14,"TE":185.4,"K":198.0,"DEF":249.49999999999997},{"year":2024,"totalPoints":2295.8,"QB":328.32,"RB":712.6800000000001,"WR":696.5000000000001,"TE":171.8,"K":152.09999999999997,"DEF":234.4}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-DB2F4DE4-A627-4203-9CBC-5016EC30C3FC","dataset":[{"year":2019,"totalPoints":2435.2999999999997,"QB":517.68,"RB":489.4,"WR":847.3199999999998,"TE":120.0,"K":161.0,"DEF":299.90000000000003},{"year":2020,"totalPoints":2259.84,"QB":391.94,"RB":347.78000000000003,"WR":953.3200000000002,"TE":120.6,"K":193.0,"DEF":253.20000000000002},{"year":2021,"totalPoints":2173.2400000000002,"QB":246.88,"RB":561.4200000000001,"WR":804.2800000000001,"TE":159.6,"K":215.0,"DEF":186.06000000000006},{"year":2022,"totalPoints":2428.4600000000005,"QB":353.44,"RB":395.1600000000001,"WR":1136.6600000000003,"TE":93.70000000000002,"K":198.0,"DEF":251.5}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-F1509406-592B-43AF-A6E8-0F6BFB5638E7","dataset":[{"year":2019,"totalPoints":2546.64,"QB":415.92,"RB":788.46,"WR":738.0600000000001,"TE":119.1,"K":261.0,"DEF":224.1},{"year":2020,"totalPoints":2128.38,"QB":346.76000000000005,"RB":395.9999999999999,"WR":664.7,"TE":310.29999999999995,"K":235.0,"DEF":175.62},{"year":2021,"totalPoints":2861.8800000000006,"QB":397.70000000000005,"RB":1036.6000000000001,"WR":618.3600000000001,"TE":352.3000000000001,"K":236.0,"DEF":220.92},{"year":2022,"totalPoints":2487.7,"QB":325.14000000000004,"RB":786.4,"WR":669.08,"TE":226.00000000000003,"K":222.0,"DEF":259.08},{"year":2023,"totalPoints":2195.68,"QB":357.54,"RB":554.0999999999999,"WR":557.58,"TE":170.29999999999998,"K":265.0,"DEF":291.15999999999997},{"year":2024,"totalPoints":2468.96,"QB":308.72,"RB":664.7,"WR":771.6999999999999,"TE":243.49999999999994,"K":259.8,"DEF":220.54000000000002}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-C117D3A8-0CA0-4D96-AA00-DE4004A13A13","dataset":[{"year":2019,"totalPoints":2630.2800000000007,"QB":297.88,"RB":567.9000000000001,"WR":1113.8000000000002,"TE":266.40000000000003,"K":187.0,"DEF":197.3},{"year":2020,"totalPoints":2364.1,"QB":393.08,"RB":475.62,"WR":936.7000000000002,"TE":115.60000000000002,"K":212.0,"DEF":231.10000000000002},{"year":2021,"totalPoints":2381.8199999999997,"QB":390.21999999999997,"RB":488.04,"WR":750.14,"TE":320.3,"K":212.0,"DEF":221.12},{"year":2022,"totalPoints":2280.76,"QB":384.3,"RB":449.52,"WR":711.5800000000002,"TE":250.50000000000003,"K":191.0,"DEF":293.86},{"year":2023,"totalPoints":2350.7200000000003,"QB":262.08000000000004,"RB":473.40000000000003,"WR":951.0600000000003,"TE":216.60000000000002,"K":257.0,"DEF":190.57999999999998},{"year":2024,"totalPoints":2564.88,"QB":337.14,"RB":838.6999999999999,"WR":688.6,"TE":179.60000000000005,"K":245.1,"DEF":275.74}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB","dataset":[{"year":2019,"totalPoints":2273.1800000000003,"QB":401.0400000000001,"RB":647.72,"WR":584.3,"TE":248.5,"K":186.0,"DEF":205.62},{"year":2020,"totalPoints":1922.3599999999997,"QB":394.91999999999996,"RB":631.22,"WR":432.5799999999999,"TE":154.6,"K":173.0,"DEF":136.04000000000002},{"year":2021,"totalPoints":2416.2999999999997,"QB":393.12,"RB":657.2199999999999,"WR":787.2400000000001,"TE":154.1,"K":190.0,"DEF":234.62},{"year":2022,"totalPoints":2238.64,"QB":349.2200000000001,"RB":551.26,"WR":568.1199999999999,"TE":273.3,"K":209.0,"DEF":287.74},{"year":2023,"totalPoints":2208.04,"QB":331.5799999999999,"RB":645.9800000000001,"WR":553.6199999999999,"TE":252.7,"K":176.0,"DEF":248.16000000000003},{"year":2024,"totalPoints":2412.76,"QB":507.42,"RB":543.52,"WR":697.5200000000002,"TE":142.00000000000003,"K":292.9,"DEF":229.4}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-A88DD146-6C4F-4BF8-B4F0-695BDCDC7347","dataset":[{"year":2019,"totalPoints":2321.36,"QB":428.12000000000006,"RB":362.5,"WR":880.6599999999999,"TE":138.70000000000002,"K":258.0,"DEF":253.38},{"year":2020,"totalPoints":2489.44,"QB":514.38,"RB":593.6799999999998,"WR":861.84,"TE":108.9,"K":216.0,"DEF":194.64},{"year":2021,"totalPoints":2539.1600000000003,"QB":446.64000000000004,"RB":584.2,"WR":768.3199999999999,"TE":223.70000000000002,"K":243.0,"DEF":273.3},{"year":2022,"totalPoints":2485.3799999999997,"QB":551.4599999999999,"RB":574.88,"WR":760.4799999999998,"TE":191.16000000000003,"K":215.0,"DEF":192.4},{"year":2023,"totalPoints":2308.22,"QB":370.81999999999994,"RB":605.22,"WR":722.28,"TE":179.0,"K":191.0,"DEF":239.89999999999998}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-FAA9326C-D141-4711-A932-6CD1413711B9","dataset":[{"year":2019,"totalPoints":2017.56,"QB":367.53999999999996,"RB":503.9800000000001,"WR":549.52,"TE":224.99999999999997,"K":175.0,"DEF":196.52},{"year":2020,"totalPoints":2258.38,"QB":415.05999999999995,"RB":533.8,"WR":748.2600000000001,"TE":174.3,"K":223.0,"DEF":163.95999999999998},{"year":2021,"totalPoints":2463.2,"QB":491.35999999999996,"RB":697.6999999999998,"WR":679.6,"TE":178.20000000000005,"K":203.0,"DEF":213.34},{"year":2022,"totalPoints":2503.9,"QB":287.91999999999996,"RB":812.4,"WR":814.2,"TE":172.3,"K":208.0,"DEF":209.08},{"year":2023,"totalPoints":2749.8599999999997,"QB":360.24000000000007,"RB":639.3600000000001,"WR":1080.3200000000002,"TE":235.70000000000002,"K":216.0,"DEF":218.24},{"year":2024,"totalPoints":2717.64,"QB":357.76,"RB":618.72,"WR":1031.08,"TE":208.1,"K":235.6,"DEF":266.38000000000005}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-0852AF46-6C26-4040-92AF-466C26C040F9","dataset":[{"year":2023,"totalPoints":2816.84,"QB":461.4200000000001,"RB":646.4,"WR":1008.86,"TE":221.1,"K":221.0,"DEF":258.05999999999995},{"year":2024,"totalPoints":2487.88,"QB":473.26000000000005,"RB":426.65999999999997,"WR":994.1600000000001,"TE":113.40000000000002,"K":250.4,"DEF":229.99999999999994}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}},{"type":"Line","chartId":"yearly-positional-points-99BCAACF-9EA7-458D-9FA2-634E5F4E48DE","dataset":[{"year":2024,"totalPoints":2539.56,"QB":401.44000000000005,"RB":433.38,"WR":998.26,"TE":143.47999999999996,"K":293.19999999999993,"DEF":269.8}],"seriesData":[{"dataKey":"QB","label":"QB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"RB","label":"RB","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"WR","label":"WR","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"TE","label":"TE","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"K","label":"K","stack":"totalPoints","area":true,"showMark":false},{"dataKey":"DEF","label":"DEF","stack":"totalPoints","area":true,"showMark":false}],"xAxis":{"dataKey":"year","min":2019.0,"max":2024.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"min":0.0,"max":2861.8800000000006,"reverse":false}}]
+[
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-2569536C-A58F-4E7C-801F-F06DF3BE2A73",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2106.5200000000004,
+        "QB": 398.58000000000004,
+        "RB": 443.8,
+        "WR": 719.4399999999999,
+        "TE": 164.00000000000003,
+        "K": 217.0,
+        "DEF": 163.70000000000005
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2643.54,
+        "QB": 529.88,
+        "RB": 529.1,
+        "WR": 1040.44,
+        "TE": 136.20000000000002,
+        "K": 224.0,
+        "DEF": 183.92000000000002
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2696.6,
+        "QB": 508.15999999999997,
+        "RB": 390.79999999999995,
+        "WR": 1153.04,
+        "TE": 142.6,
+        "K": 217.0,
+        "DEF": 285.0
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2436.44,
+        "QB": 461.12,
+        "RB": 568.6,
+        "WR": 862.4,
+        "TE": 127.0,
+        "K": 222.0,
+        "DEF": 195.31999999999996
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2776.98,
+        "QB": 427.82000000000005,
+        "RB": 635.8399999999999,
+        "WR": 1175.7600000000002,
+        "TE": 107.92,
+        "K": 233.0,
+        "DEF": 196.64
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2663.08,
+        "QB": 421.71999999999997,
+        "RB": 832.1600000000001,
+        "WR": 724.8399999999999,
+        "TE": 255.8,
+        "K": 212.5,
+        "DEF": 216.06
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-6BB7653E-8BC9-40F9-952A-33DD089B251C",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2473.06,
+        "QB": 374.68,
+        "RB": 710.1,
+        "WR": 726.24,
+        "TE": 223.3,
+        "K": 218.0,
+        "DEF": 220.74000000000004
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2250.2799999999997,
+        "QB": 374.48,
+        "RB": 703.2199999999999,
+        "WR": 485.26,
+        "TE": 235.60000000000002,
+        "K": 235.0,
+        "DEF": 216.72
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2521.4399999999996,
+        "QB": 490.5999999999999,
+        "RB": 757.0600000000001,
+        "WR": 664.94,
+        "TE": 170.6,
+        "K": 184.0,
+        "DEF": 254.23999999999998
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2258.68,
+        "QB": 345.56,
+        "RB": 662.7,
+        "WR": 661.04,
+        "TE": 176.6,
+        "K": 203.0,
+        "DEF": 209.78
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2568.18,
+        "QB": 370.97999999999996,
+        "RB": 480.3,
+        "WR": 1029.9799999999998,
+        "TE": 147.49999999999997,
+        "K": 267.0,
+        "DEF": 272.41999999999996
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2500.04,
+        "QB": 336.0,
+        "RB": 626.7,
+        "WR": 774.12,
+        "TE": 289.6,
+        "K": 260.5,
+        "DEF": 213.12000000000006
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-8C3CB4F9-57AD-499A-85B8-D9AEB5A87256",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2381.66,
+        "QB": 354.3,
+        "RB": 645.34,
+        "WR": 690.3,
+        "TE": 180.5,
+        "K": 260.0,
+        "DEF": 251.22
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2385.2999999999997,
+        "QB": 408.53999999999996,
+        "RB": 646.0000000000001,
+        "WR": 552.4000000000002,
+        "TE": 306.3,
+        "K": 233.0,
+        "DEF": 239.06000000000003
+      },
+      {
+        "year": 2021,
+        "totalPoints": 1865.42,
+        "QB": 275.58000000000004,
+        "RB": 552.58,
+        "WR": 499.2,
+        "TE": 139.30000000000004,
+        "K": 196.0,
+        "DEF": 202.76
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2101.0799999999995,
+        "QB": 436.92,
+        "RB": 420.9999999999999,
+        "WR": 688.3999999999999,
+        "TE": 91.80000000000001,
+        "K": 218.0,
+        "DEF": 244.96
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2207.42,
+        "QB": 317.85999999999996,
+        "RB": 359.5,
+        "WR": 819.2,
+        "TE": 224.00000000000003,
+        "K": 220.0,
+        "DEF": 266.86
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2642.5600000000004,
+        "QB": 488.84,
+        "RB": 467.86,
+        "WR": 928.5,
+        "TE": 267.7,
+        "K": 236.70000000000005,
+        "DEF": 252.96
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-A24CE5EF-0E09-49AB-94D2-19EC1663B700",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2497.1400000000003,
+        "QB": 342.72,
+        "RB": 812.7,
+        "WR": 771.0000000000001,
+        "TE": 170.3,
+        "K": 223.0,
+        "DEF": 177.41999999999996
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2622.5,
+        "QB": 489.94,
+        "RB": 617.8,
+        "WR": 901.9000000000001,
+        "TE": 149.9,
+        "K": 243.0,
+        "DEF": 219.96
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2739.1,
+        "QB": 421.24,
+        "RB": 782.04,
+        "WR": 905.44,
+        "TE": 163.19999999999996,
+        "K": 218.0,
+        "DEF": 249.18
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2772.4,
+        "QB": 497.1599999999999,
+        "RB": 770.96,
+        "WR": 887.7800000000002,
+        "TE": 165.5,
+        "K": 208.0,
+        "DEF": 242.99999999999997
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2323.36,
+        "QB": 432.8999999999999,
+        "RB": 572.0,
+        "WR": 666.8000000000001,
+        "TE": 222.9,
+        "K": 179.0,
+        "DEF": 249.76000000000002
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2666.78,
+        "QB": 387.94,
+        "RB": 658.5000000000001,
+        "WR": 875.1000000000003,
+        "TE": 185.20000000000002,
+        "K": 266.4,
+        "DEF": 293.64
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-AD6BDCCF-B64B-4BA6-8F45-D11A9617659E",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2531.4199999999996,
+        "QB": 338.53999999999996,
+        "RB": 541.5000000000001,
+        "WR": 971.5999999999999,
+        "TE": 267.09999999999997,
+        "K": 213.0,
+        "DEF": 199.68000000000004
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2815.1,
+        "QB": 469.15999999999997,
+        "RB": 423.8,
+        "WR": 1120.74,
+        "TE": 412.96000000000004,
+        "K": 200.0,
+        "DEF": 188.44
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2825.7799999999997,
+        "QB": 426.40000000000003,
+        "RB": 618.32,
+        "WR": 1077.3,
+        "TE": 288.79999999999995,
+        "K": 216.0,
+        "DEF": 198.96
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2760.42,
+        "QB": 331.32,
+        "RB": 542.4,
+        "WR": 1019.4000000000001,
+        "TE": 398.7,
+        "K": 206.0,
+        "DEF": 262.6
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2563.22,
+        "QB": 390.79999999999995,
+        "RB": 639.9999999999999,
+        "WR": 775.0,
+        "TE": 251.10000000000002,
+        "K": 263.0,
+        "DEF": 243.32
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2761.74,
+        "QB": 428.32,
+        "RB": 653.44,
+        "WR": 970.2400000000001,
+        "TE": 235.6,
+        "K": 225.5,
+        "DEF": 248.64
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-CBC901C7-2511-49DD-A053-5F6E22C32329",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2582.6000000000004,
+        "QB": 302.12,
+        "RB": 899.1999999999999,
+        "WR": 739.16,
+        "TE": 232.3,
+        "K": 178.0,
+        "DEF": 231.82000000000002
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2399.1000000000004,
+        "QB": 456.96,
+        "RB": 619.2,
+        "WR": 808.04,
+        "TE": 153.1,
+        "K": 209.0,
+        "DEF": 152.80000000000004
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2599.7,
+        "QB": 435.6,
+        "RB": 556.6999999999999,
+        "WR": 963.74,
+        "TE": 197.70000000000002,
+        "K": 239.0,
+        "DEF": 206.96
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2504.0399999999995,
+        "QB": 327.05999999999995,
+        "RB": 834.96,
+        "WR": 724.74,
+        "TE": 154.1,
+        "K": 229.0,
+        "DEF": 234.18
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2711.16,
+        "QB": 355.61999999999995,
+        "RB": 791.4999999999999,
+        "WR": 931.14,
+        "TE": 185.4,
+        "K": 198.0,
+        "DEF": 249.49999999999997
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2295.8,
+        "QB": 328.32,
+        "RB": 712.6800000000001,
+        "WR": 696.5000000000001,
+        "TE": 171.8,
+        "K": 152.09999999999997,
+        "DEF": 234.4
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-DB2F4DE4-A627-4203-9CBC-5016EC30C3FC",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2435.2999999999997,
+        "QB": 517.68,
+        "RB": 489.4,
+        "WR": 847.3199999999998,
+        "TE": 120.0,
+        "K": 161.0,
+        "DEF": 299.90000000000003
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2259.84,
+        "QB": 391.94,
+        "RB": 347.78000000000003,
+        "WR": 953.3200000000002,
+        "TE": 120.6,
+        "K": 193.0,
+        "DEF": 253.20000000000002
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2173.2400000000002,
+        "QB": 246.88,
+        "RB": 561.4200000000001,
+        "WR": 804.2800000000001,
+        "TE": 159.6,
+        "K": 215.0,
+        "DEF": 186.06000000000006
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2428.4600000000005,
+        "QB": 353.44,
+        "RB": 395.1600000000001,
+        "WR": 1136.6600000000003,
+        "TE": 93.70000000000002,
+        "K": 198.0,
+        "DEF": 251.5
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-F1509406-592B-43AF-A6E8-0F6BFB5638E7",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2546.64,
+        "QB": 415.92,
+        "RB": 788.46,
+        "WR": 738.0600000000001,
+        "TE": 119.1,
+        "K": 261.0,
+        "DEF": 224.1
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2128.38,
+        "QB": 346.76000000000005,
+        "RB": 395.9999999999999,
+        "WR": 664.7,
+        "TE": 310.29999999999995,
+        "K": 235.0,
+        "DEF": 175.62
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2861.8800000000006,
+        "QB": 397.70000000000005,
+        "RB": 1036.6000000000001,
+        "WR": 618.3600000000001,
+        "TE": 352.3000000000001,
+        "K": 236.0,
+        "DEF": 220.92
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2487.7,
+        "QB": 325.14000000000004,
+        "RB": 786.4,
+        "WR": 669.08,
+        "TE": 226.00000000000003,
+        "K": 222.0,
+        "DEF": 259.08
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2195.68,
+        "QB": 357.54,
+        "RB": 554.0999999999999,
+        "WR": 557.58,
+        "TE": 170.29999999999998,
+        "K": 265.0,
+        "DEF": 291.15999999999997
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2468.96,
+        "QB": 308.72,
+        "RB": 664.7,
+        "WR": 771.6999999999999,
+        "TE": 243.49999999999994,
+        "K": 259.8,
+        "DEF": 220.54000000000002
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-C117D3A8-0CA0-4D96-AA00-DE4004A13A13",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2630.2800000000007,
+        "QB": 297.88,
+        "RB": 567.9000000000001,
+        "WR": 1113.8000000000002,
+        "TE": 266.40000000000003,
+        "K": 187.0,
+        "DEF": 197.3
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2364.1,
+        "QB": 393.08,
+        "RB": 475.62,
+        "WR": 936.7000000000002,
+        "TE": 115.60000000000002,
+        "K": 212.0,
+        "DEF": 231.10000000000002
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2381.8199999999997,
+        "QB": 390.21999999999997,
+        "RB": 488.04,
+        "WR": 750.14,
+        "TE": 320.3,
+        "K": 212.0,
+        "DEF": 221.12
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2280.76,
+        "QB": 384.3,
+        "RB": 449.52,
+        "WR": 711.5800000000002,
+        "TE": 250.50000000000003,
+        "K": 191.0,
+        "DEF": 293.86
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2350.7200000000003,
+        "QB": 262.08000000000004,
+        "RB": 473.40000000000003,
+        "WR": 951.0600000000003,
+        "TE": 216.60000000000002,
+        "K": 257.0,
+        "DEF": 190.57999999999998
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2564.88,
+        "QB": 337.14,
+        "RB": 838.6999999999999,
+        "WR": 688.6,
+        "TE": 179.60000000000005,
+        "K": 245.1,
+        "DEF": 275.74
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2273.1800000000003,
+        "QB": 401.0400000000001,
+        "RB": 647.72,
+        "WR": 584.3,
+        "TE": 248.5,
+        "K": 186.0,
+        "DEF": 205.62
+      },
+      {
+        "year": 2020,
+        "totalPoints": 1922.3599999999997,
+        "QB": 394.91999999999996,
+        "RB": 631.22,
+        "WR": 432.5799999999999,
+        "TE": 154.6,
+        "K": 173.0,
+        "DEF": 136.04000000000002
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2416.2999999999997,
+        "QB": 393.12,
+        "RB": 657.2199999999999,
+        "WR": 787.2400000000001,
+        "TE": 154.1,
+        "K": 190.0,
+        "DEF": 234.62
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2238.64,
+        "QB": 349.2200000000001,
+        "RB": 551.26,
+        "WR": 568.1199999999999,
+        "TE": 273.3,
+        "K": 209.0,
+        "DEF": 287.74
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2208.04,
+        "QB": 331.5799999999999,
+        "RB": 645.9800000000001,
+        "WR": 553.6199999999999,
+        "TE": 252.7,
+        "K": 176.0,
+        "DEF": 248.16000000000003
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2412.76,
+        "QB": 507.42,
+        "RB": 543.52,
+        "WR": 697.5200000000002,
+        "TE": 142.00000000000003,
+        "K": 292.9,
+        "DEF": 229.4
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-A88DD146-6C4F-4BF8-B4F0-695BDCDC7347",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2321.36,
+        "QB": 428.12000000000006,
+        "RB": 362.5,
+        "WR": 880.6599999999999,
+        "TE": 138.70000000000002,
+        "K": 258.0,
+        "DEF": 253.38
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2489.44,
+        "QB": 514.38,
+        "RB": 593.6799999999998,
+        "WR": 861.84,
+        "TE": 108.9,
+        "K": 216.0,
+        "DEF": 194.64
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2539.1600000000003,
+        "QB": 446.64000000000004,
+        "RB": 584.2,
+        "WR": 768.3199999999999,
+        "TE": 223.70000000000002,
+        "K": 243.0,
+        "DEF": 273.3
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2485.3799999999997,
+        "QB": 551.4599999999999,
+        "RB": 574.88,
+        "WR": 760.4799999999998,
+        "TE": 191.16000000000003,
+        "K": 215.0,
+        "DEF": 192.4
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2308.22,
+        "QB": 370.81999999999994,
+        "RB": 605.22,
+        "WR": 722.28,
+        "TE": 179.0,
+        "K": 191.0,
+        "DEF": 239.89999999999998
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-FAA9326C-D141-4711-A932-6CD1413711B9",
+    "dataset": [
+      {
+        "year": 2019,
+        "totalPoints": 2017.56,
+        "QB": 367.53999999999996,
+        "RB": 503.9800000000001,
+        "WR": 549.52,
+        "TE": 224.99999999999997,
+        "K": 175.0,
+        "DEF": 196.52
+      },
+      {
+        "year": 2020,
+        "totalPoints": 2258.38,
+        "QB": 415.05999999999995,
+        "RB": 533.8,
+        "WR": 748.2600000000001,
+        "TE": 174.3,
+        "K": 223.0,
+        "DEF": 163.95999999999998
+      },
+      {
+        "year": 2021,
+        "totalPoints": 2463.2,
+        "QB": 491.35999999999996,
+        "RB": 697.6999999999998,
+        "WR": 679.6,
+        "TE": 178.20000000000005,
+        "K": 203.0,
+        "DEF": 213.34
+      },
+      {
+        "year": 2022,
+        "totalPoints": 2503.9,
+        "QB": 287.91999999999996,
+        "RB": 812.4,
+        "WR": 814.2,
+        "TE": 172.3,
+        "K": 208.0,
+        "DEF": 209.08
+      },
+      {
+        "year": 2023,
+        "totalPoints": 2749.8599999999997,
+        "QB": 360.24000000000007,
+        "RB": 639.3600000000001,
+        "WR": 1080.3200000000002,
+        "TE": 235.70000000000002,
+        "K": 216.0,
+        "DEF": 218.24
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2717.64,
+        "QB": 357.76,
+        "RB": 618.72,
+        "WR": 1031.08,
+        "TE": 208.1,
+        "K": 235.6,
+        "DEF": 266.38000000000005
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-0852AF46-6C26-4040-92AF-466C26C040F9",
+    "dataset": [
+      {
+        "year": 2023,
+        "totalPoints": 2816.84,
+        "QB": 461.4200000000001,
+        "RB": 646.4,
+        "WR": 1008.86,
+        "TE": 221.1,
+        "K": 221.0,
+        "DEF": 258.05999999999995
+      },
+      {
+        "year": 2024,
+        "totalPoints": 2487.88,
+        "QB": 473.26000000000005,
+        "RB": 426.65999999999997,
+        "WR": 994.1600000000001,
+        "TE": 113.40000000000002,
+        "K": 250.4,
+        "DEF": 229.99999999999994
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-positional-points-99BCAACF-9EA7-458D-9FA2-634E5F4E48DE",
+    "dataset": [
+      {
+        "year": 2024,
+        "totalPoints": 2539.56,
+        "QB": 401.44000000000005,
+        "RB": 433.38,
+        "WR": 998.26,
+        "TE": 143.47999999999996,
+        "K": 293.19999999999993,
+        "DEF": 269.8
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "QB",
+        "label": "QB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "RB",
+        "label": "RB",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "WR",
+        "label": "WR",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "TE",
+        "label": "TE",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "K",
+        "label": "K",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      },
+      {
+        "dataKey": "DEF",
+        "label": "DEF",
+        "stack": "totalPoints",
+        "area": true,
+        "showMark": false
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2019.0,
+      "max": 2024.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 0.0,
+      "max": 2861.8800000000006,
+      "reverse": false
+    }
+  }
+]

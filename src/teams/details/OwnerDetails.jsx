@@ -68,7 +68,7 @@ export default function OwnerDetails() {
 
     const cardWidth = isSmall ? 400 : 500;
 
-    return <Box display="flex" flexDirection="column" alignItems="center" maxWidth="100vw">
+    return <Box display="flex" flexDirection="column" alignItems="center" maxWidth="100vw" marginX={{xs: 0, sm: 2}}>
         <Typography variant="h2" component="h2"
                     align="center">{owner.firstName} {owner.lastName}</Typography>
         <Grid container my={2} spacing={2} justifyContent="center">
