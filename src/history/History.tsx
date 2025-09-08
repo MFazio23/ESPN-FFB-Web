@@ -14,7 +14,7 @@ export default function History() {
         {
             id: "history-trades",
             title: "League Trades",
-            description: "A list of all the trades in the league. There haven't been a ton, only ten of them.",
+            description: "A list of all the trades in the league. There haven't been a ton, only a dozen of them.",
             actionButtonText: "View Trades",
             actionButtonLink: "/history/trades",
         },
