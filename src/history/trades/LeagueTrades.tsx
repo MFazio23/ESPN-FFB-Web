@@ -26,7 +26,7 @@ export default function LeagueTrades() {
     const header = (
         <Box display={'flex'} flexDirection={'column'} alignItems={'center'}>
             <Typography variant='h3' p={2}>League Trades</Typography>
-            <Typography variant='body1'>There haven't been a ton of trades, only 11 of them.</Typography>
+            <Typography variant='body1'>There haven't been a ton of trades, only a dozen of them.</Typography>
         </Box>
     );
 

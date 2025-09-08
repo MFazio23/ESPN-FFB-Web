@@ -1,5 +1,33 @@
 [
   {
+    "id": "2025-Nick-Fazio",
+    "year": 2025,
+    "firstOwner": "Collin Schindler",
+    "firstTeam": "Waterboys Win Championships",
+    "firstTeamPlayers": [
+      {
+        "name": "Jordan Addison",
+        "team": "MIN"
+      },
+      {
+        "name": "Broncos D/ST",
+        "team": "DEN"
+      }
+    ],
+    "secondOwner": "Michael Fazio",
+    "secondTeam": "Am I Going Over?",
+    "secondTeamPlayers": [
+      {
+        "name": "Michael Pittman Jr.",
+        "team": "IND"
+      },
+      {
+        "name": "Ravens D/ST",
+        "team": "BAL"
+      }
+    ]
+  },
+  {
     "id": "2025-Collin-Fazio",
     "year": 2025,
     "firstOwner": "Collin Schindler",
