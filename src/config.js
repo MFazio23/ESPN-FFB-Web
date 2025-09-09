@@ -1,5 +1,5 @@
 const config = {
-    currentYear: 2024,
+    currentYear: 2025,
 }
 
 export default config;
