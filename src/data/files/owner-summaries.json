@@ -1,523 +1,547 @@
 [
   {
+    "id": "1CADD14C-2060-4856-BC7D-02C46D863D28",
+    "name": "John Otto",
+    "wins": 41,
+    "losses": 71,
     "championships": 0,
     "eras": [
       {
-        "endYear": 2009,
-        "startYear": 2009,
+        "title": "Vivian Lopez",
         "subtitle": "w/ Michael Fazio",
-        "title": "Vivian Lopez"
+        "startYear": 2009,
+        "endYear": 2009
       },
       {
-        "endYear": 2011,
+        "title": "No Longer KungFuPanda",
         "startYear": 2010,
-        "title": "No Longer KungFuPanda"
+        "endYear": 2011
       },
       {
-        "endYear": 2015,
+        "title": "Harbaugh's Sputum",
         "startYear": 2012,
-        "title": "Harbaugh's Sputum"
+        "endYear": 2015
       }
-    ],
-    "id": "1CADD14C-2060-4856-BC7D-02C46D863D28",
-    "losses": 71,
-    "name": "John Otto",
-    "wins": 41
+    ]
   },
   {
+    "id": "2569536C-A58F-4E7C-801F-F06DF3BE2A73",
+    "name": "Justin Witz",
+    "wins": 169,
+    "losses": 92,
     "championships": 5,
     "eras": [
       {
-        "endYear": 2013,
+        "title": "2 Mannings 1 Cup",
         "startYear": 2009,
-        "title": "2 Mannings 1 Cup"
+        "endYear": 2013
       },
       {
-        "endYear": 2015,
+        "title": "Manning of Steel",
         "startYear": 2014,
-        "title": "Manning of Steel"
+        "endYear": 2015
       },
       {
-        "endYear": 2023,
+        "title": "Manning the Bay",
         "startYear": 2016,
-        "title": "Manning the Bay"
+        "endYear": 2023
       },
       {
-        "endYear": 2024,
+        "title": "Flo'Rida Flock",
         "startYear": 2024,
-        "title": "Flo'Rida Flock"
+        "endYear": 2025
       }
-    ],
-    "id": "2569536C-A58F-4E7C-801F-F06DF3BE2A73",
-    "losses": 91,
-    "name": "Justin Witz",
-    "wins": 169
+    ]
   },
   {
-    "championships": 0,
-    "eras": [
-      {
-        "endYear": 2009,
-        "startYear": 2009,
-        "title": "Sweatpants Holsters"
-      }
-    ],
     "id": "36294745-6024-4E2A-9998-21A15B816B5F",
-    "losses": 10,
     "name": "Carl Brienen",
-    "wins": 6
-  },
-  {
+    "wins": 6,
+    "losses": 10,
     "championships": 0,
     "eras": [
       {
-        "endYear": 2010,
+        "title": "Sweatpants Holsters",
         "startYear": 2009,
-        "subtitle": "w/ Tim Ericsen",
-        "title": "Lotta Ball Sweat"
-      },
-      {
-        "endYear": 2012,
-        "startYear": 2011,
-        "title": "MKE BLOOOOOOBBBBB!!"
-      },
-      {
-        "endYear": 2013,
-        "startYear": 2013,
-        "subtitle": "w/ Emad Kazmi",
-        "title": "MKE BLOOOOOOBBBBB!!"
-      },
-      {
-        "endYear": 2014,
-        "startYear": 2014,
-        "subtitle": "w/ Emad Kazmi",
-        "title": "Shirtcockers Anonymous"
+        "endYear": 2009
       }
-    ],
+    ]
+  },
+  {
     "id": "57312B70-8D32-492F-8850-59850386652F",
-    "losses": 50,
     "name": "David Breen",
-    "wins": 46
-  },
-  {
+    "wins": 46,
+    "losses": 50,
     "championships": 0,
     "eras": [
       {
-        "endYear": 2010,
+        "title": "Lotta Ball Sweat",
+        "subtitle": "w/ Tim Ericsen",
         "startYear": 2009,
-        "title": "Waukesha Ochsenfroesche"
+        "endYear": 2010
       },
       {
-        "endYear": 2012,
+        "title": "MKE BLOOOOOOBBBBB!!",
         "startYear": 2011,
-        "title": "Thats What She Said"
+        "endYear": 2012
       },
       {
-        "endYear": 2017,
+        "title": "MKE BLOOOOOOBBBBB!!",
+        "subtitle": "w/ Emad Kazmi",
         "startYear": 2013,
-        "title": "Joe Buck Yourself"
+        "endYear": 2013
+      },
+      {
+        "title": "Shirtcockers Anonymous",
+        "subtitle": "w/ Emad Kazmi",
+        "startYear": 2014,
+        "endYear": 2014
       }
-    ],
+    ]
+  },
+  {
     "id": "670ED790-95AB-4CD9-9708-1A997C227D33",
-    "losses": 77,
     "name": "Dave Smith",
-    "wins": 67
-  },
-  {
-    "championships": 1,
-    "eras": [
-      {
-        "endYear": 2010,
-        "startYear": 2009,
-        "title": "Wayne, NJ Dipstick Jimmys"
-      },
-      {
-        "endYear": 2015,
-        "startYear": 2011,
-        "title": "Prepare to be Sacked"
-      },
-      {
-        "endYear": 2021,
-        "startYear": 2016,
-        "title": "Throw it I am Open"
-      },
-      {
-        "endYear": 2022,
-        "startYear": 2022,
-        "title": "A.R.12 MVPsychedelic"
-      },
-      {
-        "endYear": 2024,
-        "startYear": 2023,
-        "title": "Forgot About Dre"
-      }
-    ],
-    "id": "6BB7653E-8BC9-40F9-952A-33DD089B251C",
-    "losses": 147,
-    "name": "James Otto",
-    "wins": 113
-  },
-  {
+    "wins": 67,
+    "losses": 77,
     "championships": 0,
     "eras": [
       {
-        "endYear": 2009,
+        "title": "Waukesha Ochsenfroesche",
         "startYear": 2009,
-        "title": "Winning Team Farters"
+        "endYear": 2010
       },
       {
-        "endYear": 2010,
-        "startYear": 2010,
-        "title": "Admiral Ackbar's Team"
-      },
-      {
-        "endYear": 2011,
+        "title": "Thats What She Said",
         "startYear": 2011,
-        "title": "Violent Rage Quitters"
+        "endYear": 2012
       },
       {
-        "endYear": 2012,
-        "startYear": 2012,
-        "title": "Blind Side  Bombers"
-      },
-      {
-        "endYear": 2015,
+        "title": "Joe Buck Yourself",
         "startYear": 2013,
-        "title": "Bye Week Dominators"
+        "endYear": 2017
       }
-    ],
-    "id": "72E2EE97-54D3-4B0E-AF62-BA4C16023157",
-    "losses": 73,
-    "name": "Brandon Gustafson",
-    "wins": 39
+    ]
   },
   {
-    "championships": 0,
-    "eras": [
-      {
-        "endYear": 2010,
-        "startYear": 2009,
-        "title": "Essen Gazoontite"
-      }
-    ],
-    "id": "76F57F7A-5670-4B4C-998C-DA5CC903123C",
-    "losses": 24,
-    "name": "Matt Schrader",
-    "wins": 8
-  },
-  {
-    "championships": 0,
-    "eras": [
-      {
-        "endYear": 2009,
-        "startYear": 2009,
-        "title": "KungFu Panda"
-      }
-    ],
-    "id": "8AEAA731-DCE1-4297-A4FF-2BEDAFB02BD1",
-    "losses": 9,
-    "name": "zhemin huang",
-    "wins": 7
-  },
-  {
-    "championships": 1,
-    "eras": [
-      {
-        "endYear": 2024,
-        "startYear": 2009,
-        "title": "Tucker's Team"
-      }
-    ],
-    "id": "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256",
+    "id": "6BB7653E-8BC9-40F9-952A-33DD089B251C",
+    "name": "James Otto",
+    "wins": 113,
     "losses": 148,
-    "name": "Tucker James",
-    "wins": 112
-  },
-  {
     "championships": 1,
     "eras": [
       {
-        "endYear": 2009,
+        "title": "Wayne, NJ Dipstick Jimmys",
         "startYear": 2009,
-        "subtitle": "w/ John Otto",
-        "title": "Vivian Lopez"
+        "endYear": 2010
       },
       {
-        "endYear": 2010,
-        "startYear": 2010,
-        "title": "Silver Fish Hand Catch"
-      },
-      {
-        "endYear": 2015,
+        "title": "Prepare to be Sacked",
         "startYear": 2011,
-        "title": "Not The Hammer"
+        "endYear": 2015
       },
       {
-        "endYear": 2024,
+        "title": "Throw it I am Open",
         "startYear": 2016,
-        "title": "Am I Going Over??"
+        "endYear": 2021
+      },
+      {
+        "title": "A.R.12 MVPsychedelic",
+        "startYear": 2022,
+        "endYear": 2022
+      },
+      {
+        "title": "Forgot About Dre",
+        "startYear": 2023,
+        "endYear": 2024
+      },
+      {
+        "title": "Picked Last Squad",
+        "startYear": 2025,
+        "endYear": 2025
       }
-    ],
-    "id": "A24CE5EF-0E09-49AB-94D2-19EC1663B700",
-    "losses": 103,
-    "name": "Michael Fazio",
-    "wins": 157
+    ]
   },
   {
+    "id": "72E2EE97-54D3-4B0E-AF62-BA4C16023157",
+    "name": "Brandon Gustafson",
+    "wins": 39,
+    "losses": 73,
+    "championships": 0,
+    "eras": [
+      {
+        "title": "Winning Team Farters",
+        "startYear": 2009,
+        "endYear": 2009
+      },
+      {
+        "title": "Admiral Ackbar's Team",
+        "startYear": 2010,
+        "endYear": 2010
+      },
+      {
+        "title": "Violent Rage Quitters",
+        "startYear": 2011,
+        "endYear": 2011
+      },
+      {
+        "title": "Blind Side  Bombers",
+        "startYear": 2012,
+        "endYear": 2012
+      },
+      {
+        "title": "Bye Week Dominators",
+        "startYear": 2013,
+        "endYear": 2015
+      }
+    ]
+  },
+  {
+    "id": "76F57F7A-5670-4B4C-998C-DA5CC903123C",
+    "name": "Matt Schrader",
+    "wins": 8,
+    "losses": 24,
+    "championships": 0,
+    "eras": [
+      {
+        "title": "Essen Gazoontite",
+        "startYear": 2009,
+        "endYear": 2010
+      }
+    ]
+  },
+  {
+    "id": "8AEAA731-DCE1-4297-A4FF-2BEDAFB02BD1",
+    "name": "zhemin huang",
+    "wins": 7,
+    "losses": 9,
+    "championships": 0,
+    "eras": [
+      {
+        "title": "KungFu Panda",
+        "startYear": 2009,
+        "endYear": 2009
+      }
+    ]
+  },
+  {
+    "id": "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256",
+    "name": "Tucker James",
+    "wins": 113,
+    "losses": 148,
     "championships": 1,
     "eras": [
       {
-        "endYear": 2010,
+        "title": "Tucker's Team",
         "startYear": 2009,
-        "subtitle": "w/ David Breen",
-        "title": "Lotta Ball Sweat"
-      },
-      {
-        "endYear": 2024,
-        "startYear": 2011,
-        "title": "Uncooked Box"
+        "endYear": 2025
       }
-    ],
-    "id": "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E",
-    "losses": 103,
-    "name": "Tim Ericsen",
-    "wins": 157
+    ]
   },
   {
+    "id": "A24CE5EF-0E09-49AB-94D2-19EC1663B700",
+    "name": "Michael Fazio",
+    "wins": 158,
+    "losses": 103,
+    "championships": 1,
+    "eras": [
+      {
+        "title": "Vivian Lopez",
+        "subtitle": "w/ John Otto",
+        "startYear": 2009,
+        "endYear": 2009
+      },
+      {
+        "title": "Silver Fish Hand Catch",
+        "startYear": 2010,
+        "endYear": 2010
+      },
+      {
+        "title": "Not The Hammer",
+        "startYear": 2011,
+        "endYear": 2015
+      },
+      {
+        "title": "Am I Going Over??",
+        "startYear": 2016,
+        "endYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E",
+    "name": "Tim Ericsen",
+    "wins": 158,
+    "losses": 103,
+    "championships": 1,
+    "eras": [
+      {
+        "title": "Lotta Ball Sweat",
+        "subtitle": "w/ David Breen",
+        "startYear": 2009,
+        "endYear": 2010
+      },
+      {
+        "title": "Uncooked Box",
+        "startYear": 2011,
+        "endYear": 2025
+      }
+    ]
+  },
+  {
+    "id": "CBC901C7-2511-49DD-A053-5F6E22C32329",
+    "name": "Scott Johnson",
+    "wins": 145,
+    "losses": 116,
     "championships": 3,
     "eras": [
       {
-        "endYear": 2009,
+        "title": "The Milwaukee Singer",
         "startYear": 2009,
-        "title": "The Milwaukee Singer"
+        "endYear": 2009
       },
       {
-        "endYear": 2015,
+        "title": "Delicious Pasta",
         "startYear": 2010,
-        "title": "Delicious Pasta"
+        "endYear": 2015
       },
       {
-        "endYear": 2020,
+        "title": "Delicious Traitorade",
         "startYear": 2016,
-        "title": "Delicious Traitorade"
+        "endYear": 2020
       },
       {
-        "endYear": 2024,
+        "title": "Oh Saquon You See",
         "startYear": 2021,
-        "title": "Oh Saquon You See"
+        "endYear": 2025
       }
-    ],
-    "id": "CBC901C7-2511-49DD-A053-5F6E22C32329",
-    "losses": 116,
-    "name": "Scott Johnson",
-    "wins": 144
+    ]
   },
   {
+    "id": "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC",
+    "name": "David Pietrzykowski",
+    "wins": 115,
+    "losses": 111,
     "championships": 1,
     "eras": [
       {
-        "endYear": 2011,
+        "title": "treadhead for life",
         "startYear": 2009,
-        "title": "treadhead for life"
+        "endYear": 2011
       },
       {
-        "endYear": 2016,
+        "title": "MarshallNomNom ForCutlersBalls",
         "startYear": 2012,
-        "title": "MarshallNomNom ForCutlersBalls"
+        "endYear": 2016
       },
       {
-        "endYear": 2022,
+        "title": "MondayNight MemberBerries",
         "startYear": 2017,
-        "title": "MondayNight MemberBerries"
+        "endYear": 2022
       }
-    ],
-    "id": "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC",
-    "losses": 111,
-    "name": "David Pietrzykowski",
-    "wins": 115
+    ]
   },
   {
+    "id": "F1509406-592B-43AF-A6E8-0F6BFB5638E7",
+    "name": "Ben Ericsen",
+    "wins": 140,
+    "losses": 105,
     "championships": 2,
     "eras": [
       {
-        "endYear": 2024,
+        "title": "Naptown Goiters",
         "startYear": 2010,
-        "title": "Naptown Goiters"
+        "endYear": 2024
+      },
+      {
+        "title": "The Micah Parsons Project",
+        "startYear": 2025,
+        "endYear": 2025
       }
-    ],
-    "id": "F1509406-592B-43AF-A6E8-0F6BFB5638E7",
-    "losses": 104,
-    "name": "Ben Ericsen",
-    "wins": 140
+    ]
   },
   {
-    "championships": 0,
-    "eras": [
-      {
-        "endYear": 2013,
-        "startYear": 2013,
-        "subtitle": "w/ David Breen",
-        "title": "MKE BLOOOOOOBBBBB!!"
-      },
-      {
-        "endYear": 2014,
-        "startYear": 2014,
-        "subtitle": "w/ David Breen",
-        "title": "Shirtcockers Anonymous"
-      },
-      {
-        "endYear": 2018,
-        "startYear": 2015,
-        "title": "Shirtcockers Anonymous"
-      }
-    ],
     "id": "310C7B23-4C8B-4CC7-8C7B-234C8B7CC782",
-    "losses": 64,
     "name": "Emad Kazmi",
-    "wins": 32
-  },
-  {
+    "wins": 32,
+    "losses": 64,
     "championships": 0,
     "eras": [
       {
-        "endYear": 2016,
-        "startYear": 2016,
-        "title": "Bye Week Dominators"
-      }
-    ],
-    "id": "7779796B-FE3A-48C2-BD89-FF25CB2F87DA",
-    "losses": 10,
-    "name": "Nathan Fellom",
-    "wins": 6
-  },
-  {
-    "championships": 0,
-    "eras": [
-      {
-        "endYear": 2017,
-        "startYear": 2016,
-        "title": "Sputnik's Mad Russians"
+        "title": "MKE BLOOOOOOBBBBB!!",
+        "subtitle": "w/ David Breen",
+        "startYear": 2013,
+        "endYear": 2013
       },
       {
-        "endYear": 2018,
-        "startYear": 2018,
-        "subtitle": "w/ Juan Pablo Siller",
-        "title": "Sputnik's Mad Russians"
+        "title": "Shirtcockers Anonymous",
+        "subtitle": "w/ David Breen",
+        "startYear": 2014,
+        "endYear": 2014
+      },
+      {
+        "title": "Shirtcockers Anonymous",
+        "startYear": 2015,
+        "endYear": 2018
       }
-    ],
-    "id": "C7CCE30B-298A-4C85-8265-37510D53E1CF",
-    "losses": 30,
-    "name": "Alex Woodward",
-    "wins": 18
+    ]
   },
   {
+    "id": "7779796B-FE3A-48C2-BD89-FF25CB2F87DA",
+    "name": "Nathan Fellom",
+    "wins": 6,
+    "losses": 10,
+    "championships": 0,
+    "eras": [
+      {
+        "title": "Bye Week Dominators",
+        "startYear": 2016,
+        "endYear": 2016
+      }
+    ]
+  },
+  {
+    "id": "C7CCE30B-298A-4C85-8265-37510D53E1CF",
+    "name": "Alex Woodward",
+    "wins": 18,
+    "losses": 30,
+    "championships": 0,
+    "eras": [
+      {
+        "title": "Sputnik's Mad Russians",
+        "startYear": 2016,
+        "endYear": 2017
+      },
+      {
+        "title": "Sputnik's Mad Russians",
+        "subtitle": "w/ Juan Pablo Siller",
+        "startYear": 2018,
+        "endYear": 2018
+      }
+    ]
+  },
+  {
+    "id": "C117D3A8-0CA0-4D96-AA00-DE4004A13A13",
+    "name": "Blayne Roselle",
+    "wins": 65,
+    "losses": 68,
     "championships": 1,
     "eras": [
       {
-        "endYear": 2024,
+        "title": "Bye Week Dominators",
         "startYear": 2017,
-        "title": "Bye Week Dominators"
+        "endYear": 2025
       }
-    ],
-    "id": "C117D3A8-0CA0-4D96-AA00-DE4004A13A13",
-    "losses": 68,
-    "name": "Blayne Roselle",
-    "wins": 64
+    ]
   },
   {
-    "championships": 0,
-    "eras": [
-      {
-        "endYear": 2024,
-        "startYear": 2018,
-        "title": "Joe Buck Yourself"
-      }
-    ],
     "id": "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB",
-    "losses": 75,
     "name": "Ben Pelc",
-    "wins": 41
-  },
-  {
+    "wins": 41,
+    "losses": 76,
     "championships": 0,
     "eras": [
       {
-        "endYear": 2018,
+        "title": "Joe Buck Yourself",
         "startYear": 2018,
-        "subtitle": "w/ Alex Woodward",
-        "title": "Sputnik's Mad Russians"
-      },
-      {
-        "endYear": 2019,
-        "startYear": 2019,
-        "title": "Sputnik's Mad Russians"
-      },
-      {
-        "endYear": 2023,
-        "startYear": 2020,
-        "title": "The Jalapeños"
+        "endYear": 2025
       }
-    ],
+    ]
+  },
+  {
     "id": "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347",
-    "losses": 49,
     "name": "Juan Pablo Siller",
-    "wins": 50
-  },
-  {
+    "wins": 50,
+    "losses": 49,
     "championships": 0,
     "eras": [
       {
-        "endYear": 2019,
+        "title": "Sputnik's Mad Russians",
+        "subtitle": "w/ Alex Woodward",
+        "startYear": 2018,
+        "endYear": 2018
+      },
+      {
+        "title": "Sputnik's Mad Russians",
         "startYear": 2019,
-        "title": "Shirtcockers Anonymous"
+        "endYear": 2019
       },
       {
-        "endYear": 2020,
+        "title": "The Jalapeños",
         "startYear": 2020,
-        "title": "Little Red Fournette"
-      },
-      {
-        "endYear": 2021,
-        "startYear": 2021,
-        "title": "Herbert Fully Loaded"
-      },
-      {
-        "endYear": 2024,
-        "startYear": 2022,
-        "title": "Ja’Marr Chase Bank"
+        "endYear": 2023
       }
-    ],
+    ]
+  },
+  {
     "id": "FAA9326C-D141-4711-A932-6CD1413711B9",
-    "losses": 56,
     "name": "Nick Kwiecien",
-    "wins": 44
-  },
-  {
+    "wins": 44,
+    "losses": 57,
     "championships": 0,
     "eras": [
       {
-        "endYear": 2024,
-        "startYear": 2023,
-        "title": "The Durango Kids"
+        "title": "Shirtcockers Anonymous",
+        "startYear": 2019,
+        "endYear": 2019
+      },
+      {
+        "title": "Little Red Fournette",
+        "startYear": 2020,
+        "endYear": 2020
+      },
+      {
+        "title": "Herbert Fully Loaded",
+        "startYear": 2021,
+        "endYear": 2021
+      },
+      {
+        "title": "Ja’Marr Chase Bank",
+        "startYear": 2022,
+        "endYear": 2025
       }
-    ],
+    ]
+  },
+  {
     "id": "0852AF46-6C26-4040-92AF-466C26C040F9",
-    "losses": 11,
     "name": "Rolando Lopez",
-    "wins": 23
-  },
-  {
+    "wins": 23,
+    "losses": 12,
     "championships": 0,
     "eras": [
       {
-        "endYear": 2024,
-        "startYear": 2024,
-        "title": "My Ball Zach Ertz"
+        "title": "The Durango Kids",
+        "startYear": 2023,
+        "endYear": 2025
       }
-    ],
+    ]
+  },
+  {
     "id": "99BCAACF-9EA7-458D-9FA2-634E5F4E48DE",
-    "losses": 7,
     "name": "Ben Green",
-    "wins": 10
+    "wins": 10,
+    "losses": 7,
+    "championships": 0,
+    "eras": [
+      {
+        "title": "My Ball Zach Ertz",
+        "startYear": 2024,
+        "endYear": 2024
+      }
+    ]
+  },
+  {
+    "id": "2C22AA9D-2128-4B17-83ED-8C58A2D7B6BA",
+    "name": "Collin Schindler",
+    "wins": 1,
+    "losses": 0,
+    "championships": 0,
+    "eras": [
+      {
+        "title": "Waterboys Win Championships",
+        "startYear": 2025,
+        "endYear": 2025
+      }
+    ]
   }
 ]

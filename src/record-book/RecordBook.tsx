@@ -25,7 +25,7 @@ export default function RecordBook() {
     const recordBook: RecordBookRecord[] = recordBookData[recordBookType];
 
     const records = recordBook.every(record => record.records.length === 0) ?
-        (<React.Fragment>
+        (<>
             <TableRow>
                 <TableCell>
                     <Typography variant="h4" align="center">
@@ -33,12 +33,14 @@ export default function RecordBook() {
                     </Typography>
                 </TableCell>
             </TableRow>
-        </React.Fragment>) :
+        </>) :
         (
-            recordBook
-                .sort((bookA, bookB) => bookA.order - bookB.order)
-                .map(recordCategory => <RecordBookItem key={recordCategory.id} recordBookType={recordBookType}
-                                                       recordCategory={recordCategory} latestWeek={latestWeek}/>)
+            <>
+                {recordBook
+                    .sort((bookA, bookB) => bookA.order - bookB.order)
+                    .map(recordCategory => <RecordBookItem key={recordCategory.id} recordBookType={recordBookType}
+                                                           recordCategory={recordCategory} latestWeek={latestWeek}/>)}
+            </>
         );
 
     return recordBook && (

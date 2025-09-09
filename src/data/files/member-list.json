@@ -129,174 +129,24 @@
     "displayName": "nickkwiecien",
     "firstName": "Nick ",
     "id": "FAA9326C-D141-4711-A932-6CD1413711B9",
-    "lastName": "Kwiecien",
-    "notificationSettings": [
-      {
-        "enabled": true,
-        "id": "d2a27e0f-63c6-3b20-80db-f4f798a1ce85",
-        "type": "TEAM_PLAYER_INJURY"
-      },
-      {
-        "enabled": true,
-        "id": "fe52a5c9-b0e9-361a-bde8-14e125fa78ac",
-        "type": "TEAM_PLAYER_AVAILABILITY"
-      },
-      {
-        "enabled": true,
-        "id": "5711a601-b894-3c32-b909-b4f0e2f27716",
-        "type": "TEAM_PLAYER_NEWS"
-      },
-      {
-        "enabled": true,
-        "id": "9a16bb06-f8bc-31b6-9a03-bcc50459d94c",
-        "type": "TEAM_PLAYER_STARTBENCH"
-      },
-      {
-        "enabled": true,
-        "id": "61784abb-13bb-3191-b29e-c0d3dd44ec62",
-        "type": "TEAM_TRADE_OFFER"
-      },
-      {
-        "enabled": true,
-        "id": "5460ceb0-4ae0-39b4-be1c-b44b2dda2975",
-        "type": "DRAFT"
-      }
-    ]
+    "lastName": "Kwiecien"
   },
   {
     "displayName": "Rolando Lopez",
     "firstName": "Rolando",
     "id": "0852AF46-6C26-4040-92AF-466C26C040F9",
-    "lastName": "Lopez",
-    "notificationSettings": [
-      {
-        "enabled": true,
-        "id": "35d35a94-0419-3766-9180-7e8a43c79c71",
-        "type": "TEAM_PLAYER_INJURY"
-      },
-      {
-        "enabled": true,
-        "id": "6a9ee905-439d-3946-a1dd-992239dbd481",
-        "type": "TEAM_PLAYER_AVAILABILITY"
-      },
-      {
-        "enabled": true,
-        "id": "e2410618-924d-3201-8891-630e94ac23ab",
-        "type": "TEAM_PLAYER_NEWS"
-      },
-      {
-        "enabled": true,
-        "id": "242ecfe3-a5b9-37f7-bb59-c5c7cf792616",
-        "type": "TEAM_PLAYER_STARTBENCH"
-      },
-      {
-        "enabled": true,
-        "id": "a5485eb8-f6f7-3fae-960f-933617b2ae26",
-        "type": "TEAM_TRADE_OFFER"
-      },
-      {
-        "enabled": true,
-        "id": "71932cbc-a6e7-3cde-8c04-a92a8a2ba170",
-        "type": "DRAFT"
-      },
-      {
-        "enabled": true,
-        "id": "8e0b8079-fe3b-33e1-9bc7-1268a022185d",
-        "type": "TEAM_MATCHUP_SCORE"
-      },
-      {
-        "enabled": true,
-        "id": "91a3b67b-ff7d-35ff-8aaa-00b909955805",
-        "type": "KEY_STAT_UPDATE"
-      },
-      {
-        "enabled": true,
-        "id": "d7a25396-39f5-3740-bd9f-4eb3951e26eb",
-        "type": "REDZONE"
-      },
-      {
-        "enabled": true,
-        "id": "f598b927-ed90-340b-a12f-316342aa687b",
-        "type": "ADD_DROP"
-      },
-      {
-        "enabled": true,
-        "id": "b2da23fd-c062-3471-bb63-c8f667e70fc6",
-        "type": "WEEKLY_RECAP"
-      },
-      {
-        "enabled": true,
-        "id": "1890e6cf-211c-3feb-a1aa-254794bb7de3",
-        "type": "WAIVERS"
-      }
-    ]
+    "lastName": "Lopez"
   },
   {
     "displayName": "espn50678272",
     "firstName": "Ben",
     "id": "99BCAACF-9EA7-458D-9FA2-634E5F4E48DE",
-    "lastName": "Green",
-    "notificationSettings": [
-      {
-        "enabled": true,
-        "id": "2cb75679-6349-35e5-a543-dee93684ff2f",
-        "type": "TEAM_PLAYER_INJURY"
-      },
-      {
-        "enabled": true,
-        "id": "05e1048a-b294-3186-99ba-36a7cd94b426",
-        "type": "TEAM_PLAYER_AVAILABILITY"
-      },
-      {
-        "enabled": true,
-        "id": "f0bd167c-c4d7-339b-84b4-eedb76338d02",
-        "type": "TEAM_PLAYER_NEWS"
-      },
-      {
-        "enabled": true,
-        "id": "2ad57034-9967-3126-ad88-35aa8e461cc5",
-        "type": "TEAM_PLAYER_STARTBENCH"
-      },
-      {
-        "enabled": true,
-        "id": "fc4eb30c-17e2-35da-988d-c07b4d039c11",
-        "type": "TEAM_TRADE_OFFER"
-      },
-      {
-        "enabled": true,
-        "id": "a9253ec4-a1e8-3ad3-8b70-c97ec7ab3d6a",
-        "type": "DRAFT"
-      },
-      {
-        "enabled": true,
-        "id": "4e84c888-9b42-37ca-a9af-9445a8272541",
-        "type": "TEAM_MATCHUP_SCORE"
-      },
-      {
-        "enabled": true,
-        "id": "9c7e2291-9ab2-318b-b139-2d3f84da0259",
-        "type": "REDZONE"
-      },
-      {
-        "enabled": true,
-        "id": "dae84613-e25f-3c5a-a7d4-bc59fdb68d4b",
-        "type": "ADD_DROP"
-      },
-      {
-        "enabled": true,
-        "id": "e27111bb-8882-3242-b6ac-a921cfa0277c",
-        "type": "WEEKLY_RECAP"
-      },
-      {
-        "enabled": true,
-        "id": "8b4a9b39-9644-3e81-94e6-0e29524c512e",
-        "type": "WAIVERS"
-      },
-      {
-        "enabled": true,
-        "id": "5438c5bc-3c77-31a7-8609-5e5c5b23fdee",
-        "type": "CELEBRATION_SHARE"
-      }
-    ]
+    "lastName": "Green"
+  },
+  {
+    "displayName": "ESPNFAN5460274252",
+    "firstName": "Collin",
+    "id": "2C22AA9D-2128-4B17-83ED-8C58A2D7B6BA",
+    "lastName": "Schindler"
   }
 ]

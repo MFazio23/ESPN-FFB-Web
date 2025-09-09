@@ -1,1956 +1,1874 @@
 {
   "2009": [
     {
-      "fullName": "Vivian Lopez",
       "id": 1,
-      "name": "Vivian Lopez",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Vivian Lopez",
       "shortName": "VIV",
       "year": 2009
     },
     {
-      "fullName": "Wayne, NJ Dipstick Jimmys",
       "id": 3,
-      "name": "Wayne, NJ Dipstick Jimmys",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Wayne, NJ Dipstick Jimmys",
       "shortName": "TWYD",
       "year": 2009
     },
     {
-      "fullName": "Waukesha Ochsenfroesche",
       "id": 4,
-      "name": "Waukesha Ochsenfroesche",
       "owners": [
         "670ED790-95AB-4CD9-9708-1A997C227D33"
       ],
+      "name": "Waukesha Ochsenfroesche",
       "shortName": "OCHO",
       "year": 2009
     },
     {
-      "fullName": "The Milwaukee Singer",
       "id": 5,
-      "name": "The Milwaukee Singer",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "The Milwaukee Singer",
       "shortName": "S",
       "year": 2009
     },
     {
-      "fullName": "2 Mannings 1 Cup",
       "id": 9,
-      "name": "2 Mannings 1 Cup",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "2 Mannings 1 Cup",
       "shortName": "2M1C",
       "year": 2009
     },
     {
-      "fullName": "Sweatpants Holsters",
       "id": 10,
-      "name": "Sweatpants Holsters",
       "owners": [
         "36294745-6024-4E2A-9998-21A15B816B5F"
       ],
+      "name": "Sweatpants Holsters",
       "shortName": "PLAX",
       "year": 2009
     },
     {
-      "fullName": "treadhead for life",
       "id": 11,
-      "name": "treadhead for life",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "treadhead for life",
       "shortName": "TFL",
       "year": 2009
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2009
     },
     {
-      "fullName": "Lotta Ball Sweat",
       "id": 13,
-      "name": "Lotta Ball Sweat",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E",
         "57312B70-8D32-492F-8850-59850386652F"
       ],
+      "name": "Lotta Ball Sweat",
       "shortName": "LBS",
       "year": 2009
     },
     {
-      "fullName": "KungFu Panda",
       "id": 14,
-      "name": "KungFu Panda",
       "owners": [
         "8AEAA731-DCE1-4297-A4FF-2BEDAFB02BD1"
       ],
+      "name": "KungFu Panda",
       "shortName": "ASN",
       "year": 2009
     },
     {
-      "fullName": "Essen Gazoontite",
       "id": 15,
-      "name": "Essen Gazoontite",
       "owners": [
         "76F57F7A-5670-4B4C-998C-DA5CC903123C"
       ],
+      "name": "Essen Gazoontite",
       "shortName": "EG",
       "year": 2009
     },
     {
-      "fullName": "Winning Team Farters",
       "id": 17,
-      "name": "Winning Team Farters",
       "owners": [
         "72E2EE97-54D3-4B0E-AF62-BA4C16023157"
       ],
+      "name": "Winning Team Farters",
       "shortName": "WTF",
       "year": 2009
     }
   ],
   "2010": [
     {
-      "fullName": "Silver Fish Hand Catch",
       "id": 1,
-      "name": "Silver Fish Hand Catch",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Silver Fish Hand Catch",
       "shortName": "SFHC",
       "year": 2010
     },
     {
-      "fullName": "Wayne, NJ Dipstick Jimmys",
       "id": 3,
-      "name": "Wayne, NJ Dipstick Jimmys",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Wayne, NJ Dipstick Jimmys",
       "shortName": "TWYD",
       "year": 2010
     },
     {
-      "fullName": "Waukesha Ochsenfroesche",
       "id": 4,
-      "name": "Waukesha Ochsenfroesche",
       "owners": [
         "670ED790-95AB-4CD9-9708-1A997C227D33"
       ],
+      "name": "Waukesha Ochsenfroesche",
       "shortName": "OCHO",
       "year": 2010
     },
     {
-      "fullName": "Delicious Pasta",
       "id": 5,
-      "name": "Delicious Pasta",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Pasta",
       "shortName": "DP",
       "year": 2010
     },
     {
-      "fullName": "2 Mannings 1 Cup",
       "id": 9,
-      "name": "2 Mannings 1 Cup",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "2 Mannings 1 Cup",
       "shortName": "2M1C",
       "year": 2010
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2010
     },
     {
-      "fullName": "treadhead for life",
       "id": 11,
-      "name": "treadhead for life",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "treadhead for life",
       "shortName": "TFL",
       "year": 2010
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2010
     },
     {
-      "fullName": "Lotta Ball Sweat",
       "id": 13,
-      "name": "Lotta Ball Sweat",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E",
         "57312B70-8D32-492F-8850-59850386652F"
       ],
+      "name": "Lotta Ball Sweat",
       "shortName": "LBS",
       "year": 2010
     },
     {
-      "fullName": "No Longer KungFuPanda",
       "id": 14,
-      "name": "No Longer KungFuPanda",
       "owners": [
         "1CADD14C-2060-4856-BC7D-02C46D863D28"
       ],
+      "name": "No Longer KungFuPanda",
       "shortName": "XASN",
       "year": 2010
     },
     {
-      "fullName": "Essen Gazoontite",
       "id": 15,
-      "name": "Essen Gazoontite",
       "owners": [
         "76F57F7A-5670-4B4C-998C-DA5CC903123C"
       ],
+      "name": "Essen Gazoontite",
       "shortName": "EG",
       "year": 2010
     },
     {
-      "fullName": "Admiral Ackbar's Team",
       "id": 17,
-      "name": "Admiral Ackbar's Team",
       "owners": [
         "72E2EE97-54D3-4B0E-AF62-BA4C16023157"
       ],
+      "name": "Admiral Ackbar's Team",
       "shortName": "TRAP",
       "year": 2010
     }
   ],
   "2011": [
     {
-      "fullName": "Not The Hammer",
       "id": 1,
-      "name": "Not The Hammer",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Not The Hammer",
       "shortName": "CAPT",
       "year": 2011
     },
     {
-      "fullName": "Prepare to be Sacked",
       "id": 3,
-      "name": "Prepare to be Sacked",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Prepare to be Sacked",
       "shortName": "HAWK",
       "year": 2011
     },
     {
-      "fullName": "Thats What She Said",
       "id": 4,
-      "name": "Thats What She Said",
       "owners": [
         "670ED790-95AB-4CD9-9708-1A997C227D33"
       ],
+      "name": "Thats What She Said",
       "shortName": "Said",
       "year": 2011
     },
     {
-      "fullName": "Delicious Pasta",
       "id": 5,
-      "name": "Delicious Pasta",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Pasta",
       "shortName": "DP",
       "year": 2011
     },
     {
-      "fullName": "2 Mannings 1 Cup",
       "id": 9,
-      "name": "2 Mannings 1 Cup",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "2 Mannings 1 Cup",
       "shortName": "2M1C",
       "year": 2011
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2011
     },
     {
-      "fullName": "treadhead for life",
       "id": 11,
-      "name": "treadhead for life",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "treadhead for life",
       "shortName": "TFL",
       "year": 2011
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2011
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2011
     },
     {
-      "fullName": "No Longer KungFuPanda",
       "id": 14,
-      "name": "No Longer KungFuPanda",
       "owners": [
         "1CADD14C-2060-4856-BC7D-02C46D863D28"
       ],
+      "name": "No Longer KungFuPanda",
       "shortName": "XASN",
       "year": 2011
     },
     {
-      "fullName": "MKE BLOOOOOOBBBBB!!",
       "id": 15,
-      "name": "MKE BLOOOOOOBBBBB!!",
       "owners": [
         "57312B70-8D32-492F-8850-59850386652F"
       ],
+      "name": "MKE BLOOOOOOBBBBB!!",
       "shortName": "BLOB",
       "year": 2011
     },
     {
-      "fullName": "Violent Rage Quitters",
       "id": 17,
-      "name": "Violent Rage Quitters",
       "owners": [
         "72E2EE97-54D3-4B0E-AF62-BA4C16023157"
       ],
+      "name": "Violent Rage Quitters",
       "shortName": "RAGE",
       "year": 2011
     }
   ],
   "2012": [
     {
-      "fullName": "Not The Hammer",
       "id": 1,
-      "name": "Not The Hammer",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Not The Hammer",
       "shortName": "CAPT",
       "year": 2012
     },
     {
-      "fullName": "Prepare to be Sacked",
       "id": 3,
-      "name": "Prepare to be Sacked",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Prepare to be Sacked",
       "shortName": "HAWK",
       "year": 2012
     },
     {
-      "fullName": "Thats What She Said",
       "id": 4,
-      "name": "Thats What She Said",
       "owners": [
         "670ED790-95AB-4CD9-9708-1A997C227D33"
       ],
+      "name": "Thats What She Said",
       "shortName": "Said",
       "year": 2012
     },
     {
-      "fullName": "Delicious Pasta",
       "id": 5,
-      "name": "Delicious Pasta",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Pasta",
       "shortName": "DP",
       "year": 2012
     },
     {
-      "fullName": "2 Mannings 1 Cup",
       "id": 9,
-      "name": "2 Mannings 1 Cup",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "2 Mannings 1 Cup",
       "shortName": "2M1C",
       "year": 2012
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2012
     },
     {
-      "fullName": "MarshallNomNom ForCutlersBalls",
       "id": 11,
-      "name": "MarshallNomNom ForCutlersBalls",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MarshallNomNom ForCutlersBalls",
       "shortName": "NOM",
       "year": 2012
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2012
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2012
     },
     {
-      "fullName": "Harbaugh's Sputum",
       "id": 14,
-      "name": "Harbaugh's Sputum",
       "owners": [
         "1CADD14C-2060-4856-BC7D-02C46D863D28"
       ],
+      "name": "Harbaugh's Sputum",
       "shortName": "SPIT",
       "year": 2012
     },
     {
-      "fullName": "MKE BLOOOOOOBBBBB!!",
       "id": 15,
-      "name": "MKE BLOOOOOOBBBBB!!",
       "owners": [
         "57312B70-8D32-492F-8850-59850386652F"
       ],
+      "name": "MKE BLOOOOOOBBBBB!!",
       "shortName": "BLOB",
       "year": 2012
     },
     {
-      "fullName": "Blind Side  Bombers",
       "id": 17,
-      "name": "Blind Side  Bombers",
       "owners": [
         "72E2EE97-54D3-4B0E-AF62-BA4C16023157"
       ],
+      "name": "Blind Side  Bombers",
       "shortName": "GAS",
       "year": 2012
     }
   ],
   "2013": [
     {
-      "fullName": "Not The Hammer",
       "id": 1,
-      "name": "Not The Hammer",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Not The Hammer",
       "shortName": "CAPT",
       "year": 2013
     },
     {
-      "fullName": "Prepare to be Sacked",
       "id": 3,
-      "name": "Prepare to be Sacked",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Prepare to be Sacked",
       "shortName": "HAWK",
       "year": 2013
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "670ED790-95AB-4CD9-9708-1A997C227D33"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2013
     },
     {
-      "fullName": "Delicious Pasta",
       "id": 5,
-      "name": "Delicious Pasta",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Pasta",
       "shortName": "DP",
       "year": 2013
     },
     {
-      "fullName": "2 Mannings 1 Cup",
       "id": 9,
-      "name": "2 Mannings 1 Cup",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "2 Mannings 1 Cup",
       "shortName": "2M1C",
       "year": 2013
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2013
     },
     {
-      "fullName": "MarshallNomNom ForCutlersBalls",
       "id": 11,
-      "name": "MarshallNomNom ForCutlersBalls",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MarshallNomNom ForCutlersBalls",
       "shortName": "NOM",
       "year": 2013
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2013
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2013
     },
     {
-      "fullName": "Harbaugh's Sputum",
       "id": 14,
-      "name": "Harbaugh's Sputum",
       "owners": [
         "1CADD14C-2060-4856-BC7D-02C46D863D28"
       ],
+      "name": "Harbaugh's Sputum",
       "shortName": "SPIT",
       "year": 2013
     },
     {
-      "fullName": "MKE BLOOOOOOBBBBB!!",
       "id": 15,
-      "name": "MKE BLOOOOOOBBBBB!!",
       "owners": [
         "310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"
       ],
+      "name": "MKE BLOOOOOOBBBBB!!",
       "shortName": "BLOB",
       "year": 2013
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "72E2EE97-54D3-4B0E-AF62-BA4C16023157"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2013
     }
   ],
   "2014": [
     {
-      "fullName": "Not The Hammer",
       "id": 1,
-      "name": "Not The Hammer",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Not The Hammer",
       "shortName": "CAPT",
       "year": 2014
     },
     {
-      "fullName": "Prepare to be Sacked",
       "id": 3,
-      "name": "Prepare to be Sacked",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Prepare to be Sacked",
       "shortName": "HAWK",
       "year": 2014
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "670ED790-95AB-4CD9-9708-1A997C227D33"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2014
     },
     {
-      "fullName": "Delicious Pasta",
       "id": 5,
-      "name": "Delicious Pasta",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Pasta",
       "shortName": "DP",
       "year": 2014
     },
     {
-      "fullName": "Manning of Steel",
       "id": 9,
-      "name": "Manning of Steel",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning of Steel",
       "shortName": "2M1C",
       "year": 2014
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2014
     },
     {
-      "fullName": "MarshallNomNom ForCutlersBalls",
       "id": 11,
-      "name": "MarshallNomNom ForCutlersBalls",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MarshallNomNom ForCutlersBalls",
       "shortName": "NOM",
       "year": 2014
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2014
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2014
     },
     {
-      "fullName": "Harbaugh's Sputum",
       "id": 14,
-      "name": "Harbaugh's Sputum",
       "owners": [
         "1CADD14C-2060-4856-BC7D-02C46D863D28"
       ],
+      "name": "Harbaugh's Sputum",
       "shortName": "SPIT",
       "year": 2014
     },
     {
-      "fullName": "Shirtcockers Anonymous",
       "id": 15,
-      "name": "Shirtcockers Anonymous",
       "owners": [
         "310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"
       ],
+      "name": "Shirtcockers Anonymous",
       "shortName": "SOCK",
       "year": 2014
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "72E2EE97-54D3-4B0E-AF62-BA4C16023157"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2014
     }
   ],
   "2015": [
     {
-      "fullName": "Not The Hammer",
       "id": 1,
-      "name": "Not The Hammer",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Not The Hammer",
       "shortName": "CAPT",
       "year": 2015
     },
     {
-      "fullName": "Prepare to be Sacked",
       "id": 3,
-      "name": "Prepare to be Sacked",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Prepare to be Sacked",
       "shortName": "HAWK",
       "year": 2015
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "670ED790-95AB-4CD9-9708-1A997C227D33"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2015
     },
     {
-      "fullName": "Delicious Pasta",
       "id": 5,
-      "name": "Delicious Pasta",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Pasta",
       "shortName": "DP",
       "year": 2015
     },
     {
-      "fullName": "Manning of Steel",
       "id": 9,
-      "name": "Manning of Steel",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning of Steel",
       "shortName": "2M1C",
       "year": 2015
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2015
     },
     {
-      "fullName": "MarshallNomNom ForCutlersBalls",
       "id": 11,
-      "name": "MarshallNomNom ForCutlersBalls",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MarshallNomNom ForCutlersBalls",
       "shortName": "NOM",
       "year": 2015
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2015
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2015
     },
     {
-      "fullName": "Harbaugh's Sputum",
       "id": 14,
-      "name": "Harbaugh's Sputum",
       "owners": [
         "1CADD14C-2060-4856-BC7D-02C46D863D28"
       ],
+      "name": "Harbaugh's Sputum",
       "shortName": "SPIT",
       "year": 2015
     },
     {
-      "fullName": "Shirtcockers Anonymous",
       "id": 15,
-      "name": "Shirtcockers Anonymous",
       "owners": [
         "310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"
       ],
+      "name": "Shirtcockers Anonymous",
       "shortName": "SOCK",
       "year": 2015
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "72E2EE97-54D3-4B0E-AF62-BA4C16023157"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2015
     }
   ],
   "2016": [
     {
-      "fullName": "Am I Going Over??",
       "id": 1,
-      "name": "Am I Going Over??",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Am I Going Over??",
       "shortName": "HHH",
       "year": 2016
     },
     {
-      "fullName": "Throw it I am Open",
       "id": 3,
-      "name": "Throw it I am Open",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Throw it I am Open",
       "shortName": "Pack",
       "year": 2016
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "670ED790-95AB-4CD9-9708-1A997C227D33"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2016
     },
     {
-      "fullName": "Delicious Traitorade",
       "id": 5,
-      "name": "Delicious Traitorade",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Traitorade",
       "shortName": "TR8R",
       "year": 2016
     },
     {
-      "fullName": "Manning the Bay",
       "id": 9,
-      "name": "Manning the Bay",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning the Bay",
       "shortName": "2M1C",
       "year": 2016
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2016
     },
     {
-      "fullName": "MarshallNomNom ForCutlersBalls",
       "id": 11,
-      "name": "MarshallNomNom ForCutlersBalls",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MarshallNomNom ForCutlersBalls",
       "shortName": "NOM",
       "year": 2016
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2016
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2016
     },
     {
-      "fullName": "Sputnik's Mad Russians",
       "id": 14,
-      "name": "Sputnik's Mad Russians",
       "owners": [
         "C7CCE30B-298A-4C85-8265-37510D53E1CF"
       ],
+      "name": "Sputnik's Mad Russians",
       "shortName": "SPIT",
       "year": 2016
     },
     {
-      "fullName": "Shirtcockers Anonymous",
       "id": 15,
-      "name": "Shirtcockers Anonymous",
       "owners": [
         "310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"
       ],
+      "name": "Shirtcockers Anonymous",
       "shortName": "SOCK",
       "year": 2016
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "7779796B-FE3A-48C2-BD89-FF25CB2F87DA"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2016
     }
   ],
   "2017": [
     {
-      "fullName": "Am I Going Over??",
       "id": 1,
-      "name": "Am I Going Over??",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Am I Going Over??",
       "shortName": "HHH",
       "year": 2017
     },
     {
-      "fullName": "Throw it I am Open",
       "id": 3,
-      "name": "Throw it I am Open",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Throw it I am Open",
       "shortName": "Pack",
       "year": 2017
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "670ED790-95AB-4CD9-9708-1A997C227D33"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2017
     },
     {
-      "fullName": "Delicious Traitorade",
       "id": 5,
-      "name": "Delicious Traitorade",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Traitorade",
       "shortName": "TR8R",
       "year": 2017
     },
     {
-      "fullName": "Manning the Bay",
       "id": 9,
-      "name": "Manning the Bay",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning the Bay",
       "shortName": "2M1C",
       "year": 2017
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2017
     },
     {
-      "fullName": "MondayNight MemberBerries",
       "id": 11,
-      "name": "MondayNight MemberBerries",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MondayNight MemberBerries",
       "shortName": "HNK",
       "year": 2017
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2017
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2017
     },
     {
-      "fullName": "Sputnik's Mad Russians",
       "id": 14,
-      "name": "Sputnik's Mad Russians",
       "owners": [
         "C7CCE30B-298A-4C85-8265-37510D53E1CF"
       ],
+      "name": "Sputnik's Mad Russians",
       "shortName": "SPIT",
       "year": 2017
     },
     {
-      "fullName": "Shirtcockers Anonymous",
       "id": 15,
-      "name": "Shirtcockers Anonymous",
       "owners": [
         "310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"
       ],
+      "name": "Shirtcockers Anonymous",
       "shortName": "SOCK",
       "year": 2017
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "C117D3A8-0CA0-4D96-AA00-DE4004A13A13"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2017
     }
   ],
   "2018": [
     {
-      "fullName": "Am I Going Over??",
       "id": 1,
-      "name": "Am I Going Over??",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Am I Going Over??",
       "shortName": "HHH",
       "year": 2018
     },
     {
-      "fullName": "Throw it I am Open",
       "id": 3,
-      "name": "Throw it I am Open",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Throw it I am Open",
       "shortName": "Pack",
       "year": 2018
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2018
     },
     {
-      "fullName": "Delicious Traitorade",
       "id": 5,
-      "name": "Delicious Traitorade",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Traitorade",
       "shortName": "TR8R",
       "year": 2018
     },
     {
-      "fullName": "Manning the Bay",
       "id": 9,
-      "name": "Manning the Bay",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning the Bay",
       "shortName": "2M1C",
       "year": 2018
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2018
     },
     {
-      "fullName": "MondayNight MemberBerries",
       "id": 11,
-      "name": "MondayNight MemberBerries",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MondayNight MemberBerries",
       "shortName": "HNK",
       "year": 2018
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2018
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2018
     },
     {
-      "fullName": "Sputnik's Mad Russians",
       "id": 14,
-      "name": "Sputnik's Mad Russians",
       "owners": [
         "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"
       ],
+      "name": "Sputnik's Mad Russians",
       "shortName": "SPIT",
       "year": 2018
     },
     {
-      "fullName": "Shirtcockers Anonymous",
       "id": 15,
-      "name": "Shirtcockers Anonymous",
       "owners": [
         "310C7B23-4C8B-4CC7-8C7B-234C8B7CC782"
       ],
+      "name": "Shirtcockers Anonymous",
       "shortName": "SOCK",
       "year": 2018
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "C117D3A8-0CA0-4D96-AA00-DE4004A13A13"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2018
     }
   ],
   "2019": [
     {
-      "fullName": "Am I Going Over??",
       "id": 1,
-      "name": "Am I Going Over??",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Am I Going Over??",
       "shortName": "HHH",
       "year": 2019
     },
     {
-      "fullName": "Throw it I am Open",
       "id": 3,
-      "name": "Throw it I am Open",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Throw it I am Open",
       "shortName": "Pack",
       "year": 2019
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2019
     },
     {
-      "fullName": "Delicious Traitorade",
       "id": 5,
-      "name": "Delicious Traitorade",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Traitorade",
       "shortName": "TR8R",
       "year": 2019
     },
     {
-      "fullName": "Manning the Bay",
       "id": 9,
-      "name": "Manning the Bay",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning the Bay",
       "shortName": "2M1C",
       "year": 2019
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2019
     },
     {
-      "fullName": "MondayNight MemberBerries",
       "id": 11,
-      "name": "MondayNight MemberBerries",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MondayNight MemberBerries",
       "shortName": "HNK",
       "year": 2019
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2019
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2019
     },
     {
-      "fullName": "Sputnik's Mad Russians",
       "id": 14,
-      "name": "Sputnik's Mad Russians",
       "owners": [
         "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"
       ],
+      "name": "Sputnik's Mad Russians",
       "shortName": "SPIT",
       "year": 2019
     },
     {
-      "fullName": "Shirtcockers Anonymous",
       "id": 15,
-      "name": "Shirtcockers Anonymous",
       "owners": [
         "FAA9326C-D141-4711-A932-6CD1413711B9"
       ],
+      "name": "Shirtcockers Anonymous",
       "shortName": "SOCK",
       "year": 2019
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "C117D3A8-0CA0-4D96-AA00-DE4004A13A13"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2019
     }
   ],
   "2020": [
     {
-      "fullName": "Am I Going Over??",
       "id": 1,
-      "name": "Am I Going Over??",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Am I Going Over??",
       "shortName": "HHH",
       "year": 2020
     },
     {
-      "fullName": "Throw it I am Open",
       "id": 3,
-      "name": "Throw it I am Open",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Throw it I am Open",
       "shortName": "Pack",
       "year": 2020
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2020
     },
     {
-      "fullName": "Delicious Traitorade",
       "id": 5,
-      "name": "Delicious Traitorade",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Delicious Traitorade",
       "shortName": "TR8R",
       "year": 2020
     },
     {
-      "fullName": "Manning the Bay",
       "id": 9,
-      "name": "Manning the Bay",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning the Bay",
       "shortName": "2M1C",
       "year": 2020
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2020
     },
     {
-      "fullName": "MondayNight MemberBerries",
       "id": 11,
-      "name": "MondayNight MemberBerries",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MondayNight MemberBerries",
       "shortName": "HNK",
       "year": 2020
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2020
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2020
     },
     {
-      "fullName": "The Jalapeños",
       "id": 14,
-      "name": "The Jalapeños",
       "owners": [
         "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"
       ],
+      "name": "The Jalapeños",
       "shortName": "JPÑ",
       "year": 2020
     },
     {
-      "fullName": "Little Red Fournette",
       "id": 15,
-      "name": "Little Red Fournette",
       "owners": [
         "FAA9326C-D141-4711-A932-6CD1413711B9"
       ],
+      "name": "Little Red Fournette",
       "shortName": "LRF",
       "year": 2020
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "C117D3A8-0CA0-4D96-AA00-DE4004A13A13"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2020
     }
   ],
   "2021": [
     {
-      "fullName": "Am I Going Over??",
       "id": 1,
-      "name": "Am I Going Over??",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Am I Going Over??",
       "shortName": "HHH",
       "year": 2021
     },
     {
-      "fullName": "Throw it I am Open",
       "id": 3,
-      "name": "Throw it I am Open",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Throw it I am Open",
       "shortName": "Pack",
       "year": 2021
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2021
     },
     {
-      "fullName": "Oh Saquon You See",
       "id": 5,
-      "name": "Oh Saquon You See",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Oh Saquon You See",
       "shortName": "SQN",
       "year": 2021
     },
     {
-      "fullName": "Manning the Bay",
       "id": 9,
-      "name": "Manning the Bay",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning the Bay",
       "shortName": "2M1C",
       "year": 2021
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2021
     },
     {
-      "fullName": "MondayNight MemberBerries",
       "id": 11,
-      "name": "MondayNight MemberBerries",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MondayNight MemberBerries",
       "shortName": "HNK",
       "year": 2021
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2021
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2021
     },
     {
-      "fullName": "The Jalapeños",
       "id": 14,
-      "name": "The Jalapeños",
       "owners": [
         "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"
       ],
+      "name": "The Jalapeños",
       "shortName": "JPÑ",
       "year": 2021
     },
     {
-      "fullName": "Herbert Fully Loaded",
       "id": 15,
-      "name": "Herbert Fully Loaded",
       "owners": [
         "FAA9326C-D141-4711-A932-6CD1413711B9"
       ],
+      "name": "Herbert Fully Loaded",
       "shortName": "HFL",
       "year": 2021
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "C117D3A8-0CA0-4D96-AA00-DE4004A13A13"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2021
     }
   ],
   "2022": [
     {
-      "fullName": "Am I Going Over??",
       "id": 1,
-      "name": "Am I Going Over??",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Am I Going Over??",
       "shortName": "HHH",
       "year": 2022
     },
     {
-      "fullName": "A.R.12 MVPsychedelic",
       "id": 3,
-      "name": "A.R.12 MVPsychedelic",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "A.R.12 MVPsychedelic",
       "shortName": "MVP",
       "year": 2022
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2022
     },
     {
-      "fullName": "Oh Saquon You See",
       "id": 5,
-      "name": "Oh Saquon You See",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Oh Saquon You See",
       "shortName": "SQN",
       "year": 2022
     },
     {
-      "fullName": "Manning the Bay",
       "id": 9,
-      "name": "Manning the Bay",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning the Bay",
       "shortName": "2M1C",
       "year": 2022
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2022
     },
     {
-      "fullName": "MondayNight MemberBerries",
       "id": 11,
-      "name": "MondayNight MemberBerries",
       "owners": [
         "DB2F4DE4-A627-4203-9CBC-5016EC30C3FC"
       ],
+      "name": "MondayNight MemberBerries",
       "shortName": "HNK",
       "year": 2022
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2022
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2022
     },
     {
-      "fullName": "The Jalapeños",
       "id": 14,
-      "name": "The Jalapeños",
       "owners": [
         "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"
       ],
+      "name": "The Jalapeños",
       "shortName": "JPÑ",
       "year": 2022
     },
     {
-      "fullName": "Ja’Marr Chase Bank",
       "id": 15,
-      "name": "Ja’Marr Chase Bank",
       "owners": [
         "FAA9326C-D141-4711-A932-6CD1413711B9"
       ],
+      "name": "Ja’Marr Chase Bank",
       "shortName": "JCB",
       "year": 2022
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "C117D3A8-0CA0-4D96-AA00-DE4004A13A13"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2022
     }
   ],
   "2023": [
     {
-      "fullName": "Am I Going Over??",
       "id": 1,
-      "name": "Am I Going Over??",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Am I Going Over??",
       "shortName": "HHH",
       "year": 2023
     },
     {
-      "fullName": "Forgot About Dre",
       "id": 3,
-      "name": "Forgot About Dre",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Forgot About Dre",
       "shortName": "TFL",
       "year": 2023
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2023
     },
     {
-      "fullName": "Oh Saquon You See",
       "id": 5,
-      "name": "Oh Saquon You See",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Oh Saquon You See",
       "shortName": "SQN",
       "year": 2023
     },
     {
-      "fullName": "Manning the Bay",
       "id": 9,
-      "name": "Manning the Bay",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Manning the Bay",
       "shortName": "2M1C",
       "year": 2023
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2023
     },
     {
-      "fullName": "The Durango Kids",
       "id": 11,
-      "name": "The Durango Kids",
       "owners": [
         "0852AF46-6C26-4040-92AF-466C26C040F9"
       ],
+      "name": "The Durango Kids",
       "shortName": "TDK",
       "year": 2023
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2023
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2023
     },
     {
-      "fullName": "The Jalapeños",
       "id": 14,
-      "name": "The Jalapeños",
       "owners": [
         "A88DD146-6C4F-4BF8-B4F0-695BDCDC7347"
       ],
+      "name": "The Jalapeños",
       "shortName": "JPÑ",
       "year": 2023
     },
     {
-      "fullName": "Ja’Marr Chase Bank",
       "id": 15,
-      "name": "Ja’Marr Chase Bank",
       "owners": [
         "FAA9326C-D141-4711-A932-6CD1413711B9"
       ],
+      "name": "Ja’Marr Chase Bank",
       "shortName": "JCB",
       "year": 2023
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "C117D3A8-0CA0-4D96-AA00-DE4004A13A13"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2023
     }
   ],
   "2024": [
     {
-      "fullName": "Am I Going Over??",
       "id": 1,
-      "name": "Am I Going Over??",
       "owners": [
         "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
       ],
+      "name": "Am I Going Over??",
       "shortName": "HHH",
       "year": 2024
     },
     {
-      "fullName": "Forgot About Dre",
       "id": 3,
-      "name": "Forgot About Dre",
       "owners": [
         "6BB7653E-8BC9-40F9-952A-33DD089B251C"
       ],
+      "name": "Forgot About Dre",
       "shortName": "TFL",
       "year": 2024
     },
     {
-      "fullName": "Joe Buck Yourself",
       "id": 4,
-      "name": "Joe Buck Yourself",
       "owners": [
         "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"
       ],
+      "name": "Joe Buck Yourself",
       "shortName": "Buck",
       "year": 2024
     },
     {
-      "fullName": "Oh Saquon You See",
       "id": 5,
-      "name": "Oh Saquon You See",
       "owners": [
         "CBC901C7-2511-49DD-A053-5F6E22C32329"
       ],
+      "name": "Oh Saquon You See",
       "shortName": "SQN",
       "year": 2024
     },
     {
-      "fullName": "Flo'Rida Flock",
       "id": 9,
-      "name": "Flo'Rida Flock",
       "owners": [
         "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
       ],
+      "name": "Flo'Rida Flock",
       "shortName": "FF",
       "year": 2024
     },
     {
-      "fullName": "Naptown Goiters",
       "id": 10,
-      "name": "Naptown Goiters",
       "owners": [
         "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
       ],
+      "name": "Naptown Goiters",
       "shortName": "GOIT",
       "year": 2024
     },
     {
-      "fullName": "The Durango Kids",
       "id": 11,
-      "name": "The Durango Kids",
       "owners": [
         "0852AF46-6C26-4040-92AF-466C26C040F9"
       ],
+      "name": "The Durango Kids",
       "shortName": "TDK",
       "year": 2024
     },
     {
-      "fullName": "Tucker's Team",
       "id": 12,
-      "name": "Tucker's Team",
       "owners": [
         "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
       ],
+      "name": "Tucker's Team",
       "shortName": "TJS",
       "year": 2024
     },
     {
-      "fullName": "Uncooked Box",
       "id": 13,
-      "name": "Uncooked Box",
       "owners": [
         "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
       ],
+      "name": "Uncooked Box",
       "shortName": "BARB",
       "year": 2024
     },
     {
-      "fullName": "My Ball Zach Ertz",
       "id": 14,
-      "name": "My Ball Zach Ertz",
       "owners": [
         "99BCAACF-9EA7-458D-9FA2-634E5F4E48DE"
       ],
+      "name": "My Ball Zach Ertz",
       "shortName": "MBZE",
       "year": 2024
     },
     {
-      "fullName": "Ja’Marr Chase Bank",
       "id": 15,
-      "name": "Ja’Marr Chase Bank",
       "owners": [
         "FAA9326C-D141-4711-A932-6CD1413711B9"
       ],
+      "name": "Ja’Marr Chase Bank",
       "shortName": "JCB",
       "year": 2024
     },
     {
-      "fullName": "Bye Week Dominators",
       "id": 17,
-      "name": "Bye Week Dominators",
       "owners": [
         "C117D3A8-0CA0-4D96-AA00-DE4004A13A13"
       ],
+      "name": "Bye Week Dominators",
       "shortName": "LOSE",
       "year": 2024
+    }
+  ],
+  "2025": [
+    {
+      "id": 1,
+      "owners": [
+        "A24CE5EF-0E09-49AB-94D2-19EC1663B700"
+      ],
+      "name": "Am I Going Over??",
+      "shortName": "HHH",
+      "year": 2025
+    },
+    {
+      "id": 3,
+      "owners": [
+        "6BB7653E-8BC9-40F9-952A-33DD089B251C"
+      ],
+      "name": "Picked Last Squad",
+      "shortName": "IR",
+      "year": 2025
+    },
+    {
+      "id": 4,
+      "owners": [
+        "75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB"
+      ],
+      "name": "Joe Buck Yourself",
+      "shortName": "Buck",
+      "year": 2025
+    },
+    {
+      "id": 5,
+      "owners": [
+        "CBC901C7-2511-49DD-A053-5F6E22C32329"
+      ],
+      "name": "Oh Saquon You See",
+      "shortName": "SQN",
+      "year": 2025
+    },
+    {
+      "id": 9,
+      "owners": [
+        "2569536C-A58F-4E7C-801F-F06DF3BE2A73"
+      ],
+      "name": "Flo'Rida Flock",
+      "shortName": "FF",
+      "year": 2025
+    },
+    {
+      "id": 10,
+      "owners": [
+        "F1509406-592B-43AF-A6E8-0F6BFB5638E7"
+      ],
+      "name": "The Micah Parsons Project",
+      "shortName": "TMPP",
+      "year": 2025
+    },
+    {
+      "id": 11,
+      "owners": [
+        "0852AF46-6C26-4040-92AF-466C26C040F9"
+      ],
+      "name": "The Durango Kids",
+      "shortName": "TDK",
+      "year": 2025
+    },
+    {
+      "id": 12,
+      "owners": [
+        "8C3CB4F9-57AD-499A-85B8-D9AEB5A87256"
+      ],
+      "name": "Tucker's Team",
+      "shortName": "TJS",
+      "year": 2025
+    },
+    {
+      "id": 13,
+      "owners": [
+        "AD6BDCCF-B64B-4BA6-8F45-D11A9617659E"
+      ],
+      "name": "Uncooked Box",
+      "shortName": "BARB",
+      "year": 2025
+    },
+    {
+      "id": 14,
+      "owners": [
+        "2C22AA9D-2128-4B17-83ED-8C58A2D7B6BA"
+      ],
+      "name": "Waterboys Win Championships",
+      "shortName": "WATR",
+      "year": 2025
+    },
+    {
+      "id": 15,
+      "owners": [
+        "FAA9326C-D141-4711-A932-6CD1413711B9"
+      ],
+      "name": "Ja’Marr Chase Bank",
+      "shortName": "JCB",
+      "year": 2025
+    },
+    {
+      "id": 17,
+      "owners": [
+        "C117D3A8-0CA0-4D96-AA00-DE4004A13A13"
+      ],
+      "name": "Bye Week Dominators",
+      "shortName": "LOSE",
+      "year": 2025
     }
   ]
 }

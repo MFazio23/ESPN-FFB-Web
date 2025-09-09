@@ -1736,5 +1736,36 @@
       "max": 2861.8399999999997,
       "reverse": false
     }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-points-2C22AA9D-2128-4B17-83ED-8C58A2D7B6BA",
+    "dataset": [],
+    "seriesData": [
+      {
+        "dataKey": "pointsScored",
+        "label": "Points Scored",
+        "area": false,
+        "showMark": true
+      },
+      {
+        "dataKey": "pointsAgainst",
+        "label": "Points Against",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "min": 1425.0,
+      "max": 2861.8399999999997,
+      "reverse": false
+    }
   }
 ]

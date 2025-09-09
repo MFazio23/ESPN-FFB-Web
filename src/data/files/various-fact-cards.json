@@ -1,241 +1,241 @@
 [
   {
+    "title": "Top Scoring Player Weeks",
+    "subtitle": "Modern seasons (2019-present) only",
     "entries": [
       {
         "number": 1,
-        "subtitle": "The Jalapeños - 2020 week 12",
-        "title": "Tyreek Hill (WR) - 67.90 points"
+        "title": "Tyreek Hill (WR) - 67.90 points",
+        "subtitle": "The Jalapeños - 2020 week 12"
       },
       {
         "number": 2,
-        "subtitle": "Herbert Fully Loaded - 2021 week 17",
-        "title": "Ja'Marr Chase (WR) - 65.60 points"
+        "title": "Ja'Marr Chase (WR) - 65.60 points",
+        "subtitle": "Herbert Fully Loaded - 2021 week 17"
       },
       {
         "number": 3,
-        "subtitle": "Ja’Marr Chase Bank - 2024 week 10",
-        "title": "Ja'Marr Chase (WR) - 65.40 points"
+        "title": "Ja'Marr Chase (WR) - 65.40 points",
+        "subtitle": "Ja’Marr Chase Bank - 2024 week 10"
       },
       {
         "number": 4,
-        "subtitle": "Tucker's Team - 2019 week 7",
-        "title": "Aaron Rodgers (QB) - 63.76 points"
+        "title": "Aaron Rodgers (QB) - 63.76 points",
+        "subtitle": "Tucker's Team - 2019 week 7"
       },
       {
         "number": 5,
-        "subtitle": "The Jalapeños - 2020 week 7",
-        "title": "Tyler Lockett (WR) - 63.72 points"
+        "title": "Tyler Lockett (WR) - 63.72 points",
+        "subtitle": "The Jalapeños - 2020 week 7"
       },
       {
         "number": 6,
-        "subtitle": "Delicious Traitorade - 2019 week 5",
-        "title": "Will Fuller V (WR) - 63.70 points"
+        "title": "Will Fuller V (WR) - 63.70 points",
+        "subtitle": "Delicious Traitorade - 2019 week 5"
       },
       {
         "number": 7,
-        "subtitle": "The Durango Kids - 2024 week 14",
-        "title": "Josh Allen (QB) - 62.88 points"
+        "title": "Josh Allen (QB) - 62.88 points",
+        "subtitle": "The Durango Kids - 2024 week 14"
       },
       {
         "number": 8,
-        "subtitle": "Naptown Goiters - 2023 week 9",
-        "title": "C.J. Stroud (QB) - 61.80 points"
+        "title": "C.J. Stroud (QB) - 61.80 points",
+        "subtitle": "Naptown Goiters - 2023 week 9"
       },
       {
         "number": 9,
-        "subtitle": "Naptown Goiters - 2019 week 5",
-        "title": "Deshaun Watson (QB) - 61.74 points"
+        "title": "Deshaun Watson (QB) - 61.74 points",
+        "subtitle": "Naptown Goiters - 2019 week 5"
       },
       {
         "number": 10,
-        "subtitle": "Manning the Bay - 2023 week 16",
-        "title": "Amari Cooper (WR) - 61.50 points"
+        "title": "Amari Cooper (WR) - 61.50 points",
+        "subtitle": "Manning the Bay - 2023 week 16"
       }
-    ],
-    "subtitle": "Modern seasons (2019-present) only",
-    "title": "Top Scoring Player Weeks"
+    ]
   },
   {
+    "title": "Top Scoring Non-QB Weeks",
+    "subtitle": "Modern seasons (2019-present) only",
     "entries": [
       {
         "number": 1,
-        "subtitle": "The Jalapeños - 2020 week 12",
-        "title": "Tyreek Hill (WR) - 67.90 points"
+        "title": "Tyreek Hill (WR) - 67.90 points",
+        "subtitle": "The Jalapeños - 2020 week 12"
       },
       {
         "number": 2,
-        "subtitle": "Herbert Fully Loaded - 2021 week 17",
-        "title": "Ja'Marr Chase (WR) - 65.60 points"
+        "title": "Ja'Marr Chase (WR) - 65.60 points",
+        "subtitle": "Herbert Fully Loaded - 2021 week 17"
       },
       {
         "number": 3,
-        "subtitle": "Ja’Marr Chase Bank - 2024 week 10",
-        "title": "Ja'Marr Chase (WR) - 65.40 points"
+        "title": "Ja'Marr Chase (WR) - 65.40 points",
+        "subtitle": "Ja’Marr Chase Bank - 2024 week 10"
       },
       {
         "number": 4,
-        "subtitle": "The Jalapeños - 2020 week 7",
-        "title": "Tyler Lockett (WR) - 63.72 points"
+        "title": "Tyler Lockett (WR) - 63.72 points",
+        "subtitle": "The Jalapeños - 2020 week 7"
       },
       {
         "number": 5,
-        "subtitle": "Delicious Traitorade - 2019 week 5",
-        "title": "Will Fuller V (WR) - 63.70 points"
+        "title": "Will Fuller V (WR) - 63.70 points",
+        "subtitle": "Delicious Traitorade - 2019 week 5"
       },
       {
         "number": 6,
-        "subtitle": "Manning the Bay - 2023 week 16",
-        "title": "Amari Cooper (WR) - 61.50 points"
+        "title": "Amari Cooper (WR) - 61.50 points",
+        "subtitle": "Manning the Bay - 2023 week 16"
       },
       {
         "number": 7,
-        "subtitle": "Tucker's Team - 2023 week 3",
-        "title": "De'Von Achane (RB) - 61.30 points"
+        "title": "De'Von Achane (RB) - 61.30 points",
+        "subtitle": "Tucker's Team - 2023 week 3"
       },
       {
         "number": 8,
-        "subtitle": "Joe Buck Yourself - 2020 week 16",
-        "title": "Alvin Kamara (RB) - 61.20 points"
+        "title": "Alvin Kamara (RB) - 61.20 points",
+        "subtitle": "Joe Buck Yourself - 2020 week 16"
       },
       {
         "number": 9,
-        "subtitle": "Joe Buck Yourself - 2022 week 9",
-        "title": "Joe Mixon (RB) - 60.10 points"
+        "title": "Joe Mixon (RB) - 60.10 points",
+        "subtitle": "Joe Buck Yourself - 2022 week 9"
       },
       {
         "number": 10,
-        "subtitle": "Oh Saquon You See - 2023 week 5",
-        "title": "DJ Moore (WR) - 59.00 points"
+        "title": "DJ Moore (WR) - 59.00 points",
+        "subtitle": "Oh Saquon You See - 2023 week 5"
       }
-    ],
-    "subtitle": "Modern seasons (2019-present) only",
-    "title": "Top Scoring Non-QB Weeks"
+    ]
   },
   {
+    "title": "Lucky Winners",
+    "subtitle": "Teams with a winning record and a negative point differential",
     "entries": [
       {
         "number": 1,
-        "subtitle": "1893.94-2097.32",
-        "title": "Tucker James (2019): 7-6 (-203.38 PD)"
+        "title": "Tucker James (2019): 7-6 (-203.38 PD)",
+        "subtitle": "1893.94-2097.32"
       },
       {
         "number": 2,
-        "subtitle": "1509.00-1651.00",
-        "title": "Scott Johnson (2010): 8-5 (-142.00 PD)"
+        "title": "Scott Johnson (2010): 8-5 (-142.00 PD)",
+        "subtitle": "1509.00-1651.00"
       },
       {
         "number": 3,
-        "subtitle": "1607.00-1736.00",
-        "title": "Justin Witz (2009): 7-6 (-129.00 PD)"
+        "title": "Justin Witz (2009): 7-6 (-129.00 PD)",
+        "subtitle": "1607.00-1736.00"
       },
       {
         "number": 4,
-        "subtitle": "1596.00-1718.00",
-        "title": "James Otto (2014): 7-6 (-122.00 PD)"
+        "title": "James Otto (2014): 7-6 (-122.00 PD)",
+        "subtitle": "1596.00-1718.00"
       },
       {
         "number": 5,
-        "subtitle": "1753.00-1803.00",
-        "title": "Brandon Gustafson (2015): 7-6 (-50.00 PD)"
+        "title": "Brandon Gustafson (2015): 7-6 (-50.00 PD)",
+        "subtitle": "1753.00-1803.00"
       },
       {
         "number": 6,
-        "subtitle": "1836.52-1872.12",
-        "title": "David Pietrzykowski (2020): 8-5 (-35.60 PD)"
+        "title": "David Pietrzykowski (2020): 8-5 (-35.60 PD)",
+        "subtitle": "1836.52-1872.12"
       },
       {
         "number": 7,
-        "subtitle": "1653.00-1687.00",
-        "title": "Tucker James (2010): 7-6 (-34.00 PD)"
+        "title": "Tucker James (2010): 7-6 (-34.00 PD)",
+        "subtitle": "1653.00-1687.00"
       },
       {
         "number": 8,
-        "subtitle": "2124.58-2156.32",
-        "title": "James Otto (2023): 8-6 (-31.74 PD)"
+        "title": "James Otto (2023): 8-6 (-31.74 PD)",
+        "subtitle": "2124.58-2156.32"
       },
       {
         "number": 9,
-        "subtitle": "1973.06-1999.78",
-        "title": "Ben Pelc (2024): 8-6 (-26.72 PD)"
+        "title": "Ben Pelc (2024): 8-6 (-26.72 PD)",
+        "subtitle": "1973.06-1999.78"
       },
       {
         "number": 10,
-        "subtitle": "1572.00-1586.00",
-        "title": "Michael Fazio (2015): 8-5 (-14.00 PD)"
+        "title": "Michael Fazio (2015): 8-5 (-14.00 PD)",
+        "subtitle": "1572.00-1586.00"
       },
       {
         "number": 11,
-        "subtitle": "1671.00-1684.00",
-        "title": "John Otto (2010): 8-5 (-13.00 PD)"
+        "title": "John Otto (2010): 8-5 (-13.00 PD)",
+        "subtitle": "1671.00-1684.00"
       },
       {
         "number": 12,
-        "subtitle": "1907.38-1908.22",
-        "title": "Ben Pelc (2019): 7-6 (-0.84 PD)"
+        "title": "Ben Pelc (2019): 7-6 (-0.84 PD)",
+        "subtitle": "1907.38-1908.22"
       }
-    ],
-    "subtitle": "Teams with a winning record and a negative point differential",
-    "title": "Lucky Winners"
+    ]
   },
   {
+    "title": "Unlucky Losers",
+    "subtitle": "Teams with a losing record and a positive point differential",
     "entries": [
       {
         "number": 1,
-        "subtitle": "2302.82-2157.34",
-        "title": "Nick Kwiecien (2023): 6-8 (145.48 PD)"
+        "title": "Nick Kwiecien (2023): 6-8 (145.48 PD)",
+        "subtitle": "2302.82-2157.34"
       },
       {
         "number": 2,
-        "subtitle": "1903.90-1816.86",
-        "title": "Juan Pablo Siller (2019): 6-7 (87.04 PD)"
+        "title": "Juan Pablo Siller (2019): 6-7 (87.04 PD)",
+        "subtitle": "1903.90-1816.86"
       },
       {
         "number": 3,
-        "subtitle": "2289.66-2220.00",
-        "title": "Tim Ericsen (2022): 6-8 (69.66 PD)"
+        "title": "Tim Ericsen (2022): 6-8 (69.66 PD)",
+        "subtitle": "2289.66-2220.00"
       },
       {
         "number": 4,
-        "subtitle": "1925.78-1859.62",
-        "title": "Blayne Roselle (2022): 6-8 (66.16 PD)"
+        "title": "Blayne Roselle (2022): 6-8 (66.16 PD)",
+        "subtitle": "1925.78-1859.62"
       },
       {
         "number": 5,
-        "subtitle": "2115.52-2049.40",
-        "title": "Tim Ericsen (2023): 6-8 (66.12 PD)"
+        "title": "Tim Ericsen (2023): 6-8 (66.12 PD)",
+        "subtitle": "2115.52-2049.40"
       },
       {
         "number": 6,
-        "subtitle": "1782.00-1716.00",
-        "title": "Ben Ericsen (2011): 6-7 (66.00 PD)"
+        "title": "Ben Ericsen (2011): 6-7 (66.00 PD)",
+        "subtitle": "1782.00-1716.00"
       },
       {
         "number": 7,
-        "subtitle": "1642.00-1601.00",
-        "title": "Dave Smith (2010): 5-8 (41.00 PD)"
+        "title": "Dave Smith (2010): 5-8 (41.00 PD)",
+        "subtitle": "1642.00-1601.00"
       },
       {
         "number": 8,
-        "subtitle": "1898.00-1873.00",
-        "title": "David Breen (2009): 6-7 (25.00 PD)"
+        "title": "David Breen (2009): 6-7 (25.00 PD)",
+        "subtitle": "1898.00-1873.00"
       },
       {
         "number": 9,
-        "subtitle": "1898.00-1873.00",
-        "title": "Tim Ericsen (2009): 6-7 (25.00 PD)"
+        "title": "Tim Ericsen (2009): 6-7 (25.00 PD)",
+        "subtitle": "1898.00-1873.00"
       },
       {
         "number": 10,
-        "subtitle": "1809.00-1788.00",
-        "title": "David Pietrzykowski (2014): 6-7 (21.00 PD)"
+        "title": "David Pietrzykowski (2014): 6-7 (21.00 PD)",
+        "subtitle": "1809.00-1788.00"
       },
       {
         "number": 11,
-        "subtitle": "1888.00-1881.00",
-        "title": "Tucker James (2014): 5-8 (7.00 PD)"
+        "title": "Tucker James (2014): 5-8 (7.00 PD)",
+        "subtitle": "1888.00-1881.00"
       }
-    ],
-    "subtitle": "Teams with a losing record and a positive point differential",
-    "title": "Unlucky Losers"
+    ]
   }
 ]
