@@ -1,4 +1,3 @@
-import * as React from 'react';
 import {useState} from 'react';
 import {Paper, Tab, Table, TableBody, TableCell, TableContainer, TableRow, Tabs, Typography} from "@mui/material";
 // @ts-ignore
