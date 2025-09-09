@@ -8,7 +8,7 @@ export default function OwnerVersusTable({records}) {
         tableItems: [
             {
                 id: 'teamName',
-                value: team.fullName,
+                value: team.fullName ?? team.name,
                 numeric: false
             },
             {
