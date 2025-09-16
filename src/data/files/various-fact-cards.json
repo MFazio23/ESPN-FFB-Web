@@ -237,5 +237,81 @@
         "subtitle": "1888.00-1881.00"
       }
     ]
+  },
+  {
+    "title": "Most Perfect Roster Weeks",
+    "subtitle": "Weeks where a manager played their best possible lineup",
+    "entries": [
+      {
+        "number": 1,
+        "title": "Tim Ericsen",
+        "subtitle": "10 perfect weeks"
+      },
+      {
+        "number": 2,
+        "title": "Ben Pelc",
+        "subtitle": "8 perfect weeks"
+      },
+      {
+        "number": 3,
+        "title": "Nick Kwiecien",
+        "subtitle": "7 perfect weeks"
+      },
+      {
+        "number": 4,
+        "title": "James Otto",
+        "subtitle": "5 perfect weeks"
+      },
+      {
+        "number": 5,
+        "title": "Michael Fazio",
+        "subtitle": "5 perfect weeks"
+      },
+      {
+        "number": 6,
+        "title": "Scott Johnson",
+        "subtitle": "5 perfect weeks"
+      },
+      {
+        "number": 7,
+        "title": "Tucker James",
+        "subtitle": "4 perfect weeks"
+      },
+      {
+        "number": 8,
+        "title": "Ben Ericsen",
+        "subtitle": "4 perfect weeks"
+      },
+      {
+        "number": 9,
+        "title": "Juan Pablo Siller",
+        "subtitle": "3 perfect weeks"
+      },
+      {
+        "number": 10,
+        "title": "Justin Witz",
+        "subtitle": "2 perfect weeks"
+      },
+      {
+        "number": 11,
+        "title": "David Pietrzykowski",
+        "subtitle": "2 perfect weeks"
+      },
+      {
+        "number": 12,
+        "title": "Blayne Roselle",
+        "subtitle": "1 perfect week"
+      },
+      {
+        "number": 13,
+        "title": "Rolando Lopez",
+        "subtitle": "1 perfect week"
+      },
+      {
+        "number": 14,
+        "title": "Ben Green",
+        "subtitle": "1 perfect week"
+      }
+    ]
   }
 ]

@@ -17,3 +17,5 @@
     - [ ] Level of craziness in matchups between two teams
         - For example, Witz and Tim seem to have either close games or blowouts.
         - Is there a way to track variance in scores between two teams?
+- [X] Most "perfect" weeks (best ball score == actual score)
+- [ ] Owner totals on "versus opposing teams" chart
