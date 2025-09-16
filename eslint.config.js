@@ -1,10 +1,10 @@
 import js from '@eslint/js'
 import globals from 'globals'
+import noRelativeImportPaths from 'eslint-plugin-no-relative-import-paths'
 import reactHooks from 'eslint-plugin-react-hooks'
 import reactRefresh from 'eslint-plugin-react-refresh'
 import tseslint from 'typescript-eslint'
 import {globalIgnores} from 'eslint/config'
-import noRelativeImportPaths from 'eslint-plugin-no-relative-import-paths'
 
 export default tseslint.config([
     globalIgnores(['dist']),
@@ -22,6 +22,8 @@ export default tseslint.config([
         },
         plugins: {
             "no-relative-import-paths": noRelativeImportPaths,
+            'react-hooks': reactHooks,
+            'react-refresh': reactRefresh,
         },
         rules: {
             ...reactHooks.configs.recommended.rules,

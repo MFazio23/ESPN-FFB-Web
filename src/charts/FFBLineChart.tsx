@@ -28,7 +28,7 @@ export function FFBLineChart(
                 ...series,
                 color: colorList[index % colorList.length],
                 type: 'line',
-                showTick: series.showTick ?? true
+                showMark: series.showMark ?? true
             }))}
 
         />)

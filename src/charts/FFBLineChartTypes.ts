@@ -15,7 +15,7 @@ export interface SeriesDataProps {
     label?: string;
     stack?: string;
     area?: boolean;
-    showTick?: boolean;
+    showMark?: boolean;
 }
 
 export enum LineChartAxisDataType {
