@@ -162,16 +162,26 @@
       },
       {
         "number": 10,
+        "title": "James Otto (2025): 2-1 (-22.92 PD)",
+        "subtitle": "424.60-447.52"
+      },
+      {
+        "number": 11,
         "title": "Michael Fazio (2015): 8-5 (-14.00 PD)",
         "subtitle": "1572.00-1586.00"
       },
       {
-        "number": 11,
+        "number": 12,
         "title": "John Otto (2010): 8-5 (-13.00 PD)",
         "subtitle": "1671.00-1684.00"
       },
       {
-        "number": 12,
+        "number": 13,
+        "title": "Blayne Roselle (2025): 2-1 (-10.60 PD)",
+        "subtitle": "424.64-435.24"
+      },
+      {
+        "number": 14,
         "title": "Ben Pelc (2019): 7-6 (-0.84 PD)",
         "subtitle": "1907.38-1908.22"
       }
@@ -213,26 +223,31 @@
       },
       {
         "number": 7,
+        "title": "Michael Fazio (2025): 1-2 (44.98 PD)",
+        "subtitle": "504.08-459.10"
+      },
+      {
+        "number": 8,
         "title": "Dave Smith (2010): 5-8 (41.00 PD)",
         "subtitle": "1642.00-1601.00"
       },
       {
-        "number": 8,
+        "number": 9,
         "title": "David Breen (2009): 6-7 (25.00 PD)",
         "subtitle": "1898.00-1873.00"
       },
       {
-        "number": 9,
+        "number": 10,
         "title": "Tim Ericsen (2009): 6-7 (25.00 PD)",
         "subtitle": "1898.00-1873.00"
       },
       {
-        "number": 10,
+        "number": 11,
         "title": "David Pietrzykowski (2014): 6-7 (21.00 PD)",
         "subtitle": "1809.00-1788.00"
       },
       {
-        "number": 11,
+        "number": 12,
         "title": "Tucker James (2014): 5-8 (7.00 PD)",
         "subtitle": "1888.00-1881.00"
       }
