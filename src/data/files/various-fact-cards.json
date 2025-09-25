@@ -394,5 +394,137 @@
         "subtitle": "Week 12, 2023 (Actual: 136.04 points)"
       }
     ]
+  },
+  {
+    "title": "Largest Positive Projection Gaps",
+    "subtitle": "Weeks where teams most outperformed their projections",
+    "entries": [
+      {
+        "number": 1,
+        "title": "Naptown Goiters - 112.24 points",
+        "subtitle": "Week 5, 2019: 262.62 (A) vs. 150.38 (P)"
+      },
+      {
+        "number": 2,
+        "title": "Delicious Traitorade - 102.71 points",
+        "subtitle": "Week 5, 2019: 268.02 (A) vs. 165.31 (P)"
+      },
+      {
+        "number": 3,
+        "title": "Uncooked Box - 85.62 points",
+        "subtitle": "Week 3, 2023: 254.46 (A) vs. 168.84 (P)"
+      },
+      {
+        "number": 4,
+        "title": "Am I Going Over?? - 84.23 points",
+        "subtitle": "Week 5, 2019: 246.82 (A) vs. 162.59 (P)"
+      },
+      {
+        "number": 5,
+        "title": "Manning the Bay - 81.08 points",
+        "subtitle": "Week 2, 2020: 219.36 (A) vs. 138.28 (P)"
+      },
+      {
+        "number": 6,
+        "title": "The Jalapeños - 81.01 points",
+        "subtitle": "Week 12, 2020: 247.84 (A) vs. 166.83 (P)"
+      },
+      {
+        "number": 7,
+        "title": "Am I Going Over?? - 80.90 points",
+        "subtitle": "Week 2, 2020: 232.12 (A) vs. 151.22 (P)"
+      },
+      {
+        "number": 8,
+        "title": "Ja’Marr Chase Bank - 79.43 points",
+        "subtitle": "Week 13, 2023: 246.90 (A) vs. 167.47 (P)"
+      },
+      {
+        "number": 9,
+        "title": "Sputnik's Mad Russians - 79.39 points",
+        "subtitle": "Week 10, 2019: 223.42 (A) vs. 144.03 (P)"
+      },
+      {
+        "number": 10,
+        "title": "The Durango Kids - 78.02 points",
+        "subtitle": "Week 13, 2023: 227.28 (A) vs. 149.26 (P)"
+      },
+      {
+        "number": 11,
+        "title": "Ja’Marr Chase Bank - 77.63 points",
+        "subtitle": "Week 5, 2023: 234.94 (A) vs. 157.31 (P)"
+      },
+      {
+        "number": 12,
+        "title": "Naptown Goiters - 77.46 points",
+        "subtitle": "Week 11, 2021: 234.28 (A) vs. 156.82 (P)"
+      }
+    ]
+  },
+  {
+    "title": "Largest Negative Projection Gaps",
+    "subtitle": "Weeks where teams most underperformed their projections",
+    "entries": [
+      {
+        "number": 1,
+        "title": "Am I Going Over?? - -60.10 points",
+        "subtitle": "Week 6, 2022: 100.14 (A) vs. 160.24 (P)"
+      },
+      {
+        "number": 2,
+        "title": "Uncooked Box - -60.58 points",
+        "subtitle": "Week 3, 2024: 96.82 (A) vs. 157.40 (P)"
+      },
+      {
+        "number": 3,
+        "title": "Tucker's Team - -60.76 points",
+        "subtitle": "Week 6, 2023: 85.24 (A) vs. 146.00 (P)"
+      },
+      {
+        "number": 4,
+        "title": "Tucker's Team - -61.23 points",
+        "subtitle": "Week 12, 2020: 104.36 (A) vs. 165.59 (P)"
+      },
+      {
+        "number": 5,
+        "title": "Bye Week Dominators - -62.95 points",
+        "subtitle": "Week 3, 2024: 88.60 (A) vs. 151.55 (P)"
+      },
+      {
+        "number": 6,
+        "title": "The Jalapeños - -63.77 points",
+        "subtitle": "Week 14, 2023: 76.64 (A) vs. 140.41 (P)"
+      },
+      {
+        "number": 7,
+        "title": "Naptown Goiters - -63.88 points",
+        "subtitle": "Week 13, 2023: 76.76 (A) vs. 140.64 (P)"
+      },
+      {
+        "number": 8,
+        "title": "Bye Week Dominators - -67.90 points",
+        "subtitle": "Week 4, 2022: 70.48 (A) vs. 138.38 (P)"
+      },
+      {
+        "number": 9,
+        "title": "Bye Week Dominators - -68.53 points",
+        "subtitle": "Week 11, 2023: 82.54 (A) vs. 151.07 (P)"
+      },
+      {
+        "number": 10,
+        "title": "Throw it I am Open - -69.99 points",
+        "subtitle": "Week 10, 2020: 78.24 (A) vs. 148.23 (P)"
+      },
+      {
+        "number": 11,
+        "title": "Uncooked Box - -87.17 points",
+        "subtitle": "Week 9, 2023: 60.62 (A) vs. 147.79 (P)"
+      },
+      {
+        "number": 12,
+        "title": "Naptown Goiters - -94.18 points",
+        "subtitle": "Week 3, 2024: 73.46 (A) vs. 167.64 (P)"
+      }
+    ]
   }
 ]
