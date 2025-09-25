@@ -328,5 +328,71 @@
         "subtitle": "1 perfect week"
       }
     ]
+  },
+  {
+    "title": "Highest Projections",
+    "subtitle": "Weeks with the highest projected score",
+    "entries": [
+      {
+        "number": 1,
+        "title": "Bye Week Dominators - 182.89 points",
+        "subtitle": "Week 15, 2019 (Actual: 185.56 points)"
+      },
+      {
+        "number": 2,
+        "title": "Flo'Rida Flock - 180.06 points",
+        "subtitle": "Week 16, 2024 (Actual: 154.34 points)"
+      },
+      {
+        "number": 3,
+        "title": "Oh Saquon You See - 178.72 points",
+        "subtitle": "Week 10, 2021 (Actual: 158.88 points)"
+      },
+      {
+        "number": 4,
+        "title": "Uncooked Box - 178.36 points",
+        "subtitle": "Week 6, 2021 (Actual: 161.96 points)"
+      },
+      {
+        "number": 5,
+        "title": "Uncooked Box - 178.12 points",
+        "subtitle": "Week 16, 2020 (Actual: 199.66 points)"
+      },
+      {
+        "number": 6,
+        "title": "Bye Week Dominators - 177.47 points",
+        "subtitle": "Week 16, 2019 (Actual: 170.86 points)"
+      },
+      {
+        "number": 7,
+        "title": "Oh Saquon You See - 177.09 points",
+        "subtitle": "Week 3, 2021 (Actual: 197.40 points)"
+      },
+      {
+        "number": 8,
+        "title": "Uncooked Box - 176.86 points",
+        "subtitle": "Week 5, 2021 (Actual: 218.02 points)"
+      },
+      {
+        "number": 9,
+        "title": "My Ball Zach Ertz - 176.60 points",
+        "subtitle": "Week 17, 2024 (Actual: 175.52 points)"
+      },
+      {
+        "number": 10,
+        "title": "Uncooked Box - 176.22 points",
+        "subtitle": "Week 10, 2021 (Actual: 192.68 points)"
+      },
+      {
+        "number": 11,
+        "title": "Naptown Goiters - 175.56 points",
+        "subtitle": "Week 13, 2021 (Actual: 208.80 points)"
+      },
+      {
+        "number": 12,
+        "title": "Ja’Marr Chase Bank - 175.25 points",
+        "subtitle": "Week 12, 2023 (Actual: 136.04 points)"
+      }
+    ]
   }
 ]
