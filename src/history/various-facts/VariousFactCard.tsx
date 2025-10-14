@@ -1,4 +1,4 @@
-import {Card, CardContent, CardHeader, List, ListItem, ListItemIcon, ListItemText} from '@mui/material';
+import {Card, CardContent, CardHeader, List, ListItem, ListItemIcon, ListItemText, useTheme} from '@mui/material';
 import Box from '@mui/material/Box';
 import {VariousFactCardData} from './VariousFactTypes';
 
@@ -8,6 +8,7 @@ interface VariousFactCardProps {
 
 export const VariousFactCard = ({card}: VariousFactCardProps) => {
     if (!card) return null;
+    const theme = useTheme();
     const {title, subtitle, entries} = card;
     return (
         <Card sx={{width: 400}}>
@@ -17,8 +18,15 @@ export const VariousFactCard = ({card}: VariousFactCardProps) => {
                     <List dense={true} disablePadding={true}>
                         {entries.map(entry => (
                             <ListItem key={entry.number}>
-                                <ListItemIcon sx={{minWidth: 32}}>{entry.number}</ListItemIcon>
-                                <ListItemText primary={entry.title} secondary={entry.subtitle}/>
+                                <ListItemIcon sx={{
+                                    minWidth: 32,
+                                    color: entry.isCurrent ? theme.palette.primary.main : theme.palette.text.primary
+                                }}
+                                >{entry.number}</ListItemIcon>
+                                <ListItemText
+                                    sx={{color: entry.isCurrent ? theme.palette.primary.main : theme.palette.text.primary}}
+                                    slotProps={{secondary: {color: entry.isCurrent ? theme.palette.primary.main : theme.palette.text.secondary}}}
+                                    primary={entry.title} secondary={entry.subtitle}/>
                             </ListItem>
                         ))}
                     </List>

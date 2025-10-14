@@ -2,6 +2,7 @@ export interface VariousFactCardEntry {
     number: number;
     title: string;
     subtitle?: string;
+    isCurrent?: boolean;
 }
 
 export interface VariousFactCardData {

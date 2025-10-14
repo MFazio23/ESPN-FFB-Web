@@ -6,52 +6,62 @@
       {
         "number": 1,
         "title": "Tyreek Hill (WR) - 67.90 points",
-        "subtitle": "The Jalapeños - 2020 week 12"
+        "subtitle": "The Jalapeños - 2020 week 12",
+        "isCurrent": false
       },
       {
         "number": 2,
         "title": "Ja'Marr Chase (WR) - 65.60 points",
-        "subtitle": "Herbert Fully Loaded - 2021 week 17"
+        "subtitle": "Herbert Fully Loaded - 2021 week 17",
+        "isCurrent": false
       },
       {
         "number": 3,
         "title": "Ja'Marr Chase (WR) - 65.40 points",
-        "subtitle": "Ja’Marr Chase Bank - 2024 week 10"
+        "subtitle": "Ja’Marr Chase Bank - 2024 week 10",
+        "isCurrent": false
       },
       {
         "number": 4,
         "title": "Aaron Rodgers (QB) - 63.76 points",
-        "subtitle": "Tucker's Team - 2019 week 7"
+        "subtitle": "Tucker's Team - 2019 week 7",
+        "isCurrent": false
       },
       {
         "number": 5,
         "title": "Tyler Lockett (WR) - 63.72 points",
-        "subtitle": "The Jalapeños - 2020 week 7"
+        "subtitle": "The Jalapeños - 2020 week 7",
+        "isCurrent": false
       },
       {
         "number": 6,
         "title": "Will Fuller V (WR) - 63.70 points",
-        "subtitle": "Delicious Traitorade - 2019 week 5"
+        "subtitle": "Delicious Traitorade - 2019 week 5",
+        "isCurrent": false
       },
       {
         "number": 7,
         "title": "Josh Allen (QB) - 62.88 points",
-        "subtitle": "The Durango Kids - 2024 week 14"
+        "subtitle": "The Durango Kids - 2024 week 14",
+        "isCurrent": false
       },
       {
         "number": 8,
         "title": "C.J. Stroud (QB) - 61.80 points",
-        "subtitle": "Naptown Goiters - 2023 week 9"
+        "subtitle": "Naptown Goiters - 2023 week 9",
+        "isCurrent": false
       },
       {
         "number": 9,
         "title": "Deshaun Watson (QB) - 61.74 points",
-        "subtitle": "Naptown Goiters - 2019 week 5"
+        "subtitle": "Naptown Goiters - 2019 week 5",
+        "isCurrent": false
       },
       {
         "number": 10,
         "title": "Amari Cooper (WR) - 61.50 points",
-        "subtitle": "Manning the Bay - 2023 week 16"
+        "subtitle": "Manning the Bay - 2023 week 16",
+        "isCurrent": false
       }
     ]
   },
@@ -62,52 +72,62 @@
       {
         "number": 1,
         "title": "Tyreek Hill (WR) - 67.90 points",
-        "subtitle": "The Jalapeños - 2020 week 12"
+        "subtitle": "The Jalapeños - 2020 week 12",
+        "isCurrent": false
       },
       {
         "number": 2,
         "title": "Ja'Marr Chase (WR) - 65.60 points",
-        "subtitle": "Herbert Fully Loaded - 2021 week 17"
+        "subtitle": "Herbert Fully Loaded - 2021 week 17",
+        "isCurrent": false
       },
       {
         "number": 3,
         "title": "Ja'Marr Chase (WR) - 65.40 points",
-        "subtitle": "Ja’Marr Chase Bank - 2024 week 10"
+        "subtitle": "Ja’Marr Chase Bank - 2024 week 10",
+        "isCurrent": false
       },
       {
         "number": 4,
         "title": "Tyler Lockett (WR) - 63.72 points",
-        "subtitle": "The Jalapeños - 2020 week 7"
+        "subtitle": "The Jalapeños - 2020 week 7",
+        "isCurrent": false
       },
       {
         "number": 5,
         "title": "Will Fuller V (WR) - 63.70 points",
-        "subtitle": "Delicious Traitorade - 2019 week 5"
+        "subtitle": "Delicious Traitorade - 2019 week 5",
+        "isCurrent": false
       },
       {
         "number": 6,
         "title": "Amari Cooper (WR) - 61.50 points",
-        "subtitle": "Manning the Bay - 2023 week 16"
+        "subtitle": "Manning the Bay - 2023 week 16",
+        "isCurrent": false
       },
       {
         "number": 7,
         "title": "De'Von Achane (RB) - 61.30 points",
-        "subtitle": "Tucker's Team - 2023 week 3"
+        "subtitle": "Tucker's Team - 2023 week 3",
+        "isCurrent": false
       },
       {
         "number": 8,
         "title": "Alvin Kamara (RB) - 61.20 points",
-        "subtitle": "Joe Buck Yourself - 2020 week 16"
+        "subtitle": "Joe Buck Yourself - 2020 week 16",
+        "isCurrent": false
       },
       {
         "number": 9,
         "title": "Joe Mixon (RB) - 60.10 points",
-        "subtitle": "Joe Buck Yourself - 2022 week 9"
+        "subtitle": "Joe Buck Yourself - 2022 week 9",
+        "isCurrent": false
       },
       {
         "number": 10,
         "title": "DJ Moore (WR) - 59.00 points",
-        "subtitle": "Oh Saquon You See - 2023 week 5"
+        "subtitle": "Oh Saquon You See - 2023 week 5",
+        "isCurrent": false
       }
     ]
   },
@@ -118,67 +138,80 @@
       {
         "number": 1,
         "title": "Tucker James (2019): 7-6 (-203.38 PD)",
-        "subtitle": "1893.94-2097.32"
+        "subtitle": "1893.94-2097.32",
+        "isCurrent": false
       },
       {
         "number": 2,
         "title": "Scott Johnson (2010): 8-5 (-142.00 PD)",
-        "subtitle": "1509.00-1651.00"
+        "subtitle": "1509.00-1651.00",
+        "isCurrent": false
       },
       {
         "number": 3,
         "title": "Justin Witz (2009): 7-6 (-129.00 PD)",
-        "subtitle": "1607.00-1736.00"
+        "subtitle": "1607.00-1736.00",
+        "isCurrent": false
       },
       {
         "number": 4,
         "title": "James Otto (2014): 7-6 (-122.00 PD)",
-        "subtitle": "1596.00-1718.00"
+        "subtitle": "1596.00-1718.00",
+        "isCurrent": false
       },
       {
         "number": 5,
         "title": "Brandon Gustafson (2015): 7-6 (-50.00 PD)",
-        "subtitle": "1753.00-1803.00"
+        "subtitle": "1753.00-1803.00",
+        "isCurrent": false
       },
       {
         "number": 6,
         "title": "David Pietrzykowski (2020): 8-5 (-35.60 PD)",
-        "subtitle": "1836.52-1872.12"
+        "subtitle": "1836.52-1872.12",
+        "isCurrent": false
       },
       {
         "number": 7,
         "title": "Tucker James (2010): 7-6 (-34.00 PD)",
-        "subtitle": "1653.00-1687.00"
+        "subtitle": "1653.00-1687.00",
+        "isCurrent": false
       },
       {
         "number": 8,
         "title": "James Otto (2023): 8-6 (-31.74 PD)",
-        "subtitle": "2124.58-2156.32"
+        "subtitle": "2124.58-2156.32",
+        "isCurrent": false
       },
       {
         "number": 9,
         "title": "Ben Pelc (2024): 8-6 (-26.72 PD)",
-        "subtitle": "1973.06-1999.78"
+        "subtitle": "1973.06-1999.78",
+        "isCurrent": false
       },
       {
         "number": 10,
         "title": "Michael Fazio (2015): 8-5 (-14.00 PD)",
-        "subtitle": "1572.00-1586.00"
+        "subtitle": "1572.00-1586.00",
+        "isCurrent": false
       },
       {
         "number": 11,
         "title": "John Otto (2010): 8-5 (-13.00 PD)",
-        "subtitle": "1671.00-1684.00"
+        "subtitle": "1671.00-1684.00",
+        "isCurrent": false
       },
       {
         "number": 12,
         "title": "Tim Ericsen (2025): 4-2 (-7.80 PD)",
-        "subtitle": "823.76-831.56"
+        "subtitle": "823.76-831.56",
+        "isCurrent": true
       },
       {
         "number": 13,
         "title": "Ben Pelc (2019): 7-6 (-0.84 PD)",
-        "subtitle": "1907.38-1908.22"
+        "subtitle": "1907.38-1908.22",
+        "isCurrent": false
       }
     ]
   },
@@ -189,57 +222,68 @@
       {
         "number": 1,
         "title": "Nick Kwiecien (2023): 6-8 (145.48 PD)",
-        "subtitle": "2302.82-2157.34"
+        "subtitle": "2302.82-2157.34",
+        "isCurrent": false
       },
       {
         "number": 2,
         "title": "Juan Pablo Siller (2019): 6-7 (87.04 PD)",
-        "subtitle": "1903.90-1816.86"
+        "subtitle": "1903.90-1816.86",
+        "isCurrent": false
       },
       {
         "number": 3,
         "title": "Tim Ericsen (2022): 6-8 (69.66 PD)",
-        "subtitle": "2289.66-2220.00"
+        "subtitle": "2289.66-2220.00",
+        "isCurrent": false
       },
       {
         "number": 4,
         "title": "Blayne Roselle (2022): 6-8 (66.16 PD)",
-        "subtitle": "1925.78-1859.62"
+        "subtitle": "1925.78-1859.62",
+        "isCurrent": false
       },
       {
         "number": 5,
         "title": "Tim Ericsen (2023): 6-8 (66.12 PD)",
-        "subtitle": "2115.52-2049.40"
+        "subtitle": "2115.52-2049.40",
+        "isCurrent": false
       },
       {
         "number": 6,
         "title": "Ben Ericsen (2011): 6-7 (66.00 PD)",
-        "subtitle": "1782.00-1716.00"
+        "subtitle": "1782.00-1716.00",
+        "isCurrent": false
       },
       {
         "number": 7,
         "title": "Dave Smith (2010): 5-8 (41.00 PD)",
-        "subtitle": "1642.00-1601.00"
+        "subtitle": "1642.00-1601.00",
+        "isCurrent": false
       },
       {
         "number": 8,
         "title": "David Breen (2009): 6-7 (25.00 PD)",
-        "subtitle": "1898.00-1873.00"
+        "subtitle": "1898.00-1873.00",
+        "isCurrent": false
       },
       {
         "number": 9,
         "title": "Tim Ericsen (2009): 6-7 (25.00 PD)",
-        "subtitle": "1898.00-1873.00"
+        "subtitle": "1898.00-1873.00",
+        "isCurrent": false
       },
       {
         "number": 10,
         "title": "David Pietrzykowski (2014): 6-7 (21.00 PD)",
-        "subtitle": "1809.00-1788.00"
+        "subtitle": "1809.00-1788.00",
+        "isCurrent": false
       },
       {
         "number": 11,
         "title": "Tucker James (2014): 5-8 (7.00 PD)",
-        "subtitle": "1888.00-1881.00"
+        "subtitle": "1888.00-1881.00",
+        "isCurrent": false
       }
     ]
   },
@@ -250,72 +294,86 @@
       {
         "number": 1,
         "title": "Tim Ericsen",
-        "subtitle": "11 perfect weeks"
+        "subtitle": "11 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 2,
         "title": "Ben Pelc",
-        "subtitle": "8 perfect weeks"
+        "subtitle": "8 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 3,
         "title": "Nick Kwiecien",
-        "subtitle": "7 perfect weeks"
+        "subtitle": "7 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 4,
         "title": "Scott Johnson",
-        "subtitle": "6 perfect weeks"
+        "subtitle": "6 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 5,
         "title": "James Otto",
-        "subtitle": "5 perfect weeks"
+        "subtitle": "5 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 6,
         "title": "Michael Fazio",
-        "subtitle": "5 perfect weeks"
+        "subtitle": "5 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 7,
         "title": "Ben Ericsen",
-        "subtitle": "5 perfect weeks"
+        "subtitle": "5 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 8,
         "title": "Tucker James",
-        "subtitle": "4 perfect weeks"
+        "subtitle": "4 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 9,
         "title": "Juan Pablo Siller",
-        "subtitle": "3 perfect weeks"
+        "subtitle": "3 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 10,
         "title": "Justin Witz",
-        "subtitle": "2 perfect weeks"
+        "subtitle": "2 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 11,
         "title": "David Pietrzykowski",
-        "subtitle": "2 perfect weeks"
+        "subtitle": "2 perfect weeks",
+        "isCurrent": false
       },
       {
         "number": 12,
         "title": "Blayne Roselle",
-        "subtitle": "1 perfect week"
+        "subtitle": "1 perfect week",
+        "isCurrent": false
       },
       {
         "number": 13,
         "title": "Rolando Lopez",
-        "subtitle": "1 perfect week"
+        "subtitle": "1 perfect week",
+        "isCurrent": false
       },
       {
         "number": 14,
         "title": "Ben Green",
-        "subtitle": "1 perfect week"
+        "subtitle": "1 perfect week",
+        "isCurrent": false
       }
     ]
   },
@@ -326,62 +384,74 @@
       {
         "number": 1,
         "title": "Bye Week Dominators - 182.89 points",
-        "subtitle": "Week 15, 2019 (Actual: 185.56 points)"
+        "subtitle": "Week 15, 2019 (Actual: 185.56 points)",
+        "isCurrent": false
       },
       {
         "number": 2,
         "title": "Flo'Rida Flock - 180.06 points",
-        "subtitle": "Week 16, 2024 (Actual: 154.34 points)"
+        "subtitle": "Week 16, 2024 (Actual: 154.34 points)",
+        "isCurrent": false
       },
       {
         "number": 3,
         "title": "Oh Saquon You See - 178.72 points",
-        "subtitle": "Week 10, 2021 (Actual: 158.88 points)"
+        "subtitle": "Week 10, 2021 (Actual: 158.88 points)",
+        "isCurrent": false
       },
       {
         "number": 4,
         "title": "Uncooked Box - 178.36 points",
-        "subtitle": "Week 6, 2021 (Actual: 161.96 points)"
+        "subtitle": "Week 6, 2021 (Actual: 161.96 points)",
+        "isCurrent": false
       },
       {
         "number": 5,
         "title": "Uncooked Box - 178.12 points",
-        "subtitle": "Week 16, 2020 (Actual: 199.66 points)"
+        "subtitle": "Week 16, 2020 (Actual: 199.66 points)",
+        "isCurrent": false
       },
       {
         "number": 6,
         "title": "Bye Week Dominators - 177.47 points",
-        "subtitle": "Week 16, 2019 (Actual: 170.86 points)"
+        "subtitle": "Week 16, 2019 (Actual: 170.86 points)",
+        "isCurrent": false
       },
       {
         "number": 7,
         "title": "Oh Saquon You See - 177.09 points",
-        "subtitle": "Week 3, 2021 (Actual: 197.40 points)"
+        "subtitle": "Week 3, 2021 (Actual: 197.40 points)",
+        "isCurrent": false
       },
       {
         "number": 8,
         "title": "Uncooked Box - 176.86 points",
-        "subtitle": "Week 5, 2021 (Actual: 218.02 points)"
+        "subtitle": "Week 5, 2021 (Actual: 218.02 points)",
+        "isCurrent": false
       },
       {
         "number": 9,
         "title": "My Ball Zach Ertz - 176.60 points",
-        "subtitle": "Week 17, 2024 (Actual: 175.52 points)"
+        "subtitle": "Week 17, 2024 (Actual: 175.52 points)",
+        "isCurrent": false
       },
       {
         "number": 10,
         "title": "Uncooked Box - 176.22 points",
-        "subtitle": "Week 10, 2021 (Actual: 192.68 points)"
+        "subtitle": "Week 10, 2021 (Actual: 192.68 points)",
+        "isCurrent": false
       },
       {
         "number": 11,
         "title": "Naptown Goiters - 175.56 points",
-        "subtitle": "Week 13, 2021 (Actual: 208.80 points)"
+        "subtitle": "Week 13, 2021 (Actual: 208.80 points)",
+        "isCurrent": false
       },
       {
         "number": 12,
         "title": "Ja’Marr Chase Bank - 175.25 points",
-        "subtitle": "Week 12, 2023 (Actual: 136.04 points)"
+        "subtitle": "Week 12, 2023 (Actual: 136.04 points)",
+        "isCurrent": false
       }
     ]
   },
@@ -392,62 +462,74 @@
       {
         "number": 1,
         "title": "Naptown Goiters - 112.24 points",
-        "subtitle": "Week 5, 2019: 262.62 (A) vs. 150.38 (P)"
+        "subtitle": "Week 5, 2019: 262.62 (A) vs. 150.38 (P)",
+        "isCurrent": false
       },
       {
         "number": 2,
         "title": "Delicious Traitorade - 102.71 points",
-        "subtitle": "Week 5, 2019: 268.02 (A) vs. 165.31 (P)"
+        "subtitle": "Week 5, 2019: 268.02 (A) vs. 165.31 (P)",
+        "isCurrent": false
       },
       {
         "number": 3,
         "title": "Uncooked Box - 85.62 points",
-        "subtitle": "Week 3, 2023: 254.46 (A) vs. 168.84 (P)"
+        "subtitle": "Week 3, 2023: 254.46 (A) vs. 168.84 (P)",
+        "isCurrent": false
       },
       {
         "number": 4,
         "title": "Am I Going Over?? - 84.23 points",
-        "subtitle": "Week 5, 2019: 246.82 (A) vs. 162.59 (P)"
+        "subtitle": "Week 5, 2019: 246.82 (A) vs. 162.59 (P)",
+        "isCurrent": false
       },
       {
         "number": 5,
         "title": "Manning the Bay - 81.08 points",
-        "subtitle": "Week 2, 2020: 219.36 (A) vs. 138.28 (P)"
+        "subtitle": "Week 2, 2020: 219.36 (A) vs. 138.28 (P)",
+        "isCurrent": false
       },
       {
         "number": 6,
         "title": "The Jalapeños - 81.01 points",
-        "subtitle": "Week 12, 2020: 247.84 (A) vs. 166.83 (P)"
+        "subtitle": "Week 12, 2020: 247.84 (A) vs. 166.83 (P)",
+        "isCurrent": false
       },
       {
         "number": 7,
         "title": "Am I Going Over?? - 80.90 points",
-        "subtitle": "Week 2, 2020: 232.12 (A) vs. 151.22 (P)"
+        "subtitle": "Week 2, 2020: 232.12 (A) vs. 151.22 (P)",
+        "isCurrent": false
       },
       {
         "number": 8,
         "title": "Ja’Marr Chase Bank - 79.43 points",
-        "subtitle": "Week 13, 2023: 246.90 (A) vs. 167.47 (P)"
+        "subtitle": "Week 13, 2023: 246.90 (A) vs. 167.47 (P)",
+        "isCurrent": false
       },
       {
         "number": 9,
         "title": "Sputnik's Mad Russians - 79.39 points",
-        "subtitle": "Week 10, 2019: 223.42 (A) vs. 144.03 (P)"
+        "subtitle": "Week 10, 2019: 223.42 (A) vs. 144.03 (P)",
+        "isCurrent": false
       },
       {
         "number": 10,
         "title": "The Durango Kids - 78.02 points",
-        "subtitle": "Week 13, 2023: 227.28 (A) vs. 149.26 (P)"
+        "subtitle": "Week 13, 2023: 227.28 (A) vs. 149.26 (P)",
+        "isCurrent": false
       },
       {
         "number": 11,
         "title": "Ja’Marr Chase Bank - 77.63 points",
-        "subtitle": "Week 5, 2023: 234.94 (A) vs. 157.31 (P)"
+        "subtitle": "Week 5, 2023: 234.94 (A) vs. 157.31 (P)",
+        "isCurrent": false
       },
       {
         "number": 12,
         "title": "Naptown Goiters - 77.46 points",
-        "subtitle": "Week 11, 2021: 234.28 (A) vs. 156.82 (P)"
+        "subtitle": "Week 11, 2021: 234.28 (A) vs. 156.82 (P)",
+        "isCurrent": false
       }
     ]
   },
@@ -458,62 +540,74 @@
       {
         "number": 1,
         "title": "Naptown Goiters - -94.18 points",
-        "subtitle": "Week 3, 2024: 73.46 (A) vs. 167.64 (P)"
+        "subtitle": "Week 3, 2024: 73.46 (A) vs. 167.64 (P)",
+        "isCurrent": false
       },
       {
         "number": 2,
         "title": "Uncooked Box - -87.17 points",
-        "subtitle": "Week 9, 2023: 60.62 (A) vs. 147.79 (P)"
+        "subtitle": "Week 9, 2023: 60.62 (A) vs. 147.79 (P)",
+        "isCurrent": false
       },
       {
         "number": 3,
         "title": "Throw it I am Open - -69.99 points",
-        "subtitle": "Week 10, 2020: 78.24 (A) vs. 148.23 (P)"
+        "subtitle": "Week 10, 2020: 78.24 (A) vs. 148.23 (P)",
+        "isCurrent": false
       },
       {
         "number": 4,
         "title": "Bye Week Dominators - -68.53 points",
-        "subtitle": "Week 11, 2023: 82.54 (A) vs. 151.07 (P)"
+        "subtitle": "Week 11, 2023: 82.54 (A) vs. 151.07 (P)",
+        "isCurrent": false
       },
       {
         "number": 5,
         "title": "Bye Week Dominators - -67.90 points",
-        "subtitle": "Week 4, 2022: 70.48 (A) vs. 138.38 (P)"
+        "subtitle": "Week 4, 2022: 70.48 (A) vs. 138.38 (P)",
+        "isCurrent": false
       },
       {
         "number": 6,
         "title": "Flo'Rida Flock - -65.78 points",
-        "subtitle": "Week 6, 2025: 98.88 (A) vs. 164.66 (P)"
+        "subtitle": "Week 6, 2025: 98.88 (A) vs. 164.66 (P)",
+        "isCurrent": true
       },
       {
         "number": 7,
         "title": "Naptown Goiters - -63.88 points",
-        "subtitle": "Week 13, 2023: 76.76 (A) vs. 140.64 (P)"
+        "subtitle": "Week 13, 2023: 76.76 (A) vs. 140.64 (P)",
+        "isCurrent": false
       },
       {
         "number": 8,
         "title": "The Jalapeños - -63.77 points",
-        "subtitle": "Week 14, 2023: 76.64 (A) vs. 140.41 (P)"
+        "subtitle": "Week 14, 2023: 76.64 (A) vs. 140.41 (P)",
+        "isCurrent": false
       },
       {
         "number": 9,
         "title": "Bye Week Dominators - -62.95 points",
-        "subtitle": "Week 3, 2024: 88.60 (A) vs. 151.55 (P)"
+        "subtitle": "Week 3, 2024: 88.60 (A) vs. 151.55 (P)",
+        "isCurrent": false
       },
       {
         "number": 10,
         "title": "Tucker's Team - -61.23 points",
-        "subtitle": "Week 12, 2020: 104.36 (A) vs. 165.59 (P)"
+        "subtitle": "Week 12, 2020: 104.36 (A) vs. 165.59 (P)",
+        "isCurrent": false
       },
       {
         "number": 11,
         "title": "Tucker's Team - -60.76 points",
-        "subtitle": "Week 6, 2023: 85.24 (A) vs. 146.00 (P)"
+        "subtitle": "Week 6, 2023: 85.24 (A) vs. 146.00 (P)",
+        "isCurrent": false
       },
       {
         "number": 12,
         "title": "Uncooked Box - -60.58 points",
-        "subtitle": "Week 3, 2024: 96.82 (A) vs. 157.40 (P)"
+        "subtitle": "Week 3, 2024: 96.82 (A) vs. 157.40 (P)",
+        "isCurrent": false
       }
     ]
   }
