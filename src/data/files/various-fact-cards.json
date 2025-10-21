@@ -161,51 +161,51 @@
       },
       {
         "number": 5,
+        "title": "Tim Ericsen (2025): 4-3 (-70.08 PD)",
+        "subtitle": "917.24-987.32",
+        "isCurrent": true
+      },
+      {
+        "number": 6,
         "title": "Brandon Gustafson (2015): 7-6 (-50.00 PD)",
         "subtitle": "1753.00-1803.00",
         "isCurrent": false
       },
       {
-        "number": 6,
+        "number": 7,
         "title": "David Pietrzykowski (2020): 8-5 (-35.60 PD)",
         "subtitle": "1836.52-1872.12",
         "isCurrent": false
       },
       {
-        "number": 7,
+        "number": 8,
         "title": "Tucker James (2010): 7-6 (-34.00 PD)",
         "subtitle": "1653.00-1687.00",
         "isCurrent": false
       },
       {
-        "number": 8,
+        "number": 9,
         "title": "James Otto (2023): 8-6 (-31.74 PD)",
         "subtitle": "2124.58-2156.32",
         "isCurrent": false
       },
       {
-        "number": 9,
+        "number": 10,
         "title": "Ben Pelc (2024): 8-6 (-26.72 PD)",
         "subtitle": "1973.06-1999.78",
         "isCurrent": false
       },
       {
-        "number": 10,
+        "number": 11,
         "title": "Michael Fazio (2015): 8-5 (-14.00 PD)",
         "subtitle": "1572.00-1586.00",
         "isCurrent": false
       },
       {
-        "number": 11,
+        "number": 12,
         "title": "John Otto (2010): 8-5 (-13.00 PD)",
         "subtitle": "1671.00-1684.00",
         "isCurrent": false
-      },
-      {
-        "number": 12,
-        "title": "Tim Ericsen (2025): 4-2 (-7.80 PD)",
-        "subtitle": "823.76-831.56",
-        "isCurrent": true
       },
       {
         "number": 13,
@@ -281,9 +281,27 @@
       },
       {
         "number": 11,
+        "title": "Tucker James (2025): 3-4 (18.68 PD)",
+        "subtitle": "1055.76-1037.08",
+        "isCurrent": true
+      },
+      {
+        "number": 12,
+        "title": "Nick Kwiecien (2025): 3-4 (14.24 PD)",
+        "subtitle": "970.30-956.06",
+        "isCurrent": true
+      },
+      {
+        "number": 13,
         "title": "Tucker James (2014): 5-8 (7.00 PD)",
         "subtitle": "1888.00-1881.00",
         "isCurrent": false
+      },
+      {
+        "number": 14,
+        "title": "James Otto (2025): 3-4 (5.40 PD)",
+        "subtitle": "1010.38-1004.98",
+        "isCurrent": true
       }
     ]
   },
@@ -563,50 +581,50 @@
       },
       {
         "number": 5,
+        "title": "Uncooked Box - -68.46 points",
+        "subtitle": "Week 7, 2025: 93.48 (A) vs. 161.94 (P)",
+        "isCurrent": true
+      },
+      {
+        "number": 6,
         "title": "Bye Week Dominators - -67.90 points",
         "subtitle": "Week 4, 2022: 70.48 (A) vs. 138.38 (P)",
         "isCurrent": false
       },
       {
-        "number": 6,
+        "number": 7,
         "title": "Flo'Rida Flock - -65.78 points",
         "subtitle": "Week 6, 2025: 98.88 (A) vs. 164.66 (P)",
         "isCurrent": true
       },
       {
-        "number": 7,
+        "number": 8,
         "title": "Naptown Goiters - -63.88 points",
         "subtitle": "Week 13, 2023: 76.76 (A) vs. 140.64 (P)",
         "isCurrent": false
       },
       {
-        "number": 8,
+        "number": 9,
         "title": "The Jalapeños - -63.77 points",
         "subtitle": "Week 14, 2023: 76.64 (A) vs. 140.41 (P)",
         "isCurrent": false
       },
       {
-        "number": 9,
+        "number": 10,
         "title": "Bye Week Dominators - -62.95 points",
         "subtitle": "Week 3, 2024: 88.60 (A) vs. 151.55 (P)",
         "isCurrent": false
       },
       {
-        "number": 10,
+        "number": 11,
         "title": "Tucker's Team - -61.23 points",
         "subtitle": "Week 12, 2020: 104.36 (A) vs. 165.59 (P)",
         "isCurrent": false
       },
       {
-        "number": 11,
+        "number": 12,
         "title": "Tucker's Team - -60.76 points",
         "subtitle": "Week 6, 2023: 85.24 (A) vs. 146.00 (P)",
-        "isCurrent": false
-      },
-      {
-        "number": 12,
-        "title": "Uncooked Box - -60.58 points",
-        "subtitle": "Week 3, 2024: 96.82 (A) vs. 157.40 (P)",
         "isCurrent": false
       }
     ]
