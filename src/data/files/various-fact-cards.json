@@ -161,8 +161,8 @@
       },
       {
         "number": 5,
-        "title": "Tim Ericsen (2025): 4-3 (-70.08 PD)",
-        "subtitle": "917.24-987.32",
+        "title": "Collin Schindler (2025): 5-3 (-59.96 PD)",
+        "subtitle": "1074.32-1134.28",
         "isCurrent": true
       },
       {
@@ -281,27 +281,9 @@
       },
       {
         "number": 11,
-        "title": "Tucker James (2025): 3-4 (18.68 PD)",
-        "subtitle": "1055.76-1037.08",
-        "isCurrent": true
-      },
-      {
-        "number": 12,
-        "title": "Nick Kwiecien (2025): 3-4 (14.24 PD)",
-        "subtitle": "970.30-956.06",
-        "isCurrent": true
-      },
-      {
-        "number": 13,
         "title": "Tucker James (2014): 5-8 (7.00 PD)",
         "subtitle": "1888.00-1881.00",
         "isCurrent": false
-      },
-      {
-        "number": 14,
-        "title": "James Otto (2025): 3-4 (5.40 PD)",
-        "subtitle": "1010.38-1004.98",
-        "isCurrent": true
       }
     ]
   },
@@ -390,6 +372,12 @@
       {
         "number": 14,
         "title": "Ben Green",
+        "subtitle": "1 perfect week",
+        "isCurrent": false
+      },
+      {
+        "number": 15,
+        "title": "Collin Schindler",
         "subtitle": "1 perfect week",
         "isCurrent": false
       }
@@ -533,20 +521,20 @@
       },
       {
         "number": 10,
+        "title": "Oh Saquon You See - 79.39 points",
+        "subtitle": "Week 8, 2025: 235.16 (A) vs. 155.77 (P)",
+        "isCurrent": true
+      },
+      {
+        "number": 11,
         "title": "The Durango Kids - 78.02 points",
         "subtitle": "Week 13, 2023: 227.28 (A) vs. 149.26 (P)",
         "isCurrent": false
       },
       {
-        "number": 11,
+        "number": 12,
         "title": "Ja’Marr Chase Bank - 77.63 points",
         "subtitle": "Week 5, 2023: 234.94 (A) vs. 157.31 (P)",
-        "isCurrent": false
-      },
-      {
-        "number": 12,
-        "title": "Naptown Goiters - 77.46 points",
-        "subtitle": "Week 11, 2021: 234.28 (A) vs. 156.82 (P)",
         "isCurrent": false
       }
     ]
