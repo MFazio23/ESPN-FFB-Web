@@ -161,39 +161,39 @@
       },
       {
         "number": 5,
-        "title": "Collin Schindler (2025): 5-3 (-59.96 PD)",
-        "subtitle": "1074.32-1134.28",
-        "isCurrent": true
-      },
-      {
-        "number": 6,
         "title": "Brandon Gustafson (2015): 7-6 (-50.00 PD)",
         "subtitle": "1753.00-1803.00",
         "isCurrent": false
       },
       {
-        "number": 7,
+        "number": 6,
         "title": "David Pietrzykowski (2020): 8-5 (-35.60 PD)",
         "subtitle": "1836.52-1872.12",
         "isCurrent": false
       },
       {
-        "number": 8,
+        "number": 7,
         "title": "Tucker James (2010): 7-6 (-34.00 PD)",
         "subtitle": "1653.00-1687.00",
         "isCurrent": false
       },
       {
-        "number": 9,
+        "number": 8,
         "title": "James Otto (2023): 8-6 (-31.74 PD)",
         "subtitle": "2124.58-2156.32",
         "isCurrent": false
       },
       {
-        "number": 10,
+        "number": 9,
         "title": "Ben Pelc (2024): 8-6 (-26.72 PD)",
         "subtitle": "1973.06-1999.78",
         "isCurrent": false
+      },
+      {
+        "number": 10,
+        "title": "Collin Schindler (2025): 6-3 (-14.18 PD)",
+        "subtitle": "1226.56-1240.74",
+        "isCurrent": true
       },
       {
         "number": 11,
@@ -284,6 +284,12 @@
         "title": "Tucker James (2014): 5-8 (7.00 PD)",
         "subtitle": "1888.00-1881.00",
         "isCurrent": false
+      },
+      {
+        "number": 12,
+        "title": "Tucker James (2025): 4-5 (1.40 PD)",
+        "subtitle": "1342.72-1341.32",
+        "isCurrent": true
       }
     ]
   },
@@ -449,14 +455,14 @@
       },
       {
         "number": 11,
-        "title": "Naptown Goiters - 175.56 points",
-        "subtitle": "Week 13, 2021 (Actual: 208.80 points)",
-        "isCurrent": false
+        "title": "Flo'Rida Flock - 175.60 points",
+        "subtitle": "Week 9, 2025 (Actual: 162.36 points)",
+        "isCurrent": true
       },
       {
         "number": 12,
-        "title": "Ja’Marr Chase Bank - 175.25 points",
-        "subtitle": "Week 12, 2023 (Actual: 136.04 points)",
+        "title": "Naptown Goiters - 175.56 points",
+        "subtitle": "Week 13, 2021 (Actual: 208.80 points)",
         "isCurrent": false
       }
     ]
