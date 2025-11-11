@@ -125,9 +125,9 @@
       },
       {
         "number": 10,
-        "title": "DJ Moore (WR) - 59.00 points",
-        "subtitle": "Oh Saquon You See - 2023 week 5",
-        "isCurrent": false
+        "title": "Jonathan Taylor (RB) - 59.60 points",
+        "subtitle": "Joe Buck Yourself - 2025 week 10",
+        "isCurrent": true
       }
     ]
   },
@@ -191,24 +191,18 @@
       },
       {
         "number": 10,
-        "title": "Collin Schindler (2025): 6-3 (-14.18 PD)",
-        "subtitle": "1226.56-1240.74",
-        "isCurrent": true
-      },
-      {
-        "number": 11,
         "title": "Michael Fazio (2015): 8-5 (-14.00 PD)",
         "subtitle": "1572.00-1586.00",
         "isCurrent": false
       },
       {
-        "number": 12,
+        "number": 11,
         "title": "John Otto (2010): 8-5 (-13.00 PD)",
         "subtitle": "1671.00-1684.00",
         "isCurrent": false
       },
       {
-        "number": 13,
+        "number": 12,
         "title": "Ben Pelc (2019): 7-6 (-0.84 PD)",
         "subtitle": "1907.38-1908.22",
         "isCurrent": false
@@ -284,12 +278,6 @@
         "title": "Tucker James (2014): 5-8 (7.00 PD)",
         "subtitle": "1888.00-1881.00",
         "isCurrent": false
-      },
-      {
-        "number": 12,
-        "title": "Tucker James (2025): 4-5 (1.40 PD)",
-        "subtitle": "1342.72-1341.32",
-        "isCurrent": true
       }
     ]
   },
@@ -306,7 +294,7 @@
       {
         "number": 2,
         "title": "Ben Pelc",
-        "subtitle": "8 perfect weeks",
+        "subtitle": "9 perfect weeks",
         "isCurrent": false
       },
       {
@@ -365,13 +353,13 @@
       },
       {
         "number": 12,
-        "title": "Blayne Roselle",
-        "subtitle": "1 perfect week",
+        "title": "Rolando Lopez",
+        "subtitle": "2 perfect weeks",
         "isCurrent": false
       },
       {
         "number": 13,
-        "title": "Rolando Lopez",
+        "title": "Blayne Roselle",
         "subtitle": "1 perfect week",
         "isCurrent": false
       },
@@ -449,21 +437,21 @@
       },
       {
         "number": 10,
+        "title": "Am I Going Over?? - 176.32 points",
+        "subtitle": "Week 10, 2025 (Actual: 123.76 points)",
+        "isCurrent": true
+      },
+      {
+        "number": 11,
         "title": "Uncooked Box - 176.22 points",
         "subtitle": "Week 10, 2021 (Actual: 192.68 points)",
         "isCurrent": false
       },
       {
-        "number": 11,
+        "number": 12,
         "title": "Flo'Rida Flock - 175.60 points",
         "subtitle": "Week 9, 2025 (Actual: 162.36 points)",
         "isCurrent": true
-      },
-      {
-        "number": 12,
-        "title": "Naptown Goiters - 175.56 points",
-        "subtitle": "Week 13, 2021 (Actual: 208.80 points)",
-        "isCurrent": false
       }
     ]
   },
