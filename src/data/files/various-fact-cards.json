@@ -401,57 +401,57 @@
       },
       {
         "number": 4,
+        "title": "Am I Going Over?? - 180.23 points",
+        "subtitle": "Week 13, 2025 (Actual: 183.44 points)",
+        "isCurrent": true
+      },
+      {
+        "number": 5,
         "title": "Flo'Rida Flock - 180.06 points",
         "subtitle": "Week 16, 2024 (Actual: 154.34 points)",
         "isCurrent": false
       },
       {
-        "number": 5,
+        "number": 6,
         "title": "Oh Saquon You See - 178.72 points",
         "subtitle": "Week 10, 2021 (Actual: 158.88 points)",
         "isCurrent": false
       },
       {
-        "number": 6,
+        "number": 7,
         "title": "Uncooked Box - 178.36 points",
         "subtitle": "Week 6, 2021 (Actual: 161.96 points)",
         "isCurrent": false
       },
       {
-        "number": 7,
+        "number": 8,
         "title": "Uncooked Box - 178.12 points",
         "subtitle": "Week 16, 2020 (Actual: 199.66 points)",
         "isCurrent": false
       },
       {
-        "number": 8,
+        "number": 9,
         "title": "Bye Week Dominators - 177.47 points",
         "subtitle": "Week 16, 2019 (Actual: 170.86 points)",
         "isCurrent": false
       },
       {
-        "number": 9,
+        "number": 10,
         "title": "Oh Saquon You See - 177.09 points",
         "subtitle": "Week 3, 2021 (Actual: 197.40 points)",
         "isCurrent": false
       },
       {
-        "number": 10,
+        "number": 11,
         "title": "Uncooked Box - 176.86 points",
         "subtitle": "Week 5, 2021 (Actual: 218.02 points)",
         "isCurrent": false
       },
       {
-        "number": 11,
+        "number": 12,
         "title": "My Ball Zach Ertz - 176.60 points",
         "subtitle": "Week 17, 2024 (Actual: 175.52 points)",
         "isCurrent": false
-      },
-      {
-        "number": 12,
-        "title": "Am I Going Over?? - 176.32 points",
-        "subtitle": "Week 10, 2025 (Actual: 123.76 points)",
-        "isCurrent": true
       }
     ]
   },
@@ -575,38 +575,38 @@
       },
       {
         "number": 7,
+        "title": "Tucker's Team - -67.57 points",
+        "subtitle": "Week 13, 2025: 86.20 (A) vs. 153.77 (P)",
+        "isCurrent": true
+      },
+      {
+        "number": 8,
         "title": "Flo'Rida Flock - -65.78 points",
         "subtitle": "Week 6, 2025: 98.88 (A) vs. 164.66 (P)",
         "isCurrent": true
       },
       {
-        "number": 8,
+        "number": 9,
         "title": "Naptown Goiters - -63.88 points",
         "subtitle": "Week 13, 2023: 76.76 (A) vs. 140.64 (P)",
         "isCurrent": false
       },
       {
-        "number": 9,
+        "number": 10,
         "title": "The Jalapeños - -63.77 points",
         "subtitle": "Week 14, 2023: 76.64 (A) vs. 140.41 (P)",
         "isCurrent": false
       },
       {
-        "number": 10,
+        "number": 11,
         "title": "Bye Week Dominators - -62.95 points",
         "subtitle": "Week 3, 2024: 88.60 (A) vs. 151.55 (P)",
         "isCurrent": false
       },
       {
-        "number": 11,
+        "number": 12,
         "title": "Tucker's Team - -61.23 points",
         "subtitle": "Week 12, 2020: 104.36 (A) vs. 165.59 (P)",
-        "isCurrent": false
-      },
-      {
-        "number": 12,
-        "title": "Tucker's Team - -60.76 points",
-        "subtitle": "Week 6, 2023: 85.24 (A) vs. 146.00 (P)",
         "isCurrent": false
       }
     ]
