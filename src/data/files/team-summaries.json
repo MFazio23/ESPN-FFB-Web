@@ -2,7 +2,7 @@
   {
     "id": "1",
     "name": "Am I Going Over??",
-    "wins": 165,
+    "wins": 166,
     "losses": 108,
     "championships": 1,
     "eras": [
@@ -35,7 +35,7 @@
   {
     "id": "3",
     "name": "Picked Last Squad",
-    "wins": 119,
+    "wins": 120,
     "losses": 154,
     "championships": 1,
     "eras": [
@@ -80,7 +80,7 @@
   {
     "id": "4",
     "name": "Joe Buck Yourself",
-    "wins": 118,
+    "wins": 119,
     "losses": 155,
     "championships": 0,
     "eras": [
@@ -114,7 +114,7 @@
     "id": "5",
     "name": "Oh Saquon You See",
     "wins": 150,
-    "losses": 123,
+    "losses": 124,
     "championships": 3,
     "eras": [
       {
@@ -146,7 +146,7 @@
   {
     "id": "9",
     "name": "Flo'Rida Flock",
-    "wins": 178,
+    "wins": 179,
     "losses": 95,
     "championships": 5,
     "eras": [
@@ -180,7 +180,7 @@
     "id": "10",
     "name": "The Micah Parsons Project",
     "wins": 151,
-    "losses": 122,
+    "losses": 123,
     "championships": 2,
     "eras": [
       {
@@ -206,7 +206,7 @@
   {
     "id": "11",
     "name": "The Durango Kids",
-    "wins": 140,
+    "wins": 141,
     "losses": 133,
     "championships": 1,
     "eras": [
@@ -239,7 +239,7 @@
   {
     "id": "12",
     "name": "Tucker's Team",
-    "wins": 116,
+    "wins": 117,
     "losses": 157,
     "championships": 1,
     "eras": [
@@ -255,7 +255,7 @@
     "id": "13",
     "name": "Uncooked Box",
     "wins": 162,
-    "losses": 111,
+    "losses": 112,
     "championships": 1,
     "eras": [
       {
@@ -276,7 +276,7 @@
     "id": "14",
     "name": "Waterboys Win Championships",
     "wins": 119,
-    "losses": 154,
+    "losses": 155,
     "championships": 0,
     "eras": [
       {
@@ -339,7 +339,7 @@
     "id": "15",
     "name": "Ja’Marr Chase Bank",
     "wins": 103,
-    "losses": 170,
+    "losses": 171,
     "championships": 0,
     "eras": [
       {
@@ -402,7 +402,7 @@
     "id": "17",
     "name": "Bye Week Dominators",
     "wins": 117,
-    "losses": 156,
+    "losses": 157,
     "championships": 1,
     "eras": [
       {
