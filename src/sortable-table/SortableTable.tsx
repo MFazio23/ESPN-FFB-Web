@@ -2,7 +2,7 @@ import * as React from "react";
 import {useState} from "react";
 import {Box, Card, CardHeader, Table, TableBody, TableCell, TableContainer, TableRow, Typography} from "@mui/material";
 import SortableTableHead from "./SortableTableHead";
-import {useNavigate} from "react-router-dom";
+import {Link} from "react-router-dom";
 import type {SortableTableHeader, SortableTableItem, SortableTableRow, SortDirection} from './sortable-table-types';
 
 interface SortableTableProps {
@@ -17,8 +17,6 @@ interface SortableTableProps {
 const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader, cardAction}: SortableTableProps) => {
     const [order, setOrder] = useState<SortDirection>('desc');
     const [orderBy, setOrderBy] = useState<string>('wins');
-
-    const navigate = useNavigate();
 
     // @ts-ignore
     const handleRequestSort = (_, property: string) => {
@@ -62,9 +60,7 @@ const SortableTable = ({tableData, headers, topTitle, cardHeader, cardSubheader,
                             {cardAction}
                         </Box>
                         {tableData.slice().sort(getComparator(order, orderBy)).map(row => (
-
-                            <TableRow key={row.itemId} onClick={() => row.itemLink ? navigate(row.itemLink) : undefined}
-                                      className={row.itemLink ? 'clickable-row' : ''}>
+                            <TableRow key={row.itemId} component={row.itemLink ? Link : 'tr'} to={row.itemLink ?? '#'}>
                                 {row.tableItems.map((cell, index) => (
                                     <TableCell key={index}
                                                align={headers[index]?.numeric ? 'right' : 'left'}>
