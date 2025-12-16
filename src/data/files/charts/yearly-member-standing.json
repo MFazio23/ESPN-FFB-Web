@@ -1,1 +1,1646 @@
-[{"type":"Line","chartId":"yearly-member-standing-1CADD14C-2060-4856-BC7D-02C46D863D28","dataset":[{"year":2010,"finalStanding":8,"isChampion":false},{"year":2011,"finalStanding":9,"isChampion":false},{"year":2012,"finalStanding":10,"isChampion":false},{"year":2013,"finalStanding":7,"isChampion":false},{"year":2014,"finalStanding":12,"isChampion":false},{"year":2015,"finalStanding":12,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-2569536C-A58F-4E7C-801F-F06DF3BE2A73","dataset":[{"year":2009,"finalStanding":1,"isChampion":true},{"year":2010,"finalStanding":2,"isChampion":false},{"year":2011,"finalStanding":5,"isChampion":false},{"year":2012,"finalStanding":8,"isChampion":false},{"year":2013,"finalStanding":3,"isChampion":false},{"year":2014,"finalStanding":3,"isChampion":false},{"year":2015,"finalStanding":1,"isChampion":true},{"year":2016,"finalStanding":4,"isChampion":false},{"year":2017,"finalStanding":8,"isChampion":false},{"year":2018,"finalStanding":1,"isChampion":true},{"year":2019,"finalStanding":10,"isChampion":false},{"year":2020,"finalStanding":2,"isChampion":false},{"year":2021,"finalStanding":1,"isChampion":true},{"year":2022,"finalStanding":6,"isChampion":false},{"year":2023,"finalStanding":5,"isChampion":false},{"year":2024,"finalStanding":1,"isChampion":true}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-36294745-6024-4E2A-9998-21A15B816B5F","dataset":[{"year":2009,"finalStanding":10,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-57312B70-8D32-492F-8850-59850386652F","dataset":[{"year":2009,"finalStanding":3,"isChampion":false},{"year":2010,"finalStanding":3,"isChampion":false},{"year":2011,"finalStanding":8,"isChampion":false},{"year":2012,"finalStanding":9,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-670ED790-95AB-4CD9-9708-1A997C227D33","dataset":[{"year":2009,"finalStanding":6,"isChampion":false},{"year":2010,"finalStanding":9,"isChampion":false},{"year":2011,"finalStanding":11,"isChampion":false},{"year":2012,"finalStanding":6,"isChampion":false},{"year":2013,"finalStanding":12,"isChampion":false},{"year":2014,"finalStanding":9,"isChampion":false},{"year":2015,"finalStanding":8,"isChampion":false},{"year":2016,"finalStanding":9,"isChampion":false},{"year":2017,"finalStanding":3,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-6BB7653E-8BC9-40F9-952A-33DD089B251C","dataset":[{"year":2009,"finalStanding":9,"isChampion":false},{"year":2010,"finalStanding":10,"isChampion":false},{"year":2011,"finalStanding":10,"isChampion":false},{"year":2012,"finalStanding":11,"isChampion":false},{"year":2013,"finalStanding":10,"isChampion":false},{"year":2014,"finalStanding":1,"isChampion":true},{"year":2015,"finalStanding":9,"isChampion":false},{"year":2016,"finalStanding":12,"isChampion":false},{"year":2017,"finalStanding":9,"isChampion":false},{"year":2018,"finalStanding":11,"isChampion":false},{"year":2019,"finalStanding":7,"isChampion":false},{"year":2020,"finalStanding":9,"isChampion":false},{"year":2021,"finalStanding":3,"isChampion":false},{"year":2022,"finalStanding":11,"isChampion":false},{"year":2023,"finalStanding":2,"isChampion":false},{"year":2024,"finalStanding":11,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-72E2EE97-54D3-4B0E-AF62-BA4C16023157","dataset":[{"year":2009,"finalStanding":11,"isChampion":false},{"year":2010,"finalStanding":12,"isChampion":false},{"year":2011,"finalStanding":12,"isChampion":false},{"year":2012,"finalStanding":12,"isChampion":false},{"year":2013,"finalStanding":6,"isChampion":false},{"year":2014,"finalStanding":11,"isChampion":false},{"year":2015,"finalStanding":2,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-76F57F7A-5670-4B4C-998C-DA5CC903123C","dataset":[{"year":2009,"finalStanding":12,"isChampion":false},{"year":2010,"finalStanding":11,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-8AEAA731-DCE1-4297-A4FF-2BEDAFB02BD1","dataset":[{"year":2009,"finalStanding":8,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-8C3CB4F9-57AD-499A-85B8-D9AEB5A87256","dataset":[{"year":2009,"finalStanding":5,"isChampion":false},{"year":2010,"finalStanding":1,"isChampion":true},{"year":2011,"finalStanding":4,"isChampion":false},{"year":2012,"finalStanding":7,"isChampion":false},{"year":2013,"finalStanding":4,"isChampion":false},{"year":2014,"finalStanding":8,"isChampion":false},{"year":2015,"finalStanding":7,"isChampion":false},{"year":2016,"finalStanding":8,"isChampion":false},{"year":2017,"finalStanding":12,"isChampion":false},{"year":2018,"finalStanding":8,"isChampion":false},{"year":2019,"finalStanding":2,"isChampion":false},{"year":2020,"finalStanding":10,"isChampion":false},{"year":2021,"finalStanding":12,"isChampion":false},{"year":2022,"finalStanding":10,"isChampion":false},{"year":2023,"finalStanding":8,"isChampion":false},{"year":2024,"finalStanding":9,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-A24CE5EF-0E09-49AB-94D2-19EC1663B700","dataset":[{"year":2009,"finalStanding":2,"isChampion":false},{"year":2010,"finalStanding":5,"isChampion":false},{"year":2011,"finalStanding":1,"isChampion":true},{"year":2012,"finalStanding":2,"isChampion":false},{"year":2013,"finalStanding":5,"isChampion":false},{"year":2014,"finalStanding":7,"isChampion":false},{"year":2015,"finalStanding":3,"isChampion":false},{"year":2016,"finalStanding":5,"isChampion":false},{"year":2017,"finalStanding":2,"isChampion":false},{"year":2018,"finalStanding":3,"isChampion":false},{"year":2019,"finalStanding":11,"isChampion":false},{"year":2020,"finalStanding":5,"isChampion":false},{"year":2021,"finalStanding":9,"isChampion":false},{"year":2022,"finalStanding":3,"isChampion":false},{"year":2023,"finalStanding":7,"isChampion":false},{"year":2024,"finalStanding":4,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-AD6BDCCF-B64B-4BA6-8F45-D11A9617659E","dataset":[{"year":2009,"finalStanding":3,"isChampion":false},{"year":2010,"finalStanding":3,"isChampion":false},{"year":2011,"finalStanding":6,"isChampion":false},{"year":2012,"finalStanding":5,"isChampion":false},{"year":2013,"finalStanding":11,"isChampion":false},{"year":2014,"finalStanding":5,"isChampion":false},{"year":2015,"finalStanding":5,"isChampion":false},{"year":2016,"finalStanding":3,"isChampion":false},{"year":2017,"finalStanding":5,"isChampion":false},{"year":2018,"finalStanding":5,"isChampion":false},{"year":2019,"finalStanding":3,"isChampion":false},{"year":2020,"finalStanding":1,"isChampion":true},{"year":2021,"finalStanding":5,"isChampion":false},{"year":2022,"finalStanding":5,"isChampion":false},{"year":2023,"finalStanding":6,"isChampion":false},{"year":2024,"finalStanding":3,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-CBC901C7-2511-49DD-A053-5F6E22C32329","dataset":[{"year":2009,"finalStanding":7,"isChampion":false},{"year":2010,"finalStanding":4,"isChampion":false},{"year":2011,"finalStanding":2,"isChampion":false},{"year":2012,"finalStanding":3,"isChampion":false},{"year":2013,"finalStanding":8,"isChampion":false},{"year":2014,"finalStanding":10,"isChampion":false},{"year":2015,"finalStanding":10,"isChampion":false},{"year":2016,"finalStanding":1,"isChampion":true},{"year":2017,"finalStanding":4,"isChampion":false},{"year":2018,"finalStanding":2,"isChampion":false},{"year":2019,"finalStanding":6,"isChampion":false},{"year":2020,"finalStanding":8,"isChampion":false},{"year":2021,"finalStanding":8,"isChampion":false},{"year":2022,"finalStanding":1,"isChampion":true},{"year":2023,"finalStanding":1,"isChampion":true},{"year":2024,"finalStanding":10,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-DB2F4DE4-A627-4203-9CBC-5016EC30C3FC","dataset":[{"year":2009,"finalStanding":4,"isChampion":false},{"year":2010,"finalStanding":7,"isChampion":false},{"year":2011,"finalStanding":7,"isChampion":false},{"year":2012,"finalStanding":1,"isChampion":true},{"year":2013,"finalStanding":9,"isChampion":false},{"year":2014,"finalStanding":4,"isChampion":false},{"year":2015,"finalStanding":6,"isChampion":false},{"year":2016,"finalStanding":7,"isChampion":false},{"year":2017,"finalStanding":7,"isChampion":false},{"year":2018,"finalStanding":6,"isChampion":false},{"year":2019,"finalStanding":5,"isChampion":false},{"year":2020,"finalStanding":6,"isChampion":false},{"year":2021,"finalStanding":11,"isChampion":false},{"year":2022,"finalStanding":9,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-F1509406-592B-43AF-A6E8-0F6BFB5638E7","dataset":[{"year":2010,"finalStanding":6,"isChampion":false},{"year":2011,"finalStanding":3,"isChampion":false},{"year":2012,"finalStanding":4,"isChampion":false},{"year":2013,"finalStanding":1,"isChampion":true},{"year":2014,"finalStanding":2,"isChampion":false},{"year":2015,"finalStanding":4,"isChampion":false},{"year":2016,"finalStanding":2,"isChampion":false},{"year":2017,"finalStanding":1,"isChampion":true},{"year":2018,"finalStanding":10,"isChampion":false},{"year":2019,"finalStanding":4,"isChampion":false},{"year":2020,"finalStanding":7,"isChampion":false},{"year":2021,"finalStanding":4,"isChampion":false},{"year":2022,"finalStanding":7,"isChampion":false},{"year":2023,"finalStanding":12,"isChampion":false},{"year":2024,"finalStanding":12,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-310C7B23-4C8B-4CC7-8C7B-234C8B7CC782","dataset":[{"year":2013,"finalStanding":2,"isChampion":false},{"year":2014,"finalStanding":6,"isChampion":false},{"year":2015,"finalStanding":11,"isChampion":false},{"year":2016,"finalStanding":11,"isChampion":false},{"year":2017,"finalStanding":10,"isChampion":false},{"year":2018,"finalStanding":12,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-7779796B-FE3A-48C2-BD89-FF25CB2F87DA","dataset":[{"year":2016,"finalStanding":6,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-C7CCE30B-298A-4C85-8265-37510D53E1CF","dataset":[{"year":2016,"finalStanding":10,"isChampion":false},{"year":2017,"finalStanding":11,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-C117D3A8-0CA0-4D96-AA00-DE4004A13A13","dataset":[{"year":2017,"finalStanding":6,"isChampion":false},{"year":2018,"finalStanding":7,"isChampion":false},{"year":2019,"finalStanding":1,"isChampion":true},{"year":2020,"finalStanding":3,"isChampion":false},{"year":2021,"finalStanding":10,"isChampion":false},{"year":2022,"finalStanding":8,"isChampion":false},{"year":2023,"finalStanding":11,"isChampion":false},{"year":2024,"finalStanding":7,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB","dataset":[{"year":2018,"finalStanding":9,"isChampion":false},{"year":2019,"finalStanding":8,"isChampion":false},{"year":2020,"finalStanding":11,"isChampion":false},{"year":2021,"finalStanding":6,"isChampion":false},{"year":2022,"finalStanding":12,"isChampion":false},{"year":2023,"finalStanding":9,"isChampion":false},{"year":2024,"finalStanding":8,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-A88DD146-6C4F-4BF8-B4F0-695BDCDC7347","dataset":[{"year":2018,"finalStanding":4,"isChampion":false},{"year":2019,"finalStanding":9,"isChampion":false},{"year":2020,"finalStanding":4,"isChampion":false},{"year":2021,"finalStanding":2,"isChampion":false},{"year":2022,"finalStanding":4,"isChampion":false},{"year":2023,"finalStanding":10,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-FAA9326C-D141-4711-A932-6CD1413711B9","dataset":[{"year":2019,"finalStanding":12,"isChampion":false},{"year":2020,"finalStanding":12,"isChampion":false},{"year":2021,"finalStanding":7,"isChampion":false},{"year":2022,"finalStanding":2,"isChampion":false},{"year":2023,"finalStanding":4,"isChampion":false},{"year":2024,"finalStanding":5,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-0852AF46-6C26-4040-92AF-466C26C040F9","dataset":[{"year":2023,"finalStanding":3,"isChampion":false},{"year":2024,"finalStanding":6,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-99BCAACF-9EA7-458D-9FA2-634E5F4E48DE","dataset":[{"year":2024,"finalStanding":2,"isChampion":false}],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}},{"type":"Line","chartId":"yearly-member-standing-2C22AA9D-2128-4B17-83ED-8C58A2D7B6BA","dataset":[],"seriesData":[{"dataKey":"finalStanding","label":"Final Standing","area":false,"showMark":true}],"xAxis":{"dataKey":"year","min":2009.0,"max":2025.0,"reverse":false,"tickMinStep":1.0},"yAxis":{"dataKey":"finalStanding","min":1.0,"max":12.0,"reverse":true}}]
+[
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-1CADD14C-2060-4856-BC7D-02C46D863D28",
+    "dataset": [
+      {
+        "year": 2010,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 12,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-2569536C-A58F-4E7C-801F-F06DF3BE2A73",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2010,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2016,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2018,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2019,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2022,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 1,
+        "isChampion": true
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-36294745-6024-4E2A-9998-21A15B816B5F",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 10,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-57312B70-8D32-492F-8850-59850386652F",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 9,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-670ED790-95AB-4CD9-9708-1A997C227D33",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2016,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 3,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-6BB7653E-8BC9-40F9-952A-33DD089B251C",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2015,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2016,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2018,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 11,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-72E2EE97-54D3-4B0E-AF62-BA4C16023157",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 2,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-76F57F7A-5670-4B4C-998C-DA5CC903123C",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 11,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-8AEAA731-DCE1-4297-A4FF-2BEDAFB02BD1",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 8,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-8C3CB4F9-57AD-499A-85B8-D9AEB5A87256",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2011,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2016,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2018,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 9,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-A24CE5EF-0E09-49AB-94D2-19EC1663B700",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2012,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2016,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2018,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 4,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-AD6BDCCF-B64B-4BA6-8F45-D11A9617659E",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2016,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2018,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2021,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 3,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-CBC901C7-2511-49DD-A053-5F6E22C32329",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2016,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2017,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2018,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2023,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2024,
+        "finalStanding": 10,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-DB2F4DE4-A627-4203-9CBC-5016EC30C3FC",
+    "dataset": [
+      {
+        "year": 2009,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2010,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2013,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2016,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2018,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 5,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 9,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-F1509406-592B-43AF-A6E8-0F6BFB5638E7",
+    "dataset": [
+      {
+        "year": 2010,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2011,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2012,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2013,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2014,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2016,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2018,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 12,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-310C7B23-4C8B-4CC7-8C7B-234C8B7CC782",
+    "dataset": [
+      {
+        "year": 2013,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2014,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2015,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2016,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2018,
+        "finalStanding": 12,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-7779796B-FE3A-48C2-BD89-FF25CB2F87DA",
+    "dataset": [
+      {
+        "year": 2016,
+        "finalStanding": 6,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-C7CCE30B-298A-4C85-8265-37510D53E1CF",
+    "dataset": [
+      {
+        "year": 2016,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2017,
+        "finalStanding": 11,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-C117D3A8-0CA0-4D96-AA00-DE4004A13A13",
+    "dataset": [
+      {
+        "year": 2017,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2018,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 1,
+        "isChampion": true
+      },
+      {
+        "year": 2020,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 7,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-75AF2CD2-5FD9-4C9D-8A4C-D58397F8FDEB",
+    "dataset": [
+      {
+        "year": 2018,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 11,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 8,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-A88DD146-6C4F-4BF8-B4F0-695BDCDC7347",
+    "dataset": [
+      {
+        "year": 2018,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2019,
+        "finalStanding": 9,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 10,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-FAA9326C-D141-4711-A932-6CD1413711B9",
+    "dataset": [
+      {
+        "year": 2019,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2020,
+        "finalStanding": 12,
+        "isChampion": false
+      },
+      {
+        "year": 2021,
+        "finalStanding": 7,
+        "isChampion": false
+      },
+      {
+        "year": 2022,
+        "finalStanding": 2,
+        "isChampion": false
+      },
+      {
+        "year": 2023,
+        "finalStanding": 4,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 5,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-0852AF46-6C26-4040-92AF-466C26C040F9",
+    "dataset": [
+      {
+        "year": 2023,
+        "finalStanding": 3,
+        "isChampion": false
+      },
+      {
+        "year": 2024,
+        "finalStanding": 6,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-99BCAACF-9EA7-458D-9FA2-634E5F4E48DE",
+    "dataset": [
+      {
+        "year": 2024,
+        "finalStanding": 2,
+        "isChampion": false
+      }
+    ],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  },
+  {
+    "type": "Line",
+    "chartId": "yearly-member-standing-2C22AA9D-2128-4B17-83ED-8C58A2D7B6BA",
+    "dataset": [],
+    "seriesData": [
+      {
+        "dataKey": "finalStanding",
+        "label": "Final Standing",
+        "area": false,
+        "showMark": true
+      }
+    ],
+    "xAxis": {
+      "dataKey": "year",
+      "min": 2009.0,
+      "max": 2025.0,
+      "reverse": false,
+      "tickMinStep": 1.0
+    },
+    "yAxis": {
+      "dataKey": "finalStanding",
+      "min": 1.0,
+      "max": 12.0,
+      "reverse": true
+    }
+  }
+]
