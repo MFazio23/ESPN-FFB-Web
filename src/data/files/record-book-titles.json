@@ -32,6 +32,9 @@
   "mostPointsMatchup": {
     "title": "Most Combined Points in a Matchup"
   },
+  "mostPointsInPlayoffMatchup": {
+    "title": "Most Combined Points in a Playoff Matchup"
+  },
   "fewestPointsGame": {
     "title": "Fewest Points in a Week"
   },

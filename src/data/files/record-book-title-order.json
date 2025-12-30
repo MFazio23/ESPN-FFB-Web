@@ -6,6 +6,7 @@
   "mostPointsPerWeek",
   "mostPointsPerWeekWithPlayoffs",
   "mostPointsMatchup",
+  "mostPointsInPlayoffMatchup",
   "fewestPointsGame",
   "fewestPointsGameInPlayoffs",
   "fewestPointsSeason",
