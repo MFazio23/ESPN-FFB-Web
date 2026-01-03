@@ -144,6 +144,11 @@
         "year": 2024,
         "pointsScoredPlus": 104.4025004811359,
         "pointsAllowedPlus": 97.55399364826467
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 114.29259236800056,
+        "pointsAllowedPlus": 101.29348602289187
       }
     ],
     "seriesData": [
@@ -422,6 +427,11 @@
         "year": 2024,
         "pointsScoredPlus": 97.4445142096632,
         "pointsAllowedPlus": 99.21305946553622
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 94.79853263928675,
+        "pointsAllowedPlus": 96.80659017019086
       }
     ],
     "seriesData": [
@@ -680,6 +690,11 @@
         "year": 2024,
         "pointsScoredPlus": 103.52233260871427,
         "pointsAllowedPlus": 106.66888048589762
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 94.36065074278928,
+        "pointsAllowedPlus": 99.22709050660494
       }
     ],
     "seriesData": [
@@ -792,6 +807,11 @@
         "year": 2024,
         "pointsScoredPlus": 104.56134222542231,
         "pointsAllowedPlus": 100.12017591708715
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 119.30437066387107,
+        "pointsAllowedPlus": 98.94334396145025
       }
     ],
     "seriesData": [
@@ -904,6 +924,11 @@
         "year": 2024,
         "pointsScoredPlus": 108.65237908235852,
         "pointsAllowedPlus": 92.3206218695886
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 89.84011351124592,
+        "pointsAllowedPlus": 97.97719150801005
       }
     ],
     "seriesData": [
@@ -1016,6 +1041,11 @@
         "year": 2024,
         "pointsScoredPlus": 88.84087317613385,
         "pointsAllowedPlus": 105.88005660817679
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 104.81506396501929,
+        "pointsAllowedPlus": 115.79730849724554
       }
     ],
     "seriesData": [
@@ -1225,6 +1255,11 @@
         "year": 2024,
         "pointsScoredPlus": 96.12724013829464,
         "pointsAllowedPlus": 105.4722708739838
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 94.64309074573225,
+        "pointsAllowedPlus": 102.60078550321121
       }
     ],
     "seriesData": [
@@ -1438,6 +1473,11 @@
         "year": 2024,
         "pointsScoredPlus": 100.20201159222637,
         "pointsAllowedPlus": 95.40964029306309
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 109.3957631601734,
+        "pointsAllowedPlus": 102.60426615727476
       }
     ],
     "seriesData": [
@@ -1505,6 +1545,11 @@
         "year": 2024,
         "pointsScoredPlus": 93.7526405104822,
         "pointsAllowedPlus": 100.43393995885101
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 107.05241378208459,
+        "pointsAllowedPlus": 89.96619217336644
       }
     ],
     "seriesData": [
@@ -1629,6 +1674,11 @@
         "year": 2024,
         "pointsScoredPlus": 106.74902621193228,
         "pointsAllowedPlus": 102.04284889064685
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 90.39233128351019,
+        "pointsAllowedPlus": 96.0581575758274
       }
     ],
     "seriesData": [
@@ -1671,6 +1721,11 @@
         "year": 2024,
         "pointsScoredPlus": 96.9287874816709,
         "pointsAllowedPlus": 100.37850775024457
+      },
+      {
+        "year": 2025,
+        "pointsScoredPlus": 87.75517787950989,
+        "pointsAllowedPlus": 105.77653576164899
       }
     ],
     "seriesData": [
@@ -1740,7 +1795,13 @@
   {
     "type": "Line",
     "chartId": "yearly-member-points-plus-2C22AA9D-2128-4B17-83ED-8C58A2D7B6BA",
-    "dataset": [],
+    "dataset": [
+      {
+        "year": 2025,
+        "pointsScoredPlus": 94.34777672223365,
+        "pointsAllowedPlus": 93.34274386364973
+      }
+    ],
     "seriesData": [
       {
         "dataKey": "pointsScoredPlus",
