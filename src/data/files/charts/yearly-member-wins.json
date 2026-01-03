@@ -191,6 +191,13 @@
         "regularSeasonWins": 7,
         "playoffWins": 3,
         "isChampion": true
+      },
+      {
+        "year": 2025,
+        "wins": 12,
+        "regularSeasonWins": 10,
+        "playoffWins": 2,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -541,6 +548,13 @@
         "regularSeasonWins": 6,
         "playoffWins": 1,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 8,
+        "regularSeasonWins": 7,
+        "playoffWins": 1,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -863,6 +877,13 @@
         "regularSeasonWins": 5,
         "playoffWins": 3,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 6,
+        "regularSeasonWins": 5,
+        "playoffWins": 1,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -1010,6 +1031,13 @@
         "regularSeasonWins": 8,
         "playoffWins": 1,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 12,
+        "regularSeasonWins": 9,
+        "playoffWins": 3,
+        "isChampion": true
       }
     ],
     "seriesData": [
@@ -1157,6 +1185,13 @@
         "regularSeasonWins": 11,
         "playoffWins": 2,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 8,
+        "regularSeasonWins": 5,
+        "playoffWins": 3,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -1303,6 +1338,13 @@
         "wins": 6,
         "regularSeasonWins": 5,
         "playoffWins": 1,
+        "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 6,
+        "regularSeasonWins": 6,
+        "playoffWins": 0,
         "isChampion": false
       }
     ],
@@ -1577,6 +1619,13 @@
         "regularSeasonWins": 4,
         "playoffWins": 1,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 7,
+        "regularSeasonWins": 5,
+        "playoffWins": 2,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -1836,6 +1885,13 @@
         "regularSeasonWins": 7,
         "playoffWins": 1,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 10,
+        "regularSeasonWins": 8,
+        "playoffWins": 2,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -1919,6 +1975,13 @@
         "wins": 8,
         "regularSeasonWins": 8,
         "playoffWins": 0,
+        "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 13,
+        "regularSeasonWins": 11,
+        "playoffWins": 2,
         "isChampion": false
       }
     ],
@@ -2074,6 +2137,13 @@
         "regularSeasonWins": 8,
         "playoffWins": 2,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 7,
+        "regularSeasonWins": 6,
+        "playoffWins": 1,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -2122,6 +2192,13 @@
         "wins": 8,
         "regularSeasonWins": 7,
         "playoffWins": 1,
+        "isChampion": false
+      },
+      {
+        "year": 2025,
+        "wins": 3,
+        "regularSeasonWins": 3,
+        "playoffWins": 0,
         "isChampion": false
       }
     ],
@@ -2200,7 +2277,15 @@
   {
     "type": "Line",
     "chartId": "yearly-member-wins-2C22AA9D-2128-4B17-83ED-8C58A2D7B6BA",
-    "dataset": [],
+    "dataset": [
+      {
+        "year": 2025,
+        "wins": 10,
+        "regularSeasonWins": 9,
+        "playoffWins": 1,
+        "isChampion": false
+      }
+    ],
     "seriesData": [
       {
         "dataKey": "regularSeasonWins",
@@ -2227,6 +2312,7 @@
     "yAxis": {
       "dataKey": "wins",
       "min": 0.0,
+      "max": 17.0,
       "reverse": false
     }
   }

@@ -139,6 +139,11 @@
         "year": 2024,
         "finalStanding": 1,
         "isChampion": true
+      },
+      {
+        "year": 2025,
+        "finalStanding": 3,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -397,6 +402,11 @@
         "year": 2024,
         "finalStanding": 11,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 6,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -635,6 +645,11 @@
         "year": 2024,
         "finalStanding": 9,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 10,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -742,6 +757,11 @@
         "year": 2024,
         "finalStanding": 4,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 1,
+        "isChampion": true
       }
     ],
     "seriesData": [
@@ -849,6 +869,11 @@
         "year": 2024,
         "finalStanding": 3,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 9,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -955,6 +980,11 @@
       {
         "year": 2024,
         "finalStanding": 10,
+        "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 8,
         "isChampion": false
       }
     ],
@@ -1155,6 +1185,11 @@
         "year": 2024,
         "finalStanding": 12,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 11,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -1348,6 +1383,11 @@
         "year": 2024,
         "finalStanding": 7,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 2,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -1409,6 +1449,11 @@
       {
         "year": 2024,
         "finalStanding": 8,
+        "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 5,
         "isChampion": false
       }
     ],
@@ -1524,6 +1569,11 @@
         "year": 2024,
         "finalStanding": 5,
         "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 4,
+        "isChampion": false
       }
     ],
     "seriesData": [
@@ -1560,6 +1610,11 @@
       {
         "year": 2024,
         "finalStanding": 6,
+        "isChampion": false
+      },
+      {
+        "year": 2025,
+        "finalStanding": 12,
         "isChampion": false
       }
     ],
@@ -1620,7 +1675,13 @@
   {
     "type": "Line",
     "chartId": "yearly-member-standing-2C22AA9D-2128-4B17-83ED-8C58A2D7B6BA",
-    "dataset": [],
+    "dataset": [
+      {
+        "year": 2025,
+        "finalStanding": 7,
+        "isChampion": false
+      }
+    ],
     "seriesData": [
       {
         "dataKey": "finalStanding",
