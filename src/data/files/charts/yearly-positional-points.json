@@ -121,7 +121,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -253,7 +253,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -385,7 +385,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -517,7 +517,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -649,7 +649,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -781,7 +781,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -883,7 +883,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -1015,7 +1015,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -1147,7 +1147,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -1279,7 +1279,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -1391,7 +1391,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -1523,7 +1523,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -1615,7 +1615,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -1687,7 +1687,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
@@ -1759,7 +1759,7 @@
     "xAxis": {
       "dataKey": "year",
       "min": 2019.0,
-      "max": 2024.0,
+      "max": 2025.0,
       "reverse": false,
       "tickMinStep": 1.0
     },
