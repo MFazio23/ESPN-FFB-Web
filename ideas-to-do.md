@@ -19,3 +19,4 @@
         - Is there a way to track variance in scores between two teams?
 - [X] Most "perfect" weeks (best ball score == actual score)
 - [ ] Owner totals on "versus opposing teams" chart
+- [ ] What If? machine

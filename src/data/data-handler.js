@@ -11,7 +11,7 @@ import teamYearMapJson from './files/team-year-map.json';
 import tradesJson from './files/trades.json';
 import variousFactCardsJson from './files/various-fact-cards.json';
 import keeperPricesJson from './files/keeper-prices.json';
-import config from "../config";
+import Config from "@/config";
 
 // This is used to convert short names into the member IDs
 // We can then use these shortcuts for the URLs for owners
@@ -101,7 +101,7 @@ const recordBook = Object.entries(recordBooks).reduce((book, [type, recordBook])
 
 const getMemberVsTeamRecords = (ownerId) =>
     Object.entries(memberVsTeamRecords[ownerId] || {}).map(([teamId, records]) => ({
-        team: teamYearMap[config.currentYear].find(team => team.id === parseInt(teamId)),
+        team: teamYearMap[Config.currentYear].find(team => team.id === parseInt(teamId)),
         records
     }))
 
