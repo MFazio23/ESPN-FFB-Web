@@ -12,6 +12,7 @@ export enum Links {
     recordBook = "/record-book",
     standings = "/standings",
     variousFacts = "/history/various-facts",
+    whatIf = "/what-if",
 }
 
 export default Links;

@@ -34,8 +34,10 @@ export default function Home() {
                     <Button component={Link} to={Links.history} sx={{width: 'fit-content'}}>
                         League History
                     </Button>
+                    <Button component={Link} to={Links.whatIf} sx={{width: 'fit-content'}}>
+                        The "What If?" Machine
+                    </Button>
                 </Stack>
-
             </CardContent>
         </Card>
     )
