@@ -10,7 +10,6 @@
     ],
     "module": "ESNext",
     "skipLibCheck": true,
-    "baseUrl": ".",
     "incremental": true,
     /* Bundler mode */
     "moduleResolution": "bundler",

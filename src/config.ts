@@ -3,7 +3,7 @@ interface AppConfig {
 }
 
 const Config: AppConfig = {
-    currentYear: 2025,
+    currentYear: 2026,
 }
 
 export default Config;
