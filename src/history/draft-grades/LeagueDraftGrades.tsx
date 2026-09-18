@@ -58,6 +58,24 @@ export default function LeagueDraftGrades() {
                 {rank: 12, team: 'Forgot About Dre', grade: 'F'},
             ],
         },
+        {
+            id: '2026',
+            year: 2026,
+            grades: [
+                {rank: 1, team: 'Flo\'Rida Flock', grade: 'A+'},
+                {rank: 2, team: 'Am I Going Over??', grade: 'A'},
+                {rank: 3, team: 'Ja’Marr Chase Bank', grade: 'A-'},
+                {rank: 4, team: 'Tucker\'s Team', grade: 'A-'},
+                {rank: 5, team: 'The Durango Kids', grade: 'B'},
+                {rank: 6, team: 'Oh Saquon You See', grade: 'B-'},
+                {rank: 7, team: 'Uncooked Box', grade: 'B-'},
+                {rank: 8, team: 'Bye Week Dominators', grade: 'B-'},
+                {rank: 9, team: 'Waterboys Win Championships', grade: 'C+'},
+                {rank: 10, team: 'Picked Last Squad', grade: 'C+'},
+                {rank: 11, team: 'Joe Buck Yourself', grade: 'C+'},
+                {rank: 12, team: 'The Micah Parsons Project', grade: 'C-'},
+            ],
+        },
     ];
     const vbdLink = <Link href="https://www.fantasypros.com/nfl/rankings/ppr-vbd.php" underline={'none'}>
         Value-Based drafting scores
