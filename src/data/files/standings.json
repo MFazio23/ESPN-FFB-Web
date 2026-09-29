@@ -59,15 +59,15 @@
             "topSixRankings": 188
         },
         "losses": {
-            "standardScoring": 97
+            "standardScoring": 98
         },
         "pointsScored": {
-            "standardScoring": 41623.60000000001,
-            "topSixRankings": 41623.60000000001
+            "standardScoring": 41719.48000000001,
+            "topSixRankings": 41719.48000000001
         },
         "pointsAgainst": {
-            "standardScoring": 37958.32,
-            "topSixRankings": 37958.32
+            "standardScoring": 38106.06,
+            "topSixRankings": 38106.06
         },
         "championships": {
             "standardScoring": 5
@@ -227,19 +227,19 @@
             "topSixRankings": 18
         },
         "wins": {
-            "standardScoring": 123,
-            "topSixRankings": 97
+            "standardScoring": 124,
+            "topSixRankings": 98
         },
         "losses": {
             "standardScoring": 156
         },
         "pointsScored": {
-            "standardScoring": 36233.33999999999,
-            "topSixRankings": 36233.33999999999
+            "standardScoring": 36387.93999999999,
+            "topSixRankings": 36387.93999999999
         },
         "pointsAgainst": {
-            "standardScoring": 38060.44000000001,
-            "topSixRankings": 38060.44000000001
+            "standardScoring": 38206.86000000001,
+            "topSixRankings": 38206.86000000001
         },
         "championships": {
             "standardScoring": 1
@@ -399,19 +399,19 @@
             "topSixRankings": 18
         },
         "wins": {
-            "standardScoring": 118,
+            "standardScoring": 119,
             "topSixRankings": 129
         },
         "losses": {
             "standardScoring": 161
         },
         "pointsScored": {
-            "standardScoring": 37121.66000000001,
-            "topSixRankings": 37121.66000000001
+            "standardScoring": 37256.72000000001,
+            "topSixRankings": 37256.72000000001
         },
         "pointsAgainst": {
-            "standardScoring": 39217.33999999997,
-            "topSixRankings": 39217.33999999997
+            "standardScoring": 39342.33999999997,
+            "topSixRankings": 39342.33999999997
         },
         "championships": {
             "standardScoring": 1
@@ -442,19 +442,19 @@
             "topSixRankings": 18
         },
         "wins": {
-            "standardScoring": 171,
-            "topSixRankings": 171
+            "standardScoring": 172,
+            "topSixRankings": 172
         },
         "losses": {
             "standardScoring": 108
         },
         "pointsScored": {
-            "standardScoring": 41413.81999999998,
-            "topSixRankings": 41413.81999999998
+            "standardScoring": 41656.17999999998,
+            "topSixRankings": 41656.17999999998
         },
         "pointsAgainst": {
-            "standardScoring": 38623.39999999999,
-            "topSixRankings": 38623.39999999999
+            "standardScoring": 38811.459999999985,
+            "topSixRankings": 38811.459999999985
         },
         "championships": {
             "standardScoring": 2
@@ -489,15 +489,15 @@
             "topSixRankings": 179
         },
         "losses": {
-            "standardScoring": 113
+            "standardScoring": 114
         },
         "pointsScored": {
-            "standardScoring": 41237.94,
-            "topSixRankings": 41237.94
+            "standardScoring": 41383.3,
+            "topSixRankings": 41383.3
         },
         "pointsAgainst": {
-            "standardScoring": 38279.859999999986,
-            "topSixRankings": 38279.859999999986
+            "standardScoring": 38445.51999999999,
+            "topSixRankings": 38445.51999999999
         },
         "championships": {
             "standardScoring": 1
@@ -528,19 +528,19 @@
             "topSixRankings": 18
         },
         "wins": {
-            "standardScoring": 150,
+            "standardScoring": 151,
             "topSixRankings": 158
         },
         "losses": {
             "standardScoring": 129
         },
         "pointsScored": {
-            "standardScoring": 40479.9,
-            "topSixRankings": 40479.9
+            "standardScoring": 40615.66,
+            "topSixRankings": 40615.66
         },
         "pointsAgainst": {
-            "standardScoring": 39289.11999999999,
-            "topSixRankings": 39289.11999999999
+            "standardScoring": 39402.37999999999,
+            "topSixRankings": 39402.37999999999
         },
         "championships": {
             "standardScoring": 3
@@ -618,15 +618,15 @@
             "topSixRankings": 144
         },
         "losses": {
-            "standardScoring": 115
+            "standardScoring": 116
         },
         "pointsScored": {
-            "standardScoring": 37707.91999999999,
-            "topSixRankings": 37707.91999999999
+            "standardScoring": 37832.91999999999,
+            "topSixRankings": 37832.91999999999
         },
         "pointsAgainst": {
-            "standardScoring": 36435.280000000006,
-            "topSixRankings": 36435.280000000006
+            "standardScoring": 36570.340000000004,
+            "topSixRankings": 36570.340000000004
         },
         "championships": {
             "standardScoring": 2
@@ -787,18 +787,18 @@
         },
         "wins": {
             "standardScoring": 76,
-            "topSixRankings": 75
+            "topSixRankings": 76
         },
         "losses": {
-            "standardScoring": 75
+            "standardScoring": 76
         },
         "pointsScored": {
-            "standardScoring": 22208.999999999985,
-            "topSixRankings": 22208.999999999985
+            "standardScoring": 22397.059999999987,
+            "topSixRankings": 22397.059999999987
         },
         "pointsAgainst": {
-            "standardScoring": 21686.540000000008,
-            "topSixRankings": 21686.540000000008
+            "standardScoring": 21928.90000000001,
+            "topSixRankings": 21928.90000000001
         },
         "championships": {
             "standardScoring": 1
@@ -833,15 +833,15 @@
             "topSixRankings": 50
         },
         "losses": {
-            "standardScoring": 81
+            "standardScoring": 82
         },
         "pointsScored": {
-            "standardScoring": 18609.260000000006,
-            "topSixRankings": 18609.260000000006
+            "standardScoring": 18722.520000000004,
+            "topSixRankings": 18722.520000000004
         },
         "pointsAgainst": {
-            "standardScoring": 19759.019999999997,
-            "topSixRankings": 19759.019999999997
+            "standardScoring": 19894.779999999995,
+            "topSixRankings": 19894.779999999995
         },
         "championships": {
             "standardScoring": 0
@@ -915,19 +915,19 @@
             "topSixRankings": 8
         },
         "wins": {
-            "standardScoring": 51,
-            "topSixRankings": 59
+            "standardScoring": 52,
+            "topSixRankings": 60
         },
         "losses": {
             "standardScoring": 68
         },
         "pointsScored": {
-            "standardScoring": 17291.86,
-            "topSixRankings": 17291.86
+            "standardScoring": 17439.600000000002,
+            "topSixRankings": 17439.600000000002
         },
         "pointsAgainst": {
-            "standardScoring": 17718.379999999997,
-            "topSixRankings": 17718.379999999997
+            "standardScoring": 17814.26,
+            "topSixRankings": 17814.26
         },
         "championships": {
             "standardScoring": 0
@@ -958,19 +958,19 @@
             "topSixRankings": 4
         },
         "wins": {
-            "standardScoring": 28,
-            "topSixRankings": 24
+            "standardScoring": 29,
+            "topSixRankings": 25
         },
         "losses": {
             "standardScoring": 25
         },
         "pointsScored": {
-            "standardScoring": 7896.359999999999,
-            "topSixRankings": 7896.359999999999
+            "standardScoring": 8062.019999999999,
+            "topSixRankings": 8062.019999999999
         },
         "pointsAgainst": {
-            "standardScoring": 7725.560000000001,
-            "topSixRankings": 7725.560000000001
+            "standardScoring": 7870.920000000001,
+            "topSixRankings": 7870.920000000001
         },
         "championships": {
             "standardScoring": 0
@@ -1045,18 +1045,18 @@
         },
         "wins": {
             "standardScoring": 11,
-            "topSixRankings": 7
+            "topSixRankings": 8
         },
         "losses": {
-            "standardScoring": 8
+            "standardScoring": 9
         },
         "pointsScored": {
-            "standardScoring": 2662.86,
-            "topSixRankings": 2662.86
+            "standardScoring": 2809.28,
+            "topSixRankings": 2809.28
         },
         "pointsAgainst": {
-            "standardScoring": 2643.14,
-            "topSixRankings": 2643.14
+            "standardScoring": 2797.74,
+            "topSixRankings": 2797.74
         },
         "championships": {
             "standardScoring": 0
