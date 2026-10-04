@@ -1,5 +1,25 @@
 [
     {
+        "id": "2026-Tim-Scott",
+        "year": 2026,
+        "firstOwner": "Tim Ericsen",
+        "firstTeam": "Uncooked Box",
+        "firstTeamPlayers": [
+            {
+                "name": "Trey Smack",
+                "team": "GNB"
+            }
+        ],
+        "secondOwner": "Scott Johnson",
+        "secondTeam": "Kraft Smack 'N Cheese",
+        "secondTeamPlayers": [
+            {
+                "name": "Brandon Aubrey",
+                "team": "DAL"
+            }
+        ]
+    },
+    {
         "id": "2025-Nick-Fazio",
         "year": 2025,
         "firstOwner": "Nick Kwiecien",
