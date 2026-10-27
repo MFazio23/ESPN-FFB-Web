@@ -3,7 +3,7 @@
         "id": "1",
         "name": "Am I Going Over??",
         "wins": 174,
-        "losses": 109,
+        "losses": 110,
         "championships": 2,
         "eras": [
             {
@@ -36,7 +36,7 @@
         "id": "3",
         "name": "Picked Last Squad",
         "wins": 127,
-        "losses": 156,
+        "losses": 157,
         "championships": 1,
         "eras": [
             {
@@ -81,7 +81,7 @@
         "id": "4",
         "name": "Joe Buck Yourself",
         "wins": 121,
-        "losses": 162,
+        "losses": 163,
         "championships": 0,
         "eras": [
             {
@@ -114,7 +114,7 @@
         "id": "5",
         "name": "Oh Saquon You See",
         "wins": 152,
-        "losses": 131,
+        "losses": 132,
         "championships": 3,
         "eras": [
             {
@@ -146,7 +146,7 @@
     {
         "id": "9",
         "name": "Flo'Rida Flock",
-        "wins": 185,
+        "wins": 186,
         "losses": 98,
         "championships": 5,
         "eras": [
@@ -179,7 +179,7 @@
     {
         "id": "10",
         "name": "The Micah Parsons Project",
-        "wins": 155,
+        "wins": 156,
         "losses": 128,
         "championships": 2,
         "eras": [
@@ -206,7 +206,7 @@
     {
         "id": "11",
         "name": "The Durango Kids",
-        "wins": 145,
+        "wins": 146,
         "losses": 138,
         "championships": 1,
         "eras": [
@@ -239,7 +239,7 @@
     {
         "id": "12",
         "name": "Tucker's Team",
-        "wins": 119,
+        "wins": 120,
         "losses": 164,
         "championships": 1,
         "eras": [
@@ -255,7 +255,7 @@
         "id": "13",
         "name": "Uncooked Box",
         "wins": 167,
-        "losses": 116,
+        "losses": 117,
         "championships": 1,
         "eras": [
             {
@@ -276,7 +276,7 @@
         "id": "14",
         "name": "Waterboys Win Championships",
         "wins": 123,
-        "losses": 160,
+        "losses": 161,
         "championships": 0,
         "eras": [
             {
@@ -338,7 +338,7 @@
     {
         "id": "15",
         "name": "Ja’Marr Chase Bank",
-        "wins": 107,
+        "wins": 108,
         "losses": 176,
         "championships": 0,
         "eras": [
@@ -401,7 +401,7 @@
     {
         "id": "17",
         "name": "Bye Week Dominators",
-        "wins": 123,
+        "wins": 124,
         "losses": 160,
         "championships": 1,
         "eras": [
