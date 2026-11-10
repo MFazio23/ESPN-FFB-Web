@@ -383,75 +383,75 @@
         "entries": [
             {
                 "number": 1,
+                "title": "Am I Going Over?? - 192.49 points",
+                "subtitle": "Week 9, 2026 (Actual: 177.92 points)",
+                "isCurrent": true
+            },
+            {
+                "number": 2,
                 "title": "Am I Going Over?? - 186.90 points",
                 "subtitle": "Week 11, 2025 (Actual: 183.00 points)",
                 "isCurrent": false
             },
             {
-                "number": 2,
+                "number": 3,
                 "title": "Am I Going Over?? - 186.10 points",
                 "subtitle": "Week 12, 2025 (Actual: 171.04 points)",
                 "isCurrent": false
             },
             {
-                "number": 3,
+                "number": 4,
                 "title": "Am I Going Over?? - 184.05 points",
                 "subtitle": "Week 4, 2026 (Actual: 163.02 points)",
                 "isCurrent": true
             },
             {
-                "number": 4,
+                "number": 5,
                 "title": "Bye Week Dominators - 182.89 points",
                 "subtitle": "Week 15, 2019 (Actual: 185.56 points)",
                 "isCurrent": false
             },
             {
-                "number": 5,
+                "number": 6,
                 "title": "Flo'Rida Flock - 182.89 points",
                 "subtitle": "Week 17, 2025 (Actual: 159.34 points)",
                 "isCurrent": false
             },
             {
-                "number": 6,
+                "number": 7,
                 "title": "Am I Going Over?? - 182.67 points",
                 "subtitle": "Week 5, 2026 (Actual: 228.36 points)",
                 "isCurrent": true
             },
             {
-                "number": 7,
+                "number": 8,
                 "title": "Am I Going Over?? - 182.08 points",
                 "subtitle": "Week 7, 2026 (Actual: 150.42 points)",
                 "isCurrent": true
             },
             {
-                "number": 8,
+                "number": 9,
                 "title": "Am I Going Over?? - 180.39 points",
                 "subtitle": "Week 8, 2026 (Actual: 221.82 points)",
                 "isCurrent": true
             },
             {
-                "number": 9,
+                "number": 10,
                 "title": "Am I Going Over?? - 180.23 points",
                 "subtitle": "Week 13, 2025 (Actual: 183.44 points)",
                 "isCurrent": false
             },
             {
-                "number": 10,
+                "number": 11,
                 "title": "Flo'Rida Flock - 180.06 points",
                 "subtitle": "Week 16, 2024 (Actual: 154.34 points)",
                 "isCurrent": false
             },
             {
-                "number": 11,
+                "number": 12,
                 "title": "Am I Going Over?? - 179.84 points",
                 "subtitle": "Week 3, 2026 (Actual: 242.36 points)",
                 "isCurrent": true
-            },
-            {
-                "number": 12,
-                "title": "Am I Going Over?? - 179.70 points",
-                "subtitle": "Week 16, 2025 (Actual: 222.46 points)",
-                "isCurrent": false
             }
         ]
     },
